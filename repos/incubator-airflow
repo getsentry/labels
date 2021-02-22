@@ -1,0 +1,65 @@
+[
+  {
+    "id": 576637513,
+    "node_id": "MDU6TGFiZWw1NzY2Mzc1MTM=",
+    "url": "https://api.github.com/repos/getsentry/incubator-airflow/labels/bug",
+    "name": "bug",
+    "color": "ee0701",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 576637514,
+    "node_id": "MDU6TGFiZWw1NzY2Mzc1MTQ=",
+    "url": "https://api.github.com/repos/getsentry/incubator-airflow/labels/duplicate",
+    "name": "duplicate",
+    "color": "cccccc",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 576637515,
+    "node_id": "MDU6TGFiZWw1NzY2Mzc1MTU=",
+    "url": "https://api.github.com/repos/getsentry/incubator-airflow/labels/enhancement",
+    "name": "enhancement",
+    "color": "84b6eb",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 576637516,
+    "node_id": "MDU6TGFiZWw1NzY2Mzc1MTY=",
+    "url": "https://api.github.com/repos/getsentry/incubator-airflow/labels/help%20wanted",
+    "name": "help wanted",
+    "color": "128A0C",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 576637517,
+    "node_id": "MDU6TGFiZWw1NzY2Mzc1MTc=",
+    "url": "https://api.github.com/repos/getsentry/incubator-airflow/labels/invalid",
+    "name": "invalid",
+    "color": "e6e6e6",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 576637518,
+    "node_id": "MDU6TGFiZWw1NzY2Mzc1MTg=",
+    "url": "https://api.github.com/repos/getsentry/incubator-airflow/labels/question",
+    "name": "question",
+    "color": "cc317c",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 576637519,
+    "node_id": "MDU6TGFiZWw1NzY2Mzc1MTk=",
+    "url": "https://api.github.com/repos/getsentry/incubator-airflow/labels/wontfix",
+    "name": "wontfix",
+    "color": "ffffff",
+    "default": true,
+    "description": null
+  }
+]

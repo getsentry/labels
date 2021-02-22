@@ -1,0 +1,65 @@
+[
+  {
+    "id": 183113307,
+    "node_id": "MDU6TGFiZWwxODMxMTMzMDc=",
+    "url": "https://api.github.com/repos/getsentry/pyinject/labels/bug",
+    "name": "bug",
+    "color": "fc2929",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 183113308,
+    "node_id": "MDU6TGFiZWwxODMxMTMzMDg=",
+    "url": "https://api.github.com/repos/getsentry/pyinject/labels/duplicate",
+    "name": "duplicate",
+    "color": "cccccc",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 183113309,
+    "node_id": "MDU6TGFiZWwxODMxMTMzMDk=",
+    "url": "https://api.github.com/repos/getsentry/pyinject/labels/enhancement",
+    "name": "enhancement",
+    "color": "84b6eb",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 183113310,
+    "node_id": "MDU6TGFiZWwxODMxMTMzMTA=",
+    "url": "https://api.github.com/repos/getsentry/pyinject/labels/help%20wanted",
+    "name": "help wanted",
+    "color": "159818",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 183113311,
+    "node_id": "MDU6TGFiZWwxODMxMTMzMTE=",
+    "url": "https://api.github.com/repos/getsentry/pyinject/labels/invalid",
+    "name": "invalid",
+    "color": "e6e6e6",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 183113312,
+    "node_id": "MDU6TGFiZWwxODMxMTMzMTI=",
+    "url": "https://api.github.com/repos/getsentry/pyinject/labels/question",
+    "name": "question",
+    "color": "cc317c",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 183113313,
+    "node_id": "MDU6TGFiZWwxODMxMTMzMTM=",
+    "url": "https://api.github.com/repos/getsentry/pyinject/labels/wontfix",
+    "name": "wontfix",
+    "color": "ffffff",
+    "default": true,
+    "description": null
+  }
+]

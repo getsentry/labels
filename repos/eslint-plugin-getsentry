@@ -1,0 +1,74 @@
+[
+  {
+    "id": 299293641,
+    "node_id": "MDU6TGFiZWwyOTkyOTM2NDE=",
+    "url": "https://api.github.com/repos/getsentry/eslint-plugin-getsentry/labels/bug",
+    "name": "bug",
+    "color": "fc2929",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 2203925717,
+    "node_id": "MDU6TGFiZWwyMjAzOTI1NzE3",
+    "url": "https://api.github.com/repos/getsentry/eslint-plugin-getsentry/labels/dependencies",
+    "name": "dependencies",
+    "color": "0366d6",
+    "default": false,
+    "description": "Pull requests that update a dependency file"
+  },
+  {
+    "id": 299293642,
+    "node_id": "MDU6TGFiZWwyOTkyOTM2NDI=",
+    "url": "https://api.github.com/repos/getsentry/eslint-plugin-getsentry/labels/duplicate",
+    "name": "duplicate",
+    "color": "cccccc",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 299293643,
+    "node_id": "MDU6TGFiZWwyOTkyOTM2NDM=",
+    "url": "https://api.github.com/repos/getsentry/eslint-plugin-getsentry/labels/enhancement",
+    "name": "enhancement",
+    "color": "84b6eb",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 299293644,
+    "node_id": "MDU6TGFiZWwyOTkyOTM2NDQ=",
+    "url": "https://api.github.com/repos/getsentry/eslint-plugin-getsentry/labels/help%20wanted",
+    "name": "help wanted",
+    "color": "159818",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 299293645,
+    "node_id": "MDU6TGFiZWwyOTkyOTM2NDU=",
+    "url": "https://api.github.com/repos/getsentry/eslint-plugin-getsentry/labels/invalid",
+    "name": "invalid",
+    "color": "e6e6e6",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 299293646,
+    "node_id": "MDU6TGFiZWwyOTkyOTM2NDY=",
+    "url": "https://api.github.com/repos/getsentry/eslint-plugin-getsentry/labels/question",
+    "name": "question",
+    "color": "cc317c",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 299293647,
+    "node_id": "MDU6TGFiZWwyOTkyOTM2NDc=",
+    "url": "https://api.github.com/repos/getsentry/eslint-plugin-getsentry/labels/wontfix",
+    "name": "wontfix",
+    "color": "ffffff",
+    "default": true,
+    "description": null
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "id": 35295504,
+    "node_id": "MDU6TGFiZWwzNTI5NTUwNA==",
+    "url": "https://api.github.com/repos/getsentry/sentry-relay-attic/labels/bug",
+    "name": "bug",
+    "color": "fc2929",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 35295505,
+    "node_id": "MDU6TGFiZWwzNTI5NTUwNQ==",
+    "url": "https://api.github.com/repos/getsentry/sentry-relay-attic/labels/duplicate",
+    "name": "duplicate",
+    "color": "cccccc",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 35295506,
+    "node_id": "MDU6TGFiZWwzNTI5NTUwNg==",
+    "url": "https://api.github.com/repos/getsentry/sentry-relay-attic/labels/enhancement",
+    "name": "enhancement",
+    "color": "84b6eb",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 35295507,
+    "node_id": "MDU6TGFiZWwzNTI5NTUwNw==",
+    "url": "https://api.github.com/repos/getsentry/sentry-relay-attic/labels/invalid",
+    "name": "invalid",
+    "color": "e6e6e6",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 35295508,
+    "node_id": "MDU6TGFiZWwzNTI5NTUwOA==",
+    "url": "https://api.github.com/repos/getsentry/sentry-relay-attic/labels/question",
+    "name": "question",
+    "color": "cc317c",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 35295509,
+    "node_id": "MDU6TGFiZWwzNTI5NTUwOQ==",
+    "url": "https://api.github.com/repos/getsentry/sentry-relay-attic/labels/wontfix",
+    "name": "wontfix",
+    "color": "ffffff",
+    "default": true,
+    "description": null
+  }
+]

@@ -1,0 +1,263 @@
+[
+  {
+    "id": 745738825,
+    "node_id": "MDU6TGFiZWw3NDU3Mzg4MjU=",
+    "url": "https://api.github.com/repos/getsentry/raven-python/labels/Breadcrumbs",
+    "name": "Breadcrumbs",
+    "color": "5319e7",
+    "default": false,
+    "description": null
+  },
+  {
+    "id": 628321323,
+    "node_id": "MDU6TGFiZWw2MjgzMjEzMjM=",
+    "url": "https://api.github.com/repos/getsentry/raven-python/labels/Bug",
+    "name": "Bug",
+    "color": "b60205",
+    "default": false,
+    "description": null
+  },
+  {
+    "id": 665499836,
+    "node_id": "MDU6TGFiZWw2NjU0OTk4MzY=",
+    "url": "https://api.github.com/repos/getsentry/raven-python/labels/Core",
+    "name": "Core",
+    "color": "5319e7",
+    "default": false,
+    "description": null
+  },
+  {
+    "id": 628321436,
+    "node_id": "MDU6TGFiZWw2MjgzMjE0MzY=",
+    "url": "https://api.github.com/repos/getsentry/raven-python/labels/Critical",
+    "name": "Critical",
+    "color": "fbca04",
+    "default": false,
+    "description": null
+  },
+  {
+    "id": 649724513,
+    "node_id": "MDU6TGFiZWw2NDk3MjQ1MTM=",
+    "url": "https://api.github.com/repos/getsentry/raven-python/labels/Documentation",
+    "name": "Documentation",
+    "color": "c2e0c6",
+    "default": false,
+    "description": null
+  },
+  {
+    "id": 708413477,
+    "node_id": "MDU6TGFiZWw3MDg0MTM0Nzc=",
+    "url": "https://api.github.com/repos/getsentry/raven-python/labels/Duplicate",
+    "name": "Duplicate",
+    "color": "c5def5",
+    "default": false,
+    "description": null
+  },
+  {
+    "id": 628321779,
+    "node_id": "MDU6TGFiZWw2MjgzMjE3Nzk=",
+    "url": "https://api.github.com/repos/getsentry/raven-python/labels/Feature",
+    "name": "Feature",
+    "color": "006b75",
+    "default": false,
+    "description": null
+  },
+  {
+    "id": 703737828,
+    "node_id": "MDU6TGFiZWw3MDM3Mzc4Mjg=",
+    "url": "https://api.github.com/repos/getsentry/raven-python/labels/Feature%20Request",
+    "name": "Feature Request",
+    "color": "bfdadc",
+    "default": false,
+    "description": null
+  },
+  {
+    "id": 648781458,
+    "node_id": "MDU6TGFiZWw2NDg3ODE0NTg=",
+    "url": "https://api.github.com/repos/getsentry/raven-python/labels/Improvement",
+    "name": "Improvement",
+    "color": "c2e0c6",
+    "default": false,
+    "description": null
+  },
+  {
+    "id": 69352280,
+    "node_id": "MDU6TGFiZWw2OTM1MjI4MA==",
+    "url": "https://api.github.com/repos/getsentry/raven-python/labels/Integrations:%20Celery",
+    "name": "Integrations: Celery",
+    "color": "5319e7",
+    "default": false,
+    "description": null
+  },
+  {
+    "id": 629021205,
+    "node_id": "MDU6TGFiZWw2MjkwMjEyMDU=",
+    "url": "https://api.github.com/repos/getsentry/raven-python/labels/Integrations:%20DRF",
+    "name": "Integrations: DRF",
+    "color": "5319e7",
+    "default": false,
+    "description": null
+  },
+  {
+    "id": 628321090,
+    "node_id": "MDU6TGFiZWw2MjgzMjEwOTA=",
+    "url": "https://api.github.com/repos/getsentry/raven-python/labels/Integrations:%20Django",
+    "name": "Integrations: Django",
+    "color": "5319e7",
+    "default": false,
+    "description": null
+  },
+  {
+    "id": 62855145,
+    "node_id": "MDU6TGFiZWw2Mjg1NTE0NQ==",
+    "url": "https://api.github.com/repos/getsentry/raven-python/labels/Integrations:%20Flask",
+    "name": "Integrations: Flask",
+    "color": "5319e7",
+    "default": false,
+    "description": null
+  },
+  {
+    "id": 147629412,
+    "node_id": "MDU6TGFiZWwxNDc2Mjk0MTI=",
+    "url": "https://api.github.com/repos/getsentry/raven-python/labels/Integrations:%20Tornado",
+    "name": "Integrations: Tornado",
+    "color": "5319e7",
+    "default": false,
+    "description": null
+  },
+  {
+    "id": 62855602,
+    "node_id": "MDU6TGFiZWw2Mjg1NTYwMg==",
+    "url": "https://api.github.com/repos/getsentry/raven-python/labels/Need%20a%20patch",
+    "name": "Need a patch",
+    "color": "eb6420",
+    "default": false,
+    "description": null
+  },
+  {
+    "id": 44357545,
+    "node_id": "MDU6TGFiZWw0NDM1NzU0NQ==",
+    "url": "https://api.github.com/repos/getsentry/raven-python/labels/Need%20more%20information",
+    "name": "Need more information",
+    "color": "eb6420",
+    "default": false,
+    "description": null
+  },
+  {
+    "id": 143790784,
+    "node_id": "MDU6TGFiZWwxNDM3OTA3ODQ=",
+    "url": "https://api.github.com/repos/getsentry/raven-python/labels/Needs%20Documentation",
+    "name": "Needs Documentation",
+    "color": "eb6420",
+    "default": false,
+    "description": null
+  },
+  {
+    "id": 649408345,
+    "node_id": "MDU6TGFiZWw2NDk0MDgzNDU=",
+    "url": "https://api.github.com/repos/getsentry/raven-python/labels/Platforms:%20AWS%20Lambda",
+    "name": "Platforms: AWS Lambda",
+    "color": "d4c5f9",
+    "default": false,
+    "description": null
+  },
+  {
+    "id": 649731583,
+    "node_id": "MDU6TGFiZWw2NDk3MzE1ODM=",
+    "url": "https://api.github.com/repos/getsentry/raven-python/labels/Platforms:%20AppEngine",
+    "name": "Platforms: AppEngine",
+    "color": "d4c5f9",
+    "default": false,
+    "description": null
+  },
+  {
+    "id": 649721341,
+    "node_id": "MDU6TGFiZWw2NDk3MjEzNDE=",
+    "url": "https://api.github.com/repos/getsentry/raven-python/labels/Platforms:%20Heroku",
+    "name": "Platforms: Heroku",
+    "color": "d4c5f9",
+    "default": false,
+    "description": null
+  },
+  {
+    "id": 666040515,
+    "node_id": "MDU6TGFiZWw2NjYwNDA1MTU=",
+    "url": "https://api.github.com/repos/getsentry/raven-python/labels/Python:%20PyPy",
+    "name": "Python: PyPy",
+    "color": "bfd4f2",
+    "default": false,
+    "description": null
+  },
+  {
+    "id": 666040259,
+    "node_id": "MDU6TGFiZWw2NjYwNDAyNTk=",
+    "url": "https://api.github.com/repos/getsentry/raven-python/labels/Python:2",
+    "name": "Python:2",
+    "color": "bfd4f2",
+    "default": false,
+    "description": null
+  },
+  {
+    "id": 666040372,
+    "node_id": "MDU6TGFiZWw2NjYwNDAzNzI=",
+    "url": "https://api.github.com/repos/getsentry/raven-python/labels/Python:3",
+    "name": "Python:3",
+    "color": "bfd4f2",
+    "default": false,
+    "description": null
+  },
+  {
+    "id": 628322462,
+    "node_id": "MDU6TGFiZWw2MjgzMjI0NjI=",
+    "url": "https://api.github.com/repos/getsentry/raven-python/labels/Spring%20Cleaning",
+    "name": "Spring Cleaning",
+    "color": "207de5",
+    "default": false,
+    "description": null
+  },
+  {
+    "id": 649733452,
+    "node_id": "MDU6TGFiZWw2NDk3MzM0NTI=",
+    "url": "https://api.github.com/repos/getsentry/raven-python/labels/Support",
+    "name": "Support",
+    "color": "fef2c0",
+    "default": false,
+    "description": null
+  },
+  {
+    "id": 665793860,
+    "node_id": "MDU6TGFiZWw2NjU3OTM4NjA=",
+    "url": "https://api.github.com/repos/getsentry/raven-python/labels/Wontfix",
+    "name": "Wontfix",
+    "color": "fbca04",
+    "default": false,
+    "description": null
+  },
+  {
+    "id": 718966224,
+    "node_id": "MDU6TGFiZWw3MTg5NjYyMjQ=",
+    "url": "https://api.github.com/repos/getsentry/raven-python/labels/good%20first%20issue",
+    "name": "good first issue",
+    "color": "207de5",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 718966322,
+    "node_id": "MDU6TGFiZWw3MTg5NjYzMjI=",
+    "url": "https://api.github.com/repos/getsentry/raven-python/labels/help%20wanted",
+    "name": "help wanted",
+    "color": "207de5",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 1071873730,
+    "node_id": "MDU6TGFiZWwxMDcxODczNzMw",
+    "url": "https://api.github.com/repos/getsentry/raven-python/labels/works-in-new-sdk",
+    "name": "works-in-new-sdk",
+    "color": "a1fcac",
+    "default": false,
+    "description": ""
+  }
+]

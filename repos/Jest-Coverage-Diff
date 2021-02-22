@@ -1,0 +1,92 @@
+[
+  {
+    "id": 2735538566,
+    "node_id": "MDU6TGFiZWwyNzM1NTM4NTY2",
+    "url": "https://api.github.com/repos/getsentry/Jest-Coverage-Diff/labels/bug",
+    "name": "bug",
+    "color": "d73a4a",
+    "default": true,
+    "description": "Something isn't working"
+  },
+  {
+    "id": 2735538568,
+    "node_id": "MDU6TGFiZWwyNzM1NTM4NTY4",
+    "url": "https://api.github.com/repos/getsentry/Jest-Coverage-Diff/labels/documentation",
+    "name": "documentation",
+    "color": "0075ca",
+    "default": true,
+    "description": "Improvements or additions to documentation"
+  },
+  {
+    "id": 2735538570,
+    "node_id": "MDU6TGFiZWwyNzM1NTM4NTcw",
+    "url": "https://api.github.com/repos/getsentry/Jest-Coverage-Diff/labels/duplicate",
+    "name": "duplicate",
+    "color": "cfd3d7",
+    "default": true,
+    "description": "This issue or pull request already exists"
+  },
+  {
+    "id": 2735538572,
+    "node_id": "MDU6TGFiZWwyNzM1NTM4NTcy",
+    "url": "https://api.github.com/repos/getsentry/Jest-Coverage-Diff/labels/enhancement",
+    "name": "enhancement",
+    "color": "a2eeef",
+    "default": true,
+    "description": "New feature or request"
+  },
+  {
+    "id": 2735538574,
+    "node_id": "MDU6TGFiZWwyNzM1NTM4NTc0",
+    "url": "https://api.github.com/repos/getsentry/Jest-Coverage-Diff/labels/good%20first%20issue",
+    "name": "good first issue",
+    "color": "7057ff",
+    "default": true,
+    "description": "Good for newcomers"
+  },
+  {
+    "id": 2735538576,
+    "node_id": "MDU6TGFiZWwyNzM1NTM4NTc2",
+    "url": "https://api.github.com/repos/getsentry/Jest-Coverage-Diff/labels/help%20wanted",
+    "name": "help wanted",
+    "color": "008672",
+    "default": true,
+    "description": "Extra attention is needed"
+  },
+  {
+    "id": 2735538578,
+    "node_id": "MDU6TGFiZWwyNzM1NTM4NTc4",
+    "url": "https://api.github.com/repos/getsentry/Jest-Coverage-Diff/labels/invalid",
+    "name": "invalid",
+    "color": "e4e669",
+    "default": true,
+    "description": "This doesn't seem right"
+  },
+  {
+    "id": 2735538580,
+    "node_id": "MDU6TGFiZWwyNzM1NTM4NTgw",
+    "url": "https://api.github.com/repos/getsentry/Jest-Coverage-Diff/labels/question",
+    "name": "question",
+    "color": "d876e3",
+    "default": true,
+    "description": "Further information is requested"
+  },
+  {
+    "id": 2735538582,
+    "node_id": "MDU6TGFiZWwyNzM1NTM4NTgy",
+    "url": "https://api.github.com/repos/getsentry/Jest-Coverage-Diff/labels/up-for-grabs",
+    "name": "up-for-grabs",
+    "color": "02B620",
+    "default": false,
+    "description": "A free for all!"
+  },
+  {
+    "id": 2735538583,
+    "node_id": "MDU6TGFiZWwyNzM1NTM4NTgz",
+    "url": "https://api.github.com/repos/getsentry/Jest-Coverage-Diff/labels/wontfix",
+    "name": "wontfix",
+    "color": "ffffff",
+    "default": true,
+    "description": "This will not be worked on"
+  }
+]

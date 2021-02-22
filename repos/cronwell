@@ -1,0 +1,65 @@
+[
+  {
+    "id": 419726848,
+    "node_id": "MDU6TGFiZWw0MTk3MjY4NDg=",
+    "url": "https://api.github.com/repos/getsentry/cronwell/labels/bug",
+    "name": "bug",
+    "color": "ee0701",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 419726849,
+    "node_id": "MDU6TGFiZWw0MTk3MjY4NDk=",
+    "url": "https://api.github.com/repos/getsentry/cronwell/labels/duplicate",
+    "name": "duplicate",
+    "color": "cccccc",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 419726850,
+    "node_id": "MDU6TGFiZWw0MTk3MjY4NTA=",
+    "url": "https://api.github.com/repos/getsentry/cronwell/labels/enhancement",
+    "name": "enhancement",
+    "color": "84b6eb",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 419726851,
+    "node_id": "MDU6TGFiZWw0MTk3MjY4NTE=",
+    "url": "https://api.github.com/repos/getsentry/cronwell/labels/help%20wanted",
+    "name": "help wanted",
+    "color": "128A0C",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 419726852,
+    "node_id": "MDU6TGFiZWw0MTk3MjY4NTI=",
+    "url": "https://api.github.com/repos/getsentry/cronwell/labels/invalid",
+    "name": "invalid",
+    "color": "e6e6e6",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 419726853,
+    "node_id": "MDU6TGFiZWw0MTk3MjY4NTM=",
+    "url": "https://api.github.com/repos/getsentry/cronwell/labels/question",
+    "name": "question",
+    "color": "cc317c",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 419726854,
+    "node_id": "MDU6TGFiZWw0MTk3MjY4NTQ=",
+    "url": "https://api.github.com/repos/getsentry/cronwell/labels/wontfix",
+    "name": "wontfix",
+    "color": "ffffff",
+    "default": true,
+    "description": null
+  }
+]

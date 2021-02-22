@@ -1,0 +1,146 @@
+[
+  {
+    "id": 2022901886,
+    "node_id": "MDU6TGFiZWwyMDIyOTAxODg2",
+    "url": "https://api.github.com/repos/getsentry/develop/labels/bug",
+    "name": "bug",
+    "color": "d73a4a",
+    "default": true,
+    "description": "Something isn't working"
+  },
+  {
+    "id": 2259020606,
+    "node_id": "MDU6TGFiZWwyMjU5MDIwNjA2",
+    "url": "https://api.github.com/repos/getsentry/develop/labels/dependencies",
+    "name": "dependencies",
+    "color": "0366d6",
+    "default": false,
+    "description": "Pull requests that update a dependency file"
+  },
+  {
+    "id": 2022901887,
+    "node_id": "MDU6TGFiZWwyMDIyOTAxODg3",
+    "url": "https://api.github.com/repos/getsentry/develop/labels/documentation",
+    "name": "documentation",
+    "color": "0075ca",
+    "default": true,
+    "description": "Improvements or additions to documentation"
+  },
+  {
+    "id": 2022901888,
+    "node_id": "MDU6TGFiZWwyMDIyOTAxODg4",
+    "url": "https://api.github.com/repos/getsentry/develop/labels/duplicate",
+    "name": "duplicate",
+    "color": "cfd3d7",
+    "default": true,
+    "description": "This issue or pull request already exists"
+  },
+  {
+    "id": 2022901889,
+    "node_id": "MDU6TGFiZWwyMDIyOTAxODg5",
+    "url": "https://api.github.com/repos/getsentry/develop/labels/enhancement",
+    "name": "enhancement",
+    "color": "a2eeef",
+    "default": true,
+    "description": "New feature or request"
+  },
+  {
+    "id": 2022901890,
+    "node_id": "MDU6TGFiZWwyMDIyOTAxODkw",
+    "url": "https://api.github.com/repos/getsentry/develop/labels/good%20first%20issue",
+    "name": "good first issue",
+    "color": "7057ff",
+    "default": true,
+    "description": "Good for newcomers"
+  },
+  {
+    "id": 2022901891,
+    "node_id": "MDU6TGFiZWwyMDIyOTAxODkx",
+    "url": "https://api.github.com/repos/getsentry/develop/labels/help%20wanted",
+    "name": "help wanted",
+    "color": "008672",
+    "default": true,
+    "description": "Extra attention is needed"
+  },
+  {
+    "id": 2022901892,
+    "node_id": "MDU6TGFiZWwyMDIyOTAxODky",
+    "url": "https://api.github.com/repos/getsentry/develop/labels/invalid",
+    "name": "invalid",
+    "color": "e4e669",
+    "default": true,
+    "description": "This doesn't seem right"
+  },
+  {
+    "id": 2331053260,
+    "node_id": "MDU6TGFiZWwyMzMxMDUzMjYw",
+    "url": "https://api.github.com/repos/getsentry/develop/labels/javascript",
+    "name": "javascript",
+    "color": "168700",
+    "default": false,
+    "description": "Pull requests that update Javascript code"
+  },
+  {
+    "id": 2659963292,
+    "node_id": "MDU6TGFiZWwyNjU5OTYzMjky",
+    "url": "https://api.github.com/repos/getsentry/develop/labels/performance",
+    "name": "performance",
+    "color": "fef2c0",
+    "default": false,
+    "description": ""
+  },
+  {
+    "id": 2022901893,
+    "node_id": "MDU6TGFiZWwyMDIyOTAxODkz",
+    "url": "https://api.github.com/repos/getsentry/develop/labels/question",
+    "name": "question",
+    "color": "d876e3",
+    "default": true,
+    "description": "Further information is requested"
+  },
+  {
+    "id": 2672685013,
+    "node_id": "MDU6TGFiZWwyNjcyNjg1MDEz",
+    "url": "https://api.github.com/repos/getsentry/develop/labels/release%20health",
+    "name": "release health",
+    "color": "e99695",
+    "default": false,
+    "description": ""
+  },
+  {
+    "id": 2259020612,
+    "node_id": "MDU6TGFiZWwyMjU5MDIwNjEy",
+    "url": "https://api.github.com/repos/getsentry/develop/labels/security",
+    "name": "security",
+    "color": "ee0701",
+    "default": false,
+    "description": "Pull requests that address a security vulnerability"
+  },
+  {
+    "id": 2268602391,
+    "node_id": "MDU6TGFiZWwyMjY4NjAyMzkx",
+    "url": "https://api.github.com/repos/getsentry/develop/labels/submodules",
+    "name": "submodules",
+    "color": "000000",
+    "default": false,
+    "description": "Pull requests that update Submodules code"
+  },
+  {
+    "id": 2631290280,
+    "node_id": "MDU6TGFiZWwyNjMxMjkwMjgw",
+    "url": "https://api.github.com/repos/getsentry/develop/labels/up-for-grabs",
+    "name": "up-for-grabs",
+    "color": "F9CFD3",
+    "default": false,
+    "description": ""
+  },
+  {
+    "id": 2022901894,
+    "node_id": "MDU6TGFiZWwyMDIyOTAxODk0",
+    "url": "https://api.github.com/repos/getsentry/develop/labels/wontfix",
+    "name": "wontfix",
+    "color": "ffffff",
+    "default": true,
+    "description": "This will not be worked on"
+  }
+]

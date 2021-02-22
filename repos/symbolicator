@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1249411962,
+    "node_id": "MDU6TGFiZWwxMjQ5NDExOTYy",
+    "url": "https://api.github.com/repos/getsentry/symbolicator/labels/bug",
+    "name": "bug",
+    "color": "d73a4a",
+    "default": true,
+    "description": "Something isn't working"
+  },
+  {
+    "id": 1775032739,
+    "node_id": "MDU6TGFiZWwxNzc1MDMyNzM5",
+    "url": "https://api.github.com/repos/getsentry/symbolicator/labels/dependencies",
+    "name": "dependencies",
+    "color": "0366d6",
+    "default": false,
+    "description": "Pull requests that update a dependency file"
+  },
+  {
+    "id": 1249411963,
+    "node_id": "MDU6TGFiZWwxMjQ5NDExOTYz",
+    "url": "https://api.github.com/repos/getsentry/symbolicator/labels/duplicate",
+    "name": "duplicate",
+    "color": "cfd3d7",
+    "default": true,
+    "description": "This issue or pull request already exists"
+  },
+  {
+    "id": 1249411964,
+    "node_id": "MDU6TGFiZWwxMjQ5NDExOTY0",
+    "url": "https://api.github.com/repos/getsentry/symbolicator/labels/enhancement",
+    "name": "enhancement",
+    "color": "a2eeef",
+    "default": true,
+    "description": "New feature or request"
+  },
+  {
+    "id": 1249411968,
+    "node_id": "MDU6TGFiZWwxMjQ5NDExOTY4",
+    "url": "https://api.github.com/repos/getsentry/symbolicator/labels/good%20first%20issue",
+    "name": "good first issue",
+    "color": "7057ff",
+    "default": true,
+    "description": "Good for newcomers"
+  },
+  {
+    "id": 1249411965,
+    "node_id": "MDU6TGFiZWwxMjQ5NDExOTY1",
+    "url": "https://api.github.com/repos/getsentry/symbolicator/labels/help%20wanted",
+    "name": "help wanted",
+    "color": "008672",
+    "default": true,
+    "description": "Extra attention is needed"
+  },
+  {
+    "id": 1249411971,
+    "node_id": "MDU6TGFiZWwxMjQ5NDExOTcx",
+    "url": "https://api.github.com/repos/getsentry/symbolicator/labels/invalid",
+    "name": "invalid",
+    "color": "e4e669",
+    "default": true,
+    "description": "This doesn't seem right"
+  },
+  {
+    "id": 1249411978,
+    "node_id": "MDU6TGFiZWwxMjQ5NDExOTc4",
+    "url": "https://api.github.com/repos/getsentry/symbolicator/labels/question",
+    "name": "question",
+    "color": "d876e3",
+    "default": true,
+    "description": "Further information is requested"
+  },
+  {
+    "id": 1289039722,
+    "node_id": "MDU6TGFiZWwxMjg5MDM5NzIy",
+    "url": "https://api.github.com/repos/getsentry/symbolicator/labels/security",
+    "name": "security",
+    "color": "fbca04",
+    "default": false,
+    "description": ""
+  },
+  {
+    "id": 1249411983,
+    "node_id": "MDU6TGFiZWwxMjQ5NDExOTgz",
+    "url": "https://api.github.com/repos/getsentry/symbolicator/labels/wontfix",
+    "name": "wontfix",
+    "color": "ffffff",
+    "default": true,
+    "description": "This will not be worked on"
+  }
+]

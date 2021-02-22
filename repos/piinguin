@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1056125903,
+    "node_id": "MDU6TGFiZWwxMDU2MTI1OTAz",
+    "url": "https://api.github.com/repos/getsentry/piinguin/labels/bug",
+    "name": "bug",
+    "color": "d73a4a",
+    "default": true,
+    "description": "Something isn't working"
+  },
+  {
+    "id": 1056125904,
+    "node_id": "MDU6TGFiZWwxMDU2MTI1OTA0",
+    "url": "https://api.github.com/repos/getsentry/piinguin/labels/duplicate",
+    "name": "duplicate",
+    "color": "cfd3d7",
+    "default": true,
+    "description": "This issue or pull request already exists"
+  },
+  {
+    "id": 1056125905,
+    "node_id": "MDU6TGFiZWwxMDU2MTI1OTA1",
+    "url": "https://api.github.com/repos/getsentry/piinguin/labels/enhancement",
+    "name": "enhancement",
+    "color": "a2eeef",
+    "default": true,
+    "description": "New feature or request"
+  },
+  {
+    "id": 1056125907,
+    "node_id": "MDU6TGFiZWwxMDU2MTI1OTA3",
+    "url": "https://api.github.com/repos/getsentry/piinguin/labels/good%20first%20issue",
+    "name": "good first issue",
+    "color": "7057ff",
+    "default": true,
+    "description": "Good for newcomers"
+  },
+  {
+    "id": 1056125906,
+    "node_id": "MDU6TGFiZWwxMDU2MTI1OTA2",
+    "url": "https://api.github.com/repos/getsentry/piinguin/labels/help%20wanted",
+    "name": "help wanted",
+    "color": "008672",
+    "default": true,
+    "description": "Extra attention is needed"
+  },
+  {
+    "id": 1056125908,
+    "node_id": "MDU6TGFiZWwxMDU2MTI1OTA4",
+    "url": "https://api.github.com/repos/getsentry/piinguin/labels/invalid",
+    "name": "invalid",
+    "color": "e4e669",
+    "default": true,
+    "description": "This doesn't seem right"
+  },
+  {
+    "id": 1056125909,
+    "node_id": "MDU6TGFiZWwxMDU2MTI1OTA5",
+    "url": "https://api.github.com/repos/getsentry/piinguin/labels/question",
+    "name": "question",
+    "color": "d876e3",
+    "default": true,
+    "description": "Further information is requested"
+  },
+  {
+    "id": 1056125910,
+    "node_id": "MDU6TGFiZWwxMDU2MTI1OTEw",
+    "url": "https://api.github.com/repos/getsentry/piinguin/labels/wontfix",
+    "name": "wontfix",
+    "color": "ffffff",
+    "default": true,
+    "description": "This will not be worked on"
+  }
+]

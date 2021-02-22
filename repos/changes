@@ -1,0 +1,92 @@
+[
+  {
+    "id": 636137566,
+    "node_id": "MDU6TGFiZWw2MzYxMzc1NjY=",
+    "url": "https://api.github.com/repos/getsentry/changes/labels/bug",
+    "name": "bug",
+    "color": "ee0701",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 2220185268,
+    "node_id": "MDU6TGFiZWwyMjIwMTg1MjY4",
+    "url": "https://api.github.com/repos/getsentry/changes/labels/dependencies",
+    "name": "dependencies",
+    "color": "0366d6",
+    "default": false,
+    "description": "Pull requests that update a dependency file"
+  },
+  {
+    "id": 636137567,
+    "node_id": "MDU6TGFiZWw2MzYxMzc1Njc=",
+    "url": "https://api.github.com/repos/getsentry/changes/labels/duplicate",
+    "name": "duplicate",
+    "color": "cccccc",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 636137568,
+    "node_id": "MDU6TGFiZWw2MzYxMzc1Njg=",
+    "url": "https://api.github.com/repos/getsentry/changes/labels/enhancement",
+    "name": "enhancement",
+    "color": "84b6eb",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 636137569,
+    "node_id": "MDU6TGFiZWw2MzYxMzc1Njk=",
+    "url": "https://api.github.com/repos/getsentry/changes/labels/help%20wanted",
+    "name": "help wanted",
+    "color": "128A0C",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 636137570,
+    "node_id": "MDU6TGFiZWw2MzYxMzc1NzA=",
+    "url": "https://api.github.com/repos/getsentry/changes/labels/invalid",
+    "name": "invalid",
+    "color": "e6e6e6",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 2578994046,
+    "node_id": "MDU6TGFiZWwyNTc4OTk0MDQ2",
+    "url": "https://api.github.com/repos/getsentry/changes/labels/javascript",
+    "name": "javascript",
+    "color": "168700",
+    "default": false,
+    "description": "Pull requests that update Javascript code"
+  },
+  {
+    "id": 2460201727,
+    "node_id": "MDU6TGFiZWwyNDYwMjAxNzI3",
+    "url": "https://api.github.com/repos/getsentry/changes/labels/python",
+    "name": "python",
+    "color": "2b67c6",
+    "default": false,
+    "description": "Pull requests that update Python code"
+  },
+  {
+    "id": 636137571,
+    "node_id": "MDU6TGFiZWw2MzYxMzc1NzE=",
+    "url": "https://api.github.com/repos/getsentry/changes/labels/question",
+    "name": "question",
+    "color": "cc317c",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 636137572,
+    "node_id": "MDU6TGFiZWw2MzYxMzc1NzI=",
+    "url": "https://api.github.com/repos/getsentry/changes/labels/wontfix",
+    "name": "wontfix",
+    "color": "ffffff",
+    "default": true,
+    "description": null
+  }
+]

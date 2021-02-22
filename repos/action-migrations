@@ -1,0 +1,92 @@
+[
+  {
+    "id": 2141329055,
+    "node_id": "MDU6TGFiZWwyMTQxMzI5MDU1",
+    "url": "https://api.github.com/repos/getsentry/action-migrations/labels/bug",
+    "name": "bug",
+    "color": "d73a4a",
+    "default": true,
+    "description": "Something isn't working"
+  },
+  {
+    "id": 2141330329,
+    "node_id": "MDU6TGFiZWwyMTQxMzMwMzI5",
+    "url": "https://api.github.com/repos/getsentry/action-migrations/labels/dependencies",
+    "name": "dependencies",
+    "color": "0366d6",
+    "default": false,
+    "description": "Pull requests that update a dependency file"
+  },
+  {
+    "id": 2141329057,
+    "node_id": "MDU6TGFiZWwyMTQxMzI5MDU3",
+    "url": "https://api.github.com/repos/getsentry/action-migrations/labels/documentation",
+    "name": "documentation",
+    "color": "0075ca",
+    "default": true,
+    "description": "Improvements or additions to documentation"
+  },
+  {
+    "id": 2141329058,
+    "node_id": "MDU6TGFiZWwyMTQxMzI5MDU4",
+    "url": "https://api.github.com/repos/getsentry/action-migrations/labels/duplicate",
+    "name": "duplicate",
+    "color": "cfd3d7",
+    "default": true,
+    "description": "This issue or pull request already exists"
+  },
+  {
+    "id": 2141329059,
+    "node_id": "MDU6TGFiZWwyMTQxMzI5MDU5",
+    "url": "https://api.github.com/repos/getsentry/action-migrations/labels/enhancement",
+    "name": "enhancement",
+    "color": "a2eeef",
+    "default": true,
+    "description": "New feature or request"
+  },
+  {
+    "id": 2141329062,
+    "node_id": "MDU6TGFiZWwyMTQxMzI5MDYy",
+    "url": "https://api.github.com/repos/getsentry/action-migrations/labels/good%20first%20issue",
+    "name": "good first issue",
+    "color": "7057ff",
+    "default": true,
+    "description": "Good for newcomers"
+  },
+  {
+    "id": 2141329064,
+    "node_id": "MDU6TGFiZWwyMTQxMzI5MDY0",
+    "url": "https://api.github.com/repos/getsentry/action-migrations/labels/help%20wanted",
+    "name": "help wanted",
+    "color": "008672",
+    "default": true,
+    "description": "Extra attention is needed"
+  },
+  {
+    "id": 2141329066,
+    "node_id": "MDU6TGFiZWwyMTQxMzI5MDY2",
+    "url": "https://api.github.com/repos/getsentry/action-migrations/labels/invalid",
+    "name": "invalid",
+    "color": "e4e669",
+    "default": true,
+    "description": "This doesn't seem right"
+  },
+  {
+    "id": 2141329068,
+    "node_id": "MDU6TGFiZWwyMTQxMzI5MDY4",
+    "url": "https://api.github.com/repos/getsentry/action-migrations/labels/question",
+    "name": "question",
+    "color": "d876e3",
+    "default": true,
+    "description": "Further information is requested"
+  },
+  {
+    "id": 2141329071,
+    "node_id": "MDU6TGFiZWwyMTQxMzI5MDcx",
+    "url": "https://api.github.com/repos/getsentry/action-migrations/labels/wontfix",
+    "name": "wontfix",
+    "color": "ffffff",
+    "default": true,
+    "description": "This will not be worked on"
+  }
+]

@@ -1,0 +1,119 @@
+[
+  {
+    "id": 465082416,
+    "node_id": "MDU6TGFiZWw0NjUwODI0MTY=",
+    "url": "https://api.github.com/repos/getsentry/sentry-plugins/labels/Security",
+    "name": "Security",
+    "color": "ededed",
+    "default": false,
+    "description": null
+  },
+  {
+    "id": 752940939,
+    "node_id": "MDU6TGFiZWw3NTI5NDA5Mzk=",
+    "url": "https://api.github.com/repos/getsentry/sentry-plugins/labels/WIP",
+    "name": "WIP",
+    "color": "d3546b",
+    "default": false,
+    "description": null
+  },
+  {
+    "id": 421627625,
+    "node_id": "MDU6TGFiZWw0MjE2Mjc2MjU=",
+    "url": "https://api.github.com/repos/getsentry/sentry-plugins/labels/bug",
+    "name": "bug",
+    "color": "ee0701",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 1133006640,
+    "node_id": "MDU6TGFiZWwxMTMzMDA2NjQw",
+    "url": "https://api.github.com/repos/getsentry/sentry-plugins/labels/clubhouse",
+    "name": "clubhouse",
+    "color": "c5def5",
+    "default": false,
+    "description": ""
+  },
+  {
+    "id": 1659473549,
+    "node_id": "MDU6TGFiZWwxNjU5NDczNTQ5",
+    "url": "https://api.github.com/repos/getsentry/sentry-plugins/labels/dependencies",
+    "name": "dependencies",
+    "color": "0366d6",
+    "default": false,
+    "description": "Pull requests that update a dependency file"
+  },
+  {
+    "id": 421627626,
+    "node_id": "MDU6TGFiZWw0MjE2Mjc2MjY=",
+    "url": "https://api.github.com/repos/getsentry/sentry-plugins/labels/duplicate",
+    "name": "duplicate",
+    "color": "cccccc",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 421627627,
+    "node_id": "MDU6TGFiZWw0MjE2Mjc2Mjc=",
+    "url": "https://api.github.com/repos/getsentry/sentry-plugins/labels/enhancement",
+    "name": "enhancement",
+    "color": "84b6eb",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 1133005698,
+    "node_id": "MDU6TGFiZWwxMTMzMDA1Njk4",
+    "url": "https://api.github.com/repos/getsentry/sentry-plugins/labels/gitlab",
+    "name": "gitlab",
+    "color": "c5def5",
+    "default": false,
+    "description": ""
+  },
+  {
+    "id": 421627628,
+    "node_id": "MDU6TGFiZWw0MjE2Mjc2Mjg=",
+    "url": "https://api.github.com/repos/getsentry/sentry-plugins/labels/help%20wanted",
+    "name": "help wanted",
+    "color": "128A0C",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 421627629,
+    "node_id": "MDU6TGFiZWw0MjE2Mjc2Mjk=",
+    "url": "https://api.github.com/repos/getsentry/sentry-plugins/labels/invalid",
+    "name": "invalid",
+    "color": "e6e6e6",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 1659473550,
+    "node_id": "MDU6TGFiZWwxNjU5NDczNTUw",
+    "url": "https://api.github.com/repos/getsentry/sentry-plugins/labels/javascript",
+    "name": "javascript",
+    "color": "168700",
+    "default": false,
+    "description": "Pull requests that update Javascript code"
+  },
+  {
+    "id": 421627630,
+    "node_id": "MDU6TGFiZWw0MjE2Mjc2MzA=",
+    "url": "https://api.github.com/repos/getsentry/sentry-plugins/labels/question",
+    "name": "question",
+    "color": "cc317c",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 421627631,
+    "node_id": "MDU6TGFiZWw0MjE2Mjc2MzE=",
+    "url": "https://api.github.com/repos/getsentry/sentry-plugins/labels/wontfix",
+    "name": "wontfix",
+    "color": "ffffff",
+    "default": true,
+    "description": null
+  }
+]

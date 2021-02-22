@@ -1,0 +1,65 @@
+[
+  {
+    "id": 417689539,
+    "node_id": "MDU6TGFiZWw0MTc2ODk1Mzk=",
+    "url": "https://api.github.com/repos/getsentry/node-pixelpusher/labels/bug",
+    "name": "bug",
+    "color": "ee0701",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 417689540,
+    "node_id": "MDU6TGFiZWw0MTc2ODk1NDA=",
+    "url": "https://api.github.com/repos/getsentry/node-pixelpusher/labels/duplicate",
+    "name": "duplicate",
+    "color": "cccccc",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 417689541,
+    "node_id": "MDU6TGFiZWw0MTc2ODk1NDE=",
+    "url": "https://api.github.com/repos/getsentry/node-pixelpusher/labels/enhancement",
+    "name": "enhancement",
+    "color": "84b6eb",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 417689542,
+    "node_id": "MDU6TGFiZWw0MTc2ODk1NDI=",
+    "url": "https://api.github.com/repos/getsentry/node-pixelpusher/labels/help%20wanted",
+    "name": "help wanted",
+    "color": "128A0C",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 417689543,
+    "node_id": "MDU6TGFiZWw0MTc2ODk1NDM=",
+    "url": "https://api.github.com/repos/getsentry/node-pixelpusher/labels/invalid",
+    "name": "invalid",
+    "color": "e6e6e6",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 417689544,
+    "node_id": "MDU6TGFiZWw0MTc2ODk1NDQ=",
+    "url": "https://api.github.com/repos/getsentry/node-pixelpusher/labels/question",
+    "name": "question",
+    "color": "cc317c",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 417689545,
+    "node_id": "MDU6TGFiZWw0MTc2ODk1NDU=",
+    "url": "https://api.github.com/repos/getsentry/node-pixelpusher/labels/wontfix",
+    "name": "wontfix",
+    "color": "ffffff",
+    "default": true,
+    "description": null
+  }
+]

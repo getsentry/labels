@@ -1,0 +1,74 @@
+[
+  {
+    "id": 581829114,
+    "node_id": "MDU6TGFiZWw1ODE4MjkxMTQ=",
+    "url": "https://api.github.com/repos/getsentry/sentry-symbol-collector-hack/labels/bug",
+    "name": "bug",
+    "color": "ee0701",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 2203924240,
+    "node_id": "MDU6TGFiZWwyMjAzOTI0MjQw",
+    "url": "https://api.github.com/repos/getsentry/sentry-symbol-collector-hack/labels/dependencies",
+    "name": "dependencies",
+    "color": "0366d6",
+    "default": false,
+    "description": "Pull requests that update a dependency file"
+  },
+  {
+    "id": 581829115,
+    "node_id": "MDU6TGFiZWw1ODE4MjkxMTU=",
+    "url": "https://api.github.com/repos/getsentry/sentry-symbol-collector-hack/labels/duplicate",
+    "name": "duplicate",
+    "color": "cccccc",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 581829116,
+    "node_id": "MDU6TGFiZWw1ODE4MjkxMTY=",
+    "url": "https://api.github.com/repos/getsentry/sentry-symbol-collector-hack/labels/enhancement",
+    "name": "enhancement",
+    "color": "84b6eb",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 581829117,
+    "node_id": "MDU6TGFiZWw1ODE4MjkxMTc=",
+    "url": "https://api.github.com/repos/getsentry/sentry-symbol-collector-hack/labels/help%20wanted",
+    "name": "help wanted",
+    "color": "128A0C",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 581829118,
+    "node_id": "MDU6TGFiZWw1ODE4MjkxMTg=",
+    "url": "https://api.github.com/repos/getsentry/sentry-symbol-collector-hack/labels/invalid",
+    "name": "invalid",
+    "color": "e6e6e6",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 581829119,
+    "node_id": "MDU6TGFiZWw1ODE4MjkxMTk=",
+    "url": "https://api.github.com/repos/getsentry/sentry-symbol-collector-hack/labels/question",
+    "name": "question",
+    "color": "cc317c",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 581829120,
+    "node_id": "MDU6TGFiZWw1ODE4MjkxMjA=",
+    "url": "https://api.github.com/repos/getsentry/sentry-symbol-collector-hack/labels/wontfix",
+    "name": "wontfix",
+    "color": "ffffff",
+    "default": true,
+    "description": null
+  }
+]

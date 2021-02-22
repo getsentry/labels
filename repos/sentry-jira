@@ -1,0 +1,56 @@
+[
+  {
+    "id": 12529554,
+    "node_id": "MDU6TGFiZWwxMjUyOTU1NA==",
+    "url": "https://api.github.com/repos/getsentry/sentry-jira/labels/bug",
+    "name": "bug",
+    "color": "fc2929",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 12529555,
+    "node_id": "MDU6TGFiZWwxMjUyOTU1NQ==",
+    "url": "https://api.github.com/repos/getsentry/sentry-jira/labels/duplicate",
+    "name": "duplicate",
+    "color": "cccccc",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 12529556,
+    "node_id": "MDU6TGFiZWwxMjUyOTU1Ng==",
+    "url": "https://api.github.com/repos/getsentry/sentry-jira/labels/enhancement",
+    "name": "enhancement",
+    "color": "84b6eb",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 12529557,
+    "node_id": "MDU6TGFiZWwxMjUyOTU1Nw==",
+    "url": "https://api.github.com/repos/getsentry/sentry-jira/labels/invalid",
+    "name": "invalid",
+    "color": "e6e6e6",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 12529558,
+    "node_id": "MDU6TGFiZWwxMjUyOTU1OA==",
+    "url": "https://api.github.com/repos/getsentry/sentry-jira/labels/question",
+    "name": "question",
+    "color": "cc317c",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 12529559,
+    "node_id": "MDU6TGFiZWwxMjUyOTU1OQ==",
+    "url": "https://api.github.com/repos/getsentry/sentry-jira/labels/wontfix",
+    "name": "wontfix",
+    "color": "ffffff",
+    "default": true,
+    "description": null
+  }
+]

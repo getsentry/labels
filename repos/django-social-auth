@@ -1,0 +1,56 @@
+[
+  {
+    "id": 57187077,
+    "node_id": "MDU6TGFiZWw1NzE4NzA3Nw==",
+    "url": "https://api.github.com/repos/getsentry/django-social-auth/labels/bug",
+    "name": "bug",
+    "color": "fc2929",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 57187078,
+    "node_id": "MDU6TGFiZWw1NzE4NzA3OA==",
+    "url": "https://api.github.com/repos/getsentry/django-social-auth/labels/duplicate",
+    "name": "duplicate",
+    "color": "cccccc",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 57187079,
+    "node_id": "MDU6TGFiZWw1NzE4NzA3OQ==",
+    "url": "https://api.github.com/repos/getsentry/django-social-auth/labels/enhancement",
+    "name": "enhancement",
+    "color": "84b6eb",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 57187080,
+    "node_id": "MDU6TGFiZWw1NzE4NzA4MA==",
+    "url": "https://api.github.com/repos/getsentry/django-social-auth/labels/invalid",
+    "name": "invalid",
+    "color": "e6e6e6",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 57187081,
+    "node_id": "MDU6TGFiZWw1NzE4NzA4MQ==",
+    "url": "https://api.github.com/repos/getsentry/django-social-auth/labels/question",
+    "name": "question",
+    "color": "cc317c",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 57187082,
+    "node_id": "MDU6TGFiZWw1NzE4NzA4Mg==",
+    "url": "https://api.github.com/repos/getsentry/django-social-auth/labels/wontfix",
+    "name": "wontfix",
+    "color": "ffffff",
+    "default": true,
+    "description": null
+  }
+]

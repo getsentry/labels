@@ -1,0 +1,137 @@
+[
+  {
+    "id": 922635809,
+    "node_id": "MDU6TGFiZWw5MjI2MzU4MDk=",
+    "url": "https://api.github.com/repos/getsentry/sentry-php/labels/Misc:%20Help%20Wanted",
+    "name": "Misc: Help Wanted",
+    "color": "8ceaa5",
+    "default": false,
+    "description": ""
+  },
+  {
+    "id": 1194798330,
+    "node_id": "MDU6TGFiZWwxMTk0Nzk4MzMw",
+    "url": "https://api.github.com/repos/getsentry/sentry-php/labels/Status:%20Blocked",
+    "name": "Status: Blocked",
+    "color": "b60205",
+    "default": false,
+    "description": ""
+  },
+  {
+    "id": 1194796237,
+    "node_id": "MDU6TGFiZWwxMTk0Nzk2MjM3",
+    "url": "https://api.github.com/repos/getsentry/sentry-php/labels/Status:%20Confirmed",
+    "name": "Status: Confirmed",
+    "color": "0e8a16",
+    "default": false,
+    "description": ""
+  },
+  {
+    "id": 1468261559,
+    "node_id": "MDU6TGFiZWwxNDY4MjYxNTU5",
+    "url": "https://api.github.com/repos/getsentry/sentry-php/labels/Status:%20Invalid",
+    "name": "Status: Invalid",
+    "color": "eeeeee",
+    "default": false,
+    "description": ""
+  },
+  {
+    "id": 1194798784,
+    "node_id": "MDU6TGFiZWwxMTk0Nzk4Nzg0",
+    "url": "https://api.github.com/repos/getsentry/sentry-php/labels/Status:%20Needs%20Information",
+    "name": "Status: Needs Information",
+    "color": "81d2e2",
+    "default": false,
+    "description": ""
+  },
+  {
+    "id": 1194797645,
+    "node_id": "MDU6TGFiZWwxMTk0Nzk3NjQ1",
+    "url": "https://api.github.com/repos/getsentry/sentry-php/labels/Status:%20Needs%20Reproduction",
+    "name": "Status: Needs Reproduction",
+    "color": "fc918f",
+    "default": false,
+    "description": ""
+  },
+  {
+    "id": 1468261827,
+    "node_id": "MDU6TGFiZWwxNDY4MjYxODI3",
+    "url": "https://api.github.com/repos/getsentry/sentry-php/labels/Status:%20Won't%20fix",
+    "name": "Status: Won't fix",
+    "color": "eeeeee",
+    "default": false,
+    "description": ""
+  },
+  {
+    "id": 1194799254,
+    "node_id": "MDU6TGFiZWwxMTk0Nzk5MjU0",
+    "url": "https://api.github.com/repos/getsentry/sentry-php/labels/Type:%20Breaking",
+    "name": "Type: Breaking",
+    "color": "fbca04",
+    "default": false,
+    "description": ""
+  },
+  {
+    "id": 765375467,
+    "node_id": "MDU6TGFiZWw3NjUzNzU0Njc=",
+    "url": "https://api.github.com/repos/getsentry/sentry-php/labels/Type:%20Bug",
+    "name": "Type: Bug",
+    "color": "ee0701",
+    "default": false,
+    "description": ""
+  },
+  {
+    "id": 2179806782,
+    "node_id": "MDU6TGFiZWwyMTc5ODA2Nzgy",
+    "url": "https://api.github.com/repos/getsentry/sentry-php/labels/Type:%20Deprecation",
+    "name": "Type: Deprecation",
+    "color": "c78bed",
+    "default": false,
+    "description": ""
+  },
+  {
+    "id": 1194795239,
+    "node_id": "MDU6TGFiZWwxMTk0Nzk1MjM5",
+    "url": "https://api.github.com/repos/getsentry/sentry-php/labels/Type:%20Discussion",
+    "name": "Type: Discussion",
+    "color": "c9e0ff",
+    "default": false,
+    "description": ""
+  },
+  {
+    "id": 1194794192,
+    "node_id": "MDU6TGFiZWwxMTk0Nzk0MTky",
+    "url": "https://api.github.com/repos/getsentry/sentry-php/labels/Type:%20Documentation",
+    "name": "Type: Documentation",
+    "color": "84b6eb",
+    "default": false,
+    "description": ""
+  },
+  {
+    "id": 804262994,
+    "node_id": "MDU6TGFiZWw4MDQyNjI5OTQ=",
+    "url": "https://api.github.com/repos/getsentry/sentry-php/labels/Type:%20Feature",
+    "name": "Type: Feature",
+    "color": "dbf477",
+    "default": false,
+    "description": ""
+  },
+  {
+    "id": 922635647,
+    "node_id": "MDU6TGFiZWw5MjI2MzU2NDc=",
+    "url": "https://api.github.com/repos/getsentry/sentry-php/labels/Type:%20Improvement",
+    "name": "Type: Improvement",
+    "color": "65f2be",
+    "default": false,
+    "description": ""
+  },
+  {
+    "id": 765375676,
+    "node_id": "MDU6TGFiZWw3NjUzNzU2NzY=",
+    "url": "https://api.github.com/repos/getsentry/sentry-php/labels/Type:%20Question",
+    "name": "Type: Question",
+    "color": "074168",
+    "default": false,
+    "description": ""
+  }
+]

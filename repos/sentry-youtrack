@@ -1,0 +1,74 @@
+[
+  {
+    "id": 814437683,
+    "node_id": "MDU6TGFiZWw4MTQ0Mzc2ODM=",
+    "url": "https://api.github.com/repos/getsentry/sentry-youtrack/labels/WIP",
+    "name": "WIP",
+    "color": "4065a0",
+    "default": false,
+    "description": null
+  },
+  {
+    "id": 383648783,
+    "node_id": "MDU6TGFiZWwzODM2NDg3ODM=",
+    "url": "https://api.github.com/repos/getsentry/sentry-youtrack/labels/bug",
+    "name": "bug",
+    "color": "ee0701",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 383648784,
+    "node_id": "MDU6TGFiZWwzODM2NDg3ODQ=",
+    "url": "https://api.github.com/repos/getsentry/sentry-youtrack/labels/duplicate",
+    "name": "duplicate",
+    "color": "cccccc",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 383648785,
+    "node_id": "MDU6TGFiZWwzODM2NDg3ODU=",
+    "url": "https://api.github.com/repos/getsentry/sentry-youtrack/labels/enhancement",
+    "name": "enhancement",
+    "color": "84b6eb",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 383648786,
+    "node_id": "MDU6TGFiZWwzODM2NDg3ODY=",
+    "url": "https://api.github.com/repos/getsentry/sentry-youtrack/labels/help%20wanted",
+    "name": "help wanted",
+    "color": "128A0C",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 383648787,
+    "node_id": "MDU6TGFiZWwzODM2NDg3ODc=",
+    "url": "https://api.github.com/repos/getsentry/sentry-youtrack/labels/invalid",
+    "name": "invalid",
+    "color": "e6e6e6",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 383648788,
+    "node_id": "MDU6TGFiZWwzODM2NDg3ODg=",
+    "url": "https://api.github.com/repos/getsentry/sentry-youtrack/labels/question",
+    "name": "question",
+    "color": "cc317c",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 383648789,
+    "node_id": "MDU6TGFiZWwzODM2NDg3ODk=",
+    "url": "https://api.github.com/repos/getsentry/sentry-youtrack/labels/wontfix",
+    "name": "wontfix",
+    "color": "ffffff",
+    "default": true,
+    "description": null
+  }
+]

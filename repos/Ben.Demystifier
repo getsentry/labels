@@ -1,0 +1,92 @@
+[
+  {
+    "id": 2646590400,
+    "node_id": "MDU6TGFiZWwyNjQ2NTkwNDAw",
+    "url": "https://api.github.com/repos/getsentry/Ben.Demystifier/labels/bug",
+    "name": "bug",
+    "color": "d73a4a",
+    "default": true,
+    "description": "Something isn't working"
+  },
+  {
+    "id": 2646590401,
+    "node_id": "MDU6TGFiZWwyNjQ2NTkwNDAx",
+    "url": "https://api.github.com/repos/getsentry/Ben.Demystifier/labels/documentation",
+    "name": "documentation",
+    "color": "0075ca",
+    "default": true,
+    "description": "Improvements or additions to documentation"
+  },
+  {
+    "id": 2646590402,
+    "node_id": "MDU6TGFiZWwyNjQ2NTkwNDAy",
+    "url": "https://api.github.com/repos/getsentry/Ben.Demystifier/labels/duplicate",
+    "name": "duplicate",
+    "color": "cfd3d7",
+    "default": true,
+    "description": "This issue or pull request already exists"
+  },
+  {
+    "id": 2646590403,
+    "node_id": "MDU6TGFiZWwyNjQ2NTkwNDAz",
+    "url": "https://api.github.com/repos/getsentry/Ben.Demystifier/labels/enhancement",
+    "name": "enhancement",
+    "color": "a2eeef",
+    "default": true,
+    "description": "New feature or request"
+  },
+  {
+    "id": 2646590404,
+    "node_id": "MDU6TGFiZWwyNjQ2NTkwNDA0",
+    "url": "https://api.github.com/repos/getsentry/Ben.Demystifier/labels/good%20first%20issue",
+    "name": "good first issue",
+    "color": "7057ff",
+    "default": true,
+    "description": "Good for newcomers"
+  },
+  {
+    "id": 2646590405,
+    "node_id": "MDU6TGFiZWwyNjQ2NTkwNDA1",
+    "url": "https://api.github.com/repos/getsentry/Ben.Demystifier/labels/help%20wanted",
+    "name": "help wanted",
+    "color": "008672",
+    "default": true,
+    "description": "Extra attention is needed"
+  },
+  {
+    "id": 2646590406,
+    "node_id": "MDU6TGFiZWwyNjQ2NTkwNDA2",
+    "url": "https://api.github.com/repos/getsentry/Ben.Demystifier/labels/invalid",
+    "name": "invalid",
+    "color": "e4e669",
+    "default": true,
+    "description": "This doesn't seem right"
+  },
+  {
+    "id": 2646590407,
+    "node_id": "MDU6TGFiZWwyNjQ2NTkwNDA3",
+    "url": "https://api.github.com/repos/getsentry/Ben.Demystifier/labels/question",
+    "name": "question",
+    "color": "d876e3",
+    "default": true,
+    "description": "Further information is requested"
+  },
+  {
+    "id": 2646590408,
+    "node_id": "MDU6TGFiZWwyNjQ2NTkwNDA4",
+    "url": "https://api.github.com/repos/getsentry/Ben.Demystifier/labels/up-for-grabs",
+    "name": "up-for-grabs",
+    "color": "02B620",
+    "default": false,
+    "description": "A free for all!"
+  },
+  {
+    "id": 2646590409,
+    "node_id": "MDU6TGFiZWwyNjQ2NTkwNDA5",
+    "url": "https://api.github.com/repos/getsentry/Ben.Demystifier/labels/wontfix",
+    "name": "wontfix",
+    "color": "ffffff",
+    "default": true,
+    "description": "This will not be worked on"
+  }
+]

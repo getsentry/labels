@@ -1,0 +1,83 @@
+[
+  {
+    "id": 698721224,
+    "node_id": "MDU6TGFiZWw2OTg3MjEyMjQ=",
+    "url": "https://api.github.com/repos/getsentry/probot-report/labels/bug",
+    "name": "bug",
+    "color": "ee0701",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 1651732181,
+    "node_id": "MDU6TGFiZWwxNjUxNzMyMTgx",
+    "url": "https://api.github.com/repos/getsentry/probot-report/labels/dependencies",
+    "name": "dependencies",
+    "color": "0366d6",
+    "default": false,
+    "description": "Pull requests that update a dependency file"
+  },
+  {
+    "id": 698721225,
+    "node_id": "MDU6TGFiZWw2OTg3MjEyMjU=",
+    "url": "https://api.github.com/repos/getsentry/probot-report/labels/duplicate",
+    "name": "duplicate",
+    "color": "cccccc",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 698721226,
+    "node_id": "MDU6TGFiZWw2OTg3MjEyMjY=",
+    "url": "https://api.github.com/repos/getsentry/probot-report/labels/enhancement",
+    "name": "enhancement",
+    "color": "84b6eb",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 698721228,
+    "node_id": "MDU6TGFiZWw2OTg3MjEyMjg=",
+    "url": "https://api.github.com/repos/getsentry/probot-report/labels/good%20first%20issue",
+    "name": "good first issue",
+    "color": "7057ff",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 698721227,
+    "node_id": "MDU6TGFiZWw2OTg3MjEyMjc=",
+    "url": "https://api.github.com/repos/getsentry/probot-report/labels/help%20wanted",
+    "name": "help wanted",
+    "color": "33aa3f",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 698721229,
+    "node_id": "MDU6TGFiZWw2OTg3MjEyMjk=",
+    "url": "https://api.github.com/repos/getsentry/probot-report/labels/invalid",
+    "name": "invalid",
+    "color": "e6e6e6",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 698721230,
+    "node_id": "MDU6TGFiZWw2OTg3MjEyMzA=",
+    "url": "https://api.github.com/repos/getsentry/probot-report/labels/question",
+    "name": "question",
+    "color": "cc317c",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 698721231,
+    "node_id": "MDU6TGFiZWw2OTg3MjEyMzE=",
+    "url": "https://api.github.com/repos/getsentry/probot-report/labels/wontfix",
+    "name": "wontfix",
+    "color": "ffffff",
+    "default": true,
+    "description": null
+  }
+]

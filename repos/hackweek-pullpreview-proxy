@@ -1,0 +1,83 @@
+[
+  {
+    "id": 1422678542,
+    "node_id": "MDU6TGFiZWwxNDIyNjc4NTQy",
+    "url": "https://api.github.com/repos/getsentry/hackweek-pullpreview-proxy/labels/bug",
+    "name": "bug",
+    "color": "d73a4a",
+    "default": true,
+    "description": "Something isn't working"
+  },
+  {
+    "id": 1422678543,
+    "node_id": "MDU6TGFiZWwxNDIyNjc4NTQz",
+    "url": "https://api.github.com/repos/getsentry/hackweek-pullpreview-proxy/labels/documentation",
+    "name": "documentation",
+    "color": "0075ca",
+    "default": true,
+    "description": "Improvements or additions to documentation"
+  },
+  {
+    "id": 1422678544,
+    "node_id": "MDU6TGFiZWwxNDIyNjc4NTQ0",
+    "url": "https://api.github.com/repos/getsentry/hackweek-pullpreview-proxy/labels/duplicate",
+    "name": "duplicate",
+    "color": "cfd3d7",
+    "default": true,
+    "description": "This issue or pull request already exists"
+  },
+  {
+    "id": 1422678545,
+    "node_id": "MDU6TGFiZWwxNDIyNjc4NTQ1",
+    "url": "https://api.github.com/repos/getsentry/hackweek-pullpreview-proxy/labels/enhancement",
+    "name": "enhancement",
+    "color": "a2eeef",
+    "default": true,
+    "description": "New feature or request"
+  },
+  {
+    "id": 1422678547,
+    "node_id": "MDU6TGFiZWwxNDIyNjc4NTQ3",
+    "url": "https://api.github.com/repos/getsentry/hackweek-pullpreview-proxy/labels/good%20first%20issue",
+    "name": "good first issue",
+    "color": "7057ff",
+    "default": true,
+    "description": "Good for newcomers"
+  },
+  {
+    "id": 1422678546,
+    "node_id": "MDU6TGFiZWwxNDIyNjc4NTQ2",
+    "url": "https://api.github.com/repos/getsentry/hackweek-pullpreview-proxy/labels/help%20wanted",
+    "name": "help wanted",
+    "color": "008672",
+    "default": true,
+    "description": "Extra attention is needed"
+  },
+  {
+    "id": 1422678548,
+    "node_id": "MDU6TGFiZWwxNDIyNjc4NTQ4",
+    "url": "https://api.github.com/repos/getsentry/hackweek-pullpreview-proxy/labels/invalid",
+    "name": "invalid",
+    "color": "e4e669",
+    "default": true,
+    "description": "This doesn't seem right"
+  },
+  {
+    "id": 1422678549,
+    "node_id": "MDU6TGFiZWwxNDIyNjc4NTQ5",
+    "url": "https://api.github.com/repos/getsentry/hackweek-pullpreview-proxy/labels/question",
+    "name": "question",
+    "color": "d876e3",
+    "default": true,
+    "description": "Further information is requested"
+  },
+  {
+    "id": 1422678551,
+    "node_id": "MDU6TGFiZWwxNDIyNjc4NTUx",
+    "url": "https://api.github.com/repos/getsentry/hackweek-pullpreview-proxy/labels/wontfix",
+    "name": "wontfix",
+    "color": "ffffff",
+    "default": true,
+    "description": "This will not be worked on"
+  }
+]

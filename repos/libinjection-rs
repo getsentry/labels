@@ -1,0 +1,83 @@
+[
+  {
+    "id": 2256855611,
+    "node_id": "MDU6TGFiZWwyMjU2ODU1NjEx",
+    "url": "https://api.github.com/repos/getsentry/libinjection-rs/labels/bug",
+    "name": "bug",
+    "color": "d73a4a",
+    "default": true,
+    "description": "Something isn't working"
+  },
+  {
+    "id": 2256855615,
+    "node_id": "MDU6TGFiZWwyMjU2ODU1NjE1",
+    "url": "https://api.github.com/repos/getsentry/libinjection-rs/labels/documentation",
+    "name": "documentation",
+    "color": "0075ca",
+    "default": true,
+    "description": "Improvements or additions to documentation"
+  },
+  {
+    "id": 2256855619,
+    "node_id": "MDU6TGFiZWwyMjU2ODU1NjE5",
+    "url": "https://api.github.com/repos/getsentry/libinjection-rs/labels/duplicate",
+    "name": "duplicate",
+    "color": "cfd3d7",
+    "default": true,
+    "description": "This issue or pull request already exists"
+  },
+  {
+    "id": 2256855623,
+    "node_id": "MDU6TGFiZWwyMjU2ODU1NjIz",
+    "url": "https://api.github.com/repos/getsentry/libinjection-rs/labels/enhancement",
+    "name": "enhancement",
+    "color": "a2eeef",
+    "default": true,
+    "description": "New feature or request"
+  },
+  {
+    "id": 2256855627,
+    "node_id": "MDU6TGFiZWwyMjU2ODU1NjI3",
+    "url": "https://api.github.com/repos/getsentry/libinjection-rs/labels/good%20first%20issue",
+    "name": "good first issue",
+    "color": "7057ff",
+    "default": true,
+    "description": "Good for newcomers"
+  },
+  {
+    "id": 2256855629,
+    "node_id": "MDU6TGFiZWwyMjU2ODU1NjI5",
+    "url": "https://api.github.com/repos/getsentry/libinjection-rs/labels/help%20wanted",
+    "name": "help wanted",
+    "color": "008672",
+    "default": true,
+    "description": "Extra attention is needed"
+  },
+  {
+    "id": 2256855632,
+    "node_id": "MDU6TGFiZWwyMjU2ODU1NjMy",
+    "url": "https://api.github.com/repos/getsentry/libinjection-rs/labels/invalid",
+    "name": "invalid",
+    "color": "e4e669",
+    "default": true,
+    "description": "This doesn't seem right"
+  },
+  {
+    "id": 2256855634,
+    "node_id": "MDU6TGFiZWwyMjU2ODU1NjM0",
+    "url": "https://api.github.com/repos/getsentry/libinjection-rs/labels/question",
+    "name": "question",
+    "color": "d876e3",
+    "default": true,
+    "description": "Further information is requested"
+  },
+  {
+    "id": 2256855635,
+    "node_id": "MDU6TGFiZWwyMjU2ODU1NjM1",
+    "url": "https://api.github.com/repos/getsentry/libinjection-rs/labels/wontfix",
+    "name": "wontfix",
+    "color": "ffffff",
+    "default": true,
+    "description": "This will not be worked on"
+  }
+]

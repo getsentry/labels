@@ -1,0 +1,83 @@
+[
+  {
+    "id": 1447979852,
+    "node_id": "MDU6TGFiZWwxNDQ3OTc5ODUy",
+    "url": "https://api.github.com/repos/getsentry/msvc-demangler-rust/labels/bug",
+    "name": "bug",
+    "color": "d73a4a",
+    "default": true,
+    "description": "Something isn't working"
+  },
+  {
+    "id": 1447979854,
+    "node_id": "MDU6TGFiZWwxNDQ3OTc5ODU0",
+    "url": "https://api.github.com/repos/getsentry/msvc-demangler-rust/labels/documentation",
+    "name": "documentation",
+    "color": "0075ca",
+    "default": true,
+    "description": "Improvements or additions to documentation"
+  },
+  {
+    "id": 1447979856,
+    "node_id": "MDU6TGFiZWwxNDQ3OTc5ODU2",
+    "url": "https://api.github.com/repos/getsentry/msvc-demangler-rust/labels/duplicate",
+    "name": "duplicate",
+    "color": "cfd3d7",
+    "default": true,
+    "description": "This issue or pull request already exists"
+  },
+  {
+    "id": 1447979858,
+    "node_id": "MDU6TGFiZWwxNDQ3OTc5ODU4",
+    "url": "https://api.github.com/repos/getsentry/msvc-demangler-rust/labels/enhancement",
+    "name": "enhancement",
+    "color": "a2eeef",
+    "default": true,
+    "description": "New feature or request"
+  },
+  {
+    "id": 1447979863,
+    "node_id": "MDU6TGFiZWwxNDQ3OTc5ODYz",
+    "url": "https://api.github.com/repos/getsentry/msvc-demangler-rust/labels/good%20first%20issue",
+    "name": "good first issue",
+    "color": "7057ff",
+    "default": true,
+    "description": "Good for newcomers"
+  },
+  {
+    "id": 1447979861,
+    "node_id": "MDU6TGFiZWwxNDQ3OTc5ODYx",
+    "url": "https://api.github.com/repos/getsentry/msvc-demangler-rust/labels/help%20wanted",
+    "name": "help wanted",
+    "color": "008672",
+    "default": true,
+    "description": "Extra attention is needed"
+  },
+  {
+    "id": 1447979865,
+    "node_id": "MDU6TGFiZWwxNDQ3OTc5ODY1",
+    "url": "https://api.github.com/repos/getsentry/msvc-demangler-rust/labels/invalid",
+    "name": "invalid",
+    "color": "e4e669",
+    "default": true,
+    "description": "This doesn't seem right"
+  },
+  {
+    "id": 1447979868,
+    "node_id": "MDU6TGFiZWwxNDQ3OTc5ODY4",
+    "url": "https://api.github.com/repos/getsentry/msvc-demangler-rust/labels/question",
+    "name": "question",
+    "color": "d876e3",
+    "default": true,
+    "description": "Further information is requested"
+  },
+  {
+    "id": 1447979869,
+    "node_id": "MDU6TGFiZWwxNDQ3OTc5ODY5",
+    "url": "https://api.github.com/repos/getsentry/msvc-demangler-rust/labels/wontfix",
+    "name": "wontfix",
+    "color": "ffffff",
+    "default": true,
+    "description": "This will not be worked on"
+  }
+]

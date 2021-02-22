@@ -1,0 +1,74 @@
+[
+  {
+    "id": 706779392,
+    "node_id": "MDU6TGFiZWw3MDY3NzkzOTI=",
+    "url": "https://api.github.com/repos/getsentry/flask-sslify/labels/bug",
+    "name": "bug",
+    "color": "ee0701",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 706779393,
+    "node_id": "MDU6TGFiZWw3MDY3NzkzOTM=",
+    "url": "https://api.github.com/repos/getsentry/flask-sslify/labels/duplicate",
+    "name": "duplicate",
+    "color": "cccccc",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 706779394,
+    "node_id": "MDU6TGFiZWw3MDY3NzkzOTQ=",
+    "url": "https://api.github.com/repos/getsentry/flask-sslify/labels/enhancement",
+    "name": "enhancement",
+    "color": "84b6eb",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 706779396,
+    "node_id": "MDU6TGFiZWw3MDY3NzkzOTY=",
+    "url": "https://api.github.com/repos/getsentry/flask-sslify/labels/good%20first%20issue",
+    "name": "good first issue",
+    "color": "7057ff",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 706779395,
+    "node_id": "MDU6TGFiZWw3MDY3NzkzOTU=",
+    "url": "https://api.github.com/repos/getsentry/flask-sslify/labels/help%20wanted",
+    "name": "help wanted",
+    "color": "33aa3f",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 706779397,
+    "node_id": "MDU6TGFiZWw3MDY3NzkzOTc=",
+    "url": "https://api.github.com/repos/getsentry/flask-sslify/labels/invalid",
+    "name": "invalid",
+    "color": "e6e6e6",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 706779398,
+    "node_id": "MDU6TGFiZWw3MDY3NzkzOTg=",
+    "url": "https://api.github.com/repos/getsentry/flask-sslify/labels/question",
+    "name": "question",
+    "color": "cc317c",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 706779399,
+    "node_id": "MDU6TGFiZWw3MDY3NzkzOTk=",
+    "url": "https://api.github.com/repos/getsentry/flask-sslify/labels/wontfix",
+    "name": "wontfix",
+    "color": "ffffff",
+    "default": true,
+    "description": null
+  }
+]

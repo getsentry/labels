@@ -1,0 +1,83 @@
+[
+  {
+    "id": 721542990,
+    "node_id": "MDU6TGFiZWw3MjE1NDI5OTA=",
+    "url": "https://api.github.com/repos/getsentry/sentry-cordova/labels/bug",
+    "name": "bug",
+    "color": "ee0701",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 2728635880,
+    "node_id": "MDU6TGFiZWwyNzI4NjM1ODgw",
+    "url": "https://api.github.com/repos/getsentry/sentry-cordova/labels/dependencies",
+    "name": "dependencies",
+    "color": "0366d6",
+    "default": false,
+    "description": "Pull requests that update a dependency file"
+  },
+  {
+    "id": 721542991,
+    "node_id": "MDU6TGFiZWw3MjE1NDI5OTE=",
+    "url": "https://api.github.com/repos/getsentry/sentry-cordova/labels/duplicate",
+    "name": "duplicate",
+    "color": "cccccc",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 721542992,
+    "node_id": "MDU6TGFiZWw3MjE1NDI5OTI=",
+    "url": "https://api.github.com/repos/getsentry/sentry-cordova/labels/enhancement",
+    "name": "enhancement",
+    "color": "84b6eb",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 721542994,
+    "node_id": "MDU6TGFiZWw3MjE1NDI5OTQ=",
+    "url": "https://api.github.com/repos/getsentry/sentry-cordova/labels/good%20first%20issue",
+    "name": "good first issue",
+    "color": "7057ff",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 721542993,
+    "node_id": "MDU6TGFiZWw3MjE1NDI5OTM=",
+    "url": "https://api.github.com/repos/getsentry/sentry-cordova/labels/help%20wanted",
+    "name": "help wanted",
+    "color": "33aa3f",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 721542995,
+    "node_id": "MDU6TGFiZWw3MjE1NDI5OTU=",
+    "url": "https://api.github.com/repos/getsentry/sentry-cordova/labels/invalid",
+    "name": "invalid",
+    "color": "e6e6e6",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 721542996,
+    "node_id": "MDU6TGFiZWw3MjE1NDI5OTY=",
+    "url": "https://api.github.com/repos/getsentry/sentry-cordova/labels/question",
+    "name": "question",
+    "color": "cc317c",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 721542997,
+    "node_id": "MDU6TGFiZWw3MjE1NDI5OTc=",
+    "url": "https://api.github.com/repos/getsentry/sentry-cordova/labels/wontfix",
+    "name": "wontfix",
+    "color": "ffffff",
+    "default": true,
+    "description": null
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "id": 2746427110,
+    "node_id": "MDU6TGFiZWwyNzQ2NDI3MTEw",
+    "url": "https://api.github.com/repos/getsentry/replay/labels/bug",
+    "name": "bug",
+    "color": "d73a4a",
+    "default": true,
+    "description": "Something isn't working"
+  },
+  {
+    "id": 2746427111,
+    "node_id": "MDU6TGFiZWwyNzQ2NDI3MTEx",
+    "url": "https://api.github.com/repos/getsentry/replay/labels/documentation",
+    "name": "documentation",
+    "color": "0075ca",
+    "default": true,
+    "description": "Improvements or additions to documentation"
+  },
+  {
+    "id": 2746427112,
+    "node_id": "MDU6TGFiZWwyNzQ2NDI3MTEy",
+    "url": "https://api.github.com/repos/getsentry/replay/labels/duplicate",
+    "name": "duplicate",
+    "color": "cfd3d7",
+    "default": true,
+    "description": "This issue or pull request already exists"
+  },
+  {
+    "id": 2746427113,
+    "node_id": "MDU6TGFiZWwyNzQ2NDI3MTEz",
+    "url": "https://api.github.com/repos/getsentry/replay/labels/enhancement",
+    "name": "enhancement",
+    "color": "a2eeef",
+    "default": true,
+    "description": "New feature or request"
+  },
+  {
+    "id": 2746427114,
+    "node_id": "MDU6TGFiZWwyNzQ2NDI3MTE0",
+    "url": "https://api.github.com/repos/getsentry/replay/labels/good%20first%20issue",
+    "name": "good first issue",
+    "color": "7057ff",
+    "default": true,
+    "description": "Good for newcomers"
+  },
+  {
+    "id": 2746427115,
+    "node_id": "MDU6TGFiZWwyNzQ2NDI3MTE1",
+    "url": "https://api.github.com/repos/getsentry/replay/labels/help%20wanted",
+    "name": "help wanted",
+    "color": "008672",
+    "default": true,
+    "description": "Extra attention is needed"
+  },
+  {
+    "id": 2746427116,
+    "node_id": "MDU6TGFiZWwyNzQ2NDI3MTE2",
+    "url": "https://api.github.com/repos/getsentry/replay/labels/invalid",
+    "name": "invalid",
+    "color": "e4e669",
+    "default": true,
+    "description": "This doesn't seem right"
+  },
+  {
+    "id": 2746427117,
+    "node_id": "MDU6TGFiZWwyNzQ2NDI3MTE3",
+    "url": "https://api.github.com/repos/getsentry/replay/labels/question",
+    "name": "question",
+    "color": "d876e3",
+    "default": true,
+    "description": "Further information is requested"
+  },
+  {
+    "id": 2746427118,
+    "node_id": "MDU6TGFiZWwyNzQ2NDI3MTE4",
+    "url": "https://api.github.com/repos/getsentry/replay/labels/up-for-grabs",
+    "name": "up-for-grabs",
+    "color": "02B620",
+    "default": false,
+    "description": "A free for all!"
+  },
+  {
+    "id": 2746427119,
+    "node_id": "MDU6TGFiZWwyNzQ2NDI3MTE5",
+    "url": "https://api.github.com/repos/getsentry/replay/labels/wontfix",
+    "name": "wontfix",
+    "color": "ffffff",
+    "default": true,
+    "description": "This will not be worked on"
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "id": 128809576,
+    "node_id": "MDU6TGFiZWwxMjg4MDk1NzY=",
+    "url": "https://api.github.com/repos/getsentry/platformicons/labels/bug",
+    "name": "bug",
+    "color": "fc2929",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 128809577,
+    "node_id": "MDU6TGFiZWwxMjg4MDk1Nzc=",
+    "url": "https://api.github.com/repos/getsentry/platformicons/labels/duplicate",
+    "name": "duplicate",
+    "color": "cccccc",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 128809578,
+    "node_id": "MDU6TGFiZWwxMjg4MDk1Nzg=",
+    "url": "https://api.github.com/repos/getsentry/platformicons/labels/enhancement",
+    "name": "enhancement",
+    "color": "84b6eb",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 128809579,
+    "node_id": "MDU6TGFiZWwxMjg4MDk1Nzk=",
+    "url": "https://api.github.com/repos/getsentry/platformicons/labels/help%20wanted",
+    "name": "help wanted",
+    "color": "159818",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 128809580,
+    "node_id": "MDU6TGFiZWwxMjg4MDk1ODA=",
+    "url": "https://api.github.com/repos/getsentry/platformicons/labels/invalid",
+    "name": "invalid",
+    "color": "e6e6e6",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 128809581,
+    "node_id": "MDU6TGFiZWwxMjg4MDk1ODE=",
+    "url": "https://api.github.com/repos/getsentry/platformicons/labels/question",
+    "name": "question",
+    "color": "cc317c",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 128809582,
+    "node_id": "MDU6TGFiZWwxMjg4MDk1ODI=",
+    "url": "https://api.github.com/repos/getsentry/platformicons/labels/wontfix",
+    "name": "wontfix",
+    "color": "ffffff",
+    "default": true,
+    "description": null
+  }
+]

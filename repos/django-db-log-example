@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1197709847,
+    "node_id": "MDU6TGFiZWwxMTk3NzA5ODQ3",
+    "url": "https://api.github.com/repos/getsentry/django-db-log-example/labels/bug",
+    "name": "bug",
+    "color": "d73a4a",
+    "default": true,
+    "description": "Something isn't working"
+  },
+  {
+    "id": 1197709848,
+    "node_id": "MDU6TGFiZWwxMTk3NzA5ODQ4",
+    "url": "https://api.github.com/repos/getsentry/django-db-log-example/labels/duplicate",
+    "name": "duplicate",
+    "color": "cfd3d7",
+    "default": true,
+    "description": "This issue or pull request already exists"
+  },
+  {
+    "id": 1197709850,
+    "node_id": "MDU6TGFiZWwxMTk3NzA5ODUw",
+    "url": "https://api.github.com/repos/getsentry/django-db-log-example/labels/enhancement",
+    "name": "enhancement",
+    "color": "a2eeef",
+    "default": true,
+    "description": "New feature or request"
+  },
+  {
+    "id": 1197709855,
+    "node_id": "MDU6TGFiZWwxMTk3NzA5ODU1",
+    "url": "https://api.github.com/repos/getsentry/django-db-log-example/labels/good%20first%20issue",
+    "name": "good first issue",
+    "color": "7057ff",
+    "default": true,
+    "description": "Good for newcomers"
+  },
+  {
+    "id": 1197709852,
+    "node_id": "MDU6TGFiZWwxMTk3NzA5ODUy",
+    "url": "https://api.github.com/repos/getsentry/django-db-log-example/labels/help%20wanted",
+    "name": "help wanted",
+    "color": "008672",
+    "default": true,
+    "description": "Extra attention is needed"
+  },
+  {
+    "id": 1197709857,
+    "node_id": "MDU6TGFiZWwxMTk3NzA5ODU3",
+    "url": "https://api.github.com/repos/getsentry/django-db-log-example/labels/invalid",
+    "name": "invalid",
+    "color": "e4e669",
+    "default": true,
+    "description": "This doesn't seem right"
+  },
+  {
+    "id": 1197709860,
+    "node_id": "MDU6TGFiZWwxMTk3NzA5ODYw",
+    "url": "https://api.github.com/repos/getsentry/django-db-log-example/labels/question",
+    "name": "question",
+    "color": "d876e3",
+    "default": true,
+    "description": "Further information is requested"
+  },
+  {
+    "id": 1197709862,
+    "node_id": "MDU6TGFiZWwxMTk3NzA5ODYy",
+    "url": "https://api.github.com/repos/getsentry/django-db-log-example/labels/wontfix",
+    "name": "wontfix",
+    "color": "ffffff",
+    "default": true,
+    "description": "This will not be worked on"
+  }
+]

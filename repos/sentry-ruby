@@ -1,0 +1,263 @@
+[
+  {
+    "id": 2307376308,
+    "node_id": "MDU6TGFiZWwyMzA3Mzc2MzA4",
+    "url": "https://api.github.com/repos/getsentry/sentry-ruby/labels/active_job",
+    "name": "active_job",
+    "color": "0e8a16",
+    "default": false,
+    "description": ""
+  },
+  {
+    "id": 2713101,
+    "node_id": "MDU6TGFiZWwyNzEzMTAx",
+    "url": "https://api.github.com/repos/getsentry/sentry-ruby/labels/bug",
+    "name": "bug",
+    "color": "fc2929",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 2258259594,
+    "node_id": "MDU6TGFiZWwyMjU4MjU5NTk0",
+    "url": "https://api.github.com/repos/getsentry/sentry-ruby/labels/bug%20fix",
+    "name": "bug fix",
+    "color": "0052cc",
+    "default": false,
+    "description": ""
+  },
+  {
+    "id": 2297231180,
+    "node_id": "MDU6TGFiZWwyMjk3MjMxMTgw",
+    "url": "https://api.github.com/repos/getsentry/sentry-ruby/labels/data-sanitization",
+    "name": "data-sanitization",
+    "color": "006b75",
+    "default": false,
+    "description": ""
+  },
+  {
+    "id": 2415341812,
+    "node_id": "MDU6TGFiZWwyNDE1MzQxODEy",
+    "url": "https://api.github.com/repos/getsentry/sentry-ruby/labels/delayed_job",
+    "name": "delayed_job",
+    "color": "0e8a16",
+    "default": false,
+    "description": ""
+  },
+  {
+    "id": 2579543982,
+    "node_id": "MDU6TGFiZWwyNTc5NTQzOTgy",
+    "url": "https://api.github.com/repos/getsentry/sentry-ruby/labels/dependencies",
+    "name": "dependencies",
+    "color": "0366d6",
+    "default": false,
+    "description": "Pull requests that update a dependency file"
+  },
+  {
+    "id": 36199019,
+    "node_id": "MDU6TGFiZWwzNjE5OTAxOQ==",
+    "url": "https://api.github.com/repos/getsentry/sentry-ruby/labels/documentation",
+    "name": "documentation",
+    "color": "0052cc",
+    "default": true,
+    "description": ""
+  },
+  {
+    "id": 2713103,
+    "node_id": "MDU6TGFiZWwyNzEzMTAz",
+    "url": "https://api.github.com/repos/getsentry/sentry-ruby/labels/enhancement",
+    "name": "enhancement",
+    "color": "0052cc",
+    "default": true,
+    "description": ""
+  },
+  {
+    "id": 305371976,
+    "node_id": "MDU6TGFiZWwzMDUzNzE5NzY=",
+    "url": "https://api.github.com/repos/getsentry/sentry-ruby/labels/has-pr",
+    "name": "has-pr",
+    "color": "5319e7",
+    "default": false,
+    "description": null
+  },
+  {
+    "id": 2305290660,
+    "node_id": "MDU6TGFiZWwyMzA1MjkwNjYw",
+    "url": "https://api.github.com/repos/getsentry/sentry-ruby/labels/heroku",
+    "name": "heroku",
+    "color": "0e8a16",
+    "default": false,
+    "description": ""
+  },
+  {
+    "id": 2305196759,
+    "node_id": "MDU6TGFiZWwyMzA1MTk2NzU5",
+    "url": "https://api.github.com/repos/getsentry/sentry-ruby/labels/jruby",
+    "name": "jruby",
+    "color": "0e8a16",
+    "default": false,
+    "description": ""
+  },
+  {
+    "id": 305400614,
+    "node_id": "MDU6TGFiZWwzMDU0MDA2MTQ=",
+    "url": "https://api.github.com/repos/getsentry/sentry-ruby/labels/needs-repro",
+    "name": "needs-repro",
+    "color": "fad8c7",
+    "default": false,
+    "description": null
+  },
+  {
+    "id": 2356029440,
+    "node_id": "MDU6TGFiZWwyMzU2MDI5NDQw",
+    "url": "https://api.github.com/repos/getsentry/sentry-ruby/labels/plan",
+    "name": "plan",
+    "color": "cc317c",
+    "default": false,
+    "description": ""
+  },
+  {
+    "id": 2538205787,
+    "node_id": "MDU6TGFiZWwyNTM4MjA1Nzg3",
+    "url": "https://api.github.com/repos/getsentry/sentry-ruby/labels/profiling/benchmarking",
+    "name": "profiling/benchmarking",
+    "color": "0052cc",
+    "default": false,
+    "description": ""
+  },
+  {
+    "id": 2713105,
+    "node_id": "MDU6TGFiZWwyNzEzMTA1",
+    "url": "https://api.github.com/repos/getsentry/sentry-ruby/labels/question",
+    "name": "question",
+    "color": "cc317c",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 2305198014,
+    "node_id": "MDU6TGFiZWwyMzA1MTk4MDE0",
+    "url": "https://api.github.com/repos/getsentry/sentry-ruby/labels/rails",
+    "name": "rails",
+    "color": "0e8a16",
+    "default": false,
+    "description": ""
+  },
+  {
+    "id": 2258258150,
+    "node_id": "MDU6TGFiZWwyMjU4MjU4MTUw",
+    "url": "https://api.github.com/repos/getsentry/sentry-ruby/labels/refactoring",
+    "name": "refactoring",
+    "color": "0052cc",
+    "default": false,
+    "description": ""
+  },
+  {
+    "id": 150644951,
+    "node_id": "MDU6TGFiZWwxNTA2NDQ5NTE=",
+    "url": "https://api.github.com/repos/getsentry/sentry-ruby/labels/sentry%20spec",
+    "name": "sentry spec",
+    "color": "fbca04",
+    "default": false,
+    "description": null
+  },
+  {
+    "id": 2718503894,
+    "node_id": "MDU6TGFiZWwyNzE4NTAzODk0",
+    "url": "https://api.github.com/repos/getsentry/sentry-ruby/labels/sentry-delayed_job",
+    "name": "sentry-delayed_job",
+    "color": "FBCA04",
+    "default": false,
+    "description": ""
+  },
+  {
+    "id": 2627809464,
+    "node_id": "MDU6TGFiZWwyNjI3ODA5NDY0",
+    "url": "https://api.github.com/repos/getsentry/sentry-ruby/labels/sentry-rails",
+    "name": "sentry-rails",
+    "color": "fbca04",
+    "default": false,
+    "description": ""
+  },
+  {
+    "id": 2600590844,
+    "node_id": "MDU6TGFiZWwyNjAwNTkwODQ0",
+    "url": "https://api.github.com/repos/getsentry/sentry-ruby/labels/sentry-raven",
+    "name": "sentry-raven",
+    "color": "FBCA04",
+    "default": false,
+    "description": ""
+  },
+  {
+    "id": 2627809663,
+    "node_id": "MDU6TGFiZWwyNjI3ODA5NjYz",
+    "url": "https://api.github.com/repos/getsentry/sentry-ruby/labels/sentry-ruby",
+    "name": "sentry-ruby",
+    "color": "FBCA04",
+    "default": false,
+    "description": ""
+  },
+  {
+    "id": 2627809869,
+    "node_id": "MDU6TGFiZWwyNjI3ODA5ODY5",
+    "url": "https://api.github.com/repos/getsentry/sentry-ruby/labels/sentry-sidekiq",
+    "name": "sentry-sidekiq",
+    "color": "FBCA04",
+    "default": false,
+    "description": ""
+  },
+  {
+    "id": 2340356213,
+    "node_id": "MDU6TGFiZWwyMzQwMzU2MjEz",
+    "url": "https://api.github.com/repos/getsentry/sentry-ruby/labels/sidekiq",
+    "name": "sidekiq",
+    "color": "0e8a16",
+    "default": false,
+    "description": ""
+  },
+  {
+    "id": 2258257864,
+    "node_id": "MDU6TGFiZWwyMjU4MjU3ODY0",
+    "url": "https://api.github.com/repos/getsentry/sentry-ruby/labels/testing",
+    "name": "testing",
+    "color": "0052cc",
+    "default": false,
+    "description": ""
+  },
+  {
+    "id": 2520675854,
+    "node_id": "MDU6TGFiZWwyNTIwNjc1ODU0",
+    "url": "https://api.github.com/repos/getsentry/sentry-ruby/labels/tracing",
+    "name": "tracing",
+    "color": "0e8a16",
+    "default": false,
+    "description": ""
+  },
+  {
+    "id": 305343468,
+    "node_id": "MDU6TGFiZWwzMDUzNDM0Njg=",
+    "url": "https://api.github.com/repos/getsentry/sentry-ruby/labels/waiting/blocked",
+    "name": "waiting/blocked",
+    "color": "c7def8",
+    "default": false,
+    "description": null
+  },
+  {
+    "id": 2257360874,
+    "node_id": "MDU6TGFiZWwyMjU3MzYwODc0",
+    "url": "https://api.github.com/repos/getsentry/sentry-ruby/labels/wip",
+    "name": "wip",
+    "color": "c5def5",
+    "default": false,
+    "description": ""
+  },
+  {
+    "id": 2323390039,
+    "node_id": "MDU6TGFiZWwyMzIzMzkwMDM5",
+    "url": "https://api.github.com/repos/getsentry/sentry-ruby/labels/wontfix",
+    "name": "wontfix",
+    "color": "c5def5",
+    "default": true,
+    "description": ""
+  }
+]

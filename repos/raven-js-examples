@@ -1,0 +1,74 @@
+[
+  {
+    "id": 281455038,
+    "node_id": "MDU6TGFiZWwyODE0NTUwMzg=",
+    "url": "https://api.github.com/repos/getsentry/raven-js-examples/labels/bug",
+    "name": "bug",
+    "color": "fc2929",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 2203923860,
+    "node_id": "MDU6TGFiZWwyMjAzOTIzODYw",
+    "url": "https://api.github.com/repos/getsentry/raven-js-examples/labels/dependencies",
+    "name": "dependencies",
+    "color": "0366d6",
+    "default": false,
+    "description": "Pull requests that update a dependency file"
+  },
+  {
+    "id": 281455039,
+    "node_id": "MDU6TGFiZWwyODE0NTUwMzk=",
+    "url": "https://api.github.com/repos/getsentry/raven-js-examples/labels/duplicate",
+    "name": "duplicate",
+    "color": "cccccc",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 281455040,
+    "node_id": "MDU6TGFiZWwyODE0NTUwNDA=",
+    "url": "https://api.github.com/repos/getsentry/raven-js-examples/labels/enhancement",
+    "name": "enhancement",
+    "color": "84b6eb",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 281455041,
+    "node_id": "MDU6TGFiZWwyODE0NTUwNDE=",
+    "url": "https://api.github.com/repos/getsentry/raven-js-examples/labels/help%20wanted",
+    "name": "help wanted",
+    "color": "159818",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 281455042,
+    "node_id": "MDU6TGFiZWwyODE0NTUwNDI=",
+    "url": "https://api.github.com/repos/getsentry/raven-js-examples/labels/invalid",
+    "name": "invalid",
+    "color": "e6e6e6",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 281455043,
+    "node_id": "MDU6TGFiZWwyODE0NTUwNDM=",
+    "url": "https://api.github.com/repos/getsentry/raven-js-examples/labels/question",
+    "name": "question",
+    "color": "cc317c",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 281455044,
+    "node_id": "MDU6TGFiZWwyODE0NTUwNDQ=",
+    "url": "https://api.github.com/repos/getsentry/raven-js-examples/labels/wontfix",
+    "name": "wontfix",
+    "color": "ffffff",
+    "default": true,
+    "description": null
+  }
+]

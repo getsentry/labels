@@ -1,0 +1,236 @@
+[
+  {
+    "id": 1897071587,
+    "node_id": "MDU6TGFiZWwxODk3MDcxNTg3",
+    "url": "https://api.github.com/repos/getsentry/sentry-cli/labels/blocked",
+    "name": "blocked",
+    "color": "b60205",
+    "default": false,
+    "description": ""
+  },
+  {
+    "id": 1935596053,
+    "node_id": "MDU6TGFiZWwxOTM1NTk2MDUz",
+    "url": "https://api.github.com/repos/getsentry/sentry-cli/labels/breaking",
+    "name": "breaking",
+    "color": "222222",
+    "default": false,
+    "description": ""
+  },
+  {
+    "id": 322224456,
+    "node_id": "MDU6TGFiZWwzMjIyMjQ0NTY=",
+    "url": "https://api.github.com/repos/getsentry/sentry-cli/labels/bug",
+    "name": "bug",
+    "color": "fc2929",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 807489507,
+    "node_id": "MDU6TGFiZWw4MDc0ODk1MDc=",
+    "url": "https://api.github.com/repos/getsentry/sentry-cli/labels/component:%20appcenter",
+    "name": "component: appcenter",
+    "color": "e89c5a",
+    "default": false,
+    "description": ""
+  },
+  {
+    "id": 807500407,
+    "node_id": "MDU6TGFiZWw4MDc1MDA0MDc=",
+    "url": "https://api.github.com/repos/getsentry/sentry-cli/labels/component:%20config",
+    "name": "component: config",
+    "color": "e89c5a",
+    "default": false,
+    "description": null
+  },
+  {
+    "id": 807489086,
+    "node_id": "MDU6TGFiZWw4MDc0ODkwODY=",
+    "url": "https://api.github.com/repos/getsentry/sentry-cli/labels/component:%20javascript",
+    "name": "component: javascript",
+    "color": "e89c5a",
+    "default": false,
+    "description": null
+  },
+  {
+    "id": 1596835842,
+    "node_id": "MDU6TGFiZWwxNTk2ODM1ODQy",
+    "url": "https://api.github.com/repos/getsentry/sentry-cli/labels/component:%20proguard",
+    "name": "component: proguard",
+    "color": "e89c5a",
+    "default": false,
+    "description": ""
+  },
+  {
+    "id": 807490248,
+    "node_id": "MDU6TGFiZWw4MDc0OTAyNDg=",
+    "url": "https://api.github.com/repos/getsentry/sentry-cli/labels/component:%20react-native",
+    "name": "component: react-native",
+    "color": "e89c5a",
+    "default": false,
+    "description": null
+  },
+  {
+    "id": 807489932,
+    "node_id": "MDU6TGFiZWw4MDc0ODk5MzI=",
+    "url": "https://api.github.com/repos/getsentry/sentry-cli/labels/component:%20releases",
+    "name": "component: releases",
+    "color": "e89c5a",
+    "default": false,
+    "description": null
+  },
+  {
+    "id": 807489795,
+    "node_id": "MDU6TGFiZWw4MDc0ODk3OTU=",
+    "url": "https://api.github.com/repos/getsentry/sentry-cli/labels/component:%20symbols",
+    "name": "component: symbols",
+    "color": "e89c5a",
+    "default": false,
+    "description": null
+  },
+  {
+    "id": 807489368,
+    "node_id": "MDU6TGFiZWw4MDc0ODkzNjg=",
+    "url": "https://api.github.com/repos/getsentry/sentry-cli/labels/component:%20xcode",
+    "name": "component: xcode",
+    "color": "e89c5a",
+    "default": false,
+    "description": null
+  },
+  {
+    "id": 2210727938,
+    "node_id": "MDU6TGFiZWwyMjEwNzI3OTM4",
+    "url": "https://api.github.com/repos/getsentry/sentry-cli/labels/dependencies",
+    "name": "dependencies",
+    "color": "0366d6",
+    "default": false,
+    "description": "Pull requests that update a dependency file"
+  },
+  {
+    "id": 648940254,
+    "node_id": "MDU6TGFiZWw2NDg5NDAyNTQ=",
+    "url": "https://api.github.com/repos/getsentry/sentry-cli/labels/docs",
+    "name": "docs",
+    "color": "bfdadc",
+    "default": false,
+    "description": null
+  },
+  {
+    "id": 322224458,
+    "node_id": "MDU6TGFiZWwzMjIyMjQ0NTg=",
+    "url": "https://api.github.com/repos/getsentry/sentry-cli/labels/enhancement",
+    "name": "enhancement",
+    "color": "84b6eb",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 1897070816,
+    "node_id": "MDU6TGFiZWwxODk3MDcwODE2",
+    "url": "https://api.github.com/repos/getsentry/sentry-cli/labels/feature",
+    "name": "feature",
+    "color": "49ffc5",
+    "default": false,
+    "description": ""
+  },
+  {
+    "id": 322224459,
+    "node_id": "MDU6TGFiZWwzMjIyMjQ0NTk=",
+    "url": "https://api.github.com/repos/getsentry/sentry-cli/labels/help%20wanted",
+    "name": "help wanted",
+    "color": "159818",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 807485243,
+    "node_id": "MDU6TGFiZWw4MDc0ODUyNDM=",
+    "url": "https://api.github.com/repos/getsentry/sentry-cli/labels/installation:%20docker",
+    "name": "installation: docker",
+    "color": "f8f9ae",
+    "default": false,
+    "description": null
+  },
+  {
+    "id": 807485351,
+    "node_id": "MDU6TGFiZWw4MDc0ODUzNTE=",
+    "url": "https://api.github.com/repos/getsentry/sentry-cli/labels/installation:%20npm",
+    "name": "installation: npm",
+    "color": "f8f9ae",
+    "default": false,
+    "description": null
+  },
+  {
+    "id": 807487680,
+    "node_id": "MDU6TGFiZWw4MDc0ODc2ODA=",
+    "url": "https://api.github.com/repos/getsentry/sentry-cli/labels/installation:%20other",
+    "name": "installation: other",
+    "color": "f8f9ae",
+    "default": false,
+    "description": null
+  },
+  {
+    "id": 648939623,
+    "node_id": "MDU6TGFiZWw2NDg5Mzk2MjM=",
+    "url": "https://api.github.com/repos/getsentry/sentry-cli/labels/need%20more%20information",
+    "name": "need more information",
+    "color": "0e8a16",
+    "default": false,
+    "description": null
+  },
+  {
+    "id": 1897070231,
+    "node_id": "MDU6TGFiZWwxODk3MDcwMjMx",
+    "url": "https://api.github.com/repos/getsentry/sentry-cli/labels/need%20reproduction",
+    "name": "need reproduction",
+    "color": "e8279e",
+    "default": false,
+    "description": ""
+  },
+  {
+    "id": 807485879,
+    "node_id": "MDU6TGFiZWw4MDc0ODU4Nzk=",
+    "url": "https://api.github.com/repos/getsentry/sentry-cli/labels/os:%20linux",
+    "name": "os: linux",
+    "color": "ffc9ba",
+    "default": false,
+    "description": null
+  },
+  {
+    "id": 807485790,
+    "node_id": "MDU6TGFiZWw4MDc0ODU3OTA=",
+    "url": "https://api.github.com/repos/getsentry/sentry-cli/labels/os:%20macos",
+    "name": "os: macos",
+    "color": "ffc9ba",
+    "default": false,
+    "description": null
+  },
+  {
+    "id": 807486074,
+    "node_id": "MDU6TGFiZWw4MDc0ODYwNzQ=",
+    "url": "https://api.github.com/repos/getsentry/sentry-cli/labels/os:%20other",
+    "name": "os: other",
+    "color": "ffc9ba",
+    "default": false,
+    "description": null
+  },
+  {
+    "id": 807485944,
+    "node_id": "MDU6TGFiZWw4MDc0ODU5NDQ=",
+    "url": "https://api.github.com/repos/getsentry/sentry-cli/labels/os:%20windows",
+    "name": "os: windows",
+    "color": "ffc9ba",
+    "default": false,
+    "description": null
+  },
+  {
+    "id": 322224461,
+    "node_id": "MDU6TGFiZWwzMjIyMjQ0NjE=",
+    "url": "https://api.github.com/repos/getsentry/sentry-cli/labels/question",
+    "name": "question",
+    "color": "cc317c",
+    "default": true,
+    "description": null
+  }
+]

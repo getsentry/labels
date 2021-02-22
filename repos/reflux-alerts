@@ -1,0 +1,65 @@
+[
+  {
+    "id": 162985331,
+    "node_id": "MDU6TGFiZWwxNjI5ODUzMzE=",
+    "url": "https://api.github.com/repos/getsentry/reflux-alerts/labels/bug",
+    "name": "bug",
+    "color": "fc2929",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 162985332,
+    "node_id": "MDU6TGFiZWwxNjI5ODUzMzI=",
+    "url": "https://api.github.com/repos/getsentry/reflux-alerts/labels/duplicate",
+    "name": "duplicate",
+    "color": "cccccc",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 162985333,
+    "node_id": "MDU6TGFiZWwxNjI5ODUzMzM=",
+    "url": "https://api.github.com/repos/getsentry/reflux-alerts/labels/enhancement",
+    "name": "enhancement",
+    "color": "84b6eb",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 162985334,
+    "node_id": "MDU6TGFiZWwxNjI5ODUzMzQ=",
+    "url": "https://api.github.com/repos/getsentry/reflux-alerts/labels/help%20wanted",
+    "name": "help wanted",
+    "color": "159818",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 162985335,
+    "node_id": "MDU6TGFiZWwxNjI5ODUzMzU=",
+    "url": "https://api.github.com/repos/getsentry/reflux-alerts/labels/invalid",
+    "name": "invalid",
+    "color": "e6e6e6",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 162985336,
+    "node_id": "MDU6TGFiZWwxNjI5ODUzMzY=",
+    "url": "https://api.github.com/repos/getsentry/reflux-alerts/labels/question",
+    "name": "question",
+    "color": "cc317c",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 162985337,
+    "node_id": "MDU6TGFiZWwxNjI5ODUzMzc=",
+    "url": "https://api.github.com/repos/getsentry/reflux-alerts/labels/wontfix",
+    "name": "wontfix",
+    "color": "ffffff",
+    "default": true,
+    "description": null
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "id": 233151211,
+    "node_id": "MDU6TGFiZWwyMzMxNTEyMTE=",
+    "url": "https://api.github.com/repos/getsentry/raven-aiohttp/labels/bug",
+    "name": "bug",
+    "color": "fc2929",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 233151212,
+    "node_id": "MDU6TGFiZWwyMzMxNTEyMTI=",
+    "url": "https://api.github.com/repos/getsentry/raven-aiohttp/labels/duplicate",
+    "name": "duplicate",
+    "color": "cccccc",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 233151213,
+    "node_id": "MDU6TGFiZWwyMzMxNTEyMTM=",
+    "url": "https://api.github.com/repos/getsentry/raven-aiohttp/labels/enhancement",
+    "name": "enhancement",
+    "color": "84b6eb",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 233151214,
+    "node_id": "MDU6TGFiZWwyMzMxNTEyMTQ=",
+    "url": "https://api.github.com/repos/getsentry/raven-aiohttp/labels/help%20wanted",
+    "name": "help wanted",
+    "color": "159818",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 233151215,
+    "node_id": "MDU6TGFiZWwyMzMxNTEyMTU=",
+    "url": "https://api.github.com/repos/getsentry/raven-aiohttp/labels/invalid",
+    "name": "invalid",
+    "color": "e6e6e6",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 233151216,
+    "node_id": "MDU6TGFiZWwyMzMxNTEyMTY=",
+    "url": "https://api.github.com/repos/getsentry/raven-aiohttp/labels/question",
+    "name": "question",
+    "color": "cc317c",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 233151217,
+    "node_id": "MDU6TGFiZWwyMzMxNTEyMTc=",
+    "url": "https://api.github.com/repos/getsentry/raven-aiohttp/labels/wontfix",
+    "name": "wontfix",
+    "color": "ffffff",
+    "default": true,
+    "description": null
+  }
+]

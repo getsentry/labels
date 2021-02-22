@@ -1,0 +1,74 @@
+[
+  {
+    "id": 883021461,
+    "node_id": "MDU6TGFiZWw4ODMwMjE0NjE=",
+    "url": "https://api.github.com/repos/getsentry/rust-debugid/labels/bug",
+    "name": "bug",
+    "color": "d73a4a",
+    "default": true,
+    "description": "Something isn't working"
+  },
+  {
+    "id": 883021464,
+    "node_id": "MDU6TGFiZWw4ODMwMjE0NjQ=",
+    "url": "https://api.github.com/repos/getsentry/rust-debugid/labels/duplicate",
+    "name": "duplicate",
+    "color": "cfd3d7",
+    "default": true,
+    "description": "This issue or pull request already exists"
+  },
+  {
+    "id": 883021466,
+    "node_id": "MDU6TGFiZWw4ODMwMjE0NjY=",
+    "url": "https://api.github.com/repos/getsentry/rust-debugid/labels/enhancement",
+    "name": "enhancement",
+    "color": "a2eeef",
+    "default": true,
+    "description": "New feature or request"
+  },
+  {
+    "id": 883021471,
+    "node_id": "MDU6TGFiZWw4ODMwMjE0NzE=",
+    "url": "https://api.github.com/repos/getsentry/rust-debugid/labels/good%20first%20issue",
+    "name": "good first issue",
+    "color": "7057ff",
+    "default": true,
+    "description": "Good for newcomers"
+  },
+  {
+    "id": 883021468,
+    "node_id": "MDU6TGFiZWw4ODMwMjE0Njg=",
+    "url": "https://api.github.com/repos/getsentry/rust-debugid/labels/help%20wanted",
+    "name": "help wanted",
+    "color": "008672",
+    "default": true,
+    "description": "Extra attention is needed"
+  },
+  {
+    "id": 883021474,
+    "node_id": "MDU6TGFiZWw4ODMwMjE0NzQ=",
+    "url": "https://api.github.com/repos/getsentry/rust-debugid/labels/invalid",
+    "name": "invalid",
+    "color": "e4e669",
+    "default": true,
+    "description": "This doesn't seem right"
+  },
+  {
+    "id": 883021475,
+    "node_id": "MDU6TGFiZWw4ODMwMjE0NzU=",
+    "url": "https://api.github.com/repos/getsentry/rust-debugid/labels/question",
+    "name": "question",
+    "color": "d876e3",
+    "default": true,
+    "description": "Further information is requested"
+  },
+  {
+    "id": 883021476,
+    "node_id": "MDU6TGFiZWw4ODMwMjE0NzY=",
+    "url": "https://api.github.com/repos/getsentry/rust-debugid/labels/wontfix",
+    "name": "wontfix",
+    "color": "ffffff",
+    "default": true,
+    "description": "This will not be worked on"
+  }
+]

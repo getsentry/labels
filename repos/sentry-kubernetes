@@ -1,0 +1,83 @@
+[
+  {
+    "id": 742345602,
+    "node_id": "MDU6TGFiZWw3NDIzNDU2MDI=",
+    "url": "https://api.github.com/repos/getsentry/sentry-kubernetes/labels/bug",
+    "name": "bug",
+    "color": "ee0701",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 1629587777,
+    "node_id": "MDU6TGFiZWwxNjI5NTg3Nzc3",
+    "url": "https://api.github.com/repos/getsentry/sentry-kubernetes/labels/dependencies",
+    "name": "dependencies",
+    "color": "0366d6",
+    "default": false,
+    "description": "Pull requests that update a dependency file"
+  },
+  {
+    "id": 742345603,
+    "node_id": "MDU6TGFiZWw3NDIzNDU2MDM=",
+    "url": "https://api.github.com/repos/getsentry/sentry-kubernetes/labels/duplicate",
+    "name": "duplicate",
+    "color": "cccccc",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 742345604,
+    "node_id": "MDU6TGFiZWw3NDIzNDU2MDQ=",
+    "url": "https://api.github.com/repos/getsentry/sentry-kubernetes/labels/enhancement",
+    "name": "enhancement",
+    "color": "84b6eb",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 742345606,
+    "node_id": "MDU6TGFiZWw3NDIzNDU2MDY=",
+    "url": "https://api.github.com/repos/getsentry/sentry-kubernetes/labels/good%20first%20issue",
+    "name": "good first issue",
+    "color": "7057ff",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 742345605,
+    "node_id": "MDU6TGFiZWw3NDIzNDU2MDU=",
+    "url": "https://api.github.com/repos/getsentry/sentry-kubernetes/labels/help%20wanted",
+    "name": "help wanted",
+    "color": "33aa3f",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 742345607,
+    "node_id": "MDU6TGFiZWw3NDIzNDU2MDc=",
+    "url": "https://api.github.com/repos/getsentry/sentry-kubernetes/labels/invalid",
+    "name": "invalid",
+    "color": "e6e6e6",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 742345608,
+    "node_id": "MDU6TGFiZWw3NDIzNDU2MDg=",
+    "url": "https://api.github.com/repos/getsentry/sentry-kubernetes/labels/question",
+    "name": "question",
+    "color": "cc317c",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 742345609,
+    "node_id": "MDU6TGFiZWw3NDIzNDU2MDk=",
+    "url": "https://api.github.com/repos/getsentry/sentry-kubernetes/labels/wontfix",
+    "name": "wontfix",
+    "color": "ffffff",
+    "default": true,
+    "description": null
+  }
+]

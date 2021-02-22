@@ -1,0 +1,65 @@
+[
+  {
+    "id": 255702047,
+    "node_id": "MDU6TGFiZWwyNTU3MDIwNDc=",
+    "url": "https://api.github.com/repos/getsentry/heroku-buildpack-cffi/labels/bug",
+    "name": "bug",
+    "color": "fc2929",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 255702048,
+    "node_id": "MDU6TGFiZWwyNTU3MDIwNDg=",
+    "url": "https://api.github.com/repos/getsentry/heroku-buildpack-cffi/labels/duplicate",
+    "name": "duplicate",
+    "color": "cccccc",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 255702049,
+    "node_id": "MDU6TGFiZWwyNTU3MDIwNDk=",
+    "url": "https://api.github.com/repos/getsentry/heroku-buildpack-cffi/labels/enhancement",
+    "name": "enhancement",
+    "color": "84b6eb",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 255702050,
+    "node_id": "MDU6TGFiZWwyNTU3MDIwNTA=",
+    "url": "https://api.github.com/repos/getsentry/heroku-buildpack-cffi/labels/help%20wanted",
+    "name": "help wanted",
+    "color": "159818",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 255702051,
+    "node_id": "MDU6TGFiZWwyNTU3MDIwNTE=",
+    "url": "https://api.github.com/repos/getsentry/heroku-buildpack-cffi/labels/invalid",
+    "name": "invalid",
+    "color": "e6e6e6",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 255702052,
+    "node_id": "MDU6TGFiZWwyNTU3MDIwNTI=",
+    "url": "https://api.github.com/repos/getsentry/heroku-buildpack-cffi/labels/question",
+    "name": "question",
+    "color": "cc317c",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 255702053,
+    "node_id": "MDU6TGFiZWwyNTU3MDIwNTM=",
+    "url": "https://api.github.com/repos/getsentry/heroku-buildpack-cffi/labels/wontfix",
+    "name": "wontfix",
+    "color": "ffffff",
+    "default": true,
+    "description": null
+  }
+]

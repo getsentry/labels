@@ -81,19 +81,10 @@
     "description": ""
   },
   {
-    "id": 2640243077,
-    "node_id": "MDU6TGFiZWwyNjQwMjQzMDc3",
-    "url": "https://api.github.com/repos/getsentry/sentry-docs/labels/Status:%20Backlog",
-    "name": "Status: Backlog",
-    "color": "8D5494",
-    "default": false,
-    "description": "stalebot will ignore"
-  },
-  {
     "id": 2632035927,
     "node_id": "MDU6TGFiZWwyNjMyMDM1OTI3",
-    "url": "https://api.github.com/repos/getsentry/sentry-docs/labels/Status:%20In%20Progress",
-    "name": "Status: In Progress",
+    "url": "https://api.github.com/repos/getsentry/sentry-docs/labels/Status:%20Accepted",
+    "name": "Status: Accepted",
     "color": "8D5494",
     "default": false,
     "description": "stalebot will ignore"
@@ -106,6 +97,15 @@
     "color": "8D5494",
     "default": false,
     "description": "stalebot will close after four weeks of inactivity"
+  },
+  {
+    "id": 2640243077,
+    "node_id": "MDU6TGFiZWwyNjQwMjQzMDc3",
+    "url": "https://api.github.com/repos/getsentry/sentry-docs/labels/Status:%20On%20Hold",
+    "name": "Status: On Hold",
+    "color": "8D5494",
+    "default": false,
+    "description": "stalebot will ignore"
   },
   {
     "id": 2632036301,
@@ -130,7 +130,7 @@
     "node_id": "MDU6TGFiZWwyNzYzMzA1OTkx",
     "url": "https://api.github.com/repos/getsentry/sentry-docs/labels/Status:%20Untriaged",
     "name": "Status: Untriaged",
-    "color": "584774",
+    "color": "8D5494",
     "default": false,
     "description": "stalebot will close after four weeks of inactivity"
   },
@@ -268,5 +268,68 @@
     "color": "00E954",
     "default": false,
     "description": ""
+  },
+  {
+    "id": 198827711,
+    "node_id": "MDU6TGFiZWwxOTg4Mjc3MTE=",
+    "url": "https://api.github.com/repos/getsentry/sentry-docs/labels/question",
+    "name": "question",
+    "color": "cc317c",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 2652607626,
+    "node_id": "MDU6TGFiZWwyNjUyNjA3NjI2",
+    "url": "https://api.github.com/repos/getsentry/sentry-docs/labels/release%20health",
+    "name": "release health",
+    "color": "3B6CA4",
+    "default": false,
+    "description": ""
+  },
+  {
+    "id": 1742985757,
+    "node_id": "MDU6TGFiZWwxNzQyOTg1NzU3",
+    "url": "https://api.github.com/repos/getsentry/sentry-docs/labels/ruby",
+    "name": "ruby",
+    "color": "ce2d2d",
+    "default": false,
+    "description": "Pull requests that update Ruby code"
+  },
+  {
+    "id": 2708387242,
+    "node_id": "MDU6TGFiZWwyNzA4Mzg3MjQy",
+    "url": "https://api.github.com/repos/getsentry/sentry-docs/labels/unreal",
+    "name": "unreal",
+    "color": "23A5D4",
+    "default": false,
+    "description": ""
+  },
+  {
+    "id": 2584070114,
+    "node_id": "MDU6TGFiZWwyNTg0MDcwMTE0",
+    "url": "https://api.github.com/repos/getsentry/sentry-docs/labels/up-for-grabs",
+    "name": "up-for-grabs",
+    "color": "dd66b1",
+    "default": false,
+    "description": ""
+  },
+  {
+    "id": 1000028246,
+    "node_id": "MDU6TGFiZWwxMDAwMDI4MjQ2",
+    "url": "https://api.github.com/repos/getsentry/sentry-docs/labels/wip",
+    "name": "wip",
+    "color": "39cec4",
+    "default": false,
+    "description": ""
+  },
+  {
+    "id": 198827712,
+    "node_id": "MDU6TGFiZWwxOTg4Mjc3MTI=",
+    "url": "https://api.github.com/repos/getsentry/sentry-docs/labels/wontfix",
+    "name": "wontfix",
+    "color": "ffffff",
+    "default": true,
+    "description": null
   }
 ]

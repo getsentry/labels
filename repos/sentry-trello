@@ -1,0 +1,56 @@
+[
+  {
+    "id": 49771015,
+    "node_id": "MDU6TGFiZWw0OTc3MTAxNQ==",
+    "url": "https://api.github.com/repos/getsentry/sentry-trello/labels/bug",
+    "name": "bug",
+    "color": "fc2929",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 49771016,
+    "node_id": "MDU6TGFiZWw0OTc3MTAxNg==",
+    "url": "https://api.github.com/repos/getsentry/sentry-trello/labels/duplicate",
+    "name": "duplicate",
+    "color": "cccccc",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 49771017,
+    "node_id": "MDU6TGFiZWw0OTc3MTAxNw==",
+    "url": "https://api.github.com/repos/getsentry/sentry-trello/labels/enhancement",
+    "name": "enhancement",
+    "color": "84b6eb",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 49771018,
+    "node_id": "MDU6TGFiZWw0OTc3MTAxOA==",
+    "url": "https://api.github.com/repos/getsentry/sentry-trello/labels/invalid",
+    "name": "invalid",
+    "color": "e6e6e6",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 49771019,
+    "node_id": "MDU6TGFiZWw0OTc3MTAxOQ==",
+    "url": "https://api.github.com/repos/getsentry/sentry-trello/labels/question",
+    "name": "question",
+    "color": "cc317c",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 49771020,
+    "node_id": "MDU6TGFiZWw0OTc3MTAyMA==",
+    "url": "https://api.github.com/repos/getsentry/sentry-trello/labels/wontfix",
+    "name": "wontfix",
+    "color": "ffffff",
+    "default": true,
+    "description": null
+  }
+]

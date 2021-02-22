@@ -1,0 +1,83 @@
+[
+  {
+    "id": 1778551985,
+    "node_id": "MDU6TGFiZWwxNzc4NTUxOTg1",
+    "url": "https://api.github.com/repos/getsentry/reload/labels/WIP",
+    "name": "WIP",
+    "color": "d93f0b",
+    "default": false,
+    "description": ""
+  },
+  {
+    "id": 476099754,
+    "node_id": "MDU6TGFiZWw0NzYwOTk3NTQ=",
+    "url": "https://api.github.com/repos/getsentry/reload/labels/bug",
+    "name": "bug",
+    "color": "ee0701",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 1645870225,
+    "node_id": "MDU6TGFiZWwxNjQ1ODcwMjI1",
+    "url": "https://api.github.com/repos/getsentry/reload/labels/dependencies",
+    "name": "dependencies",
+    "color": "0366d6",
+    "default": false,
+    "description": "Pull requests that update a dependency file"
+  },
+  {
+    "id": 476099755,
+    "node_id": "MDU6TGFiZWw0NzYwOTk3NTU=",
+    "url": "https://api.github.com/repos/getsentry/reload/labels/duplicate",
+    "name": "duplicate",
+    "color": "cccccc",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 476099756,
+    "node_id": "MDU6TGFiZWw0NzYwOTk3NTY=",
+    "url": "https://api.github.com/repos/getsentry/reload/labels/enhancement",
+    "name": "enhancement",
+    "color": "84b6eb",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 476099757,
+    "node_id": "MDU6TGFiZWw0NzYwOTk3NTc=",
+    "url": "https://api.github.com/repos/getsentry/reload/labels/help%20wanted",
+    "name": "help wanted",
+    "color": "128A0C",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 476099758,
+    "node_id": "MDU6TGFiZWw0NzYwOTk3NTg=",
+    "url": "https://api.github.com/repos/getsentry/reload/labels/invalid",
+    "name": "invalid",
+    "color": "e6e6e6",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 476099759,
+    "node_id": "MDU6TGFiZWw0NzYwOTk3NTk=",
+    "url": "https://api.github.com/repos/getsentry/reload/labels/question",
+    "name": "question",
+    "color": "cc317c",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 476099760,
+    "node_id": "MDU6TGFiZWw0NzYwOTk3NjA=",
+    "url": "https://api.github.com/repos/getsentry/reload/labels/wontfix",
+    "name": "wontfix",
+    "color": "ffffff",
+    "default": true,
+    "description": null
+  }
+]

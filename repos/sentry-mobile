@@ -1,0 +1,110 @@
+[
+  {
+    "id": 2248628193,
+    "node_id": "MDU6TGFiZWwyMjQ4NjI4MTkz",
+    "url": "https://api.github.com/repos/getsentry/sentry-mobile/labels/bug",
+    "name": "bug",
+    "color": "d73a4a",
+    "default": true,
+    "description": "Something isn't working"
+  },
+  {
+    "id": 2344344229,
+    "node_id": "MDU6TGFiZWwyMzQ0MzQ0MjI5",
+    "url": "https://api.github.com/repos/getsentry/sentry-mobile/labels/dependencies",
+    "name": "dependencies",
+    "color": "0366d6",
+    "default": false,
+    "description": "Pull requests that update a dependency file"
+  },
+  {
+    "id": 2248628194,
+    "node_id": "MDU6TGFiZWwyMjQ4NjI4MTk0",
+    "url": "https://api.github.com/repos/getsentry/sentry-mobile/labels/documentation",
+    "name": "documentation",
+    "color": "0075ca",
+    "default": true,
+    "description": "Improvements or additions to documentation"
+  },
+  {
+    "id": 2762761262,
+    "node_id": "MDU6TGFiZWwyNzYyNzYxMjYy",
+    "url": "https://api.github.com/repos/getsentry/sentry-mobile/labels/don't%20merge",
+    "name": "don't merge",
+    "color": "880A15",
+    "default": false,
+    "description": ""
+  },
+  {
+    "id": 2248628195,
+    "node_id": "MDU6TGFiZWwyMjQ4NjI4MTk1",
+    "url": "https://api.github.com/repos/getsentry/sentry-mobile/labels/duplicate",
+    "name": "duplicate",
+    "color": "cfd3d7",
+    "default": true,
+    "description": "This issue or pull request already exists"
+  },
+  {
+    "id": 2248628196,
+    "node_id": "MDU6TGFiZWwyMjQ4NjI4MTk2",
+    "url": "https://api.github.com/repos/getsentry/sentry-mobile/labels/enhancement",
+    "name": "enhancement",
+    "color": "a2eeef",
+    "default": true,
+    "description": "New feature or request"
+  },
+  {
+    "id": 2487404101,
+    "node_id": "MDU6TGFiZWwyNDg3NDA0MTAx",
+    "url": "https://api.github.com/repos/getsentry/sentry-mobile/labels/feat",
+    "name": "feat",
+    "color": "07bf38",
+    "default": false,
+    "description": "Feature"
+  },
+  {
+    "id": 2248628197,
+    "node_id": "MDU6TGFiZWwyMjQ4NjI4MTk3",
+    "url": "https://api.github.com/repos/getsentry/sentry-mobile/labels/good%20first%20issue",
+    "name": "good first issue",
+    "color": "7057ff",
+    "default": true,
+    "description": "Good for newcomers"
+  },
+  {
+    "id": 2248628199,
+    "node_id": "MDU6TGFiZWwyMjQ4NjI4MTk5",
+    "url": "https://api.github.com/repos/getsentry/sentry-mobile/labels/invalid",
+    "name": "invalid",
+    "color": "e4e669",
+    "default": true,
+    "description": "This doesn't seem right"
+  },
+  {
+    "id": 2248628198,
+    "node_id": "MDU6TGFiZWwyMjQ4NjI4MTk4",
+    "url": "https://api.github.com/repos/getsentry/sentry-mobile/labels/needs%20discussion",
+    "name": "needs discussion",
+    "color": "008672",
+    "default": false,
+    "description": "Extra discussion is needed"
+  },
+  {
+    "id": 2248628200,
+    "node_id": "MDU6TGFiZWwyMjQ4NjI4MjAw",
+    "url": "https://api.github.com/repos/getsentry/sentry-mobile/labels/question",
+    "name": "question",
+    "color": "d876e3",
+    "default": true,
+    "description": "Further information is requested"
+  },
+  {
+    "id": 2248628201,
+    "node_id": "MDU6TGFiZWwyMjQ4NjI4MjAx",
+    "url": "https://api.github.com/repos/getsentry/sentry-mobile/labels/wontfix",
+    "name": "wontfix",
+    "color": "ffffff",
+    "default": true,
+    "description": "This will not be worked on"
+  }
+]

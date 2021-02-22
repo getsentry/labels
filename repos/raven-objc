@@ -1,0 +1,56 @@
+[
+  {
+    "id": 5720555,
+    "node_id": "MDU6TGFiZWw1NzIwNTU1",
+    "url": "https://api.github.com/repos/getsentry/raven-objc/labels/bug",
+    "name": "bug",
+    "color": "fc2929",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 5720556,
+    "node_id": "MDU6TGFiZWw1NzIwNTU2",
+    "url": "https://api.github.com/repos/getsentry/raven-objc/labels/duplicate",
+    "name": "duplicate",
+    "color": "cccccc",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 5720557,
+    "node_id": "MDU6TGFiZWw1NzIwNTU3",
+    "url": "https://api.github.com/repos/getsentry/raven-objc/labels/enhancement",
+    "name": "enhancement",
+    "color": "84b6eb",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 5720558,
+    "node_id": "MDU6TGFiZWw1NzIwNTU4",
+    "url": "https://api.github.com/repos/getsentry/raven-objc/labels/invalid",
+    "name": "invalid",
+    "color": "e6e6e6",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 5720559,
+    "node_id": "MDU6TGFiZWw1NzIwNTU5",
+    "url": "https://api.github.com/repos/getsentry/raven-objc/labels/question",
+    "name": "question",
+    "color": "cc317c",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 5720560,
+    "node_id": "MDU6TGFiZWw1NzIwNTYw",
+    "url": "https://api.github.com/repos/getsentry/raven-objc/labels/wontfix",
+    "name": "wontfix",
+    "color": "ffffff",
+    "default": true,
+    "description": null
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1969314964,
+    "node_id": "MDU6TGFiZWwxOTY5MzE0OTY0",
+    "url": "https://api.github.com/repos/getsentry/flagr/labels/bug",
+    "name": "bug",
+    "color": "d73a4a",
+    "default": true,
+    "description": "Something isn't working"
+  },
+  {
+    "id": 2635933919,
+    "node_id": "MDU6TGFiZWwyNjM1OTMzOTE5",
+    "url": "https://api.github.com/repos/getsentry/flagr/labels/dependencies",
+    "name": "dependencies",
+    "color": "0366d6",
+    "default": false,
+    "description": "Pull requests that update a dependency file"
+  },
+  {
+    "id": 1969314965,
+    "node_id": "MDU6TGFiZWwxOTY5MzE0OTY1",
+    "url": "https://api.github.com/repos/getsentry/flagr/labels/documentation",
+    "name": "documentation",
+    "color": "0075ca",
+    "default": true,
+    "description": "Improvements or additions to documentation"
+  },
+  {
+    "id": 1969314966,
+    "node_id": "MDU6TGFiZWwxOTY5MzE0OTY2",
+    "url": "https://api.github.com/repos/getsentry/flagr/labels/duplicate",
+    "name": "duplicate",
+    "color": "cfd3d7",
+    "default": true,
+    "description": "This issue or pull request already exists"
+  },
+  {
+    "id": 1969314967,
+    "node_id": "MDU6TGFiZWwxOTY5MzE0OTY3",
+    "url": "https://api.github.com/repos/getsentry/flagr/labels/enhancement",
+    "name": "enhancement",
+    "color": "a2eeef",
+    "default": true,
+    "description": "New feature or request"
+  },
+  {
+    "id": 1969314968,
+    "node_id": "MDU6TGFiZWwxOTY5MzE0OTY4",
+    "url": "https://api.github.com/repos/getsentry/flagr/labels/good%20first%20issue",
+    "name": "good first issue",
+    "color": "7057ff",
+    "default": true,
+    "description": "Good for newcomers"
+  },
+  {
+    "id": 1969314969,
+    "node_id": "MDU6TGFiZWwxOTY5MzE0OTY5",
+    "url": "https://api.github.com/repos/getsentry/flagr/labels/help%20wanted",
+    "name": "help wanted",
+    "color": "008672",
+    "default": true,
+    "description": "Extra attention is needed"
+  },
+  {
+    "id": 1969314970,
+    "node_id": "MDU6TGFiZWwxOTY5MzE0OTcw",
+    "url": "https://api.github.com/repos/getsentry/flagr/labels/invalid",
+    "name": "invalid",
+    "color": "e4e669",
+    "default": true,
+    "description": "This doesn't seem right"
+  },
+  {
+    "id": 1969314972,
+    "node_id": "MDU6TGFiZWwxOTY5MzE0OTcy",
+    "url": "https://api.github.com/repos/getsentry/flagr/labels/question",
+    "name": "question",
+    "color": "d876e3",
+    "default": true,
+    "description": "Further information is requested"
+  },
+  {
+    "id": 1969314973,
+    "node_id": "MDU6TGFiZWwxOTY5MzE0OTcz",
+    "url": "https://api.github.com/repos/getsentry/flagr/labels/wontfix",
+    "name": "wontfix",
+    "color": "ffffff",
+    "default": true,
+    "description": "This will not be worked on"
+  }
+]

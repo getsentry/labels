@@ -1,0 +1,83 @@
+[
+  {
+    "id": 2567869730,
+    "node_id": "MDU6TGFiZWwyNTY3ODY5NzMw",
+    "url": "https://api.github.com/repos/getsentry/action-github-slug/labels/bug",
+    "name": "bug",
+    "color": "d73a4a",
+    "default": true,
+    "description": "Something isn't working"
+  },
+  {
+    "id": 2567869732,
+    "node_id": "MDU6TGFiZWwyNTY3ODY5NzMy",
+    "url": "https://api.github.com/repos/getsentry/action-github-slug/labels/documentation",
+    "name": "documentation",
+    "color": "0075ca",
+    "default": true,
+    "description": "Improvements or additions to documentation"
+  },
+  {
+    "id": 2567869733,
+    "node_id": "MDU6TGFiZWwyNTY3ODY5NzMz",
+    "url": "https://api.github.com/repos/getsentry/action-github-slug/labels/duplicate",
+    "name": "duplicate",
+    "color": "cfd3d7",
+    "default": true,
+    "description": "This issue or pull request already exists"
+  },
+  {
+    "id": 2567869735,
+    "node_id": "MDU6TGFiZWwyNTY3ODY5NzM1",
+    "url": "https://api.github.com/repos/getsentry/action-github-slug/labels/enhancement",
+    "name": "enhancement",
+    "color": "a2eeef",
+    "default": true,
+    "description": "New feature or request"
+  },
+  {
+    "id": 2567869737,
+    "node_id": "MDU6TGFiZWwyNTY3ODY5NzM3",
+    "url": "https://api.github.com/repos/getsentry/action-github-slug/labels/good%20first%20issue",
+    "name": "good first issue",
+    "color": "7057ff",
+    "default": true,
+    "description": "Good for newcomers"
+  },
+  {
+    "id": 2567869739,
+    "node_id": "MDU6TGFiZWwyNTY3ODY5NzM5",
+    "url": "https://api.github.com/repos/getsentry/action-github-slug/labels/help%20wanted",
+    "name": "help wanted",
+    "color": "008672",
+    "default": true,
+    "description": "Extra attention is needed"
+  },
+  {
+    "id": 2567869741,
+    "node_id": "MDU6TGFiZWwyNTY3ODY5NzQx",
+    "url": "https://api.github.com/repos/getsentry/action-github-slug/labels/invalid",
+    "name": "invalid",
+    "color": "e4e669",
+    "default": true,
+    "description": "This doesn't seem right"
+  },
+  {
+    "id": 2567869743,
+    "node_id": "MDU6TGFiZWwyNTY3ODY5NzQz",
+    "url": "https://api.github.com/repos/getsentry/action-github-slug/labels/question",
+    "name": "question",
+    "color": "d876e3",
+    "default": true,
+    "description": "Further information is requested"
+  },
+  {
+    "id": 2567869745,
+    "node_id": "MDU6TGFiZWwyNTY3ODY5NzQ1",
+    "url": "https://api.github.com/repos/getsentry/action-github-slug/labels/wontfix",
+    "name": "wontfix",
+    "color": "ffffff",
+    "default": true,
+    "description": "This will not be worked on"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "id": 288865804,
+    "node_id": "MDU6TGFiZWwyODg4NjU4MDQ=",
+    "url": "https://api.github.com/repos/getsentry/babel-gettext-extractor/labels/bug",
+    "name": "bug",
+    "color": "fc2929",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 1651732016,
+    "node_id": "MDU6TGFiZWwxNjUxNzMyMDE2",
+    "url": "https://api.github.com/repos/getsentry/babel-gettext-extractor/labels/dependencies",
+    "name": "dependencies",
+    "color": "0366d6",
+    "default": false,
+    "description": "Pull requests that update a dependency file"
+  },
+  {
+    "id": 288865805,
+    "node_id": "MDU6TGFiZWwyODg4NjU4MDU=",
+    "url": "https://api.github.com/repos/getsentry/babel-gettext-extractor/labels/duplicate",
+    "name": "duplicate",
+    "color": "cccccc",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 288865806,
+    "node_id": "MDU6TGFiZWwyODg4NjU4MDY=",
+    "url": "https://api.github.com/repos/getsentry/babel-gettext-extractor/labels/enhancement",
+    "name": "enhancement",
+    "color": "84b6eb",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 288865807,
+    "node_id": "MDU6TGFiZWwyODg4NjU4MDc=",
+    "url": "https://api.github.com/repos/getsentry/babel-gettext-extractor/labels/help%20wanted",
+    "name": "help wanted",
+    "color": "159818",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 288865808,
+    "node_id": "MDU6TGFiZWwyODg4NjU4MDg=",
+    "url": "https://api.github.com/repos/getsentry/babel-gettext-extractor/labels/invalid",
+    "name": "invalid",
+    "color": "e6e6e6",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 288865809,
+    "node_id": "MDU6TGFiZWwyODg4NjU4MDk=",
+    "url": "https://api.github.com/repos/getsentry/babel-gettext-extractor/labels/question",
+    "name": "question",
+    "color": "cc317c",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 288865810,
+    "node_id": "MDU6TGFiZWwyODg4NjU4MTA=",
+    "url": "https://api.github.com/repos/getsentry/babel-gettext-extractor/labels/wontfix",
+    "name": "wontfix",
+    "color": "ffffff",
+    "default": true,
+    "description": null
+  }
+]

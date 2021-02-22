@@ -1,0 +1,83 @@
+[
+  {
+    "id": 738010198,
+    "node_id": "MDU6TGFiZWw3MzgwMTAxOTg=",
+    "url": "https://api.github.com/repos/getsentry/hackweek/labels/bug",
+    "name": "bug",
+    "color": "ee0701",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 1651732332,
+    "node_id": "MDU6TGFiZWwxNjUxNzMyMzMy",
+    "url": "https://api.github.com/repos/getsentry/hackweek/labels/dependencies",
+    "name": "dependencies",
+    "color": "0366d6",
+    "default": false,
+    "description": "Pull requests that update a dependency file"
+  },
+  {
+    "id": 738010199,
+    "node_id": "MDU6TGFiZWw3MzgwMTAxOTk=",
+    "url": "https://api.github.com/repos/getsentry/hackweek/labels/duplicate",
+    "name": "duplicate",
+    "color": "cccccc",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 738010200,
+    "node_id": "MDU6TGFiZWw3MzgwMTAyMDA=",
+    "url": "https://api.github.com/repos/getsentry/hackweek/labels/enhancement",
+    "name": "enhancement",
+    "color": "84b6eb",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 738010202,
+    "node_id": "MDU6TGFiZWw3MzgwMTAyMDI=",
+    "url": "https://api.github.com/repos/getsentry/hackweek/labels/good%20first%20issue",
+    "name": "good first issue",
+    "color": "7057ff",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 738010201,
+    "node_id": "MDU6TGFiZWw3MzgwMTAyMDE=",
+    "url": "https://api.github.com/repos/getsentry/hackweek/labels/help%20wanted",
+    "name": "help wanted",
+    "color": "33aa3f",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 738010203,
+    "node_id": "MDU6TGFiZWw3MzgwMTAyMDM=",
+    "url": "https://api.github.com/repos/getsentry/hackweek/labels/invalid",
+    "name": "invalid",
+    "color": "e6e6e6",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 738010204,
+    "node_id": "MDU6TGFiZWw3MzgwMTAyMDQ=",
+    "url": "https://api.github.com/repos/getsentry/hackweek/labels/question",
+    "name": "question",
+    "color": "cc317c",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 738010205,
+    "node_id": "MDU6TGFiZWw3MzgwMTAyMDU=",
+    "url": "https://api.github.com/repos/getsentry/hackweek/labels/wontfix",
+    "name": "wontfix",
+    "color": "ffffff",
+    "default": true,
+    "description": null
+  }
+]

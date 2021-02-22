@@ -1,0 +1,83 @@
+[
+  {
+    "id": 753542914,
+    "node_id": "MDU6TGFiZWw3NTM1NDI5MTQ=",
+    "url": "https://api.github.com/repos/getsentry/sentry-electron/labels/bug",
+    "name": "bug",
+    "color": "ee0701",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 1649457137,
+    "node_id": "MDU6TGFiZWwxNjQ5NDU3MTM3",
+    "url": "https://api.github.com/repos/getsentry/sentry-electron/labels/dependencies",
+    "name": "dependencies",
+    "color": "0366d6",
+    "default": false,
+    "description": "Pull requests that update a dependency file"
+  },
+  {
+    "id": 753542916,
+    "node_id": "MDU6TGFiZWw3NTM1NDI5MTY=",
+    "url": "https://api.github.com/repos/getsentry/sentry-electron/labels/duplicate",
+    "name": "duplicate",
+    "color": "cccccc",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 753542919,
+    "node_id": "MDU6TGFiZWw3NTM1NDI5MTk=",
+    "url": "https://api.github.com/repos/getsentry/sentry-electron/labels/enhancement",
+    "name": "enhancement",
+    "color": "84b6eb",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 753542924,
+    "node_id": "MDU6TGFiZWw3NTM1NDI5MjQ=",
+    "url": "https://api.github.com/repos/getsentry/sentry-electron/labels/good%20first%20issue",
+    "name": "good first issue",
+    "color": "7057ff",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 753542921,
+    "node_id": "MDU6TGFiZWw3NTM1NDI5MjE=",
+    "url": "https://api.github.com/repos/getsentry/sentry-electron/labels/help%20wanted",
+    "name": "help wanted",
+    "color": "33aa3f",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 753542926,
+    "node_id": "MDU6TGFiZWw3NTM1NDI5MjY=",
+    "url": "https://api.github.com/repos/getsentry/sentry-electron/labels/invalid",
+    "name": "invalid",
+    "color": "e6e6e6",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 753542928,
+    "node_id": "MDU6TGFiZWw3NTM1NDI5Mjg=",
+    "url": "https://api.github.com/repos/getsentry/sentry-electron/labels/question",
+    "name": "question",
+    "color": "cc317c",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 753542929,
+    "node_id": "MDU6TGFiZWw3NTM1NDI5Mjk=",
+    "url": "https://api.github.com/repos/getsentry/sentry-electron/labels/wontfix",
+    "name": "wontfix",
+    "color": "ffffff",
+    "default": true,
+    "description": null
+  }
+]

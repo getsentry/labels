@@ -1,0 +1,83 @@
+[
+  {
+    "id": 2573709665,
+    "node_id": "MDU6TGFiZWwyNTczNzA5NjY1",
+    "url": "https://api.github.com/repos/getsentry/sentry-xamarin/labels/bug",
+    "name": "bug",
+    "color": "d73a4a",
+    "default": true,
+    "description": "Something isn't working"
+  },
+  {
+    "id": 2573709666,
+    "node_id": "MDU6TGFiZWwyNTczNzA5NjY2",
+    "url": "https://api.github.com/repos/getsentry/sentry-xamarin/labels/documentation",
+    "name": "documentation",
+    "color": "0075ca",
+    "default": true,
+    "description": "Improvements or additions to documentation"
+  },
+  {
+    "id": 2573709667,
+    "node_id": "MDU6TGFiZWwyNTczNzA5NjY3",
+    "url": "https://api.github.com/repos/getsentry/sentry-xamarin/labels/duplicate",
+    "name": "duplicate",
+    "color": "cfd3d7",
+    "default": true,
+    "description": "This issue or pull request already exists"
+  },
+  {
+    "id": 2573709669,
+    "node_id": "MDU6TGFiZWwyNTczNzA5NjY5",
+    "url": "https://api.github.com/repos/getsentry/sentry-xamarin/labels/enhancement",
+    "name": "enhancement",
+    "color": "a2eeef",
+    "default": true,
+    "description": "New feature or request"
+  },
+  {
+    "id": 2573709671,
+    "node_id": "MDU6TGFiZWwyNTczNzA5Njcx",
+    "url": "https://api.github.com/repos/getsentry/sentry-xamarin/labels/good%20first%20issue",
+    "name": "good first issue",
+    "color": "7057ff",
+    "default": true,
+    "description": "Good for newcomers"
+  },
+  {
+    "id": 2573709675,
+    "node_id": "MDU6TGFiZWwyNTczNzA5Njc1",
+    "url": "https://api.github.com/repos/getsentry/sentry-xamarin/labels/invalid",
+    "name": "invalid",
+    "color": "e4e669",
+    "default": true,
+    "description": "This doesn't seem right"
+  },
+  {
+    "id": 2573709678,
+    "node_id": "MDU6TGFiZWwyNTczNzA5Njc4",
+    "url": "https://api.github.com/repos/getsentry/sentry-xamarin/labels/question",
+    "name": "question",
+    "color": "d876e3",
+    "default": true,
+    "description": "Further information is requested"
+  },
+  {
+    "id": 2592676016,
+    "node_id": "MDU6TGFiZWwyNTkyNjc2MDE2",
+    "url": "https://api.github.com/repos/getsentry/sentry-xamarin/labels/up-for-grabs",
+    "name": "up-for-grabs",
+    "color": "95CA4E",
+    "default": false,
+    "description": ""
+  },
+  {
+    "id": 2573709681,
+    "node_id": "MDU6TGFiZWwyNTczNzA5Njgx",
+    "url": "https://api.github.com/repos/getsentry/sentry-xamarin/labels/wontfix",
+    "name": "wontfix",
+    "color": "ffffff",
+    "default": true,
+    "description": "This will not be worked on"
+  }
+]

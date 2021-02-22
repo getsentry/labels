@@ -1,0 +1,65 @@
+[
+  {
+    "id": 381213383,
+    "node_id": "MDU6TGFiZWwzODEyMTMzODM=",
+    "url": "https://api.github.com/repos/getsentry/sentry-zendesk-app/labels/bug",
+    "name": "bug",
+    "color": "ee0701",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 381213384,
+    "node_id": "MDU6TGFiZWwzODEyMTMzODQ=",
+    "url": "https://api.github.com/repos/getsentry/sentry-zendesk-app/labels/duplicate",
+    "name": "duplicate",
+    "color": "cccccc",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 381213385,
+    "node_id": "MDU6TGFiZWwzODEyMTMzODU=",
+    "url": "https://api.github.com/repos/getsentry/sentry-zendesk-app/labels/enhancement",
+    "name": "enhancement",
+    "color": "84b6eb",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 381213386,
+    "node_id": "MDU6TGFiZWwzODEyMTMzODY=",
+    "url": "https://api.github.com/repos/getsentry/sentry-zendesk-app/labels/help%20wanted",
+    "name": "help wanted",
+    "color": "128A0C",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 381213387,
+    "node_id": "MDU6TGFiZWwzODEyMTMzODc=",
+    "url": "https://api.github.com/repos/getsentry/sentry-zendesk-app/labels/invalid",
+    "name": "invalid",
+    "color": "e6e6e6",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 381213388,
+    "node_id": "MDU6TGFiZWwzODEyMTMzODg=",
+    "url": "https://api.github.com/repos/getsentry/sentry-zendesk-app/labels/question",
+    "name": "question",
+    "color": "cc317c",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 381213389,
+    "node_id": "MDU6TGFiZWwzODEyMTMzODk=",
+    "url": "https://api.github.com/repos/getsentry/sentry-zendesk-app/labels/wontfix",
+    "name": "wontfix",
+    "color": "ffffff",
+    "default": true,
+    "description": null
+  }
+]

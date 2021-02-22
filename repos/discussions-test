@@ -1,0 +1,83 @@
+[
+  {
+    "id": 1916380003,
+    "node_id": "MDU6TGFiZWwxOTE2MzgwMDAz",
+    "url": "https://api.github.com/repos/getsentry/discussions-test/labels/bug",
+    "name": "bug",
+    "color": "d73a4a",
+    "default": true,
+    "description": "Something isn't working"
+  },
+  {
+    "id": 1916380005,
+    "node_id": "MDU6TGFiZWwxOTE2MzgwMDA1",
+    "url": "https://api.github.com/repos/getsentry/discussions-test/labels/documentation",
+    "name": "documentation",
+    "color": "0075ca",
+    "default": true,
+    "description": "Improvements or additions to documentation"
+  },
+  {
+    "id": 1916380007,
+    "node_id": "MDU6TGFiZWwxOTE2MzgwMDA3",
+    "url": "https://api.github.com/repos/getsentry/discussions-test/labels/duplicate",
+    "name": "duplicate",
+    "color": "cfd3d7",
+    "default": true,
+    "description": "This issue or pull request already exists"
+  },
+  {
+    "id": 1916380009,
+    "node_id": "MDU6TGFiZWwxOTE2MzgwMDA5",
+    "url": "https://api.github.com/repos/getsentry/discussions-test/labels/enhancement",
+    "name": "enhancement",
+    "color": "a2eeef",
+    "default": true,
+    "description": "New feature or request"
+  },
+  {
+    "id": 1916380011,
+    "node_id": "MDU6TGFiZWwxOTE2MzgwMDEx",
+    "url": "https://api.github.com/repos/getsentry/discussions-test/labels/good%20first%20issue",
+    "name": "good first issue",
+    "color": "7057ff",
+    "default": true,
+    "description": "Good for newcomers"
+  },
+  {
+    "id": 1916380013,
+    "node_id": "MDU6TGFiZWwxOTE2MzgwMDEz",
+    "url": "https://api.github.com/repos/getsentry/discussions-test/labels/help%20wanted",
+    "name": "help wanted",
+    "color": "008672",
+    "default": true,
+    "description": "Extra attention is needed"
+  },
+  {
+    "id": 1916380015,
+    "node_id": "MDU6TGFiZWwxOTE2MzgwMDE1",
+    "url": "https://api.github.com/repos/getsentry/discussions-test/labels/invalid",
+    "name": "invalid",
+    "color": "e4e669",
+    "default": true,
+    "description": "This doesn't seem right"
+  },
+  {
+    "id": 1916380017,
+    "node_id": "MDU6TGFiZWwxOTE2MzgwMDE3",
+    "url": "https://api.github.com/repos/getsentry/discussions-test/labels/question",
+    "name": "question",
+    "color": "d876e3",
+    "default": true,
+    "description": "Further information is requested"
+  },
+  {
+    "id": 1916380019,
+    "node_id": "MDU6TGFiZWwxOTE2MzgwMDE5",
+    "url": "https://api.github.com/repos/getsentry/discussions-test/labels/wontfix",
+    "name": "wontfix",
+    "color": "ffffff",
+    "default": true,
+    "description": "This will not be worked on"
+  }
+]

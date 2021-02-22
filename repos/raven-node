@@ -1,0 +1,110 @@
+[
+  {
+    "id": 689185702,
+    "node_id": "MDU6TGFiZWw2ODkxODU3MDI=",
+    "url": "https://api.github.com/repos/getsentry/raven-node/labels/Misc:%20Help%20Wanted",
+    "name": "Misc: Help Wanted",
+    "color": "8ceaa5",
+    "default": false,
+    "description": null
+  },
+  {
+    "id": 689185701,
+    "node_id": "MDU6TGFiZWw2ODkxODU3MDE=",
+    "url": "https://api.github.com/repos/getsentry/raven-node/labels/Status:%20Blocked",
+    "name": "Status: Blocked",
+    "color": "b60205",
+    "default": false,
+    "description": null
+  },
+  {
+    "id": 689185697,
+    "node_id": "MDU6TGFiZWw2ODkxODU2OTc=",
+    "url": "https://api.github.com/repos/getsentry/raven-node/labels/Status:%20Confirmed",
+    "name": "Status: Confirmed",
+    "color": "0e8a16",
+    "default": false,
+    "description": null
+  },
+  {
+    "id": 689185700,
+    "node_id": "MDU6TGFiZWw2ODkxODU3MDA=",
+    "url": "https://api.github.com/repos/getsentry/raven-node/labels/Status:%20In%20Progress",
+    "name": "Status: In Progress",
+    "color": "c8b0f4",
+    "default": false,
+    "description": null
+  },
+  {
+    "id": 689185710,
+    "node_id": "MDU6TGFiZWw2ODkxODU3MTA=",
+    "url": "https://api.github.com/repos/getsentry/raven-node/labels/Status:%20Need%20Information",
+    "name": "Status: Need Information",
+    "color": "81d2e2",
+    "default": false,
+    "description": null
+  },
+  {
+    "id": 689185720,
+    "node_id": "MDU6TGFiZWw2ODkxODU3MjA=",
+    "url": "https://api.github.com/repos/getsentry/raven-node/labels/Status:%20Need%20Reproduction",
+    "name": "Status: Need Reproduction",
+    "color": "fc918f",
+    "default": false,
+    "description": null
+  },
+  {
+    "id": 800527480,
+    "node_id": "MDU6TGFiZWw4MDA1Mjc0ODA=",
+    "url": "https://api.github.com/repos/getsentry/raven-node/labels/Type:%20Breaking",
+    "name": "Type: Breaking",
+    "color": "fbca04",
+    "default": false,
+    "description": null
+  },
+  {
+    "id": 689185698,
+    "node_id": "MDU6TGFiZWw2ODkxODU2OTg=",
+    "url": "https://api.github.com/repos/getsentry/raven-node/labels/Type:%20Bug",
+    "name": "Type: Bug",
+    "color": "ee0701",
+    "default": false,
+    "description": null
+  },
+  {
+    "id": 689185708,
+    "node_id": "MDU6TGFiZWw2ODkxODU3MDg=",
+    "url": "https://api.github.com/repos/getsentry/raven-node/labels/Type:%20Discussion",
+    "name": "Type: Discussion",
+    "color": "c9e0ff",
+    "default": false,
+    "description": null
+  },
+  {
+    "id": 689185727,
+    "node_id": "MDU6TGFiZWw2ODkxODU3Mjc=",
+    "url": "https://api.github.com/repos/getsentry/raven-node/labels/Type:%20Documentation",
+    "name": "Type: Documentation",
+    "color": "84b6eb",
+    "default": false,
+    "description": null
+  },
+  {
+    "id": 689185704,
+    "node_id": "MDU6TGFiZWw2ODkxODU3MDQ=",
+    "url": "https://api.github.com/repos/getsentry/raven-node/labels/Type:%20Feature",
+    "name": "Type: Feature",
+    "color": "dbf477",
+    "default": false,
+    "description": null
+  },
+  {
+    "id": 689185718,
+    "node_id": "MDU6TGFiZWw2ODkxODU3MTg=",
+    "url": "https://api.github.com/repos/getsentry/raven-node/labels/Type:%20Improvement",
+    "name": "Type: Improvement",
+    "color": "65f2be",
+    "default": false,
+    "description": null
+  }
+]

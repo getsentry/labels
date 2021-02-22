@@ -1,0 +1,83 @@
+[
+  {
+    "id": 2571160665,
+    "node_id": "MDU6TGFiZWwyNTcxMTYwNjY1",
+    "url": "https://api.github.com/repos/getsentry/sentry-visualstudio/labels/bug",
+    "name": "bug",
+    "color": "d73a4a",
+    "default": true,
+    "description": "Something isn't working"
+  },
+  {
+    "id": 2571160666,
+    "node_id": "MDU6TGFiZWwyNTcxMTYwNjY2",
+    "url": "https://api.github.com/repos/getsentry/sentry-visualstudio/labels/documentation",
+    "name": "documentation",
+    "color": "0075ca",
+    "default": true,
+    "description": "Improvements or additions to documentation"
+  },
+  {
+    "id": 2571160667,
+    "node_id": "MDU6TGFiZWwyNTcxMTYwNjY3",
+    "url": "https://api.github.com/repos/getsentry/sentry-visualstudio/labels/duplicate",
+    "name": "duplicate",
+    "color": "cfd3d7",
+    "default": true,
+    "description": "This issue or pull request already exists"
+  },
+  {
+    "id": 2571160668,
+    "node_id": "MDU6TGFiZWwyNTcxMTYwNjY4",
+    "url": "https://api.github.com/repos/getsentry/sentry-visualstudio/labels/enhancement",
+    "name": "enhancement",
+    "color": "a2eeef",
+    "default": true,
+    "description": "New feature or request"
+  },
+  {
+    "id": 2571160669,
+    "node_id": "MDU6TGFiZWwyNTcxMTYwNjY5",
+    "url": "https://api.github.com/repos/getsentry/sentry-visualstudio/labels/good%20first%20issue",
+    "name": "good first issue",
+    "color": "7057ff",
+    "default": true,
+    "description": "Good for newcomers"
+  },
+  {
+    "id": 2571160670,
+    "node_id": "MDU6TGFiZWwyNTcxMTYwNjcw",
+    "url": "https://api.github.com/repos/getsentry/sentry-visualstudio/labels/help%20wanted",
+    "name": "help wanted",
+    "color": "008672",
+    "default": true,
+    "description": "Extra attention is needed"
+  },
+  {
+    "id": 2571160671,
+    "node_id": "MDU6TGFiZWwyNTcxMTYwNjcx",
+    "url": "https://api.github.com/repos/getsentry/sentry-visualstudio/labels/invalid",
+    "name": "invalid",
+    "color": "e4e669",
+    "default": true,
+    "description": "This doesn't seem right"
+  },
+  {
+    "id": 2571160672,
+    "node_id": "MDU6TGFiZWwyNTcxMTYwNjcy",
+    "url": "https://api.github.com/repos/getsentry/sentry-visualstudio/labels/question",
+    "name": "question",
+    "color": "d876e3",
+    "default": true,
+    "description": "Further information is requested"
+  },
+  {
+    "id": 2571160673,
+    "node_id": "MDU6TGFiZWwyNTcxMTYwNjcz",
+    "url": "https://api.github.com/repos/getsentry/sentry-visualstudio/labels/wontfix",
+    "name": "wontfix",
+    "color": "ffffff",
+    "default": true,
+    "description": "This will not be worked on"
+  }
+]

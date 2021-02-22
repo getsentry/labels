@@ -1,0 +1,83 @@
+[
+  {
+    "id": 744643255,
+    "node_id": "MDU6TGFiZWw3NDQ2NDMyNTU=",
+    "url": "https://api.github.com/repos/getsentry/sentry-wizard/labels/bug",
+    "name": "bug",
+    "color": "ee0701",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 1690235896,
+    "node_id": "MDU6TGFiZWwxNjkwMjM1ODk2",
+    "url": "https://api.github.com/repos/getsentry/sentry-wizard/labels/dependencies",
+    "name": "dependencies",
+    "color": "0366d6",
+    "default": false,
+    "description": "Pull requests that update a dependency file"
+  },
+  {
+    "id": 744643256,
+    "node_id": "MDU6TGFiZWw3NDQ2NDMyNTY=",
+    "url": "https://api.github.com/repos/getsentry/sentry-wizard/labels/duplicate",
+    "name": "duplicate",
+    "color": "cccccc",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 744643257,
+    "node_id": "MDU6TGFiZWw3NDQ2NDMyNTc=",
+    "url": "https://api.github.com/repos/getsentry/sentry-wizard/labels/enhancement",
+    "name": "enhancement",
+    "color": "84b6eb",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 744643262,
+    "node_id": "MDU6TGFiZWw3NDQ2NDMyNjI=",
+    "url": "https://api.github.com/repos/getsentry/sentry-wizard/labels/good%20first%20issue",
+    "name": "good first issue",
+    "color": "7057ff",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 744643259,
+    "node_id": "MDU6TGFiZWw3NDQ2NDMyNTk=",
+    "url": "https://api.github.com/repos/getsentry/sentry-wizard/labels/help%20wanted",
+    "name": "help wanted",
+    "color": "33aa3f",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 744643267,
+    "node_id": "MDU6TGFiZWw3NDQ2NDMyNjc=",
+    "url": "https://api.github.com/repos/getsentry/sentry-wizard/labels/invalid",
+    "name": "invalid",
+    "color": "e6e6e6",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 744643273,
+    "node_id": "MDU6TGFiZWw3NDQ2NDMyNzM=",
+    "url": "https://api.github.com/repos/getsentry/sentry-wizard/labels/question",
+    "name": "question",
+    "color": "cc317c",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 744643277,
+    "node_id": "MDU6TGFiZWw3NDQ2NDMyNzc=",
+    "url": "https://api.github.com/repos/getsentry/sentry-wizard/labels/wontfix",
+    "name": "wontfix",
+    "color": "ffffff",
+    "default": true,
+    "description": null
+  }
+]

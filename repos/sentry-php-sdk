@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1579207216,
+    "node_id": "MDU6TGFiZWwxNTc5MjA3MjE2",
+    "url": "https://api.github.com/repos/getsentry/sentry-php-sdk/labels/Status:%20Blocked",
+    "name": "Status: Blocked",
+    "color": "b60205",
+    "default": false,
+    "description": ""
+  },
+  {
+    "id": 1579206879,
+    "node_id": "MDU6TGFiZWwxNTc5MjA2ODc5",
+    "url": "https://api.github.com/repos/getsentry/sentry-php-sdk/labels/Status:%20Confirmed",
+    "name": "Status: Confirmed",
+    "color": "0e8a16",
+    "default": false,
+    "description": ""
+  },
+  {
+    "id": 1579206509,
+    "node_id": "MDU6TGFiZWwxNTc5MjA2NTA5",
+    "url": "https://api.github.com/repos/getsentry/sentry-php-sdk/labels/Status:%20Invalid",
+    "name": "Status: Invalid",
+    "color": "eeeeee",
+    "default": false,
+    "description": ""
+  },
+  {
+    "id": 1579207898,
+    "node_id": "MDU6TGFiZWwxNTc5MjA3ODk4",
+    "url": "https://api.github.com/repos/getsentry/sentry-php-sdk/labels/Status:%20Needs%20Information",
+    "name": "Status: Needs Information",
+    "color": "81d2e2",
+    "default": false,
+    "description": ""
+  },
+  {
+    "id": 1579208091,
+    "node_id": "MDU6TGFiZWwxNTc5MjA4MDkx",
+    "url": "https://api.github.com/repos/getsentry/sentry-php-sdk/labels/Status:%20Needs%20Reproduction",
+    "name": "Status: Needs Reproduction",
+    "color": "fc918f",
+    "default": false,
+    "description": ""
+  },
+  {
+    "id": 1579206110,
+    "node_id": "MDU6TGFiZWwxNTc5MjA2MTEw",
+    "url": "https://api.github.com/repos/getsentry/sentry-php-sdk/labels/Status:%20Won't%20fix",
+    "name": "Status: Won't fix",
+    "color": "eeeeee",
+    "default": false,
+    "description": ""
+  },
+  {
+    "id": 1579205824,
+    "node_id": "MDU6TGFiZWwxNTc5MjA1ODI0",
+    "url": "https://api.github.com/repos/getsentry/sentry-php-sdk/labels/Type:%20Breaking",
+    "name": "Type: Breaking",
+    "color": "fbca04",
+    "default": false,
+    "description": ""
+  }
+]

@@ -1,0 +1,83 @@
+[
+  {
+    "id": 2041098390,
+    "node_id": "MDU6TGFiZWwyMDQxMDk4Mzkw",
+    "url": "https://api.github.com/repos/getsentry/linux-syscall-support/labels/bug",
+    "name": "bug",
+    "color": "d73a4a",
+    "default": true,
+    "description": "Something isn't working"
+  },
+  {
+    "id": 2041098398,
+    "node_id": "MDU6TGFiZWwyMDQxMDk4Mzk4",
+    "url": "https://api.github.com/repos/getsentry/linux-syscall-support/labels/documentation",
+    "name": "documentation",
+    "color": "0075ca",
+    "default": true,
+    "description": "Improvements or additions to documentation"
+  },
+  {
+    "id": 2041098402,
+    "node_id": "MDU6TGFiZWwyMDQxMDk4NDAy",
+    "url": "https://api.github.com/repos/getsentry/linux-syscall-support/labels/duplicate",
+    "name": "duplicate",
+    "color": "cfd3d7",
+    "default": true,
+    "description": "This issue or pull request already exists"
+  },
+  {
+    "id": 2041098406,
+    "node_id": "MDU6TGFiZWwyMDQxMDk4NDA2",
+    "url": "https://api.github.com/repos/getsentry/linux-syscall-support/labels/enhancement",
+    "name": "enhancement",
+    "color": "a2eeef",
+    "default": true,
+    "description": "New feature or request"
+  },
+  {
+    "id": 2041098409,
+    "node_id": "MDU6TGFiZWwyMDQxMDk4NDA5",
+    "url": "https://api.github.com/repos/getsentry/linux-syscall-support/labels/good%20first%20issue",
+    "name": "good first issue",
+    "color": "7057ff",
+    "default": true,
+    "description": "Good for newcomers"
+  },
+  {
+    "id": 2041098412,
+    "node_id": "MDU6TGFiZWwyMDQxMDk4NDEy",
+    "url": "https://api.github.com/repos/getsentry/linux-syscall-support/labels/help%20wanted",
+    "name": "help wanted",
+    "color": "008672",
+    "default": true,
+    "description": "Extra attention is needed"
+  },
+  {
+    "id": 2041098415,
+    "node_id": "MDU6TGFiZWwyMDQxMDk4NDE1",
+    "url": "https://api.github.com/repos/getsentry/linux-syscall-support/labels/invalid",
+    "name": "invalid",
+    "color": "e4e669",
+    "default": true,
+    "description": "This doesn't seem right"
+  },
+  {
+    "id": 2041098418,
+    "node_id": "MDU6TGFiZWwyMDQxMDk4NDE4",
+    "url": "https://api.github.com/repos/getsentry/linux-syscall-support/labels/question",
+    "name": "question",
+    "color": "d876e3",
+    "default": true,
+    "description": "Further information is requested"
+  },
+  {
+    "id": 2041098421,
+    "node_id": "MDU6TGFiZWwyMDQxMDk4NDIx",
+    "url": "https://api.github.com/repos/getsentry/linux-syscall-support/labels/wontfix",
+    "name": "wontfix",
+    "color": "ffffff",
+    "default": true,
+    "description": "This will not be worked on"
+  }
+]

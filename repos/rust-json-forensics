@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1225772308,
+    "node_id": "MDU6TGFiZWwxMjI1NzcyMzA4",
+    "url": "https://api.github.com/repos/getsentry/rust-json-forensics/labels/bug",
+    "name": "bug",
+    "color": "d73a4a",
+    "default": true,
+    "description": "Something isn't working"
+  },
+  {
+    "id": 1225772310,
+    "node_id": "MDU6TGFiZWwxMjI1NzcyMzEw",
+    "url": "https://api.github.com/repos/getsentry/rust-json-forensics/labels/duplicate",
+    "name": "duplicate",
+    "color": "cfd3d7",
+    "default": true,
+    "description": "This issue or pull request already exists"
+  },
+  {
+    "id": 1225772312,
+    "node_id": "MDU6TGFiZWwxMjI1NzcyMzEy",
+    "url": "https://api.github.com/repos/getsentry/rust-json-forensics/labels/enhancement",
+    "name": "enhancement",
+    "color": "a2eeef",
+    "default": true,
+    "description": "New feature or request"
+  },
+  {
+    "id": 1225772317,
+    "node_id": "MDU6TGFiZWwxMjI1NzcyMzE3",
+    "url": "https://api.github.com/repos/getsentry/rust-json-forensics/labels/good%20first%20issue",
+    "name": "good first issue",
+    "color": "7057ff",
+    "default": true,
+    "description": "Good for newcomers"
+  },
+  {
+    "id": 1225772315,
+    "node_id": "MDU6TGFiZWwxMjI1NzcyMzE1",
+    "url": "https://api.github.com/repos/getsentry/rust-json-forensics/labels/help%20wanted",
+    "name": "help wanted",
+    "color": "008672",
+    "default": true,
+    "description": "Extra attention is needed"
+  },
+  {
+    "id": 1225772318,
+    "node_id": "MDU6TGFiZWwxMjI1NzcyMzE4",
+    "url": "https://api.github.com/repos/getsentry/rust-json-forensics/labels/invalid",
+    "name": "invalid",
+    "color": "e4e669",
+    "default": true,
+    "description": "This doesn't seem right"
+  },
+  {
+    "id": 1225772319,
+    "node_id": "MDU6TGFiZWwxMjI1NzcyMzE5",
+    "url": "https://api.github.com/repos/getsentry/rust-json-forensics/labels/question",
+    "name": "question",
+    "color": "d876e3",
+    "default": true,
+    "description": "Further information is requested"
+  },
+  {
+    "id": 1225772320,
+    "node_id": "MDU6TGFiZWwxMjI1NzcyMzIw",
+    "url": "https://api.github.com/repos/getsentry/rust-json-forensics/labels/wontfix",
+    "name": "wontfix",
+    "color": "ffffff",
+    "default": true,
+    "description": "This will not be worked on"
+  }
+]

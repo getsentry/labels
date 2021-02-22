@@ -1,0 +1,65 @@
+[
+  {
+    "id": 346589065,
+    "node_id": "MDU6TGFiZWwzNDY1ODkwNjU=",
+    "url": "https://api.github.com/repos/getsentry/demo-flask/labels/bug",
+    "name": "bug",
+    "color": "fc2929",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 346589066,
+    "node_id": "MDU6TGFiZWwzNDY1ODkwNjY=",
+    "url": "https://api.github.com/repos/getsentry/demo-flask/labels/duplicate",
+    "name": "duplicate",
+    "color": "cccccc",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 346589067,
+    "node_id": "MDU6TGFiZWwzNDY1ODkwNjc=",
+    "url": "https://api.github.com/repos/getsentry/demo-flask/labels/enhancement",
+    "name": "enhancement",
+    "color": "84b6eb",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 346589068,
+    "node_id": "MDU6TGFiZWwzNDY1ODkwNjg=",
+    "url": "https://api.github.com/repos/getsentry/demo-flask/labels/help%20wanted",
+    "name": "help wanted",
+    "color": "159818",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 346589069,
+    "node_id": "MDU6TGFiZWwzNDY1ODkwNjk=",
+    "url": "https://api.github.com/repos/getsentry/demo-flask/labels/invalid",
+    "name": "invalid",
+    "color": "e6e6e6",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 346589070,
+    "node_id": "MDU6TGFiZWwzNDY1ODkwNzA=",
+    "url": "https://api.github.com/repos/getsentry/demo-flask/labels/question",
+    "name": "question",
+    "color": "cc317c",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 346589071,
+    "node_id": "MDU6TGFiZWwzNDY1ODkwNzE=",
+    "url": "https://api.github.com/repos/getsentry/demo-flask/labels/wontfix",
+    "name": "wontfix",
+    "color": "ffffff",
+    "default": true,
+    "description": null
+  }
+]

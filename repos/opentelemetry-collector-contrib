@@ -1,0 +1,101 @@
+[
+  {
+    "id": 2714094004,
+    "node_id": "MDU6TGFiZWwyNzE0MDk0MDA0",
+    "url": "https://api.github.com/repos/getsentry/opentelemetry-collector-contrib/labels/Stale",
+    "name": "Stale",
+    "color": "ededed",
+    "default": false,
+    "description": null
+  },
+  {
+    "id": 2040810694,
+    "node_id": "MDU6TGFiZWwyMDQwODEwNjk0",
+    "url": "https://api.github.com/repos/getsentry/opentelemetry-collector-contrib/labels/bug",
+    "name": "bug",
+    "color": "d73a4a",
+    "default": true,
+    "description": "Something isn't working"
+  },
+  {
+    "id": 2693327778,
+    "node_id": "MDU6TGFiZWwyNjkzMzI3Nzc4",
+    "url": "https://api.github.com/repos/getsentry/opentelemetry-collector-contrib/labels/dependencies",
+    "name": "dependencies",
+    "color": "0366d6",
+    "default": false,
+    "description": "Pull requests that update a dependency file"
+  },
+  {
+    "id": 2040810697,
+    "node_id": "MDU6TGFiZWwyMDQwODEwNjk3",
+    "url": "https://api.github.com/repos/getsentry/opentelemetry-collector-contrib/labels/documentation",
+    "name": "documentation",
+    "color": "0075ca",
+    "default": true,
+    "description": "Improvements or additions to documentation"
+  },
+  {
+    "id": 2040810699,
+    "node_id": "MDU6TGFiZWwyMDQwODEwNjk5",
+    "url": "https://api.github.com/repos/getsentry/opentelemetry-collector-contrib/labels/duplicate",
+    "name": "duplicate",
+    "color": "cfd3d7",
+    "default": true,
+    "description": "This issue or pull request already exists"
+  },
+  {
+    "id": 2040810701,
+    "node_id": "MDU6TGFiZWwyMDQwODEwNzAx",
+    "url": "https://api.github.com/repos/getsentry/opentelemetry-collector-contrib/labels/enhancement",
+    "name": "enhancement",
+    "color": "a2eeef",
+    "default": true,
+    "description": "New feature or request"
+  },
+  {
+    "id": 2040810703,
+    "node_id": "MDU6TGFiZWwyMDQwODEwNzAz",
+    "url": "https://api.github.com/repos/getsentry/opentelemetry-collector-contrib/labels/good%20first%20issue",
+    "name": "good first issue",
+    "color": "7057ff",
+    "default": true,
+    "description": "Good for newcomers"
+  },
+  {
+    "id": 2040810705,
+    "node_id": "MDU6TGFiZWwyMDQwODEwNzA1",
+    "url": "https://api.github.com/repos/getsentry/opentelemetry-collector-contrib/labels/help%20wanted",
+    "name": "help wanted",
+    "color": "008672",
+    "default": true,
+    "description": "Extra attention is needed"
+  },
+  {
+    "id": 2040810707,
+    "node_id": "MDU6TGFiZWwyMDQwODEwNzA3",
+    "url": "https://api.github.com/repos/getsentry/opentelemetry-collector-contrib/labels/invalid",
+    "name": "invalid",
+    "color": "e4e669",
+    "default": true,
+    "description": "This doesn't seem right"
+  },
+  {
+    "id": 2040810709,
+    "node_id": "MDU6TGFiZWwyMDQwODEwNzA5",
+    "url": "https://api.github.com/repos/getsentry/opentelemetry-collector-contrib/labels/question",
+    "name": "question",
+    "color": "d876e3",
+    "default": true,
+    "description": "Further information is requested"
+  },
+  {
+    "id": 2040810711,
+    "node_id": "MDU6TGFiZWwyMDQwODEwNzEx",
+    "url": "https://api.github.com/repos/getsentry/opentelemetry-collector-contrib/labels/wontfix",
+    "name": "wontfix",
+    "color": "ffffff",
+    "default": true,
+    "description": "This will not be worked on"
+  }
+]

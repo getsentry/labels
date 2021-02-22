@@ -1,0 +1,83 @@
+[
+  {
+    "id": 2226403357,
+    "node_id": "MDU6TGFiZWwyMjI2NDAzMzU3",
+    "url": "https://api.github.com/repos/getsentry/py-amqp/labels/bug",
+    "name": "bug",
+    "color": "d73a4a",
+    "default": true,
+    "description": "Something isn't working"
+  },
+  {
+    "id": 2226403363,
+    "node_id": "MDU6TGFiZWwyMjI2NDAzMzYz",
+    "url": "https://api.github.com/repos/getsentry/py-amqp/labels/documentation",
+    "name": "documentation",
+    "color": "0075ca",
+    "default": true,
+    "description": "Improvements or additions to documentation"
+  },
+  {
+    "id": 2226403364,
+    "node_id": "MDU6TGFiZWwyMjI2NDAzMzY0",
+    "url": "https://api.github.com/repos/getsentry/py-amqp/labels/duplicate",
+    "name": "duplicate",
+    "color": "cfd3d7",
+    "default": true,
+    "description": "This issue or pull request already exists"
+  },
+  {
+    "id": 2226403365,
+    "node_id": "MDU6TGFiZWwyMjI2NDAzMzY1",
+    "url": "https://api.github.com/repos/getsentry/py-amqp/labels/enhancement",
+    "name": "enhancement",
+    "color": "a2eeef",
+    "default": true,
+    "description": "New feature or request"
+  },
+  {
+    "id": 2226403366,
+    "node_id": "MDU6TGFiZWwyMjI2NDAzMzY2",
+    "url": "https://api.github.com/repos/getsentry/py-amqp/labels/good%20first%20issue",
+    "name": "good first issue",
+    "color": "7057ff",
+    "default": true,
+    "description": "Good for newcomers"
+  },
+  {
+    "id": 2226403367,
+    "node_id": "MDU6TGFiZWwyMjI2NDAzMzY3",
+    "url": "https://api.github.com/repos/getsentry/py-amqp/labels/help%20wanted",
+    "name": "help wanted",
+    "color": "008672",
+    "default": true,
+    "description": "Extra attention is needed"
+  },
+  {
+    "id": 2226403368,
+    "node_id": "MDU6TGFiZWwyMjI2NDAzMzY4",
+    "url": "https://api.github.com/repos/getsentry/py-amqp/labels/invalid",
+    "name": "invalid",
+    "color": "e4e669",
+    "default": true,
+    "description": "This doesn't seem right"
+  },
+  {
+    "id": 2226403369,
+    "node_id": "MDU6TGFiZWwyMjI2NDAzMzY5",
+    "url": "https://api.github.com/repos/getsentry/py-amqp/labels/question",
+    "name": "question",
+    "color": "d876e3",
+    "default": true,
+    "description": "Further information is requested"
+  },
+  {
+    "id": 2226403370,
+    "node_id": "MDU6TGFiZWwyMjI2NDAzMzcw",
+    "url": "https://api.github.com/repos/getsentry/py-amqp/labels/wontfix",
+    "name": "wontfix",
+    "color": "ffffff",
+    "default": true,
+    "description": "This will not be worked on"
+  }
+]

@@ -1,0 +1,2 @@
+#!/usr/bin/env zsh
+cat repos/* | sort | uniq -c | sort -nr | less

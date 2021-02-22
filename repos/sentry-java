@@ -1,0 +1,245 @@
+[
+  {
+    "id": 1535218237,
+    "node_id": "MDU6TGFiZWwxNTM1MjE4MjM3",
+    "url": "https://api.github.com/repos/getsentry/sentry-java/labels/Android",
+    "name": "Android",
+    "color": "931012",
+    "default": false,
+    "description": ""
+  },
+  {
+    "id": 2430457267,
+    "node_id": "MDU6TGFiZWwyNDMwNDU3MjY3",
+    "url": "https://api.github.com/repos/getsentry/sentry-java/labels/Craft",
+    "name": "Craft",
+    "color": "bfd4f2",
+    "default": false,
+    "description": "Craft - Making a release"
+  },
+  {
+    "id": 1565683502,
+    "node_id": "MDU6TGFiZWwxNTY1NjgzNTAy",
+    "url": "https://api.github.com/repos/getsentry/sentry-java/labels/Java%201.8%20issue",
+    "name": "Java 1.8 issue",
+    "color": "058978",
+    "default": false,
+    "description": ""
+  },
+  {
+    "id": 2384267645,
+    "node_id": "MDU6TGFiZWwyMzg0MjY3NjQ1",
+    "url": "https://api.github.com/repos/getsentry/sentry-java/labels/JavaFX",
+    "name": "JavaFX",
+    "color": "54d8c0",
+    "default": false,
+    "description": ""
+  },
+  {
+    "id": 2430471326,
+    "node_id": "MDU6TGFiZWwyNDMwNDcxMzI2",
+    "url": "https://api.github.com/repos/getsentry/sentry-java/labels/Legacy%20SDK",
+    "name": "Legacy SDK",
+    "color": "1d76db",
+    "default": false,
+    "description": "Java SDK v1.x"
+  },
+  {
+    "id": 2391149583,
+    "node_id": "MDU6TGFiZWwyMzkxMTQ5NTgz",
+    "url": "https://api.github.com/repos/getsentry/sentry-java/labels/Logback",
+    "name": "Logback",
+    "color": "f44b42",
+    "default": false,
+    "description": ""
+  },
+  {
+    "id": 2355251055,
+    "node_id": "MDU6TGFiZWwyMzU1MjUxMDU1",
+    "url": "https://api.github.com/repos/getsentry/sentry-java/labels/NDK",
+    "name": "NDK",
+    "color": "1d76db",
+    "default": false,
+    "description": "Android NDK"
+  },
+  {
+    "id": 2387444363,
+    "node_id": "MDU6TGFiZWwyMzg3NDQ0MzYz",
+    "url": "https://api.github.com/repos/getsentry/sentry-java/labels/Spring",
+    "name": "Spring",
+    "color": "c5def5",
+    "default": false,
+    "description": "Spring"
+  },
+  {
+    "id": 336268760,
+    "node_id": "MDU6TGFiZWwzMzYyNjg3NjA=",
+    "url": "https://api.github.com/repos/getsentry/sentry-java/labels/bug",
+    "name": "bug",
+    "color": "e11d21",
+    "default": true,
+    "description": "Something isn't working"
+  },
+  {
+    "id": 1590851769,
+    "node_id": "MDU6TGFiZWwxNTkwODUxNzY5",
+    "url": "https://api.github.com/repos/getsentry/sentry-java/labels/dependencies",
+    "name": "dependencies",
+    "color": "0366d6",
+    "default": false,
+    "description": "Pull requests that update a dependency file"
+  },
+  {
+    "id": 2037838052,
+    "node_id": "MDU6TGFiZWwyMDM3ODM4MDUy",
+    "url": "https://api.github.com/repos/getsentry/sentry-java/labels/documentation",
+    "name": "documentation",
+    "color": "1d76db",
+    "default": true,
+    "description": ""
+  },
+  {
+    "id": 1086010904,
+    "node_id": "MDU6TGFiZWwxMDg2MDEwOTA0",
+    "url": "https://api.github.com/repos/getsentry/sentry-java/labels/duplicate",
+    "name": "duplicate",
+    "color": "cfd3d7",
+    "default": true,
+    "description": "This issue or pull request already exists"
+  },
+  {
+    "id": 1086011466,
+    "node_id": "MDU6TGFiZWwxMDg2MDExNDY2",
+    "url": "https://api.github.com/repos/getsentry/sentry-java/labels/enhancement",
+    "name": "enhancement",
+    "color": "a2eeef",
+    "default": true,
+    "description": "New feature or request"
+  },
+  {
+    "id": 1086011724,
+    "node_id": "MDU6TGFiZWwxMDg2MDExNzI0",
+    "url": "https://api.github.com/repos/getsentry/sentry-java/labels/good%20first%20issue",
+    "name": "good first issue",
+    "color": "7057ff",
+    "default": true,
+    "description": "Good for newcomers"
+  },
+  {
+    "id": 2438866908,
+    "node_id": "MDU6TGFiZWwyNDM4ODY2OTA4",
+    "url": "https://api.github.com/repos/getsentry/sentry-java/labels/hacktoberfest-approved",
+    "name": "hacktoberfest-approved",
+    "color": "7264c9",
+    "default": false,
+    "description": ""
+  },
+  {
+    "id": 1086011949,
+    "node_id": "MDU6TGFiZWwxMDg2MDExOTQ5",
+    "url": "https://api.github.com/repos/getsentry/sentry-java/labels/help%20wanted",
+    "name": "help wanted",
+    "color": "008672",
+    "default": true,
+    "description": "Extra attention is needed"
+  },
+  {
+    "id": 1086012424,
+    "node_id": "MDU6TGFiZWwxMDg2MDEyNDI0",
+    "url": "https://api.github.com/repos/getsentry/sentry-java/labels/invalid",
+    "name": "invalid",
+    "color": "e4e669",
+    "default": true,
+    "description": "This doesn't seem right"
+  },
+  {
+    "id": 2630517831,
+    "node_id": "MDU6TGFiZWwyNjMwNTE3ODMx",
+    "url": "https://api.github.com/repos/getsentry/sentry-java/labels/performance",
+    "name": "performance",
+    "color": "fbca04",
+    "default": false,
+    "description": "Performance API issues"
+  },
+  {
+    "id": 2748128303,
+    "node_id": "MDU6TGFiZWwyNzQ4MTI4MzAz",
+    "url": "https://api.github.com/repos/getsentry/sentry-java/labels/repository%20maintenance",
+    "name": "repository maintenance",
+    "color": "21209D",
+    "default": false,
+    "description": ""
+  },
+  {
+    "id": 2080019639,
+    "node_id": "MDU6TGFiZWwyMDgwMDE5NjM5",
+    "url": "https://api.github.com/repos/getsentry/sentry-java/labels/security",
+    "name": "security",
+    "color": "ee0701",
+    "default": false,
+    "description": "Pull requests that address a security vulnerability"
+  },
+  {
+    "id": 2695161396,
+    "node_id": "MDU6TGFiZWwyNjk1MTYxMzk2",
+    "url": "https://api.github.com/repos/getsentry/sentry-java/labels/serverless",
+    "name": "serverless",
+    "color": "F6FEAC",
+    "default": false,
+    "description": ""
+  },
+  {
+    "id": 2385838030,
+    "node_id": "MDU6TGFiZWwyMzg1ODM4MDMw",
+    "url": "https://api.github.com/repos/getsentry/sentry-java/labels/spring-boot",
+    "name": "spring-boot",
+    "color": "1d4b7c",
+    "default": false,
+    "description": ""
+  },
+  {
+    "id": 2661332301,
+    "node_id": "MDU6TGFiZWwyNjYxMzMyMzAx",
+    "url": "https://api.github.com/repos/getsentry/sentry-java/labels/timber",
+    "name": "timber",
+    "color": "AB8E6C",
+    "default": false,
+    "description": ""
+  },
+  {
+    "id": 2355251273,
+    "node_id": "MDU6TGFiZWwyMzU1MjUxMjcz",
+    "url": "https://api.github.com/repos/getsentry/sentry-java/labels/triage",
+    "name": "triage",
+    "color": "c292f4",
+    "default": false,
+    "description": "Triage"
+  },
+  {
+    "id": 2587229415,
+    "node_id": "MDU6TGFiZWwyNTg3MjI5NDE1",
+    "url": "https://api.github.com/repos/getsentry/sentry-java/labels/up-for-grabs",
+    "name": "up-for-grabs",
+    "color": "017a23",
+    "default": false,
+    "description": ""
+  },
+  {
+    "id": 2390673475,
+    "node_id": "MDU6TGFiZWwyMzkwNjczNDc1",
+    "url": "https://api.github.com/repos/getsentry/sentry-java/labels/waiting%20for%20feedback",
+    "name": "waiting for feedback",
+    "color": "fef2c0",
+    "default": false,
+    "description": ""
+  },
+  {
+    "id": 1086012907,
+    "node_id": "MDU6TGFiZWwxMDg2MDEyOTA3",
+    "url": "https://api.github.com/repos/getsentry/sentry-java/labels/wontfix",
+    "name": "wontfix",
+    "color": "ffffff",
+    "default": true,
+    "description": "This will not be worked on"
+  }
+]

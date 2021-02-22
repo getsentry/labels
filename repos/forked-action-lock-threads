@@ -1,0 +1,92 @@
+[
+  {
+    "id": 2640329955,
+    "node_id": "MDU6TGFiZWwyNjQwMzI5OTU1",
+    "url": "https://api.github.com/repos/getsentry/forked-action-lock-threads/labels/bug",
+    "name": "bug",
+    "color": "d73a4a",
+    "default": true,
+    "description": "Something isn't working"
+  },
+  {
+    "id": 2640329958,
+    "node_id": "MDU6TGFiZWwyNjQwMzI5OTU4",
+    "url": "https://api.github.com/repos/getsentry/forked-action-lock-threads/labels/documentation",
+    "name": "documentation",
+    "color": "0075ca",
+    "default": true,
+    "description": "Improvements or additions to documentation"
+  },
+  {
+    "id": 2640329962,
+    "node_id": "MDU6TGFiZWwyNjQwMzI5OTYy",
+    "url": "https://api.github.com/repos/getsentry/forked-action-lock-threads/labels/duplicate",
+    "name": "duplicate",
+    "color": "cfd3d7",
+    "default": true,
+    "description": "This issue or pull request already exists"
+  },
+  {
+    "id": 2640329965,
+    "node_id": "MDU6TGFiZWwyNjQwMzI5OTY1",
+    "url": "https://api.github.com/repos/getsentry/forked-action-lock-threads/labels/enhancement",
+    "name": "enhancement",
+    "color": "a2eeef",
+    "default": true,
+    "description": "New feature or request"
+  },
+  {
+    "id": 2640329967,
+    "node_id": "MDU6TGFiZWwyNjQwMzI5OTY3",
+    "url": "https://api.github.com/repos/getsentry/forked-action-lock-threads/labels/good%20first%20issue",
+    "name": "good first issue",
+    "color": "7057ff",
+    "default": true,
+    "description": "Good for newcomers"
+  },
+  {
+    "id": 2640329970,
+    "node_id": "MDU6TGFiZWwyNjQwMzI5OTcw",
+    "url": "https://api.github.com/repos/getsentry/forked-action-lock-threads/labels/help%20wanted",
+    "name": "help wanted",
+    "color": "008672",
+    "default": true,
+    "description": "Extra attention is needed"
+  },
+  {
+    "id": 2640329972,
+    "node_id": "MDU6TGFiZWwyNjQwMzI5OTcy",
+    "url": "https://api.github.com/repos/getsentry/forked-action-lock-threads/labels/invalid",
+    "name": "invalid",
+    "color": "e4e669",
+    "default": true,
+    "description": "This doesn't seem right"
+  },
+  {
+    "id": 2640329974,
+    "node_id": "MDU6TGFiZWwyNjQwMzI5OTc0",
+    "url": "https://api.github.com/repos/getsentry/forked-action-lock-threads/labels/question",
+    "name": "question",
+    "color": "d876e3",
+    "default": true,
+    "description": "Further information is requested"
+  },
+  {
+    "id": 2640329976,
+    "node_id": "MDU6TGFiZWwyNjQwMzI5OTc2",
+    "url": "https://api.github.com/repos/getsentry/forked-action-lock-threads/labels/up-for-grabs",
+    "name": "up-for-grabs",
+    "color": "02B620",
+    "default": false,
+    "description": "A free for all!"
+  },
+  {
+    "id": 2640329978,
+    "node_id": "MDU6TGFiZWwyNjQwMzI5OTc4",
+    "url": "https://api.github.com/repos/getsentry/forked-action-lock-threads/labels/wontfix",
+    "name": "wontfix",
+    "color": "ffffff",
+    "default": true,
+    "description": "This will not be worked on"
+  }
+]

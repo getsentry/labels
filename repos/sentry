@@ -265,7 +265,7 @@
     "node_id": "MDU6TGFiZWwxMTMzMjgzNjAw",
     "url": "https://api.github.com/repos/getsentry/sentry/labels/Deploy:%20Monitored",
     "name": "Deploy: Monitored",
-    "color": "8416b7",
+    "color": "FFB287",
     "default": false,
     "description": "This PR requires a monitored deploy"
   },
@@ -274,7 +274,7 @@
     "node_id": "MDU6TGFiZWwxMTMzMjgzODAy",
     "url": "https://api.github.com/repos/getsentry/sentry/labels/Deploy:%20Risky",
     "name": "Deploy: Risky",
-    "color": "f20924",
+    "color": "C83852",
     "default": false,
     "description": "This is a particularly risky deploy"
   },
@@ -283,16 +283,16 @@
     "node_id": "MDU6TGFiZWwxMjE0ODYwMDI=",
     "url": "https://api.github.com/repos/getsentry/sentry/labels/Design%20Review",
     "name": "Design Review",
-    "color": "2598e1",
+    "color": "ffffff",
     "default": false,
-    "description": null
+    "description": ""
   },
   {
     "id": 935359629,
     "node_id": "MDU6TGFiZWw5MzUzNTk2Mjk=",
     "url": "https://api.github.com/repos/getsentry/sentry/labels/Do%20Not%20Merge",
     "name": "Do Not Merge",
-    "color": "bf3503",
+    "color": "C83852",
     "default": false,
     "description": "Don't merge"
   },
@@ -301,16 +301,16 @@
     "node_id": "MDU6TGFiZWw1NDA0ODI0MTI=",
     "url": "https://api.github.com/repos/getsentry/sentry/labels/Easy%20Task",
     "name": "Easy Task",
-    "color": "5319e7",
+    "color": "ffffff",
     "default": false,
-    "description": null
+    "description": ""
   },
   {
     "id": 1578481549,
     "node_id": "MDU6TGFiZWwxNTc4NDgxNTQ5",
     "url": "https://api.github.com/repos/getsentry/sentry/labels/Hacktoberfest",
     "name": "Hacktoberfest",
-    "color": "fbca04",
+    "color": "ffffff",
     "default": false,
     "description": ""
   },
@@ -319,7 +319,7 @@
     "node_id": "MDU6TGFiZWwzNTEyODIwMjI=",
     "url": "https://api.github.com/repos/getsentry/sentry/labels/Hosting:%20Self-hosted",
     "name": "Hosting: Self-hosted",
-    "color": "c2e0c6",
+    "color": "79628C",
     "default": false,
     "description": ""
   },
@@ -328,7 +328,7 @@
     "node_id": "MDU6TGFiZWw0NzQwOTgyOA==",
     "url": "https://api.github.com/repos/getsentry/sentry/labels/Hosting:%20sentry.io",
     "name": "Hosting: sentry.io",
-    "color": "eb6420",
+    "color": "79628C",
     "default": false,
     "description": ""
   },
@@ -337,43 +337,43 @@
     "node_id": "MDU6TGFiZWwzMzQ2NTM0ODI=",
     "url": "https://api.github.com/repos/getsentry/sentry/labels/Impact:%20Large",
     "name": "Impact: Large",
-    "color": "e11d21",
+    "color": "C83852",
     "default": false,
-    "description": null
+    "description": ""
   },
   {
     "id": 334653453,
     "node_id": "MDU6TGFiZWwzMzQ2NTM0NTM=",
     "url": "https://api.github.com/repos/getsentry/sentry/labels/Impact:%20Medium",
     "name": "Impact: Medium",
-    "color": "009800",
+    "color": "FFB287",
     "default": false,
-    "description": null
+    "description": ""
   },
   {
     "id": 334654322,
     "node_id": "MDU6TGFiZWwzMzQ2NTQzMjI=",
     "url": "https://api.github.com/repos/getsentry/sentry/labels/Impact:%20Migration",
     "name": "Impact: Migration",
-    "color": "e11d21",
+    "color": "C83852",
     "default": false,
-    "description": null
+    "description": ""
   },
   {
     "id": 334653431,
     "node_id": "MDU6TGFiZWwzMzQ2NTM0MzE=",
     "url": "https://api.github.com/repos/getsentry/sentry/labels/Impact:%20Small",
     "name": "Impact: Small",
-    "color": "bfe5bf",
+    "color": "452650",
     "default": false,
-    "description": null
+    "description": ""
   },
   {
     "id": 423441280,
     "node_id": "MDU6TGFiZWw0MjM0NDEyODA=",
     "url": "https://api.github.com/repos/getsentry/sentry/labels/Platform:%20Cocoa",
     "name": "Platform: Cocoa",
-    "color": "1d76db",
+    "color": "F4834F",
     "default": false,
     "description": null
   },
@@ -382,7 +382,7 @@
     "node_id": "MDU6TGFiZWw0MjM0NDE3NjI=",
     "url": "https://api.github.com/repos/getsentry/sentry/labels/Platform:%20Java",
     "name": "Platform: Java",
-    "color": "c2e0c6",
+    "color": "F4834F",
     "default": false,
     "description": null
   },
@@ -391,7 +391,7 @@
     "node_id": "MDU6TGFiZWw0MjM0NDA4ODk=",
     "url": "https://api.github.com/repos/getsentry/sentry/labels/Platform:%20JavaScript",
     "name": "Platform: JavaScript",
-    "color": "fbca04",
+    "color": "F4834F",
     "default": false,
     "description": null
   },
@@ -400,7 +400,7 @@
     "node_id": "MDU6TGFiZWw0MjM0NDEzNTM=",
     "url": "https://api.github.com/repos/getsentry/sentry/labels/Platform:%20PHP",
     "name": "Platform: PHP",
-    "color": "c5def5",
+    "color": "F4834F",
     "default": false,
     "description": null
   },
@@ -409,7 +409,7 @@
     "node_id": "MDU6TGFiZWw0MjM0NDEzMzA=",
     "url": "https://api.github.com/repos/getsentry/sentry/labels/Platform:%20Python",
     "name": "Platform: Python",
-    "color": "006b75",
+    "color": "F4834F",
     "default": false,
     "description": null
   },
@@ -418,33 +418,24 @@
     "node_id": "MDU6TGFiZWw0MjM0NDE0ODg=",
     "url": "https://api.github.com/repos/getsentry/sentry/labels/Platform:%20Ruby",
     "name": "Platform: Ruby",
-    "color": "e99695",
+    "color": "F4834F",
     "default": false,
-    "description": null
+    "description": ""
   },
   {
     "id": 423465836,
     "node_id": "MDU6TGFiZWw0MjM0NjU4MzY=",
     "url": "https://api.github.com/repos/getsentry/sentry/labels/Security",
     "name": "Security",
-    "color": "d93f0b",
+    "color": "C83852",
     "default": false,
-    "description": null
-  },
-  {
-    "id": 1870081964,
-    "node_id": "MDU6TGFiZWwxODcwMDgxOTY0",
-    "url": "https://api.github.com/repos/getsentry/sentry/labels/Status:%20Backlog",
-    "name": "Status: Backlog",
-    "color": "8D5494",
-    "default": false,
-    "description": "stalebot will ignore"
+    "description": ""
   },
   {
     "id": 2641078,
     "node_id": "MDU6TGFiZWwyNjQxMDc4",
-    "url": "https://api.github.com/repos/getsentry/sentry/labels/Status:%20In%20Progress",
-    "name": "Status: In Progress",
+    "url": "https://api.github.com/repos/getsentry/sentry/labels/Status:%20Accepted",
+    "name": "Status: Accepted",
     "color": "8D5494",
     "default": false,
     "description": "stalebot will ignore"
@@ -457,6 +448,15 @@
     "color": "8D5494",
     "default": false,
     "description": "stalebot will close after four weeks of inactivity"
+  },
+  {
+    "id": 1870081964,
+    "node_id": "MDU6TGFiZWwxODcwMDgxOTY0",
+    "url": "https://api.github.com/repos/getsentry/sentry/labels/Status:%20On%20Hold",
+    "name": "Status: On Hold",
+    "color": "8D5494",
+    "default": false,
+    "description": "stalebot will ignore"
   },
   {
     "id": 2632031134,
@@ -490,7 +490,7 @@
     "node_id": "MDU6TGFiZWw2Njk1MzMyMzg=",
     "url": "https://api.github.com/repos/getsentry/sentry/labels/Team:%20Platform",
     "name": "Team: Platform",
-    "color": "fbca04",
+    "color": "F1B71C",
     "default": false,
     "description": null
   },
@@ -499,7 +499,7 @@
     "node_id": "MDU6TGFiZWw2Njk1MzMyMjM=",
     "url": "https://api.github.com/repos/getsentry/sentry/labels/Team:%20Workflow",
     "name": "Team: Workflow",
-    "color": "006b75",
+    "color": "F1B71C",
     "default": false,
     "description": null
   },
@@ -508,7 +508,7 @@
     "node_id": "MDU6TGFiZWw4MTY4MA==",
     "url": "https://api.github.com/repos/getsentry/sentry/labels/Type:%20Bug",
     "name": "Type: Bug",
-    "color": "ed4747",
+    "color": "E1567C",
     "default": false,
     "description": null
   },
@@ -517,7 +517,7 @@
     "node_id": "MDU6TGFiZWwyMjU4NjIwNDI=",
     "url": "https://api.github.com/repos/getsentry/sentry/labels/Type:%20Design",
     "name": "Type: Design",
-    "color": "2eb0f7",
+    "color": "E1567C",
     "default": false,
     "description": null
   },
@@ -526,7 +526,7 @@
     "node_id": "MDU6TGFiZWwzMjU3NTk1MTU=",
     "url": "https://api.github.com/repos/getsentry/sentry/labels/Type:%20Discussion",
     "name": "Type: Discussion",
-    "color": "fad8c7",
+    "color": "E1567C",
     "default": false,
     "description": null
   },
@@ -535,7 +535,7 @@
     "node_id": "MDU6TGFiZWwyNDc3MTcwMjI=",
     "url": "https://api.github.com/repos/getsentry/sentry/labels/Type:%20User%20Feedback",
     "name": "Type: User Feedback",
-    "color": "bfe5bf",
+    "color": "E1567C",
     "default": false,
     "description": null
   },
@@ -544,7 +544,7 @@
     "node_id": "MDU6TGFiZWw2MTYyMTgwMTM=",
     "url": "https://api.github.com/repos/getsentry/sentry/labels/WIP",
     "name": "WIP",
-    "color": "f77487",
+    "color": "ffffff",
     "default": false,
     "description": ""
   },
@@ -553,7 +553,7 @@
     "node_id": "MDU6TGFiZWwyMTkyODMyMzkw",
     "url": "https://api.github.com/repos/getsentry/sentry/labels/dependencies",
     "name": "dependencies",
-    "color": "0366d6",
+    "color": "ffffff",
     "default": false,
     "description": "Pull requests that update a dependency file"
   },
@@ -562,7 +562,7 @@
     "node_id": "MDU6TGFiZWwxNTkxNjEyMDE0",
     "url": "https://api.github.com/repos/getsentry/sentry/labels/invalid",
     "name": "invalid",
-    "color": "d93f0b",
+    "color": "ffffff",
     "default": true,
     "description": ""
   },
@@ -571,7 +571,7 @@
     "node_id": "MDU6TGFiZWwyMjQ0Nzg3MjU3",
     "url": "https://api.github.com/repos/getsentry/sentry/labels/javascript",
     "name": "javascript",
-    "color": "168700",
+    "color": "ffffff",
     "default": false,
     "description": "Pull requests that update Javascript code"
   },
@@ -580,8 +580,8 @@
     "node_id": "MDU6TGFiZWw3ODMzOTQ3MTA=",
     "url": "https://api.github.com/repos/getsentry/sentry/labels/wcgw",
     "name": "wcgw",
-    "color": "fffc7a",
+    "color": "ffffff",
     "default": false,
-    "description": null
+    "description": ""
   }
 ]

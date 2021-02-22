@@ -1,0 +1,323 @@
+ 285 enhancement
+ 285 bug
+ 284 wontfix
+ 284 question
+ 284 duplicate
+ 283 invalid
+ 254 help wanted
+ 155 good first issue
+  90 documentation
+  78 dependencies
+  18 up-for-grabs
+  10 Type: Bug
+   9 Type: Discussion
+   9 Status: Confirmed
+   9 Status: Blocked
+   8 javascript
+   8 Type: Improvement
+   8 Type: Feature
+   8 Type: Documentation
+   8 Type: Breaking
+   8 Misc: Help Wanted
+   7 Status: Needs Reproduction
+   7 Status: Needs Information
+   6 WIP
+   6 Type: Question
+   6 Status: In Progress
+   5 security
+   5 performance
+   5 Status: Needs Triage
+   3 wip
+   3 python
+   3 Status: Won't fix
+   3 Status: Untriaged
+   3 Status: Unrouted
+   3 Status: Stale
+   3 Status: On Hold
+   3 Status: Needs More Information
+   3 Status: Invalid
+   3 Status: Accepted
+   3 Misc: Report Dialog
+   2 waiting for feedback
+   2 triage
+   2 submodules
+   2 ruby
+   2 release health
+   2 java
+   2 hacktoberfest-accepted
+   2 docs
+   2 Type: Deprecation
+   2 Status: Won't Fix
+   2 Status: Need Reproduction
+   2 Security
+   2 NDK
+   2 Component: UI
+   2 Android
+   1 🦔react-native-sentry
+   1 works-in-new-sdk
+   1 windows
+   1 wcgw
+   1 waiting/blocked
+   1 unreal
+   1 ui
+   1 typehints
+   1 tracing
+   1 timber
+   1 testing
+   1 support
+   1 stabilization
+   1 spring-boot
+   1 sidekiq
+   1 serverless
+   1 server-fix
+   1 server
+   1 sentry-sidekiq
+   1 sentry-ruby
+   1 sentry-raven
+   1 sentry-rails
+   1 sentry-delayed_job
+   1 sentry spec
+   1 samples
+   1 rust
+   1 repository-maintenance
+   1 repository maintenance
+   1 release-health
+   1 release-blocker
+   1 refactoring
+   1 ready for review
+   1 react-native
+   1 rails
+   1 proposal
+   1 projects
+   1 profiling/benchmarking
+   1 plan
+   1 php
+   1 os: windows
+   1 os: other
+   1 os: macos
+   1 os: linux
+   1 nice to have
+   1 new-integration
+   1 needs-repro
+   1 needs-information
+   1 needs-info
+   1 needs discussion
+   1 needs atlassian
+   1 need reproduction
+   1 need more information
+   1 mobile
+   1 log4net
+   1 lang: python
+   1 lang: javascript
+   1 js
+   1 jruby
+   1 integration
+   1 installation: other
+   1 installation: npm
+   1 installation: docker
+   1 iOS
+   1 high-priority
+   1 heroku
+   1 has-pr
+   1 hacktoberfest-approved
+   1 hacktoberfest
+   1 grouping
+   1 gradle
+   1 gitlab
+   1 general
+   1 gRPC
+   1 flutter-web
+   1 flutter
+   1 filtering and sampling
+   1 feature: User Feedback
+   1 feature request
+   1 feature
+   1 feat
+   1 epic
+   1 dotnet
+   1 don't merge
+   1 doc
+   1 do not merge
+   1 desktop
+   1 delayed_job
+   1 data-sanitization
+   1 component: xcode
+   1 component: symbols
+   1 component: releases
+   1 component: react-native
+   1 component: proguard
+   1 component: javascript
+   1 component: config
+   1 component: appcenter
+   1 code-push
+   1 clubhouse
+   1 client-option
+   1 cli
+   1 category: docs
+   1 bug fix
+   1 breaking
+   1 blocker
+   1 blocked
+   1 api
+   1 active_job
+   1 Xamarin
+   1 Wontfix
+   1 Windows Service
+   1 WinForms
+   1 WebApi
+   1 WPF
+   1 Version: v1
+   1 UWP
+   1 Type: User Feedback
+   1 Type: Support Issue
+   1 Type: Refactoring
+   1 Type: Invalid
+   1 Type: Feature Request
+   1 Type: Enhancement
+   1 Type: Design
+   1 Type: :beetle: Bug
+   1 Testing
+   1 Team: Workflow
+   1 Team: Platform
+   1 Symfony
+   1 Support
+   1 Status: Ready to Merge
+   1 Status: Needs Confirmation
+   1 Status: Need Test Case
+   1 Status: Need More Information
+   1 Status: Need Information
+   1 Status: Need Code Review
+   1 Status: Investigating
+   1 Status: Fixed
+   1 Status: Duplicate
+   1 Status: Completed
+   1 Status: Can't Reproduce
+   1 Status: Awaiting Response
+   1 Status: Awaiting Fix
+   1 Status: As Designed
+   1 Stale
+   1 Spring Cleaning
+   1 Spring
+   1 Serverless
+   1 Serilog
+   1 Sentry.PlatformAbstractions
+   1 Sentry
+   1 SDK-SP
+   1 Repository maintenance
+   1 React-Native
+   1 Python:3
+   1 Python:2
+   1 Python: PyPy
+   1 Priority: Medium
+   1 Priority: Low
+   1 Priority: High
+   1 Priority: Critical
+   1 Platforms: Heroku
+   1 Platforms: AppEngine
+   1 Platforms: AWS Lambda
+   1 Platform: iOS/Mac
+   1 Platform: Ruby
+   1 Platform: Python
+   1 Platform: PHP
+   1 Platform: JavaScript
+   1 Platform: Java
+   1 Platform: Docs
+   1 Platform: Cocoa
+   1 Platform: CLI
+   1 Platform: Android
+   1 Performance Product
+   1 PHP
+   1 OWIN
+   1 Needs Documentation
+   1 Need more information
+   1 Need a patch
+   1 NLog
+   1 Mobile
+   1 Misc: Good First Contribution
+   1 Microsoft.Extensions.Logging
+   1 Logging
+   1 Logback
+   1 Legacy SDK
+   1 JavaFX
+   1 Java 1.8 issue
+   1 Java
+   1 Integrations: Tornado
+   1 Integrations: Flask
+   1 Integrations: Django
+   1 Integrations: DRF
+   1 Integrations: Celery
+   1 Improvement
+   1 Impact: Small
+   1 Impact: Migration
+   1 Impact: Medium
+   1 Impact: Large
+   1 Hosting: sentry.io
+   1 Hosting: Self-hosted
+   1 Hacktoberfest
+   1 Gradle plugin
+   1 Feature: Sessions
+   1 Feature: Serverless
+   1 Feature: Performance
+   1 Feature: Errors
+   1 Feature Request
+   1 Feature
+   1 Easy Task
+   1 Duplicate
+   1 Documentation
+   1 DocFX
+   1 Do Not Merge
+   1 Design Review
+   1 Deploy: Risky
+   1 Deploy: Monitored
+   1 Dart
+   1 Critical
+   1 Craft
+   1 Core
+   1 Cordova
+   1 Component: i18n
+   1 Component: Workflow
+   1 Component: User Crash Report
+   1 Component: Server
+   1 Component: Search
+   1 Component: SDK
+   1 Component: Rules
+   1 Component: Releases
+   1 Component: Relay
+   1 Component: Package
+   1 Component: Onboarding
+   1 Component: Notifications
+   1 Component: Monitoring
+   1 Component: Logging
+   1 Component: Issues
+   1 Component: Integrations
+   1 Component: Inbound Filters
+   1 Component: Grouping
+   1 Component: Functions
+   1 Component: Feedback
+   1 Component: Event Pipeline
+   1 Component: Documentation
+   1 Component: Developer Environment
+   1 Component: Debugger
+   1 Component: Core Frontend (React)
+   1 Component: CI
+   1 Component: Beacon
+   1 Component: Auth
+   1 Component: Analytics
+   1 Component: API
+   1 CocoaPods
+   1 Cocoa
+   1 Capacitor
+   1 Bug
+   1 Breadcrumbs
+   1 Azure Functions
+   1 Azure
+   1 Android NDK
+   1 AWS Lambda
+   1 AWS Fargate
+   1 ASP.NET Core
+   1 ASP.NET
+   1 :star2: @sentry/react-native
+   1 .NET Framework
+   1 .NET Core 2.2
+   1 .NET 5
+   1 

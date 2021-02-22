@@ -1,0 +1,83 @@
+[
+  {
+    "id": 2423699082,
+    "node_id": "MDU6TGFiZWwyNDIzNjk5MDgy",
+    "url": "https://api.github.com/repos/getsentry/redash/labels/bug",
+    "name": "bug",
+    "color": "d73a4a",
+    "default": true,
+    "description": "Something isn't working"
+  },
+  {
+    "id": 2423699083,
+    "node_id": "MDU6TGFiZWwyNDIzNjk5MDgz",
+    "url": "https://api.github.com/repos/getsentry/redash/labels/documentation",
+    "name": "documentation",
+    "color": "0075ca",
+    "default": true,
+    "description": "Improvements or additions to documentation"
+  },
+  {
+    "id": 2423699085,
+    "node_id": "MDU6TGFiZWwyNDIzNjk5MDg1",
+    "url": "https://api.github.com/repos/getsentry/redash/labels/duplicate",
+    "name": "duplicate",
+    "color": "cfd3d7",
+    "default": true,
+    "description": "This issue or pull request already exists"
+  },
+  {
+    "id": 2423699087,
+    "node_id": "MDU6TGFiZWwyNDIzNjk5MDg3",
+    "url": "https://api.github.com/repos/getsentry/redash/labels/enhancement",
+    "name": "enhancement",
+    "color": "a2eeef",
+    "default": true,
+    "description": "New feature or request"
+  },
+  {
+    "id": 2423699089,
+    "node_id": "MDU6TGFiZWwyNDIzNjk5MDg5",
+    "url": "https://api.github.com/repos/getsentry/redash/labels/good%20first%20issue",
+    "name": "good first issue",
+    "color": "7057ff",
+    "default": true,
+    "description": "Good for newcomers"
+  },
+  {
+    "id": 2423699090,
+    "node_id": "MDU6TGFiZWwyNDIzNjk5MDkw",
+    "url": "https://api.github.com/repos/getsentry/redash/labels/help%20wanted",
+    "name": "help wanted",
+    "color": "008672",
+    "default": true,
+    "description": "Extra attention is needed"
+  },
+  {
+    "id": 2423699091,
+    "node_id": "MDU6TGFiZWwyNDIzNjk5MDkx",
+    "url": "https://api.github.com/repos/getsentry/redash/labels/invalid",
+    "name": "invalid",
+    "color": "e4e669",
+    "default": true,
+    "description": "This doesn't seem right"
+  },
+  {
+    "id": 2423699092,
+    "node_id": "MDU6TGFiZWwyNDIzNjk5MDky",
+    "url": "https://api.github.com/repos/getsentry/redash/labels/question",
+    "name": "question",
+    "color": "d876e3",
+    "default": true,
+    "description": "Further information is requested"
+  },
+  {
+    "id": 2423699093,
+    "node_id": "MDU6TGFiZWwyNDIzNjk5MDkz",
+    "url": "https://api.github.com/repos/getsentry/redash/labels/wontfix",
+    "name": "wontfix",
+    "color": "ffffff",
+    "default": true,
+    "description": "This will not be worked on"
+  }
+]

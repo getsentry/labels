@@ -1,0 +1,65 @@
+[
+  {
+    "id": 645389128,
+    "node_id": "MDU6TGFiZWw2NDUzODkxMjg=",
+    "url": "https://api.github.com/repos/getsentry/pre-commit-hooks/labels/bug",
+    "name": "bug",
+    "color": "ee0701",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 645389129,
+    "node_id": "MDU6TGFiZWw2NDUzODkxMjk=",
+    "url": "https://api.github.com/repos/getsentry/pre-commit-hooks/labels/duplicate",
+    "name": "duplicate",
+    "color": "cccccc",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 645389130,
+    "node_id": "MDU6TGFiZWw2NDUzODkxMzA=",
+    "url": "https://api.github.com/repos/getsentry/pre-commit-hooks/labels/enhancement",
+    "name": "enhancement",
+    "color": "84b6eb",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 645389131,
+    "node_id": "MDU6TGFiZWw2NDUzODkxMzE=",
+    "url": "https://api.github.com/repos/getsentry/pre-commit-hooks/labels/help%20wanted",
+    "name": "help wanted",
+    "color": "128A0C",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 645389132,
+    "node_id": "MDU6TGFiZWw2NDUzODkxMzI=",
+    "url": "https://api.github.com/repos/getsentry/pre-commit-hooks/labels/invalid",
+    "name": "invalid",
+    "color": "e6e6e6",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 645389133,
+    "node_id": "MDU6TGFiZWw2NDUzODkxMzM=",
+    "url": "https://api.github.com/repos/getsentry/pre-commit-hooks/labels/question",
+    "name": "question",
+    "color": "cc317c",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 645389134,
+    "node_id": "MDU6TGFiZWw2NDUzODkxMzQ=",
+    "url": "https://api.github.com/repos/getsentry/pre-commit-hooks/labels/wontfix",
+    "name": "wontfix",
+    "color": "ffffff",
+    "default": true,
+    "description": null
+  }
+]

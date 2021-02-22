@@ -1,0 +1,65 @@
+[
+  {
+    "id": 406404116,
+    "node_id": "MDU6TGFiZWw0MDY0MDQxMTY=",
+    "url": "https://api.github.com/repos/getsentry/nginx-statsd/labels/bug",
+    "name": "bug",
+    "color": "ee0701",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 406404118,
+    "node_id": "MDU6TGFiZWw0MDY0MDQxMTg=",
+    "url": "https://api.github.com/repos/getsentry/nginx-statsd/labels/duplicate",
+    "name": "duplicate",
+    "color": "cccccc",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 406404120,
+    "node_id": "MDU6TGFiZWw0MDY0MDQxMjA=",
+    "url": "https://api.github.com/repos/getsentry/nginx-statsd/labels/enhancement",
+    "name": "enhancement",
+    "color": "84b6eb",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 406404122,
+    "node_id": "MDU6TGFiZWw0MDY0MDQxMjI=",
+    "url": "https://api.github.com/repos/getsentry/nginx-statsd/labels/help%20wanted",
+    "name": "help wanted",
+    "color": "128A0C",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 406404125,
+    "node_id": "MDU6TGFiZWw0MDY0MDQxMjU=",
+    "url": "https://api.github.com/repos/getsentry/nginx-statsd/labels/invalid",
+    "name": "invalid",
+    "color": "e6e6e6",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 406404126,
+    "node_id": "MDU6TGFiZWw0MDY0MDQxMjY=",
+    "url": "https://api.github.com/repos/getsentry/nginx-statsd/labels/question",
+    "name": "question",
+    "color": "cc317c",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 406404127,
+    "node_id": "MDU6TGFiZWw0MDY0MDQxMjc=",
+    "url": "https://api.github.com/repos/getsentry/nginx-statsd/labels/wontfix",
+    "name": "wontfix",
+    "color": "ffffff",
+    "default": true,
+    "description": null
+  }
+]

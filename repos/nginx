@@ -1,0 +1,56 @@
+[
+  {
+    "id": 14055270,
+    "node_id": "MDU6TGFiZWwxNDA1NTI3MA==",
+    "url": "https://api.github.com/repos/getsentry/nginx/labels/bug",
+    "name": "bug",
+    "color": "fc2929",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 14055271,
+    "node_id": "MDU6TGFiZWwxNDA1NTI3MQ==",
+    "url": "https://api.github.com/repos/getsentry/nginx/labels/duplicate",
+    "name": "duplicate",
+    "color": "cccccc",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 14055272,
+    "node_id": "MDU6TGFiZWwxNDA1NTI3Mg==",
+    "url": "https://api.github.com/repos/getsentry/nginx/labels/enhancement",
+    "name": "enhancement",
+    "color": "84b6eb",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 14055273,
+    "node_id": "MDU6TGFiZWwxNDA1NTI3Mw==",
+    "url": "https://api.github.com/repos/getsentry/nginx/labels/invalid",
+    "name": "invalid",
+    "color": "e6e6e6",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 14055274,
+    "node_id": "MDU6TGFiZWwxNDA1NTI3NA==",
+    "url": "https://api.github.com/repos/getsentry/nginx/labels/question",
+    "name": "question",
+    "color": "cc317c",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 14055275,
+    "node_id": "MDU6TGFiZWwxNDA1NTI3NQ==",
+    "url": "https://api.github.com/repos/getsentry/nginx/labels/wontfix",
+    "name": "wontfix",
+    "color": "ffffff",
+    "default": true,
+    "description": null
+  }
+]

@@ -1,0 +1,209 @@
+[
+  {
+    "id": 681373404,
+    "node_id": "MDU6TGFiZWw2ODEzNzM0MDQ=",
+    "url": "https://api.github.com/repos/getsentry/rust-breakpad/labels/Misc:%20Good%20First%20Contribution",
+    "name": "Misc: Good First Contribution",
+    "color": "000000",
+    "default": false,
+    "description": null
+  },
+  {
+    "id": 672303432,
+    "node_id": "MDU6TGFiZWw2NzIzMDM0MzI=",
+    "url": "https://api.github.com/repos/getsentry/rust-breakpad/labels/Misc:%20Help%20Wanted",
+    "name": "Misc: Help Wanted",
+    "color": "cc317c",
+    "default": false,
+    "description": null
+  },
+  {
+    "id": 681373412,
+    "node_id": "MDU6TGFiZWw2ODEzNzM0MTI=",
+    "url": "https://api.github.com/repos/getsentry/rust-breakpad/labels/Priority:%20Critical",
+    "name": "Priority: Critical",
+    "color": "ee0701",
+    "default": false,
+    "description": null
+  },
+  {
+    "id": 681373411,
+    "node_id": "MDU6TGFiZWw2ODEzNzM0MTE=",
+    "url": "https://api.github.com/repos/getsentry/rust-breakpad/labels/Priority:%20High",
+    "name": "Priority: High",
+    "color": "fbca04",
+    "default": false,
+    "description": null
+  },
+  {
+    "id": 681373397,
+    "node_id": "MDU6TGFiZWw2ODEzNzMzOTc=",
+    "url": "https://api.github.com/repos/getsentry/rust-breakpad/labels/Priority:%20Low",
+    "name": "Priority: Low",
+    "color": "c5def5",
+    "default": false,
+    "description": null
+  },
+  {
+    "id": 681373410,
+    "node_id": "MDU6TGFiZWw2ODEzNzM0MTA=",
+    "url": "https://api.github.com/repos/getsentry/rust-breakpad/labels/Priority:%20Medium",
+    "name": "Priority: Medium",
+    "color": "fbca04",
+    "default": false,
+    "description": null
+  },
+  {
+    "id": 681373409,
+    "node_id": "MDU6TGFiZWw2ODEzNzM0MDk=",
+    "url": "https://api.github.com/repos/getsentry/rust-breakpad/labels/Status:%20Blocked",
+    "name": "Status: Blocked",
+    "color": "ee0701",
+    "default": false,
+    "description": null
+  },
+  {
+    "id": 681373399,
+    "node_id": "MDU6TGFiZWw2ODEzNzMzOTk=",
+    "url": "https://api.github.com/repos/getsentry/rust-breakpad/labels/Status:%20Completed",
+    "name": "Status: Completed",
+    "color": "0e8a16",
+    "default": false,
+    "description": null
+  },
+  {
+    "id": 681373408,
+    "node_id": "MDU6TGFiZWw2ODEzNzM0MDg=",
+    "url": "https://api.github.com/repos/getsentry/rust-breakpad/labels/Status:%20Confirmed",
+    "name": "Status: Confirmed",
+    "color": "0e8a16",
+    "default": false,
+    "description": null
+  },
+  {
+    "id": 672303430,
+    "node_id": "MDU6TGFiZWw2NzIzMDM0MzA=",
+    "url": "https://api.github.com/repos/getsentry/rust-breakpad/labels/Status:%20Duplicate",
+    "name": "Status: Duplicate",
+    "color": "cccccc",
+    "default": false,
+    "description": null
+  },
+  {
+    "id": 681373401,
+    "node_id": "MDU6TGFiZWw2ODEzNzM0MDE=",
+    "url": "https://api.github.com/repos/getsentry/rust-breakpad/labels/Status:%20In%20Progress",
+    "name": "Status: In Progress",
+    "color": "0e8a16",
+    "default": false,
+    "description": null
+  },
+  {
+    "id": 681373406,
+    "node_id": "MDU6TGFiZWw2ODEzNzM0MDY=",
+    "url": "https://api.github.com/repos/getsentry/rust-breakpad/labels/Status:%20Need%20Code%20Review",
+    "name": "Status: Need Code Review",
+    "color": "cc317c",
+    "default": false,
+    "description": null
+  },
+  {
+    "id": 672303434,
+    "node_id": "MDU6TGFiZWw2NzIzMDM0MzQ=",
+    "url": "https://api.github.com/repos/getsentry/rust-breakpad/labels/Status:%20Need%20More%20Information",
+    "name": "Status: Need More Information",
+    "color": "cc317c",
+    "default": false,
+    "description": null
+  },
+  {
+    "id": 681373403,
+    "node_id": "MDU6TGFiZWw2ODEzNzM0MDM=",
+    "url": "https://api.github.com/repos/getsentry/rust-breakpad/labels/Status:%20Need%20Reproduction",
+    "name": "Status: Need Reproduction",
+    "color": "cc317c",
+    "default": false,
+    "description": null
+  },
+  {
+    "id": 681373402,
+    "node_id": "MDU6TGFiZWw2ODEzNzM0MDI=",
+    "url": "https://api.github.com/repos/getsentry/rust-breakpad/labels/Status:%20Need%20Test%20Case",
+    "name": "Status: Need Test Case",
+    "color": "cc317c",
+    "default": false,
+    "description": null
+  },
+  {
+    "id": 681373407,
+    "node_id": "MDU6TGFiZWw2ODEzNzM0MDc=",
+    "url": "https://api.github.com/repos/getsentry/rust-breakpad/labels/Status:%20Needs%20Confirmation",
+    "name": "Status: Needs Confirmation",
+    "color": "cc317c",
+    "default": false,
+    "description": null
+  },
+  {
+    "id": 681373400,
+    "node_id": "MDU6TGFiZWw2ODEzNzM0MDA=",
+    "url": "https://api.github.com/repos/getsentry/rust-breakpad/labels/Status:%20Ready%20to%20Merge",
+    "name": "Status: Ready to Merge",
+    "color": "0e8a16",
+    "default": false,
+    "description": null
+  },
+  {
+    "id": 672303435,
+    "node_id": "MDU6TGFiZWw2NzIzMDM0MzU=",
+    "url": "https://api.github.com/repos/getsentry/rust-breakpad/labels/Status:%20Won't%20Fix",
+    "name": "Status: Won't Fix",
+    "color": "e6e6e6",
+    "default": false,
+    "description": null
+  },
+  {
+    "id": 672303429,
+    "node_id": "MDU6TGFiZWw2NzIzMDM0Mjk=",
+    "url": "https://api.github.com/repos/getsentry/rust-breakpad/labels/Type:%20Bug",
+    "name": "Type: Bug",
+    "color": "ee0701",
+    "default": false,
+    "description": null
+  },
+  {
+    "id": 681373398,
+    "node_id": "MDU6TGFiZWw2ODEzNzMzOTg=",
+    "url": "https://api.github.com/repos/getsentry/rust-breakpad/labels/Type:%20Discussion",
+    "name": "Type: Discussion",
+    "color": "84b6eb",
+    "default": false,
+    "description": null
+  },
+  {
+    "id": 681373413,
+    "node_id": "MDU6TGFiZWw2ODEzNzM0MTM=",
+    "url": "https://api.github.com/repos/getsentry/rust-breakpad/labels/Type:%20Documentation",
+    "name": "Type: Documentation",
+    "color": "84b6eb",
+    "default": false,
+    "description": null
+  },
+  {
+    "id": 681373405,
+    "node_id": "MDU6TGFiZWw2ODEzNzM0MDU=",
+    "url": "https://api.github.com/repos/getsentry/rust-breakpad/labels/Type:%20Feature",
+    "name": "Type: Feature",
+    "color": "1d76db",
+    "default": false,
+    "description": null
+  },
+  {
+    "id": 672303431,
+    "node_id": "MDU6TGFiZWw2NzIzMDM0MzE=",
+    "url": "https://api.github.com/repos/getsentry/rust-breakpad/labels/Type:%20Improvement",
+    "name": "Type: Improvement",
+    "color": "1d76db",
+    "default": false,
+    "description": null
+  }
+]

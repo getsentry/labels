@@ -1,0 +1,56 @@
+[
+  {
+    "id": 17729396,
+    "node_id": "MDU6TGFiZWwxNzcyOTM5Ng==",
+    "url": "https://api.github.com/repos/getsentry/cdnjs/labels/bug",
+    "name": "bug",
+    "color": "fc2929",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 17729397,
+    "node_id": "MDU6TGFiZWwxNzcyOTM5Nw==",
+    "url": "https://api.github.com/repos/getsentry/cdnjs/labels/duplicate",
+    "name": "duplicate",
+    "color": "cccccc",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 17729398,
+    "node_id": "MDU6TGFiZWwxNzcyOTM5OA==",
+    "url": "https://api.github.com/repos/getsentry/cdnjs/labels/enhancement",
+    "name": "enhancement",
+    "color": "84b6eb",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 17729399,
+    "node_id": "MDU6TGFiZWwxNzcyOTM5OQ==",
+    "url": "https://api.github.com/repos/getsentry/cdnjs/labels/invalid",
+    "name": "invalid",
+    "color": "e6e6e6",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 17729400,
+    "node_id": "MDU6TGFiZWwxNzcyOTQwMA==",
+    "url": "https://api.github.com/repos/getsentry/cdnjs/labels/question",
+    "name": "question",
+    "color": "cc317c",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 17729401,
+    "node_id": "MDU6TGFiZWwxNzcyOTQwMQ==",
+    "url": "https://api.github.com/repos/getsentry/cdnjs/labels/wontfix",
+    "name": "wontfix",
+    "color": "ffffff",
+    "default": true,
+    "description": null
+  }
+]

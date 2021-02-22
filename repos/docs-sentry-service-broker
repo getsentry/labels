@@ -1,0 +1,83 @@
+[
+  {
+    "id": 876223841,
+    "node_id": "MDU6TGFiZWw4NzYyMjM4NDE=",
+    "url": "https://api.github.com/repos/getsentry/docs-sentry-service-broker/labels/bug",
+    "name": "bug",
+    "color": "d73a4a",
+    "default": true,
+    "description": "Something isn't working"
+  },
+  {
+    "id": 2203925345,
+    "node_id": "MDU6TGFiZWwyMjAzOTI1MzQ1",
+    "url": "https://api.github.com/repos/getsentry/docs-sentry-service-broker/labels/dependencies",
+    "name": "dependencies",
+    "color": "0366d6",
+    "default": false,
+    "description": "Pull requests that update a dependency file"
+  },
+  {
+    "id": 876223847,
+    "node_id": "MDU6TGFiZWw4NzYyMjM4NDc=",
+    "url": "https://api.github.com/repos/getsentry/docs-sentry-service-broker/labels/duplicate",
+    "name": "duplicate",
+    "color": "cfd3d7",
+    "default": true,
+    "description": "This issue or pull request already exists"
+  },
+  {
+    "id": 876223848,
+    "node_id": "MDU6TGFiZWw4NzYyMjM4NDg=",
+    "url": "https://api.github.com/repos/getsentry/docs-sentry-service-broker/labels/enhancement",
+    "name": "enhancement",
+    "color": "a2eeef",
+    "default": true,
+    "description": "New feature or request"
+  },
+  {
+    "id": 876223850,
+    "node_id": "MDU6TGFiZWw4NzYyMjM4NTA=",
+    "url": "https://api.github.com/repos/getsentry/docs-sentry-service-broker/labels/good%20first%20issue",
+    "name": "good first issue",
+    "color": "7057ff",
+    "default": true,
+    "description": "Good for newcomers"
+  },
+  {
+    "id": 876223849,
+    "node_id": "MDU6TGFiZWw4NzYyMjM4NDk=",
+    "url": "https://api.github.com/repos/getsentry/docs-sentry-service-broker/labels/help%20wanted",
+    "name": "help wanted",
+    "color": "008672",
+    "default": true,
+    "description": "Extra attention is needed"
+  },
+  {
+    "id": 876223851,
+    "node_id": "MDU6TGFiZWw4NzYyMjM4NTE=",
+    "url": "https://api.github.com/repos/getsentry/docs-sentry-service-broker/labels/invalid",
+    "name": "invalid",
+    "color": "e4e669",
+    "default": true,
+    "description": "This doesn't seem right"
+  },
+  {
+    "id": 876223852,
+    "node_id": "MDU6TGFiZWw4NzYyMjM4NTI=",
+    "url": "https://api.github.com/repos/getsentry/docs-sentry-service-broker/labels/question",
+    "name": "question",
+    "color": "d876e3",
+    "default": true,
+    "description": "Further information is requested"
+  },
+  {
+    "id": 876223853,
+    "node_id": "MDU6TGFiZWw4NzYyMjM4NTM=",
+    "url": "https://api.github.com/repos/getsentry/docs-sentry-service-broker/labels/wontfix",
+    "name": "wontfix",
+    "color": "ffffff",
+    "default": true,
+    "description": "This will not be worked on"
+  }
+]

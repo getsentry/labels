@@ -1,0 +1,83 @@
+[
+  {
+    "id": 745719305,
+    "node_id": "MDU6TGFiZWw3NDU3MTkzMDU=",
+    "url": "https://api.github.com/repos/getsentry/zeus-cli/labels/bug",
+    "name": "bug",
+    "color": "ee0701",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 1645184885,
+    "node_id": "MDU6TGFiZWwxNjQ1MTg0ODg1",
+    "url": "https://api.github.com/repos/getsentry/zeus-cli/labels/dependencies",
+    "name": "dependencies",
+    "color": "0366d6",
+    "default": false,
+    "description": "Pull requests that update a dependency file"
+  },
+  {
+    "id": 745719307,
+    "node_id": "MDU6TGFiZWw3NDU3MTkzMDc=",
+    "url": "https://api.github.com/repos/getsentry/zeus-cli/labels/duplicate",
+    "name": "duplicate",
+    "color": "cccccc",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 745719309,
+    "node_id": "MDU6TGFiZWw3NDU3MTkzMDk=",
+    "url": "https://api.github.com/repos/getsentry/zeus-cli/labels/enhancement",
+    "name": "enhancement",
+    "color": "84b6eb",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 745719313,
+    "node_id": "MDU6TGFiZWw3NDU3MTkzMTM=",
+    "url": "https://api.github.com/repos/getsentry/zeus-cli/labels/good%20first%20issue",
+    "name": "good first issue",
+    "color": "7057ff",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 745719311,
+    "node_id": "MDU6TGFiZWw3NDU3MTkzMTE=",
+    "url": "https://api.github.com/repos/getsentry/zeus-cli/labels/help%20wanted",
+    "name": "help wanted",
+    "color": "33aa3f",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 745719314,
+    "node_id": "MDU6TGFiZWw3NDU3MTkzMTQ=",
+    "url": "https://api.github.com/repos/getsentry/zeus-cli/labels/invalid",
+    "name": "invalid",
+    "color": "e6e6e6",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 745719315,
+    "node_id": "MDU6TGFiZWw3NDU3MTkzMTU=",
+    "url": "https://api.github.com/repos/getsentry/zeus-cli/labels/question",
+    "name": "question",
+    "color": "cc317c",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 745719316,
+    "node_id": "MDU6TGFiZWw3NDU3MTkzMTY=",
+    "url": "https://api.github.com/repos/getsentry/zeus-cli/labels/wontfix",
+    "name": "wontfix",
+    "color": "ffffff",
+    "default": true,
+    "description": null
+  }
+]

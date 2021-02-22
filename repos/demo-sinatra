@@ -1,0 +1,65 @@
+[
+  {
+    "id": 335185153,
+    "node_id": "MDU6TGFiZWwzMzUxODUxNTM=",
+    "url": "https://api.github.com/repos/getsentry/demo-sinatra/labels/bug",
+    "name": "bug",
+    "color": "fc2929",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 335185154,
+    "node_id": "MDU6TGFiZWwzMzUxODUxNTQ=",
+    "url": "https://api.github.com/repos/getsentry/demo-sinatra/labels/duplicate",
+    "name": "duplicate",
+    "color": "cccccc",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 335185155,
+    "node_id": "MDU6TGFiZWwzMzUxODUxNTU=",
+    "url": "https://api.github.com/repos/getsentry/demo-sinatra/labels/enhancement",
+    "name": "enhancement",
+    "color": "84b6eb",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 335185156,
+    "node_id": "MDU6TGFiZWwzMzUxODUxNTY=",
+    "url": "https://api.github.com/repos/getsentry/demo-sinatra/labels/help%20wanted",
+    "name": "help wanted",
+    "color": "159818",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 335185157,
+    "node_id": "MDU6TGFiZWwzMzUxODUxNTc=",
+    "url": "https://api.github.com/repos/getsentry/demo-sinatra/labels/invalid",
+    "name": "invalid",
+    "color": "e6e6e6",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 335185158,
+    "node_id": "MDU6TGFiZWwzMzUxODUxNTg=",
+    "url": "https://api.github.com/repos/getsentry/demo-sinatra/labels/question",
+    "name": "question",
+    "color": "cc317c",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 335185159,
+    "node_id": "MDU6TGFiZWwzMzUxODUxNTk=",
+    "url": "https://api.github.com/repos/getsentry/demo-sinatra/labels/wontfix",
+    "name": "wontfix",
+    "color": "ffffff",
+    "default": true,
+    "description": null
+  }
+]

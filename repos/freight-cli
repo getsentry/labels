@@ -1,0 +1,65 @@
+[
+  {
+    "id": 177194002,
+    "node_id": "MDU6TGFiZWwxNzcxOTQwMDI=",
+    "url": "https://api.github.com/repos/getsentry/freight-cli/labels/bug",
+    "name": "bug",
+    "color": "fc2929",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 177194003,
+    "node_id": "MDU6TGFiZWwxNzcxOTQwMDM=",
+    "url": "https://api.github.com/repos/getsentry/freight-cli/labels/duplicate",
+    "name": "duplicate",
+    "color": "cccccc",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 177194004,
+    "node_id": "MDU6TGFiZWwxNzcxOTQwMDQ=",
+    "url": "https://api.github.com/repos/getsentry/freight-cli/labels/enhancement",
+    "name": "enhancement",
+    "color": "84b6eb",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 177194005,
+    "node_id": "MDU6TGFiZWwxNzcxOTQwMDU=",
+    "url": "https://api.github.com/repos/getsentry/freight-cli/labels/help%20wanted",
+    "name": "help wanted",
+    "color": "159818",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 177194006,
+    "node_id": "MDU6TGFiZWwxNzcxOTQwMDY=",
+    "url": "https://api.github.com/repos/getsentry/freight-cli/labels/invalid",
+    "name": "invalid",
+    "color": "e6e6e6",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 177194007,
+    "node_id": "MDU6TGFiZWwxNzcxOTQwMDc=",
+    "url": "https://api.github.com/repos/getsentry/freight-cli/labels/question",
+    "name": "question",
+    "color": "cc317c",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 177194008,
+    "node_id": "MDU6TGFiZWwxNzcxOTQwMDg=",
+    "url": "https://api.github.com/repos/getsentry/freight-cli/labels/wontfix",
+    "name": "wontfix",
+    "color": "ffffff",
+    "default": true,
+    "description": null
+  }
+]

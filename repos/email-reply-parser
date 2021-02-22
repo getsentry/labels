@@ -1,0 +1,83 @@
+[
+  {
+    "id": 2172815809,
+    "node_id": "MDU6TGFiZWwyMTcyODE1ODA5",
+    "url": "https://api.github.com/repos/getsentry/email-reply-parser/labels/bug",
+    "name": "bug",
+    "color": "d73a4a",
+    "default": true,
+    "description": "Something isn't working"
+  },
+  {
+    "id": 2172815812,
+    "node_id": "MDU6TGFiZWwyMTcyODE1ODEy",
+    "url": "https://api.github.com/repos/getsentry/email-reply-parser/labels/documentation",
+    "name": "documentation",
+    "color": "0075ca",
+    "default": true,
+    "description": "Improvements or additions to documentation"
+  },
+  {
+    "id": 2172815815,
+    "node_id": "MDU6TGFiZWwyMTcyODE1ODE1",
+    "url": "https://api.github.com/repos/getsentry/email-reply-parser/labels/duplicate",
+    "name": "duplicate",
+    "color": "cfd3d7",
+    "default": true,
+    "description": "This issue or pull request already exists"
+  },
+  {
+    "id": 2172815818,
+    "node_id": "MDU6TGFiZWwyMTcyODE1ODE4",
+    "url": "https://api.github.com/repos/getsentry/email-reply-parser/labels/enhancement",
+    "name": "enhancement",
+    "color": "a2eeef",
+    "default": true,
+    "description": "New feature or request"
+  },
+  {
+    "id": 2172815820,
+    "node_id": "MDU6TGFiZWwyMTcyODE1ODIw",
+    "url": "https://api.github.com/repos/getsentry/email-reply-parser/labels/good%20first%20issue",
+    "name": "good first issue",
+    "color": "7057ff",
+    "default": true,
+    "description": "Good for newcomers"
+  },
+  {
+    "id": 2172815824,
+    "node_id": "MDU6TGFiZWwyMTcyODE1ODI0",
+    "url": "https://api.github.com/repos/getsentry/email-reply-parser/labels/help%20wanted",
+    "name": "help wanted",
+    "color": "008672",
+    "default": true,
+    "description": "Extra attention is needed"
+  },
+  {
+    "id": 2172815828,
+    "node_id": "MDU6TGFiZWwyMTcyODE1ODI4",
+    "url": "https://api.github.com/repos/getsentry/email-reply-parser/labels/invalid",
+    "name": "invalid",
+    "color": "e4e669",
+    "default": true,
+    "description": "This doesn't seem right"
+  },
+  {
+    "id": 2172815831,
+    "node_id": "MDU6TGFiZWwyMTcyODE1ODMx",
+    "url": "https://api.github.com/repos/getsentry/email-reply-parser/labels/question",
+    "name": "question",
+    "color": "d876e3",
+    "default": true,
+    "description": "Further information is requested"
+  },
+  {
+    "id": 2172815835,
+    "node_id": "MDU6TGFiZWwyMTcyODE1ODM1",
+    "url": "https://api.github.com/repos/getsentry/email-reply-parser/labels/wontfix",
+    "name": "wontfix",
+    "color": "ffffff",
+    "default": true,
+    "description": "This will not be worked on"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "id": 167575416,
+    "node_id": "MDU6TGFiZWwxNjc1NzU0MTY=",
+    "url": "https://api.github.com/repos/getsentry/heaven/labels/bug",
+    "name": "bug",
+    "color": "fc2929",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 2203924155,
+    "node_id": "MDU6TGFiZWwyMjAzOTI0MTU1",
+    "url": "https://api.github.com/repos/getsentry/heaven/labels/dependencies",
+    "name": "dependencies",
+    "color": "0366d6",
+    "default": false,
+    "description": "Pull requests that update a dependency file"
+  },
+  {
+    "id": 167575417,
+    "node_id": "MDU6TGFiZWwxNjc1NzU0MTc=",
+    "url": "https://api.github.com/repos/getsentry/heaven/labels/duplicate",
+    "name": "duplicate",
+    "color": "cccccc",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 167575418,
+    "node_id": "MDU6TGFiZWwxNjc1NzU0MTg=",
+    "url": "https://api.github.com/repos/getsentry/heaven/labels/enhancement",
+    "name": "enhancement",
+    "color": "84b6eb",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 167575419,
+    "node_id": "MDU6TGFiZWwxNjc1NzU0MTk=",
+    "url": "https://api.github.com/repos/getsentry/heaven/labels/help%20wanted",
+    "name": "help wanted",
+    "color": "159818",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 167575420,
+    "node_id": "MDU6TGFiZWwxNjc1NzU0MjA=",
+    "url": "https://api.github.com/repos/getsentry/heaven/labels/invalid",
+    "name": "invalid",
+    "color": "e6e6e6",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 167575421,
+    "node_id": "MDU6TGFiZWwxNjc1NzU0MjE=",
+    "url": "https://api.github.com/repos/getsentry/heaven/labels/question",
+    "name": "question",
+    "color": "cc317c",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 167575422,
+    "node_id": "MDU6TGFiZWwxNjc1NzU0MjI=",
+    "url": "https://api.github.com/repos/getsentry/heaven/labels/wontfix",
+    "name": "wontfix",
+    "color": "ffffff",
+    "default": true,
+    "description": null
+  }
+]

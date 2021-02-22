@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1029329723,
+    "node_id": "MDU6TGFiZWwxMDI5MzI5NzIz",
+    "url": "https://api.github.com/repos/getsentry/rust-musl-cross/labels/bug",
+    "name": "bug",
+    "color": "d73a4a",
+    "default": true,
+    "description": "Something isn't working"
+  },
+  {
+    "id": 1029329724,
+    "node_id": "MDU6TGFiZWwxMDI5MzI5NzI0",
+    "url": "https://api.github.com/repos/getsentry/rust-musl-cross/labels/duplicate",
+    "name": "duplicate",
+    "color": "cfd3d7",
+    "default": true,
+    "description": "This issue or pull request already exists"
+  },
+  {
+    "id": 1029329725,
+    "node_id": "MDU6TGFiZWwxMDI5MzI5NzI1",
+    "url": "https://api.github.com/repos/getsentry/rust-musl-cross/labels/enhancement",
+    "name": "enhancement",
+    "color": "a2eeef",
+    "default": true,
+    "description": "New feature or request"
+  },
+  {
+    "id": 1029329727,
+    "node_id": "MDU6TGFiZWwxMDI5MzI5NzI3",
+    "url": "https://api.github.com/repos/getsentry/rust-musl-cross/labels/good%20first%20issue",
+    "name": "good first issue",
+    "color": "7057ff",
+    "default": true,
+    "description": "Good for newcomers"
+  },
+  {
+    "id": 1029329726,
+    "node_id": "MDU6TGFiZWwxMDI5MzI5NzI2",
+    "url": "https://api.github.com/repos/getsentry/rust-musl-cross/labels/help%20wanted",
+    "name": "help wanted",
+    "color": "008672",
+    "default": true,
+    "description": "Extra attention is needed"
+  },
+  {
+    "id": 1029329728,
+    "node_id": "MDU6TGFiZWwxMDI5MzI5NzI4",
+    "url": "https://api.github.com/repos/getsentry/rust-musl-cross/labels/invalid",
+    "name": "invalid",
+    "color": "e4e669",
+    "default": true,
+    "description": "This doesn't seem right"
+  },
+  {
+    "id": 1029329729,
+    "node_id": "MDU6TGFiZWwxMDI5MzI5NzI5",
+    "url": "https://api.github.com/repos/getsentry/rust-musl-cross/labels/question",
+    "name": "question",
+    "color": "d876e3",
+    "default": true,
+    "description": "Further information is requested"
+  },
+  {
+    "id": 1029329730,
+    "node_id": "MDU6TGFiZWwxMDI5MzI5NzMw",
+    "url": "https://api.github.com/repos/getsentry/rust-musl-cross/labels/wontfix",
+    "name": "wontfix",
+    "color": "ffffff",
+    "default": true,
+    "description": "This will not be worked on"
+  }
+]

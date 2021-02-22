@@ -1,0 +1,65 @@
+[
+  {
+    "id": 210394421,
+    "node_id": "MDU6TGFiZWwyMTAzOTQ0MjE=",
+    "url": "https://api.github.com/repos/getsentry/sentry-freight/labels/bug",
+    "name": "bug",
+    "color": "fc2929",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 210394422,
+    "node_id": "MDU6TGFiZWwyMTAzOTQ0MjI=",
+    "url": "https://api.github.com/repos/getsentry/sentry-freight/labels/duplicate",
+    "name": "duplicate",
+    "color": "cccccc",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 210394423,
+    "node_id": "MDU6TGFiZWwyMTAzOTQ0MjM=",
+    "url": "https://api.github.com/repos/getsentry/sentry-freight/labels/enhancement",
+    "name": "enhancement",
+    "color": "84b6eb",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 210394424,
+    "node_id": "MDU6TGFiZWwyMTAzOTQ0MjQ=",
+    "url": "https://api.github.com/repos/getsentry/sentry-freight/labels/help%20wanted",
+    "name": "help wanted",
+    "color": "159818",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 210394425,
+    "node_id": "MDU6TGFiZWwyMTAzOTQ0MjU=",
+    "url": "https://api.github.com/repos/getsentry/sentry-freight/labels/invalid",
+    "name": "invalid",
+    "color": "e6e6e6",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 210394426,
+    "node_id": "MDU6TGFiZWwyMTAzOTQ0MjY=",
+    "url": "https://api.github.com/repos/getsentry/sentry-freight/labels/question",
+    "name": "question",
+    "color": "cc317c",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 210394427,
+    "node_id": "MDU6TGFiZWwyMTAzOTQ0Mjc=",
+    "url": "https://api.github.com/repos/getsentry/sentry-freight/labels/wontfix",
+    "name": "wontfix",
+    "color": "ffffff",
+    "default": true,
+    "description": null
+  }
+]

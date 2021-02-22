@@ -1,0 +1,83 @@
+[
+  {
+    "id": 1186165302,
+    "node_id": "MDU6TGFiZWwxMTg2MTY1MzAy",
+    "url": "https://api.github.com/repos/getsentry/event-ingestion-graph/labels/bug",
+    "name": "bug",
+    "color": "d73a4a",
+    "default": true,
+    "description": "Something isn't working"
+  },
+  {
+    "id": 2203925835,
+    "node_id": "MDU6TGFiZWwyMjAzOTI1ODM1",
+    "url": "https://api.github.com/repos/getsentry/event-ingestion-graph/labels/dependencies",
+    "name": "dependencies",
+    "color": "0366d6",
+    "default": false,
+    "description": "Pull requests that update a dependency file"
+  },
+  {
+    "id": 1186165303,
+    "node_id": "MDU6TGFiZWwxMTg2MTY1MzAz",
+    "url": "https://api.github.com/repos/getsentry/event-ingestion-graph/labels/duplicate",
+    "name": "duplicate",
+    "color": "cfd3d7",
+    "default": true,
+    "description": "This issue or pull request already exists"
+  },
+  {
+    "id": 1186165304,
+    "node_id": "MDU6TGFiZWwxMTg2MTY1MzA0",
+    "url": "https://api.github.com/repos/getsentry/event-ingestion-graph/labels/enhancement",
+    "name": "enhancement",
+    "color": "a2eeef",
+    "default": true,
+    "description": "New feature or request"
+  },
+  {
+    "id": 1186165306,
+    "node_id": "MDU6TGFiZWwxMTg2MTY1MzA2",
+    "url": "https://api.github.com/repos/getsentry/event-ingestion-graph/labels/good%20first%20issue",
+    "name": "good first issue",
+    "color": "7057ff",
+    "default": true,
+    "description": "Good for newcomers"
+  },
+  {
+    "id": 1186165305,
+    "node_id": "MDU6TGFiZWwxMTg2MTY1MzA1",
+    "url": "https://api.github.com/repos/getsentry/event-ingestion-graph/labels/help%20wanted",
+    "name": "help wanted",
+    "color": "008672",
+    "default": true,
+    "description": "Extra attention is needed"
+  },
+  {
+    "id": 1186165307,
+    "node_id": "MDU6TGFiZWwxMTg2MTY1MzA3",
+    "url": "https://api.github.com/repos/getsentry/event-ingestion-graph/labels/invalid",
+    "name": "invalid",
+    "color": "e4e669",
+    "default": true,
+    "description": "This doesn't seem right"
+  },
+  {
+    "id": 1186165308,
+    "node_id": "MDU6TGFiZWwxMTg2MTY1MzA4",
+    "url": "https://api.github.com/repos/getsentry/event-ingestion-graph/labels/question",
+    "name": "question",
+    "color": "d876e3",
+    "default": true,
+    "description": "Further information is requested"
+  },
+  {
+    "id": 1186165309,
+    "node_id": "MDU6TGFiZWwxMTg2MTY1MzA5",
+    "url": "https://api.github.com/repos/getsentry/event-ingestion-graph/labels/wontfix",
+    "name": "wontfix",
+    "color": "ffffff",
+    "default": true,
+    "description": "This will not be worked on"
+  }
+]

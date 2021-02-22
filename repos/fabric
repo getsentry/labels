@@ -1,0 +1,56 @@
+[
+  {
+    "id": 47971707,
+    "node_id": "MDU6TGFiZWw0Nzk3MTcwNw==",
+    "url": "https://api.github.com/repos/getsentry/fabric/labels/bug",
+    "name": "bug",
+    "color": "fc2929",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 47971708,
+    "node_id": "MDU6TGFiZWw0Nzk3MTcwOA==",
+    "url": "https://api.github.com/repos/getsentry/fabric/labels/duplicate",
+    "name": "duplicate",
+    "color": "cccccc",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 47971709,
+    "node_id": "MDU6TGFiZWw0Nzk3MTcwOQ==",
+    "url": "https://api.github.com/repos/getsentry/fabric/labels/enhancement",
+    "name": "enhancement",
+    "color": "84b6eb",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 47971710,
+    "node_id": "MDU6TGFiZWw0Nzk3MTcxMA==",
+    "url": "https://api.github.com/repos/getsentry/fabric/labels/invalid",
+    "name": "invalid",
+    "color": "e6e6e6",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 47971711,
+    "node_id": "MDU6TGFiZWw0Nzk3MTcxMQ==",
+    "url": "https://api.github.com/repos/getsentry/fabric/labels/question",
+    "name": "question",
+    "color": "cc317c",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 47971712,
+    "node_id": "MDU6TGFiZWw0Nzk3MTcxMg==",
+    "url": "https://api.github.com/repos/getsentry/fabric/labels/wontfix",
+    "name": "wontfix",
+    "color": "ffffff",
+    "default": true,
+    "description": null
+  }
+]

@@ -1,0 +1,209 @@
+[
+  {
+    "id": 2388570597,
+    "node_id": "MDU6TGFiZWwyMzg4NTcwNTk3",
+    "url": "https://api.github.com/repos/getsentry/sentry-javascript/labels/Feature:%20Errors",
+    "name": "Feature: Errors",
+    "color": "ffa0df",
+    "default": false,
+    "description": ""
+  },
+  {
+    "id": 2388567963,
+    "node_id": "MDU6TGFiZWwyMzg4NTY3OTYz",
+    "url": "https://api.github.com/repos/getsentry/sentry-javascript/labels/Feature:%20Performance",
+    "name": "Feature: Performance",
+    "color": "99dd58",
+    "default": false,
+    "description": ""
+  },
+  {
+    "id": 2563560681,
+    "node_id": "MDU6TGFiZWwyNTYzNTYwNjgx",
+    "url": "https://api.github.com/repos/getsentry/sentry-javascript/labels/Feature:%20Serverless",
+    "name": "Feature: Serverless",
+    "color": "ed28a1",
+    "default": false,
+    "description": ""
+  },
+  {
+    "id": 2388572620,
+    "node_id": "MDU6TGFiZWwyMzg4NTcyNjIw",
+    "url": "https://api.github.com/repos/getsentry/sentry-javascript/labels/Feature:%20Sessions",
+    "name": "Feature: Sessions",
+    "color": "fc193f",
+    "default": false,
+    "description": ""
+  },
+  {
+    "id": 689185716,
+    "node_id": "MDU6TGFiZWw2ODkxODU3MTY=",
+    "url": "https://api.github.com/repos/getsentry/sentry-javascript/labels/Misc:%20Help%20Wanted",
+    "name": "Misc: Help Wanted",
+    "color": "8ceaa5",
+    "default": false,
+    "description": null
+  },
+  {
+    "id": 1052951963,
+    "node_id": "MDU6TGFiZWwxMDUyOTUxOTYz",
+    "url": "https://api.github.com/repos/getsentry/sentry-javascript/labels/Misc:%20Report%20Dialog",
+    "name": "Misc: Report Dialog",
+    "color": "ffcced",
+    "default": false,
+    "description": ""
+  },
+  {
+    "id": 2699900387,
+    "node_id": "MDU6TGFiZWwyNjk5OTAwMzg3",
+    "url": "https://api.github.com/repos/getsentry/sentry-javascript/labels/Status:%20As%20Designed",
+    "name": "Status: As Designed",
+    "color": "8D4C8C",
+    "default": false,
+    "description": ""
+  },
+  {
+    "id": 689185719,
+    "node_id": "MDU6TGFiZWw2ODkxODU3MTk=",
+    "url": "https://api.github.com/repos/getsentry/sentry-javascript/labels/Status:%20Blocked",
+    "name": "Status: Blocked",
+    "color": "b60205",
+    "default": false,
+    "description": null
+  },
+  {
+    "id": 2464671022,
+    "node_id": "MDU6TGFiZWwyNDY0NjcxMDIy",
+    "url": "https://api.github.com/repos/getsentry/sentry-javascript/labels/Status:%20Can't%20Reproduce",
+    "name": "Status: Can't Reproduce",
+    "color": "C0C0C0",
+    "default": false,
+    "description": ""
+  },
+  {
+    "id": 689185726,
+    "node_id": "MDU6TGFiZWw2ODkxODU3MjY=",
+    "url": "https://api.github.com/repos/getsentry/sentry-javascript/labels/Status:%20Confirmed",
+    "name": "Status: Confirmed",
+    "color": "0e8a16",
+    "default": false,
+    "description": null
+  },
+  {
+    "id": 2699903514,
+    "node_id": "MDU6TGFiZWwyNjk5OTAzNTE0",
+    "url": "https://api.github.com/repos/getsentry/sentry-javascript/labels/Status:%20Fixed",
+    "name": "Status: Fixed",
+    "color": "163ABA",
+    "default": false,
+    "description": ""
+  },
+  {
+    "id": 689185737,
+    "node_id": "MDU6TGFiZWw2ODkxODU3Mzc=",
+    "url": "https://api.github.com/repos/getsentry/sentry-javascript/labels/Status:%20In%20Progress",
+    "name": "Status: In Progress",
+    "color": "c8b0f4",
+    "default": false,
+    "description": null
+  },
+  {
+    "id": 689185732,
+    "node_id": "MDU6TGFiZWw2ODkxODU3MzI=",
+    "url": "https://api.github.com/repos/getsentry/sentry-javascript/labels/Status:%20Needs%20Information",
+    "name": "Status: Needs Information",
+    "color": "81d2e2",
+    "default": false,
+    "description": ""
+  },
+  {
+    "id": 689185734,
+    "node_id": "MDU6TGFiZWw2ODkxODU3MzQ=",
+    "url": "https://api.github.com/repos/getsentry/sentry-javascript/labels/Status:%20Needs%20Reproduction",
+    "name": "Status: Needs Reproduction",
+    "color": "fc918f",
+    "default": false,
+    "description": ""
+  },
+  {
+    "id": 1053015080,
+    "node_id": "MDU6TGFiZWwxMDUzMDE1MDgw",
+    "url": "https://api.github.com/repos/getsentry/sentry-javascript/labels/Status:%20Needs%20Triage",
+    "name": "Status: Needs Triage",
+    "color": "000000",
+    "default": false,
+    "description": ""
+  },
+  {
+    "id": 2699901616,
+    "node_id": "MDU6TGFiZWwyNjk5OTAxNjE2",
+    "url": "https://api.github.com/repos/getsentry/sentry-javascript/labels/Status:%20Won't%20Fix",
+    "name": "Status: Won't Fix",
+    "color": "B0AA96",
+    "default": false,
+    "description": ""
+  },
+  {
+    "id": 703178856,
+    "node_id": "MDU6TGFiZWw3MDMxNzg4NTY=",
+    "url": "https://api.github.com/repos/getsentry/sentry-javascript/labels/Type:%20Breaking",
+    "name": "Type: Breaking",
+    "color": "fbca04",
+    "default": false,
+    "description": null
+  },
+  {
+    "id": 689185724,
+    "node_id": "MDU6TGFiZWw2ODkxODU3MjQ=",
+    "url": "https://api.github.com/repos/getsentry/sentry-javascript/labels/Type:%20Bug",
+    "name": "Type: Bug",
+    "color": "ee0701",
+    "default": false,
+    "description": null
+  },
+  {
+    "id": 689185729,
+    "node_id": "MDU6TGFiZWw2ODkxODU3Mjk=",
+    "url": "https://api.github.com/repos/getsentry/sentry-javascript/labels/Type:%20Discussion",
+    "name": "Type: Discussion",
+    "color": "c9e0ff",
+    "default": false,
+    "description": null
+  },
+  {
+    "id": 689185717,
+    "node_id": "MDU6TGFiZWw2ODkxODU3MTc=",
+    "url": "https://api.github.com/repos/getsentry/sentry-javascript/labels/Type:%20Documentation",
+    "name": "Type: Documentation",
+    "color": "84b6eb",
+    "default": false,
+    "description": null
+  },
+  {
+    "id": 689185735,
+    "node_id": "MDU6TGFiZWw2ODkxODU3MzU=",
+    "url": "https://api.github.com/repos/getsentry/sentry-javascript/labels/Type:%20Feature",
+    "name": "Type: Feature",
+    "color": "dbf477",
+    "default": false,
+    "description": null
+  },
+  {
+    "id": 689185738,
+    "node_id": "MDU6TGFiZWw2ODkxODU3Mzg=",
+    "url": "https://api.github.com/repos/getsentry/sentry-javascript/labels/Type:%20Improvement",
+    "name": "Type: Improvement",
+    "color": "65f2be",
+    "default": false,
+    "description": null
+  },
+  {
+    "id": 1084500199,
+    "node_id": "MDU6TGFiZWwxMDg0NTAwMTk5",
+    "url": "https://api.github.com/repos/getsentry/sentry-javascript/labels/Type:%20Question",
+    "name": "Type: Question",
+    "color": "074168",
+    "default": false,
+    "description": ""
+  }
+]

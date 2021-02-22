@@ -1,0 +1,83 @@
+[
+  {
+    "id": 2468268395,
+    "node_id": "MDU6TGFiZWwyNDY4MjY4Mzk1",
+    "url": "https://api.github.com/repos/getsentry/bootstrap-sentry/labels/bug",
+    "name": "bug",
+    "color": "d73a4a",
+    "default": true,
+    "description": "Something isn't working"
+  },
+  {
+    "id": 2468268401,
+    "node_id": "MDU6TGFiZWwyNDY4MjY4NDAx",
+    "url": "https://api.github.com/repos/getsentry/bootstrap-sentry/labels/documentation",
+    "name": "documentation",
+    "color": "0075ca",
+    "default": true,
+    "description": "Improvements or additions to documentation"
+  },
+  {
+    "id": 2468268409,
+    "node_id": "MDU6TGFiZWwyNDY4MjY4NDA5",
+    "url": "https://api.github.com/repos/getsentry/bootstrap-sentry/labels/duplicate",
+    "name": "duplicate",
+    "color": "cfd3d7",
+    "default": true,
+    "description": "This issue or pull request already exists"
+  },
+  {
+    "id": 2468268411,
+    "node_id": "MDU6TGFiZWwyNDY4MjY4NDEx",
+    "url": "https://api.github.com/repos/getsentry/bootstrap-sentry/labels/enhancement",
+    "name": "enhancement",
+    "color": "a2eeef",
+    "default": true,
+    "description": "New feature or request"
+  },
+  {
+    "id": 2468268414,
+    "node_id": "MDU6TGFiZWwyNDY4MjY4NDE0",
+    "url": "https://api.github.com/repos/getsentry/bootstrap-sentry/labels/good%20first%20issue",
+    "name": "good first issue",
+    "color": "7057ff",
+    "default": true,
+    "description": "Good for newcomers"
+  },
+  {
+    "id": 2468268417,
+    "node_id": "MDU6TGFiZWwyNDY4MjY4NDE3",
+    "url": "https://api.github.com/repos/getsentry/bootstrap-sentry/labels/help%20wanted",
+    "name": "help wanted",
+    "color": "008672",
+    "default": true,
+    "description": "Extra attention is needed"
+  },
+  {
+    "id": 2468268419,
+    "node_id": "MDU6TGFiZWwyNDY4MjY4NDE5",
+    "url": "https://api.github.com/repos/getsentry/bootstrap-sentry/labels/invalid",
+    "name": "invalid",
+    "color": "e4e669",
+    "default": true,
+    "description": "This doesn't seem right"
+  },
+  {
+    "id": 2468268421,
+    "node_id": "MDU6TGFiZWwyNDY4MjY4NDIx",
+    "url": "https://api.github.com/repos/getsentry/bootstrap-sentry/labels/question",
+    "name": "question",
+    "color": "d876e3",
+    "default": true,
+    "description": "Further information is requested"
+  },
+  {
+    "id": 2468268423,
+    "node_id": "MDU6TGFiZWwyNDY4MjY4NDIz",
+    "url": "https://api.github.com/repos/getsentry/bootstrap-sentry/labels/wontfix",
+    "name": "wontfix",
+    "color": "ffffff",
+    "default": true,
+    "description": "This will not be worked on"
+  }
+]

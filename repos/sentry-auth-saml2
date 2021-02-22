@@ -1,0 +1,65 @@
+[
+  {
+    "id": 656462269,
+    "node_id": "MDU6TGFiZWw2NTY0NjIyNjk=",
+    "url": "https://api.github.com/repos/getsentry/sentry-auth-saml2/labels/bug",
+    "name": "bug",
+    "color": "ee0701",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 656462270,
+    "node_id": "MDU6TGFiZWw2NTY0NjIyNzA=",
+    "url": "https://api.github.com/repos/getsentry/sentry-auth-saml2/labels/duplicate",
+    "name": "duplicate",
+    "color": "cccccc",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 656462271,
+    "node_id": "MDU6TGFiZWw2NTY0NjIyNzE=",
+    "url": "https://api.github.com/repos/getsentry/sentry-auth-saml2/labels/enhancement",
+    "name": "enhancement",
+    "color": "84b6eb",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 656462272,
+    "node_id": "MDU6TGFiZWw2NTY0NjIyNzI=",
+    "url": "https://api.github.com/repos/getsentry/sentry-auth-saml2/labels/help%20wanted",
+    "name": "help wanted",
+    "color": "128A0C",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 656462273,
+    "node_id": "MDU6TGFiZWw2NTY0NjIyNzM=",
+    "url": "https://api.github.com/repos/getsentry/sentry-auth-saml2/labels/invalid",
+    "name": "invalid",
+    "color": "e6e6e6",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 656462274,
+    "node_id": "MDU6TGFiZWw2NTY0NjIyNzQ=",
+    "url": "https://api.github.com/repos/getsentry/sentry-auth-saml2/labels/question",
+    "name": "question",
+    "color": "cc317c",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 656462275,
+    "node_id": "MDU6TGFiZWw2NTY0NjIyNzU=",
+    "url": "https://api.github.com/repos/getsentry/sentry-auth-saml2/labels/wontfix",
+    "name": "wontfix",
+    "color": "ffffff",
+    "default": true,
+    "description": null
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "id": 644602275,
+    "node_id": "MDU6TGFiZWw2NDQ2MDIyNzU=",
+    "url": "https://api.github.com/repos/getsentry/eris/labels/bug",
+    "name": "bug",
+    "color": "ee0701",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 644602276,
+    "node_id": "MDU6TGFiZWw2NDQ2MDIyNzY=",
+    "url": "https://api.github.com/repos/getsentry/eris/labels/duplicate",
+    "name": "duplicate",
+    "color": "cccccc",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 644602277,
+    "node_id": "MDU6TGFiZWw2NDQ2MDIyNzc=",
+    "url": "https://api.github.com/repos/getsentry/eris/labels/enhancement",
+    "name": "enhancement",
+    "color": "84b6eb",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 644602278,
+    "node_id": "MDU6TGFiZWw2NDQ2MDIyNzg=",
+    "url": "https://api.github.com/repos/getsentry/eris/labels/help%20wanted",
+    "name": "help wanted",
+    "color": "128A0C",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 644602279,
+    "node_id": "MDU6TGFiZWw2NDQ2MDIyNzk=",
+    "url": "https://api.github.com/repos/getsentry/eris/labels/invalid",
+    "name": "invalid",
+    "color": "e6e6e6",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 644602280,
+    "node_id": "MDU6TGFiZWw2NDQ2MDIyODA=",
+    "url": "https://api.github.com/repos/getsentry/eris/labels/question",
+    "name": "question",
+    "color": "cc317c",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 644602281,
+    "node_id": "MDU6TGFiZWw2NDQ2MDIyODE=",
+    "url": "https://api.github.com/repos/getsentry/eris/labels/wontfix",
+    "name": "wontfix",
+    "color": "ffffff",
+    "default": true,
+    "description": null
+  }
+]

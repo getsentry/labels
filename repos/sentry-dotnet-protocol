@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1004397866,
+    "node_id": "MDU6TGFiZWwxMDA0Mzk3ODY2",
+    "url": "https://api.github.com/repos/getsentry/sentry-dotnet-protocol/labels/bug",
+    "name": "bug",
+    "color": "d73a4a",
+    "default": true,
+    "description": "Something isn't working"
+  },
+  {
+    "id": 1004397867,
+    "node_id": "MDU6TGFiZWwxMDA0Mzk3ODY3",
+    "url": "https://api.github.com/repos/getsentry/sentry-dotnet-protocol/labels/duplicate",
+    "name": "duplicate",
+    "color": "cfd3d7",
+    "default": true,
+    "description": "This issue or pull request already exists"
+  },
+  {
+    "id": 1004397868,
+    "node_id": "MDU6TGFiZWwxMDA0Mzk3ODY4",
+    "url": "https://api.github.com/repos/getsentry/sentry-dotnet-protocol/labels/enhancement",
+    "name": "enhancement",
+    "color": "a2eeef",
+    "default": true,
+    "description": "New feature or request"
+  },
+  {
+    "id": 1004397870,
+    "node_id": "MDU6TGFiZWwxMDA0Mzk3ODcw",
+    "url": "https://api.github.com/repos/getsentry/sentry-dotnet-protocol/labels/good%20first%20issue",
+    "name": "good first issue",
+    "color": "7057ff",
+    "default": true,
+    "description": "Good for newcomers"
+  },
+  {
+    "id": 1004397869,
+    "node_id": "MDU6TGFiZWwxMDA0Mzk3ODY5",
+    "url": "https://api.github.com/repos/getsentry/sentry-dotnet-protocol/labels/help%20wanted",
+    "name": "help wanted",
+    "color": "008672",
+    "default": true,
+    "description": "Extra attention is needed"
+  },
+  {
+    "id": 1004397871,
+    "node_id": "MDU6TGFiZWwxMDA0Mzk3ODcx",
+    "url": "https://api.github.com/repos/getsentry/sentry-dotnet-protocol/labels/invalid",
+    "name": "invalid",
+    "color": "e4e669",
+    "default": true,
+    "description": "This doesn't seem right"
+  },
+  {
+    "id": 1004397872,
+    "node_id": "MDU6TGFiZWwxMDA0Mzk3ODcy",
+    "url": "https://api.github.com/repos/getsentry/sentry-dotnet-protocol/labels/question",
+    "name": "question",
+    "color": "d876e3",
+    "default": true,
+    "description": "Further information is requested"
+  },
+  {
+    "id": 1004397873,
+    "node_id": "MDU6TGFiZWwxMDA0Mzk3ODcz",
+    "url": "https://api.github.com/repos/getsentry/sentry-dotnet-protocol/labels/wontfix",
+    "name": "wontfix",
+    "color": "ffffff",
+    "default": true,
+    "description": "This will not be worked on"
+  }
+]

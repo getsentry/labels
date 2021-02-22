@@ -1,0 +1,65 @@
+[
+  {
+    "id": 499496681,
+    "node_id": "MDU6TGFiZWw0OTk0OTY2ODE=",
+    "url": "https://api.github.com/repos/getsentry/pytest-responses/labels/bug",
+    "name": "bug",
+    "color": "ee0701",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 499496682,
+    "node_id": "MDU6TGFiZWw0OTk0OTY2ODI=",
+    "url": "https://api.github.com/repos/getsentry/pytest-responses/labels/duplicate",
+    "name": "duplicate",
+    "color": "cccccc",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 499496683,
+    "node_id": "MDU6TGFiZWw0OTk0OTY2ODM=",
+    "url": "https://api.github.com/repos/getsentry/pytest-responses/labels/enhancement",
+    "name": "enhancement",
+    "color": "84b6eb",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 499496684,
+    "node_id": "MDU6TGFiZWw0OTk0OTY2ODQ=",
+    "url": "https://api.github.com/repos/getsentry/pytest-responses/labels/help%20wanted",
+    "name": "help wanted",
+    "color": "128A0C",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 499496685,
+    "node_id": "MDU6TGFiZWw0OTk0OTY2ODU=",
+    "url": "https://api.github.com/repos/getsentry/pytest-responses/labels/invalid",
+    "name": "invalid",
+    "color": "e6e6e6",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 499496686,
+    "node_id": "MDU6TGFiZWw0OTk0OTY2ODY=",
+    "url": "https://api.github.com/repos/getsentry/pytest-responses/labels/question",
+    "name": "question",
+    "color": "cc317c",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 499496687,
+    "node_id": "MDU6TGFiZWw0OTk0OTY2ODc=",
+    "url": "https://api.github.com/repos/getsentry/pytest-responses/labels/wontfix",
+    "name": "wontfix",
+    "color": "ffffff",
+    "default": true,
+    "description": null
+  }
+]

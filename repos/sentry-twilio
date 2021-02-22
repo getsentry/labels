@@ -1,0 +1,83 @@
+[
+  {
+    "id": 1692759544,
+    "node_id": "MDU6TGFiZWwxNjkyNzU5NTQ0",
+    "url": "https://api.github.com/repos/getsentry/sentry-twilio/labels/bug",
+    "name": "bug",
+    "color": "d73a4a",
+    "default": true,
+    "description": "Something isn't working"
+  },
+  {
+    "id": 1692759546,
+    "node_id": "MDU6TGFiZWwxNjkyNzU5NTQ2",
+    "url": "https://api.github.com/repos/getsentry/sentry-twilio/labels/documentation",
+    "name": "documentation",
+    "color": "0075ca",
+    "default": true,
+    "description": "Improvements or additions to documentation"
+  },
+  {
+    "id": 1692759548,
+    "node_id": "MDU6TGFiZWwxNjkyNzU5NTQ4",
+    "url": "https://api.github.com/repos/getsentry/sentry-twilio/labels/duplicate",
+    "name": "duplicate",
+    "color": "cfd3d7",
+    "default": true,
+    "description": "This issue or pull request already exists"
+  },
+  {
+    "id": 1692759551,
+    "node_id": "MDU6TGFiZWwxNjkyNzU5NTUx",
+    "url": "https://api.github.com/repos/getsentry/sentry-twilio/labels/enhancement",
+    "name": "enhancement",
+    "color": "a2eeef",
+    "default": true,
+    "description": "New feature or request"
+  },
+  {
+    "id": 1692759553,
+    "node_id": "MDU6TGFiZWwxNjkyNzU5NTUz",
+    "url": "https://api.github.com/repos/getsentry/sentry-twilio/labels/good%20first%20issue",
+    "name": "good first issue",
+    "color": "7057ff",
+    "default": true,
+    "description": "Good for newcomers"
+  },
+  {
+    "id": 1692759555,
+    "node_id": "MDU6TGFiZWwxNjkyNzU5NTU1",
+    "url": "https://api.github.com/repos/getsentry/sentry-twilio/labels/help%20wanted",
+    "name": "help wanted",
+    "color": "008672",
+    "default": true,
+    "description": "Extra attention is needed"
+  },
+  {
+    "id": 1692759557,
+    "node_id": "MDU6TGFiZWwxNjkyNzU5NTU3",
+    "url": "https://api.github.com/repos/getsentry/sentry-twilio/labels/invalid",
+    "name": "invalid",
+    "color": "e4e669",
+    "default": true,
+    "description": "This doesn't seem right"
+  },
+  {
+    "id": 1692759559,
+    "node_id": "MDU6TGFiZWwxNjkyNzU5NTU5",
+    "url": "https://api.github.com/repos/getsentry/sentry-twilio/labels/question",
+    "name": "question",
+    "color": "d876e3",
+    "default": true,
+    "description": "Further information is requested"
+  },
+  {
+    "id": 1692759563,
+    "node_id": "MDU6TGFiZWwxNjkyNzU5NTYz",
+    "url": "https://api.github.com/repos/getsentry/sentry-twilio/labels/wontfix",
+    "name": "wontfix",
+    "color": "ffffff",
+    "default": true,
+    "description": "This will not be worked on"
+  }
+]

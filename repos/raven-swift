@@ -1,0 +1,65 @@
+[
+  {
+    "id": 127439588,
+    "node_id": "MDU6TGFiZWwxMjc0Mzk1ODg=",
+    "url": "https://api.github.com/repos/getsentry/raven-swift/labels/bug",
+    "name": "bug",
+    "color": "fc2929",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 127439589,
+    "node_id": "MDU6TGFiZWwxMjc0Mzk1ODk=",
+    "url": "https://api.github.com/repos/getsentry/raven-swift/labels/duplicate",
+    "name": "duplicate",
+    "color": "cccccc",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 127439590,
+    "node_id": "MDU6TGFiZWwxMjc0Mzk1OTA=",
+    "url": "https://api.github.com/repos/getsentry/raven-swift/labels/enhancement",
+    "name": "enhancement",
+    "color": "84b6eb",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 127439591,
+    "node_id": "MDU6TGFiZWwxMjc0Mzk1OTE=",
+    "url": "https://api.github.com/repos/getsentry/raven-swift/labels/help%20wanted",
+    "name": "help wanted",
+    "color": "159818",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 127439592,
+    "node_id": "MDU6TGFiZWwxMjc0Mzk1OTI=",
+    "url": "https://api.github.com/repos/getsentry/raven-swift/labels/invalid",
+    "name": "invalid",
+    "color": "e6e6e6",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 127439593,
+    "node_id": "MDU6TGFiZWwxMjc0Mzk1OTM=",
+    "url": "https://api.github.com/repos/getsentry/raven-swift/labels/question",
+    "name": "question",
+    "color": "cc317c",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 127439594,
+    "node_id": "MDU6TGFiZWwxMjc0Mzk1OTQ=",
+    "url": "https://api.github.com/repos/getsentry/raven-swift/labels/wontfix",
+    "name": "wontfix",
+    "color": "ffffff",
+    "default": true,
+    "description": null
+  }
+]

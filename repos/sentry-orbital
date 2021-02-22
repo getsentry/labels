@@ -1,0 +1,65 @@
+[
+  {
+    "id": 374074567,
+    "node_id": "MDU6TGFiZWwzNzQwNzQ1Njc=",
+    "url": "https://api.github.com/repos/getsentry/sentry-orbital/labels/bug",
+    "name": "bug",
+    "color": "ee0701",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 374074568,
+    "node_id": "MDU6TGFiZWwzNzQwNzQ1Njg=",
+    "url": "https://api.github.com/repos/getsentry/sentry-orbital/labels/duplicate",
+    "name": "duplicate",
+    "color": "cccccc",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 374074569,
+    "node_id": "MDU6TGFiZWwzNzQwNzQ1Njk=",
+    "url": "https://api.github.com/repos/getsentry/sentry-orbital/labels/enhancement",
+    "name": "enhancement",
+    "color": "84b6eb",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 374074570,
+    "node_id": "MDU6TGFiZWwzNzQwNzQ1NzA=",
+    "url": "https://api.github.com/repos/getsentry/sentry-orbital/labels/help%20wanted",
+    "name": "help wanted",
+    "color": "128A0C",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 374074571,
+    "node_id": "MDU6TGFiZWwzNzQwNzQ1NzE=",
+    "url": "https://api.github.com/repos/getsentry/sentry-orbital/labels/invalid",
+    "name": "invalid",
+    "color": "e6e6e6",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 374074572,
+    "node_id": "MDU6TGFiZWwzNzQwNzQ1NzI=",
+    "url": "https://api.github.com/repos/getsentry/sentry-orbital/labels/question",
+    "name": "question",
+    "color": "cc317c",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 374074573,
+    "node_id": "MDU6TGFiZWwzNzQwNzQ1NzM=",
+    "url": "https://api.github.com/repos/getsentry/sentry-orbital/labels/wontfix",
+    "name": "wontfix",
+    "color": "ffffff",
+    "default": true,
+    "description": null
+  }
+]

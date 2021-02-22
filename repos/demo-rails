@@ -1,0 +1,74 @@
+[
+  {
+    "id": 346561924,
+    "node_id": "MDU6TGFiZWwzNDY1NjE5MjQ=",
+    "url": "https://api.github.com/repos/getsentry/demo-rails/labels/bug",
+    "name": "bug",
+    "color": "fc2929",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 2203923909,
+    "node_id": "MDU6TGFiZWwyMjAzOTIzOTA5",
+    "url": "https://api.github.com/repos/getsentry/demo-rails/labels/dependencies",
+    "name": "dependencies",
+    "color": "0366d6",
+    "default": false,
+    "description": "Pull requests that update a dependency file"
+  },
+  {
+    "id": 346561925,
+    "node_id": "MDU6TGFiZWwzNDY1NjE5MjU=",
+    "url": "https://api.github.com/repos/getsentry/demo-rails/labels/duplicate",
+    "name": "duplicate",
+    "color": "cccccc",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 346561926,
+    "node_id": "MDU6TGFiZWwzNDY1NjE5MjY=",
+    "url": "https://api.github.com/repos/getsentry/demo-rails/labels/enhancement",
+    "name": "enhancement",
+    "color": "84b6eb",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 346561927,
+    "node_id": "MDU6TGFiZWwzNDY1NjE5Mjc=",
+    "url": "https://api.github.com/repos/getsentry/demo-rails/labels/help%20wanted",
+    "name": "help wanted",
+    "color": "159818",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 346561928,
+    "node_id": "MDU6TGFiZWwzNDY1NjE5Mjg=",
+    "url": "https://api.github.com/repos/getsentry/demo-rails/labels/invalid",
+    "name": "invalid",
+    "color": "e6e6e6",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 346561929,
+    "node_id": "MDU6TGFiZWwzNDY1NjE5Mjk=",
+    "url": "https://api.github.com/repos/getsentry/demo-rails/labels/question",
+    "name": "question",
+    "color": "cc317c",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 346561930,
+    "node_id": "MDU6TGFiZWwzNDY1NjE5MzA=",
+    "url": "https://api.github.com/repos/getsentry/demo-rails/labels/wontfix",
+    "name": "wontfix",
+    "color": "ffffff",
+    "default": true,
+    "description": null
+  }
+]

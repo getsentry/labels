@@ -1,0 +1,83 @@
+[
+  {
+    "id": 2558153576,
+    "node_id": "MDU6TGFiZWwyNTU4MTUzNTc2",
+    "url": "https://api.github.com/repos/getsentry/toronado/labels/bug",
+    "name": "bug",
+    "color": "d73a4a",
+    "default": true,
+    "description": "Something isn't working"
+  },
+  {
+    "id": 2558153577,
+    "node_id": "MDU6TGFiZWwyNTU4MTUzNTc3",
+    "url": "https://api.github.com/repos/getsentry/toronado/labels/documentation",
+    "name": "documentation",
+    "color": "0075ca",
+    "default": true,
+    "description": "Improvements or additions to documentation"
+  },
+  {
+    "id": 2558153578,
+    "node_id": "MDU6TGFiZWwyNTU4MTUzNTc4",
+    "url": "https://api.github.com/repos/getsentry/toronado/labels/duplicate",
+    "name": "duplicate",
+    "color": "cfd3d7",
+    "default": true,
+    "description": "This issue or pull request already exists"
+  },
+  {
+    "id": 2558153581,
+    "node_id": "MDU6TGFiZWwyNTU4MTUzNTgx",
+    "url": "https://api.github.com/repos/getsentry/toronado/labels/enhancement",
+    "name": "enhancement",
+    "color": "a2eeef",
+    "default": true,
+    "description": "New feature or request"
+  },
+  {
+    "id": 2558153583,
+    "node_id": "MDU6TGFiZWwyNTU4MTUzNTgz",
+    "url": "https://api.github.com/repos/getsentry/toronado/labels/good%20first%20issue",
+    "name": "good first issue",
+    "color": "7057ff",
+    "default": true,
+    "description": "Good for newcomers"
+  },
+  {
+    "id": 2558153585,
+    "node_id": "MDU6TGFiZWwyNTU4MTUzNTg1",
+    "url": "https://api.github.com/repos/getsentry/toronado/labels/help%20wanted",
+    "name": "help wanted",
+    "color": "008672",
+    "default": true,
+    "description": "Extra attention is needed"
+  },
+  {
+    "id": 2558153588,
+    "node_id": "MDU6TGFiZWwyNTU4MTUzNTg4",
+    "url": "https://api.github.com/repos/getsentry/toronado/labels/invalid",
+    "name": "invalid",
+    "color": "e4e669",
+    "default": true,
+    "description": "This doesn't seem right"
+  },
+  {
+    "id": 2558153590,
+    "node_id": "MDU6TGFiZWwyNTU4MTUzNTkw",
+    "url": "https://api.github.com/repos/getsentry/toronado/labels/question",
+    "name": "question",
+    "color": "d876e3",
+    "default": true,
+    "description": "Further information is requested"
+  },
+  {
+    "id": 2558153592,
+    "node_id": "MDU6TGFiZWwyNTU4MTUzNTky",
+    "url": "https://api.github.com/repos/getsentry/toronado/labels/wontfix",
+    "name": "wontfix",
+    "color": "ffffff",
+    "default": true,
+    "description": "This will not be worked on"
+  }
+]

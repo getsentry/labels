@@ -1,0 +1,65 @@
+[
+  {
+    "id": 185095072,
+    "node_id": "MDU6TGFiZWwxODUwOTUwNzI=",
+    "url": "https://api.github.com/repos/getsentry/sentry-redmine/labels/bug",
+    "name": "bug",
+    "color": "fc2929",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 185095073,
+    "node_id": "MDU6TGFiZWwxODUwOTUwNzM=",
+    "url": "https://api.github.com/repos/getsentry/sentry-redmine/labels/duplicate",
+    "name": "duplicate",
+    "color": "cccccc",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 185095074,
+    "node_id": "MDU6TGFiZWwxODUwOTUwNzQ=",
+    "url": "https://api.github.com/repos/getsentry/sentry-redmine/labels/enhancement",
+    "name": "enhancement",
+    "color": "84b6eb",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 185095075,
+    "node_id": "MDU6TGFiZWwxODUwOTUwNzU=",
+    "url": "https://api.github.com/repos/getsentry/sentry-redmine/labels/help%20wanted",
+    "name": "help wanted",
+    "color": "159818",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 185095076,
+    "node_id": "MDU6TGFiZWwxODUwOTUwNzY=",
+    "url": "https://api.github.com/repos/getsentry/sentry-redmine/labels/invalid",
+    "name": "invalid",
+    "color": "e6e6e6",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 185095077,
+    "node_id": "MDU6TGFiZWwxODUwOTUwNzc=",
+    "url": "https://api.github.com/repos/getsentry/sentry-redmine/labels/question",
+    "name": "question",
+    "color": "cc317c",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 185095078,
+    "node_id": "MDU6TGFiZWwxODUwOTUwNzg=",
+    "url": "https://api.github.com/repos/getsentry/sentry-redmine/labels/wontfix",
+    "name": "wontfix",
+    "color": "ffffff",
+    "default": true,
+    "description": null
+  }
+]

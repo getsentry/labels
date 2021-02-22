@@ -1,0 +1,65 @@
+[
+  {
+    "id": 200508813,
+    "node_id": "MDU6TGFiZWwyMDA1MDg4MTM=",
+    "url": "https://api.github.com/repos/getsentry/pyvotal/labels/bug",
+    "name": "bug",
+    "color": "fc2929",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 200508814,
+    "node_id": "MDU6TGFiZWwyMDA1MDg4MTQ=",
+    "url": "https://api.github.com/repos/getsentry/pyvotal/labels/duplicate",
+    "name": "duplicate",
+    "color": "cccccc",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 200508815,
+    "node_id": "MDU6TGFiZWwyMDA1MDg4MTU=",
+    "url": "https://api.github.com/repos/getsentry/pyvotal/labels/enhancement",
+    "name": "enhancement",
+    "color": "84b6eb",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 200508816,
+    "node_id": "MDU6TGFiZWwyMDA1MDg4MTY=",
+    "url": "https://api.github.com/repos/getsentry/pyvotal/labels/help%20wanted",
+    "name": "help wanted",
+    "color": "159818",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 200508817,
+    "node_id": "MDU6TGFiZWwyMDA1MDg4MTc=",
+    "url": "https://api.github.com/repos/getsentry/pyvotal/labels/invalid",
+    "name": "invalid",
+    "color": "e6e6e6",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 200508818,
+    "node_id": "MDU6TGFiZWwyMDA1MDg4MTg=",
+    "url": "https://api.github.com/repos/getsentry/pyvotal/labels/question",
+    "name": "question",
+    "color": "cc317c",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 200508819,
+    "node_id": "MDU6TGFiZWwyMDA1MDg4MTk=",
+    "url": "https://api.github.com/repos/getsentry/pyvotal/labels/wontfix",
+    "name": "wontfix",
+    "color": "ffffff",
+    "default": true,
+    "description": null
+  }
+]

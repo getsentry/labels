@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1306125926,
+    "node_id": "MDU6TGFiZWwxMzA2MTI1OTI2",
+    "url": "https://api.github.com/repos/getsentry/sentry-distutils/labels/bug",
+    "name": "bug",
+    "color": "d73a4a",
+    "default": true,
+    "description": "Something isn't working"
+  },
+  {
+    "id": 1306125929,
+    "node_id": "MDU6TGFiZWwxMzA2MTI1OTI5",
+    "url": "https://api.github.com/repos/getsentry/sentry-distutils/labels/duplicate",
+    "name": "duplicate",
+    "color": "cfd3d7",
+    "default": true,
+    "description": "This issue or pull request already exists"
+  },
+  {
+    "id": 1306125932,
+    "node_id": "MDU6TGFiZWwxMzA2MTI1OTMy",
+    "url": "https://api.github.com/repos/getsentry/sentry-distutils/labels/enhancement",
+    "name": "enhancement",
+    "color": "a2eeef",
+    "default": true,
+    "description": "New feature or request"
+  },
+  {
+    "id": 1306125938,
+    "node_id": "MDU6TGFiZWwxMzA2MTI1OTM4",
+    "url": "https://api.github.com/repos/getsentry/sentry-distutils/labels/good%20first%20issue",
+    "name": "good first issue",
+    "color": "7057ff",
+    "default": true,
+    "description": "Good for newcomers"
+  },
+  {
+    "id": 1306125935,
+    "node_id": "MDU6TGFiZWwxMzA2MTI1OTM1",
+    "url": "https://api.github.com/repos/getsentry/sentry-distutils/labels/help%20wanted",
+    "name": "help wanted",
+    "color": "008672",
+    "default": true,
+    "description": "Extra attention is needed"
+  },
+  {
+    "id": 1306125941,
+    "node_id": "MDU6TGFiZWwxMzA2MTI1OTQx",
+    "url": "https://api.github.com/repos/getsentry/sentry-distutils/labels/invalid",
+    "name": "invalid",
+    "color": "e4e669",
+    "default": true,
+    "description": "This doesn't seem right"
+  },
+  {
+    "id": 1306125943,
+    "node_id": "MDU6TGFiZWwxMzA2MTI1OTQz",
+    "url": "https://api.github.com/repos/getsentry/sentry-distutils/labels/question",
+    "name": "question",
+    "color": "d876e3",
+    "default": true,
+    "description": "Further information is requested"
+  },
+  {
+    "id": 1306125946,
+    "node_id": "MDU6TGFiZWwxMzA2MTI1OTQ2",
+    "url": "https://api.github.com/repos/getsentry/sentry-distutils/labels/wontfix",
+    "name": "wontfix",
+    "color": "ffffff",
+    "default": true,
+    "description": "This will not be worked on"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1014039095,
+    "node_id": "MDU6TGFiZWwxMDE0MDM5MDk1",
+    "url": "https://api.github.com/repos/getsentry/sentry-taiga/labels/bug",
+    "name": "bug",
+    "color": "d73a4a",
+    "default": true,
+    "description": "Something isn't working"
+  },
+  {
+    "id": 1014039097,
+    "node_id": "MDU6TGFiZWwxMDE0MDM5MDk3",
+    "url": "https://api.github.com/repos/getsentry/sentry-taiga/labels/duplicate",
+    "name": "duplicate",
+    "color": "cfd3d7",
+    "default": true,
+    "description": "This issue or pull request already exists"
+  },
+  {
+    "id": 1014039098,
+    "node_id": "MDU6TGFiZWwxMDE0MDM5MDk4",
+    "url": "https://api.github.com/repos/getsentry/sentry-taiga/labels/enhancement",
+    "name": "enhancement",
+    "color": "a2eeef",
+    "default": true,
+    "description": "New feature or request"
+  },
+  {
+    "id": 1014039100,
+    "node_id": "MDU6TGFiZWwxMDE0MDM5MTAw",
+    "url": "https://api.github.com/repos/getsentry/sentry-taiga/labels/good%20first%20issue",
+    "name": "good first issue",
+    "color": "7057ff",
+    "default": true,
+    "description": "Good for newcomers"
+  },
+  {
+    "id": 1014039099,
+    "node_id": "MDU6TGFiZWwxMDE0MDM5MDk5",
+    "url": "https://api.github.com/repos/getsentry/sentry-taiga/labels/help%20wanted",
+    "name": "help wanted",
+    "color": "008672",
+    "default": true,
+    "description": "Extra attention is needed"
+  },
+  {
+    "id": 1014039101,
+    "node_id": "MDU6TGFiZWwxMDE0MDM5MTAx",
+    "url": "https://api.github.com/repos/getsentry/sentry-taiga/labels/invalid",
+    "name": "invalid",
+    "color": "e4e669",
+    "default": true,
+    "description": "This doesn't seem right"
+  },
+  {
+    "id": 1014039102,
+    "node_id": "MDU6TGFiZWwxMDE0MDM5MTAy",
+    "url": "https://api.github.com/repos/getsentry/sentry-taiga/labels/question",
+    "name": "question",
+    "color": "d876e3",
+    "default": true,
+    "description": "Further information is requested"
+  },
+  {
+    "id": 1014039103,
+    "node_id": "MDU6TGFiZWwxMDE0MDM5MTAz",
+    "url": "https://api.github.com/repos/getsentry/sentry-taiga/labels/wontfix",
+    "name": "wontfix",
+    "color": "ffffff",
+    "default": true,
+    "description": "This will not be worked on"
+  }
+]

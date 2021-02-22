@@ -1,0 +1,83 @@
+[
+  {
+    "id": 2341012543,
+    "node_id": "MDU6TGFiZWwyMzQxMDEyNTQz",
+    "url": "https://api.github.com/repos/getsentry/react-native-test-app/labels/bug",
+    "name": "bug",
+    "color": "d73a4a",
+    "default": true,
+    "description": "Something isn't working"
+  },
+  {
+    "id": 2341012544,
+    "node_id": "MDU6TGFiZWwyMzQxMDEyNTQ0",
+    "url": "https://api.github.com/repos/getsentry/react-native-test-app/labels/documentation",
+    "name": "documentation",
+    "color": "0075ca",
+    "default": true,
+    "description": "Improvements or additions to documentation"
+  },
+  {
+    "id": 2341012549,
+    "node_id": "MDU6TGFiZWwyMzQxMDEyNTQ5",
+    "url": "https://api.github.com/repos/getsentry/react-native-test-app/labels/duplicate",
+    "name": "duplicate",
+    "color": "cfd3d7",
+    "default": true,
+    "description": "This issue or pull request already exists"
+  },
+  {
+    "id": 2341012554,
+    "node_id": "MDU6TGFiZWwyMzQxMDEyNTU0",
+    "url": "https://api.github.com/repos/getsentry/react-native-test-app/labels/enhancement",
+    "name": "enhancement",
+    "color": "a2eeef",
+    "default": true,
+    "description": "New feature or request"
+  },
+  {
+    "id": 2341012557,
+    "node_id": "MDU6TGFiZWwyMzQxMDEyNTU3",
+    "url": "https://api.github.com/repos/getsentry/react-native-test-app/labels/good%20first%20issue",
+    "name": "good first issue",
+    "color": "7057ff",
+    "default": true,
+    "description": "Good for newcomers"
+  },
+  {
+    "id": 2341012563,
+    "node_id": "MDU6TGFiZWwyMzQxMDEyNTYz",
+    "url": "https://api.github.com/repos/getsentry/react-native-test-app/labels/help%20wanted",
+    "name": "help wanted",
+    "color": "008672",
+    "default": true,
+    "description": "Extra attention is needed"
+  },
+  {
+    "id": 2341012568,
+    "node_id": "MDU6TGFiZWwyMzQxMDEyNTY4",
+    "url": "https://api.github.com/repos/getsentry/react-native-test-app/labels/invalid",
+    "name": "invalid",
+    "color": "e4e669",
+    "default": true,
+    "description": "This doesn't seem right"
+  },
+  {
+    "id": 2341012576,
+    "node_id": "MDU6TGFiZWwyMzQxMDEyNTc2",
+    "url": "https://api.github.com/repos/getsentry/react-native-test-app/labels/question",
+    "name": "question",
+    "color": "d876e3",
+    "default": true,
+    "description": "Further information is requested"
+  },
+  {
+    "id": 2341012580,
+    "node_id": "MDU6TGFiZWwyMzQxMDEyNTgw",
+    "url": "https://api.github.com/repos/getsentry/react-native-test-app/labels/wontfix",
+    "name": "wontfix",
+    "color": "ffffff",
+    "default": true,
+    "description": "This will not be worked on"
+  }
+]

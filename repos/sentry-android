@@ -1,0 +1,119 @@
+[
+  {
+    "id": 1777793946,
+    "node_id": "MDU6TGFiZWwxNzc3NzkzOTQ2",
+    "url": "https://api.github.com/repos/getsentry/sentry-android/labels/Gradle%20plugin",
+    "name": "Gradle plugin",
+    "color": "e99695",
+    "default": false,
+    "description": "sentry-android-gradle-plugin"
+  },
+  {
+    "id": 1777799137,
+    "node_id": "MDU6TGFiZWwxNzc3Nzk5MTM3",
+    "url": "https://api.github.com/repos/getsentry/sentry-android/labels/NDK",
+    "name": "NDK",
+    "color": "5319e7",
+    "default": false,
+    "description": "sentry-android-ndk and sentry-native for Android"
+  },
+  {
+    "id": 1520101499,
+    "node_id": "MDU6TGFiZWwxNTIwMTAxNDk5",
+    "url": "https://api.github.com/repos/getsentry/sentry-android/labels/bug",
+    "name": "bug",
+    "color": "d73a4a",
+    "default": true,
+    "description": "Something isn't working"
+  },
+  {
+    "id": 2078183052,
+    "node_id": "MDU6TGFiZWwyMDc4MTgzMDUy",
+    "url": "https://api.github.com/repos/getsentry/sentry-android/labels/dependencies",
+    "name": "dependencies",
+    "color": "0366d6",
+    "default": false,
+    "description": "Pull requests that update a dependency file"
+  },
+  {
+    "id": 1520101500,
+    "node_id": "MDU6TGFiZWwxNTIwMTAxNTAw",
+    "url": "https://api.github.com/repos/getsentry/sentry-android/labels/documentation",
+    "name": "documentation",
+    "color": "0075ca",
+    "default": true,
+    "description": "Improvements or additions to documentation"
+  },
+  {
+    "id": 1520101502,
+    "node_id": "MDU6TGFiZWwxNTIwMTAxNTAy",
+    "url": "https://api.github.com/repos/getsentry/sentry-android/labels/duplicate",
+    "name": "duplicate",
+    "color": "cfd3d7",
+    "default": true,
+    "description": "This issue or pull request already exists"
+  },
+  {
+    "id": 1520101504,
+    "node_id": "MDU6TGFiZWwxNTIwMTAxNTA0",
+    "url": "https://api.github.com/repos/getsentry/sentry-android/labels/enhancement",
+    "name": "enhancement",
+    "color": "a2eeef",
+    "default": true,
+    "description": "New feature or request"
+  },
+  {
+    "id": 1520101509,
+    "node_id": "MDU6TGFiZWwxNTIwMTAxNTA5",
+    "url": "https://api.github.com/repos/getsentry/sentry-android/labels/good%20first%20issue",
+    "name": "good first issue",
+    "color": "7057ff",
+    "default": true,
+    "description": "Good for newcomers"
+  },
+  {
+    "id": 1520101506,
+    "node_id": "MDU6TGFiZWwxNTIwMTAxNTA2",
+    "url": "https://api.github.com/repos/getsentry/sentry-android/labels/help%20wanted",
+    "name": "help wanted",
+    "color": "008672",
+    "default": true,
+    "description": "Extra attention is needed"
+  },
+  {
+    "id": 1520101511,
+    "node_id": "MDU6TGFiZWwxNTIwMTAxNTEx",
+    "url": "https://api.github.com/repos/getsentry/sentry-android/labels/invalid",
+    "name": "invalid",
+    "color": "e4e669",
+    "default": true,
+    "description": "This doesn't seem right"
+  },
+  {
+    "id": 1520101513,
+    "node_id": "MDU6TGFiZWwxNTIwMTAxNTEz",
+    "url": "https://api.github.com/repos/getsentry/sentry-android/labels/question",
+    "name": "question",
+    "color": "d876e3",
+    "default": true,
+    "description": "Further information is requested"
+  },
+  {
+    "id": 1785431464,
+    "node_id": "MDU6TGFiZWwxNzg1NDMxNDY0",
+    "url": "https://api.github.com/repos/getsentry/sentry-android/labels/triage",
+    "name": "triage",
+    "color": "ededed",
+    "default": false,
+    "description": null
+  },
+  {
+    "id": 1520101516,
+    "node_id": "MDU6TGFiZWwxNTIwMTAxNTE2",
+    "url": "https://api.github.com/repos/getsentry/sentry-android/labels/wontfix",
+    "name": "wontfix",
+    "color": "ffffff",
+    "default": true,
+    "description": "This will not be worked on"
+  }
+]

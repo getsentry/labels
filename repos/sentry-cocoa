@@ -1,0 +1,101 @@
+[
+  {
+    "id": 353170442,
+    "node_id": "MDU6TGFiZWwzNTMxNzA0NDI=",
+    "url": "https://api.github.com/repos/getsentry/sentry-cocoa/labels/bug",
+    "name": "bug",
+    "color": "ee0701",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 1651732054,
+    "node_id": "MDU6TGFiZWwxNjUxNzMyMDU0",
+    "url": "https://api.github.com/repos/getsentry/sentry-cocoa/labels/dependencies",
+    "name": "dependencies",
+    "color": "0366d6",
+    "default": false,
+    "description": "Pull requests that update a dependency file"
+  },
+  {
+    "id": 353170443,
+    "node_id": "MDU6TGFiZWwzNTMxNzA0NDM=",
+    "url": "https://api.github.com/repos/getsentry/sentry-cocoa/labels/duplicate",
+    "name": "duplicate",
+    "color": "cccccc",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 353170444,
+    "node_id": "MDU6TGFiZWwzNTMxNzA0NDQ=",
+    "url": "https://api.github.com/repos/getsentry/sentry-cocoa/labels/enhancement",
+    "name": "enhancement",
+    "color": "84b6eb",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 2657630099,
+    "node_id": "MDU6TGFiZWwyNjU3NjMwMDk5",
+    "url": "https://api.github.com/repos/getsentry/sentry-cocoa/labels/grouping",
+    "name": "grouping",
+    "color": "BF3D8D",
+    "default": false,
+    "description": ""
+  },
+  {
+    "id": 353170446,
+    "node_id": "MDU6TGFiZWwzNTMxNzA0NDY=",
+    "url": "https://api.github.com/repos/getsentry/sentry-cocoa/labels/invalid",
+    "name": "invalid",
+    "color": "e6e6e6",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 353170447,
+    "node_id": "MDU6TGFiZWwzNTMxNzA0NDc=",
+    "url": "https://api.github.com/repos/getsentry/sentry-cocoa/labels/question",
+    "name": "question",
+    "color": "cc317c",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 2656230116,
+    "node_id": "MDU6TGFiZWwyNjU2MjMwMTE2",
+    "url": "https://api.github.com/repos/getsentry/sentry-cocoa/labels/repository-maintenance",
+    "name": "repository-maintenance",
+    "color": "6DE171",
+    "default": false,
+    "description": ""
+  },
+  {
+    "id": 353170445,
+    "node_id": "MDU6TGFiZWwzNTMxNzA0NDU=",
+    "url": "https://api.github.com/repos/getsentry/sentry-cocoa/labels/up-for-grabs",
+    "name": "up-for-grabs",
+    "color": "128A0C",
+    "default": false,
+    "description": ""
+  },
+  {
+    "id": 2512040189,
+    "node_id": "MDU6TGFiZWwyNTEyMDQwMTg5",
+    "url": "https://api.github.com/repos/getsentry/sentry-cocoa/labels/waiting%20for%20feedback",
+    "name": "waiting for feedback",
+    "color": "a6f27d",
+    "default": false,
+    "description": ""
+  },
+  {
+    "id": 353170448,
+    "node_id": "MDU6TGFiZWwzNTMxNzA0NDg=",
+    "url": "https://api.github.com/repos/getsentry/sentry-cocoa/labels/wontfix",
+    "name": "wontfix",
+    "color": "ffffff",
+    "default": true,
+    "description": null
+  }
+]

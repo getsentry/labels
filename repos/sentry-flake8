@@ -1,0 +1,74 @@
+[
+  {
+    "id": 999127536,
+    "node_id": "MDU6TGFiZWw5OTkxMjc1MzY=",
+    "url": "https://api.github.com/repos/getsentry/sentry-flake8/labels/bug",
+    "name": "bug",
+    "color": "d73a4a",
+    "default": true,
+    "description": "Something isn't working"
+  },
+  {
+    "id": 999127537,
+    "node_id": "MDU6TGFiZWw5OTkxMjc1Mzc=",
+    "url": "https://api.github.com/repos/getsentry/sentry-flake8/labels/duplicate",
+    "name": "duplicate",
+    "color": "cfd3d7",
+    "default": true,
+    "description": "This issue or pull request already exists"
+  },
+  {
+    "id": 999127538,
+    "node_id": "MDU6TGFiZWw5OTkxMjc1Mzg=",
+    "url": "https://api.github.com/repos/getsentry/sentry-flake8/labels/enhancement",
+    "name": "enhancement",
+    "color": "a2eeef",
+    "default": true,
+    "description": "New feature or request"
+  },
+  {
+    "id": 999127540,
+    "node_id": "MDU6TGFiZWw5OTkxMjc1NDA=",
+    "url": "https://api.github.com/repos/getsentry/sentry-flake8/labels/good%20first%20issue",
+    "name": "good first issue",
+    "color": "7057ff",
+    "default": true,
+    "description": "Good for newcomers"
+  },
+  {
+    "id": 999127539,
+    "node_id": "MDU6TGFiZWw5OTkxMjc1Mzk=",
+    "url": "https://api.github.com/repos/getsentry/sentry-flake8/labels/help%20wanted",
+    "name": "help wanted",
+    "color": "008672",
+    "default": true,
+    "description": "Extra attention is needed"
+  },
+  {
+    "id": 999127541,
+    "node_id": "MDU6TGFiZWw5OTkxMjc1NDE=",
+    "url": "https://api.github.com/repos/getsentry/sentry-flake8/labels/invalid",
+    "name": "invalid",
+    "color": "e4e669",
+    "default": true,
+    "description": "This doesn't seem right"
+  },
+  {
+    "id": 999127542,
+    "node_id": "MDU6TGFiZWw5OTkxMjc1NDI=",
+    "url": "https://api.github.com/repos/getsentry/sentry-flake8/labels/question",
+    "name": "question",
+    "color": "d876e3",
+    "default": true,
+    "description": "Further information is requested"
+  },
+  {
+    "id": 999127543,
+    "node_id": "MDU6TGFiZWw5OTkxMjc1NDM=",
+    "url": "https://api.github.com/repos/getsentry/sentry-flake8/labels/wontfix",
+    "name": "wontfix",
+    "color": "ffffff",
+    "default": true,
+    "description": "This will not be worked on"
+  }
+]

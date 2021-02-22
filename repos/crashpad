@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1271084691,
+    "node_id": "MDU6TGFiZWwxMjcxMDg0Njkx",
+    "url": "https://api.github.com/repos/getsentry/crashpad/labels/bug",
+    "name": "bug",
+    "color": "d73a4a",
+    "default": true,
+    "description": "Something isn't working"
+  },
+  {
+    "id": 1271084692,
+    "node_id": "MDU6TGFiZWwxMjcxMDg0Njky",
+    "url": "https://api.github.com/repos/getsentry/crashpad/labels/duplicate",
+    "name": "duplicate",
+    "color": "cfd3d7",
+    "default": true,
+    "description": "This issue or pull request already exists"
+  },
+  {
+    "id": 1271084693,
+    "node_id": "MDU6TGFiZWwxMjcxMDg0Njkz",
+    "url": "https://api.github.com/repos/getsentry/crashpad/labels/enhancement",
+    "name": "enhancement",
+    "color": "a2eeef",
+    "default": true,
+    "description": "New feature or request"
+  },
+  {
+    "id": 1271084695,
+    "node_id": "MDU6TGFiZWwxMjcxMDg0Njk1",
+    "url": "https://api.github.com/repos/getsentry/crashpad/labels/good%20first%20issue",
+    "name": "good first issue",
+    "color": "7057ff",
+    "default": true,
+    "description": "Good for newcomers"
+  },
+  {
+    "id": 1271084694,
+    "node_id": "MDU6TGFiZWwxMjcxMDg0Njk0",
+    "url": "https://api.github.com/repos/getsentry/crashpad/labels/help%20wanted",
+    "name": "help wanted",
+    "color": "008672",
+    "default": true,
+    "description": "Extra attention is needed"
+  },
+  {
+    "id": 1271084696,
+    "node_id": "MDU6TGFiZWwxMjcxMDg0Njk2",
+    "url": "https://api.github.com/repos/getsentry/crashpad/labels/invalid",
+    "name": "invalid",
+    "color": "e4e669",
+    "default": true,
+    "description": "This doesn't seem right"
+  },
+  {
+    "id": 1271084697,
+    "node_id": "MDU6TGFiZWwxMjcxMDg0Njk3",
+    "url": "https://api.github.com/repos/getsentry/crashpad/labels/question",
+    "name": "question",
+    "color": "d876e3",
+    "default": true,
+    "description": "Further information is requested"
+  },
+  {
+    "id": 1271084698,
+    "node_id": "MDU6TGFiZWwxMjcxMDg0Njk4",
+    "url": "https://api.github.com/repos/getsentry/crashpad/labels/wontfix",
+    "name": "wontfix",
+    "color": "ffffff",
+    "default": true,
+    "description": "This will not be worked on"
+  }
+]

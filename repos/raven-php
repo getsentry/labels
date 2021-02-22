@@ -1,0 +1,65 @@
+[
+  {
+    "id": 365050382,
+    "node_id": "MDU6TGFiZWwzNjUwNTAzODI=",
+    "url": "https://api.github.com/repos/getsentry/raven-php/labels/bug",
+    "name": "bug",
+    "color": "ee0701",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 365050383,
+    "node_id": "MDU6TGFiZWwzNjUwNTAzODM=",
+    "url": "https://api.github.com/repos/getsentry/raven-php/labels/duplicate",
+    "name": "duplicate",
+    "color": "cccccc",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 365050384,
+    "node_id": "MDU6TGFiZWwzNjUwNTAzODQ=",
+    "url": "https://api.github.com/repos/getsentry/raven-php/labels/enhancement",
+    "name": "enhancement",
+    "color": "84b6eb",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 365050385,
+    "node_id": "MDU6TGFiZWwzNjUwNTAzODU=",
+    "url": "https://api.github.com/repos/getsentry/raven-php/labels/help%20wanted",
+    "name": "help wanted",
+    "color": "128A0C",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 365050386,
+    "node_id": "MDU6TGFiZWwzNjUwNTAzODY=",
+    "url": "https://api.github.com/repos/getsentry/raven-php/labels/invalid",
+    "name": "invalid",
+    "color": "e6e6e6",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 365050387,
+    "node_id": "MDU6TGFiZWwzNjUwNTAzODc=",
+    "url": "https://api.github.com/repos/getsentry/raven-php/labels/question",
+    "name": "question",
+    "color": "cc317c",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 365050388,
+    "node_id": "MDU6TGFiZWwzNjUwNTAzODg=",
+    "url": "https://api.github.com/repos/getsentry/raven-php/labels/wontfix",
+    "name": "wontfix",
+    "color": "ffffff",
+    "default": true,
+    "description": null
+  }
+]

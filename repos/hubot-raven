@@ -1,0 +1,65 @@
+[
+  {
+    "id": 233137902,
+    "node_id": "MDU6TGFiZWwyMzMxMzc5MDI=",
+    "url": "https://api.github.com/repos/getsentry/hubot-raven/labels/bug",
+    "name": "bug",
+    "color": "fc2929",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 233137903,
+    "node_id": "MDU6TGFiZWwyMzMxMzc5MDM=",
+    "url": "https://api.github.com/repos/getsentry/hubot-raven/labels/duplicate",
+    "name": "duplicate",
+    "color": "cccccc",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 233137904,
+    "node_id": "MDU6TGFiZWwyMzMxMzc5MDQ=",
+    "url": "https://api.github.com/repos/getsentry/hubot-raven/labels/enhancement",
+    "name": "enhancement",
+    "color": "84b6eb",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 233137905,
+    "node_id": "MDU6TGFiZWwyMzMxMzc5MDU=",
+    "url": "https://api.github.com/repos/getsentry/hubot-raven/labels/help%20wanted",
+    "name": "help wanted",
+    "color": "159818",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 233137906,
+    "node_id": "MDU6TGFiZWwyMzMxMzc5MDY=",
+    "url": "https://api.github.com/repos/getsentry/hubot-raven/labels/invalid",
+    "name": "invalid",
+    "color": "e6e6e6",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 233137907,
+    "node_id": "MDU6TGFiZWwyMzMxMzc5MDc=",
+    "url": "https://api.github.com/repos/getsentry/hubot-raven/labels/question",
+    "name": "question",
+    "color": "cc317c",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 233137908,
+    "node_id": "MDU6TGFiZWwyMzMxMzc5MDg=",
+    "url": "https://api.github.com/repos/getsentry/hubot-raven/labels/wontfix",
+    "name": "wontfix",
+    "color": "ffffff",
+    "default": true,
+    "description": null
+  }
+]

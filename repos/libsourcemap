@@ -1,0 +1,65 @@
+[
+  {
+    "id": 460331380,
+    "node_id": "MDU6TGFiZWw0NjAzMzEzODA=",
+    "url": "https://api.github.com/repos/getsentry/libsourcemap/labels/bug",
+    "name": "bug",
+    "color": "ee0701",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 460331381,
+    "node_id": "MDU6TGFiZWw0NjAzMzEzODE=",
+    "url": "https://api.github.com/repos/getsentry/libsourcemap/labels/duplicate",
+    "name": "duplicate",
+    "color": "cccccc",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 460331382,
+    "node_id": "MDU6TGFiZWw0NjAzMzEzODI=",
+    "url": "https://api.github.com/repos/getsentry/libsourcemap/labels/enhancement",
+    "name": "enhancement",
+    "color": "84b6eb",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 460331383,
+    "node_id": "MDU6TGFiZWw0NjAzMzEzODM=",
+    "url": "https://api.github.com/repos/getsentry/libsourcemap/labels/help%20wanted",
+    "name": "help wanted",
+    "color": "128A0C",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 460331384,
+    "node_id": "MDU6TGFiZWw0NjAzMzEzODQ=",
+    "url": "https://api.github.com/repos/getsentry/libsourcemap/labels/invalid",
+    "name": "invalid",
+    "color": "e6e6e6",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 460331385,
+    "node_id": "MDU6TGFiZWw0NjAzMzEzODU=",
+    "url": "https://api.github.com/repos/getsentry/libsourcemap/labels/question",
+    "name": "question",
+    "color": "cc317c",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 460331386,
+    "node_id": "MDU6TGFiZWw0NjAzMzEzODY=",
+    "url": "https://api.github.com/repos/getsentry/libsourcemap/labels/wontfix",
+    "name": "wontfix",
+    "color": "ffffff",
+    "default": true,
+    "description": null
+  }
+]

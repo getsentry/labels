@@ -1,0 +1,83 @@
+[
+  {
+    "id": 1374754330,
+    "node_id": "MDU6TGFiZWwxMzc0NzU0MzMw",
+    "url": "https://api.github.com/repos/getsentry/airflow-metrics/labels/bug",
+    "name": "bug",
+    "color": "d73a4a",
+    "default": true,
+    "description": "Something isn't working"
+  },
+  {
+    "id": 1629586561,
+    "node_id": "MDU6TGFiZWwxNjI5NTg2NTYx",
+    "url": "https://api.github.com/repos/getsentry/airflow-metrics/labels/dependencies",
+    "name": "dependencies",
+    "color": "0366d6",
+    "default": false,
+    "description": "Pull requests that update a dependency file"
+  },
+  {
+    "id": 1374754331,
+    "node_id": "MDU6TGFiZWwxMzc0NzU0MzMx",
+    "url": "https://api.github.com/repos/getsentry/airflow-metrics/labels/duplicate",
+    "name": "duplicate",
+    "color": "cfd3d7",
+    "default": true,
+    "description": "This issue or pull request already exists"
+  },
+  {
+    "id": 1374754332,
+    "node_id": "MDU6TGFiZWwxMzc0NzU0MzMy",
+    "url": "https://api.github.com/repos/getsentry/airflow-metrics/labels/enhancement",
+    "name": "enhancement",
+    "color": "a2eeef",
+    "default": true,
+    "description": "New feature or request"
+  },
+  {
+    "id": 1374754334,
+    "node_id": "MDU6TGFiZWwxMzc0NzU0MzM0",
+    "url": "https://api.github.com/repos/getsentry/airflow-metrics/labels/good%20first%20issue",
+    "name": "good first issue",
+    "color": "7057ff",
+    "default": true,
+    "description": "Good for newcomers"
+  },
+  {
+    "id": 1374754333,
+    "node_id": "MDU6TGFiZWwxMzc0NzU0MzMz",
+    "url": "https://api.github.com/repos/getsentry/airflow-metrics/labels/help%20wanted",
+    "name": "help wanted",
+    "color": "008672",
+    "default": true,
+    "description": "Extra attention is needed"
+  },
+  {
+    "id": 1374754335,
+    "node_id": "MDU6TGFiZWwxMzc0NzU0MzM1",
+    "url": "https://api.github.com/repos/getsentry/airflow-metrics/labels/invalid",
+    "name": "invalid",
+    "color": "e4e669",
+    "default": true,
+    "description": "This doesn't seem right"
+  },
+  {
+    "id": 1374754336,
+    "node_id": "MDU6TGFiZWwxMzc0NzU0MzM2",
+    "url": "https://api.github.com/repos/getsentry/airflow-metrics/labels/question",
+    "name": "question",
+    "color": "d876e3",
+    "default": true,
+    "description": "Further information is requested"
+  },
+  {
+    "id": 1374754338,
+    "node_id": "MDU6TGFiZWwxMzc0NzU0MzM4",
+    "url": "https://api.github.com/repos/getsentry/airflow-metrics/labels/wontfix",
+    "name": "wontfix",
+    "color": "ffffff",
+    "default": true,
+    "description": "This will not be worked on"
+  }
+]

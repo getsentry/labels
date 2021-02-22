@@ -1,0 +1,83 @@
+[
+  {
+    "id": 725097985,
+    "node_id": "MDU6TGFiZWw3MjUwOTc5ODU=",
+    "url": "https://api.github.com/repos/getsentry/probot-censor/labels/bug",
+    "name": "bug",
+    "color": "ee0701",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 2203925044,
+    "node_id": "MDU6TGFiZWwyMjAzOTI1MDQ0",
+    "url": "https://api.github.com/repos/getsentry/probot-censor/labels/dependencies",
+    "name": "dependencies",
+    "color": "0366d6",
+    "default": false,
+    "description": "Pull requests that update a dependency file"
+  },
+  {
+    "id": 725097986,
+    "node_id": "MDU6TGFiZWw3MjUwOTc5ODY=",
+    "url": "https://api.github.com/repos/getsentry/probot-censor/labels/duplicate",
+    "name": "duplicate",
+    "color": "cccccc",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 725097987,
+    "node_id": "MDU6TGFiZWw3MjUwOTc5ODc=",
+    "url": "https://api.github.com/repos/getsentry/probot-censor/labels/enhancement",
+    "name": "enhancement",
+    "color": "84b6eb",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 725097989,
+    "node_id": "MDU6TGFiZWw3MjUwOTc5ODk=",
+    "url": "https://api.github.com/repos/getsentry/probot-censor/labels/good%20first%20issue",
+    "name": "good first issue",
+    "color": "7057ff",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 725097988,
+    "node_id": "MDU6TGFiZWw3MjUwOTc5ODg=",
+    "url": "https://api.github.com/repos/getsentry/probot-censor/labels/help%20wanted",
+    "name": "help wanted",
+    "color": "33aa3f",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 725097990,
+    "node_id": "MDU6TGFiZWw3MjUwOTc5OTA=",
+    "url": "https://api.github.com/repos/getsentry/probot-censor/labels/invalid",
+    "name": "invalid",
+    "color": "e6e6e6",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 725097991,
+    "node_id": "MDU6TGFiZWw3MjUwOTc5OTE=",
+    "url": "https://api.github.com/repos/getsentry/probot-censor/labels/question",
+    "name": "question",
+    "color": "cc317c",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 725097992,
+    "node_id": "MDU6TGFiZWw3MjUwOTc5OTI=",
+    "url": "https://api.github.com/repos/getsentry/probot-censor/labels/wontfix",
+    "name": "wontfix",
+    "color": "ffffff",
+    "default": true,
+    "description": null
+  }
+]

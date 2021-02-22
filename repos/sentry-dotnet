@@ -1,0 +1,434 @@
+[
+  {
+    "id": 2539700402,
+    "node_id": "MDU6TGFiZWwyNTM5NzAwNDAy",
+    "url": "https://api.github.com/repos/getsentry/sentry-dotnet/labels/.NET%205",
+    "name": ".NET 5",
+    "color": "8298ff",
+    "default": false,
+    "description": ""
+  },
+  {
+    "id": 1533143000,
+    "node_id": "MDU6TGFiZWwxNTMzMTQzMDAw",
+    "url": "https://api.github.com/repos/getsentry/sentry-dotnet/labels/.NET%20Core%202.2",
+    "name": ".NET Core 2.2",
+    "color": "bb91e0",
+    "default": false,
+    "description": ""
+  },
+  {
+    "id": 1602641530,
+    "node_id": "MDU6TGFiZWwxNjAyNjQxNTMw",
+    "url": "https://api.github.com/repos/getsentry/sentry-dotnet/labels/.NET%20Framework",
+    "name": ".NET Framework",
+    "color": "b2d657",
+    "default": false,
+    "description": ""
+  },
+  {
+    "id": 1414861530,
+    "node_id": "MDU6TGFiZWwxNDE0ODYxNTMw",
+    "url": "https://api.github.com/repos/getsentry/sentry-dotnet/labels/ASP.NET",
+    "name": "ASP.NET",
+    "color": "75f491",
+    "default": false,
+    "description": ""
+  },
+  {
+    "id": 1414860358,
+    "node_id": "MDU6TGFiZWwxNDE0ODYwMzU4",
+    "url": "https://api.github.com/repos/getsentry/sentry-dotnet/labels/ASP.NET%20Core",
+    "name": "ASP.NET Core",
+    "color": "3292a3",
+    "default": false,
+    "description": ""
+  },
+  {
+    "id": 2643222917,
+    "node_id": "MDU6TGFiZWwyNjQzMjIyOTE3",
+    "url": "https://api.github.com/repos/getsentry/sentry-dotnet/labels/AWS%20Fargate",
+    "name": "AWS Fargate",
+    "color": "5BEB7C",
+    "default": false,
+    "description": ""
+  },
+  {
+    "id": 1414872712,
+    "node_id": "MDU6TGFiZWwxNDE0ODcyNzEy",
+    "url": "https://api.github.com/repos/getsentry/sentry-dotnet/labels/AWS%20Lambda",
+    "name": "AWS Lambda",
+    "color": "122896",
+    "default": false,
+    "description": ""
+  },
+  {
+    "id": 1414865122,
+    "node_id": "MDU6TGFiZWwxNDE0ODY1MTIy",
+    "url": "https://api.github.com/repos/getsentry/sentry-dotnet/labels/Azure",
+    "name": "Azure",
+    "color": "1d86f7",
+    "default": false,
+    "description": ""
+  },
+  {
+    "id": 1920446504,
+    "node_id": "MDU6TGFiZWwxOTIwNDQ2NTA0",
+    "url": "https://api.github.com/repos/getsentry/sentry-dotnet/labels/Azure%20Functions",
+    "name": "Azure Functions",
+    "color": "eaa6e6",
+    "default": false,
+    "description": ""
+  },
+  {
+    "id": 1812282952,
+    "node_id": "MDU6TGFiZWwxODEyMjgyOTUy",
+    "url": "https://api.github.com/repos/getsentry/sentry-dotnet/labels/DocFX",
+    "name": "DocFX",
+    "color": "a9fcdf",
+    "default": false,
+    "description": ""
+  },
+  {
+    "id": 1500115894,
+    "node_id": "MDU6TGFiZWwxNTAwMTE1ODk0",
+    "url": "https://api.github.com/repos/getsentry/sentry-dotnet/labels/Logging",
+    "name": "Logging",
+    "color": "eefcae",
+    "default": false,
+    "description": ""
+  },
+  {
+    "id": 1678653862,
+    "node_id": "MDU6TGFiZWwxNjc4NjUzODYy",
+    "url": "https://api.github.com/repos/getsentry/sentry-dotnet/labels/Microsoft.Extensions.Logging",
+    "name": "Microsoft.Extensions.Logging",
+    "color": "112989",
+    "default": false,
+    "description": ""
+  },
+  {
+    "id": 1777291287,
+    "node_id": "MDU6TGFiZWwxNzc3MjkxMjg3",
+    "url": "https://api.github.com/repos/getsentry/sentry-dotnet/labels/NLog",
+    "name": "NLog",
+    "color": "a9fcca",
+    "default": false,
+    "description": ""
+  },
+  {
+    "id": 1602641220,
+    "node_id": "MDU6TGFiZWwxNjAyNjQxMjIw",
+    "url": "https://api.github.com/repos/getsentry/sentry-dotnet/labels/OWIN",
+    "name": "OWIN",
+    "color": "e792ef",
+    "default": false,
+    "description": ""
+  },
+  {
+    "id": 2631803909,
+    "node_id": "MDU6TGFiZWwyNjMxODAzOTA5",
+    "url": "https://api.github.com/repos/getsentry/sentry-dotnet/labels/Performance%20Product",
+    "name": "Performance Product",
+    "color": "F12FDA",
+    "default": false,
+    "description": ""
+  },
+  {
+    "id": 2022701876,
+    "node_id": "MDU6TGFiZWwyMDIyNzAxODc2",
+    "url": "https://api.github.com/repos/getsentry/sentry-dotnet/labels/Repository%20maintenance",
+    "name": "Repository maintenance",
+    "color": "e06f23",
+    "default": false,
+    "description": ""
+  },
+  {
+    "id": 1414862960,
+    "node_id": "MDU6TGFiZWwxNDE0ODYyOTYw",
+    "url": "https://api.github.com/repos/getsentry/sentry-dotnet/labels/Sentry",
+    "name": "Sentry",
+    "color": "1c457f",
+    "default": false,
+    "description": ""
+  },
+  {
+    "id": 2125584768,
+    "node_id": "MDU6TGFiZWwyMTI1NTg0NzY4",
+    "url": "https://api.github.com/repos/getsentry/sentry-dotnet/labels/Sentry.PlatformAbstractions",
+    "name": "Sentry.PlatformAbstractions",
+    "color": "e56264",
+    "default": false,
+    "description": ""
+  },
+  {
+    "id": 1488470084,
+    "node_id": "MDU6TGFiZWwxNDg4NDcwMDg0",
+    "url": "https://api.github.com/repos/getsentry/sentry-dotnet/labels/Serilog",
+    "name": "Serilog",
+    "color": "069196",
+    "default": false,
+    "description": ""
+  },
+  {
+    "id": 1920446657,
+    "node_id": "MDU6TGFiZWwxOTIwNDQ2NjU3",
+    "url": "https://api.github.com/repos/getsentry/sentry-dotnet/labels/Serverless",
+    "name": "Serverless",
+    "color": "d15955",
+    "default": false,
+    "description": ""
+  },
+  {
+    "id": 2539702586,
+    "node_id": "MDU6TGFiZWwyNTM5NzAyNTg2",
+    "url": "https://api.github.com/repos/getsentry/sentry-dotnet/labels/Testing",
+    "name": "Testing",
+    "color": "74e09c",
+    "default": false,
+    "description": ""
+  },
+  {
+    "id": 1414871439,
+    "node_id": "MDU6TGFiZWwxNDE0ODcxNDM5",
+    "url": "https://api.github.com/repos/getsentry/sentry-dotnet/labels/UWP",
+    "name": "UWP",
+    "color": "2d5891",
+    "default": false,
+    "description": ""
+  },
+  {
+    "id": 1630071435,
+    "node_id": "MDU6TGFiZWwxNjMwMDcxNDM1",
+    "url": "https://api.github.com/repos/getsentry/sentry-dotnet/labels/WPF",
+    "name": "WPF",
+    "color": "bdb2f7",
+    "default": false,
+    "description": ""
+  },
+  {
+    "id": 1892513163,
+    "node_id": "MDU6TGFiZWwxODkyNTEzMTYz",
+    "url": "https://api.github.com/repos/getsentry/sentry-dotnet/labels/WebApi",
+    "name": "WebApi",
+    "color": "bc93e2",
+    "default": false,
+    "description": ""
+  },
+  {
+    "id": 1414857993,
+    "node_id": "MDU6TGFiZWwxNDE0ODU3OTkz",
+    "url": "https://api.github.com/repos/getsentry/sentry-dotnet/labels/WinForms",
+    "name": "WinForms",
+    "color": "4e1396",
+    "default": false,
+    "description": ""
+  },
+  {
+    "id": 1414859101,
+    "node_id": "MDU6TGFiZWwxNDE0ODU5MTAx",
+    "url": "https://api.github.com/repos/getsentry/sentry-dotnet/labels/Windows%20Service",
+    "name": "Windows Service",
+    "color": "ba3112",
+    "default": false,
+    "description": ""
+  },
+  {
+    "id": 1414872409,
+    "node_id": "MDU6TGFiZWwxNDE0ODcyNDA5",
+    "url": "https://api.github.com/repos/getsentry/sentry-dotnet/labels/Xamarin",
+    "name": "Xamarin",
+    "color": "eab39f",
+    "default": false,
+    "description": ""
+  },
+  {
+    "id": 932672195,
+    "node_id": "MDU6TGFiZWw5MzI2NzIxOTU=",
+    "url": "https://api.github.com/repos/getsentry/sentry-dotnet/labels/bug",
+    "name": "bug",
+    "color": "d73a4a",
+    "default": true,
+    "description": "Something isn't working"
+  },
+  {
+    "id": 2078183180,
+    "node_id": "MDU6TGFiZWwyMDc4MTgzMTgw",
+    "url": "https://api.github.com/repos/getsentry/sentry-dotnet/labels/dependencies",
+    "name": "dependencies",
+    "color": "0366d6",
+    "default": false,
+    "description": "Pull requests that update a dependency file"
+  },
+  {
+    "id": 2676384538,
+    "node_id": "MDU6TGFiZWwyNjc2Mzg0NTM4",
+    "url": "https://api.github.com/repos/getsentry/sentry-dotnet/labels/desktop",
+    "name": "desktop",
+    "color": "BCF2D4",
+    "default": false,
+    "description": ""
+  },
+  {
+    "id": 1414865682,
+    "node_id": "MDU6TGFiZWwxNDE0ODY1Njgy",
+    "url": "https://api.github.com/repos/getsentry/sentry-dotnet/labels/documentation",
+    "name": "documentation",
+    "color": "fc80ae",
+    "default": true,
+    "description": ""
+  },
+  {
+    "id": 932672196,
+    "node_id": "MDU6TGFiZWw5MzI2NzIxOTY=",
+    "url": "https://api.github.com/repos/getsentry/sentry-dotnet/labels/duplicate",
+    "name": "duplicate",
+    "color": "cfd3d7",
+    "default": true,
+    "description": "This issue or pull request already exists"
+  },
+  {
+    "id": 932672198,
+    "node_id": "MDU6TGFiZWw5MzI2NzIxOTg=",
+    "url": "https://api.github.com/repos/getsentry/sentry-dotnet/labels/enhancement",
+    "name": "enhancement",
+    "color": "a2eeef",
+    "default": true,
+    "description": "New feature or request"
+  },
+  {
+    "id": 2757865103,
+    "node_id": "MDU6TGFiZWwyNzU3ODY1MTAz",
+    "url": "https://api.github.com/repos/getsentry/sentry-dotnet/labels/feature:%20User%20Feedback",
+    "name": "feature: User Feedback",
+    "color": "9E86B4",
+    "default": false,
+    "description": ""
+  },
+  {
+    "id": 2539701163,
+    "node_id": "MDU6TGFiZWwyNTM5NzAxMTYz",
+    "url": "https://api.github.com/repos/getsentry/sentry-dotnet/labels/gRPC",
+    "name": "gRPC",
+    "color": "943eef",
+    "default": false,
+    "description": ""
+  },
+  {
+    "id": 932672209,
+    "node_id": "MDU6TGFiZWw5MzI2NzIyMDk=",
+    "url": "https://api.github.com/repos/getsentry/sentry-dotnet/labels/good%20first%20issue",
+    "name": "good first issue",
+    "color": "7057ff",
+    "default": true,
+    "description": "Good for newcomers"
+  },
+  {
+    "id": 1602765324,
+    "node_id": "MDU6TGFiZWwxNjAyNzY1MzI0",
+    "url": "https://api.github.com/repos/getsentry/sentry-dotnet/labels/hacktoberfest",
+    "name": "hacktoberfest",
+    "color": "d1198a",
+    "default": false,
+    "description": ""
+  },
+  {
+    "id": 2425868889,
+    "node_id": "MDU6TGFiZWwyNDI1ODY4ODg5",
+    "url": "https://api.github.com/repos/getsentry/sentry-dotnet/labels/hacktoberfest-accepted",
+    "name": "hacktoberfest-accepted",
+    "color": "cc87db",
+    "default": false,
+    "description": ""
+  },
+  {
+    "id": 932672202,
+    "node_id": "MDU6TGFiZWw5MzI2NzIyMDI=",
+    "url": "https://api.github.com/repos/getsentry/sentry-dotnet/labels/help%20wanted",
+    "name": "help wanted",
+    "color": "008672",
+    "default": true,
+    "description": "Extra attention is needed"
+  },
+  {
+    "id": 1736182257,
+    "node_id": "MDU6TGFiZWwxNzM2MTgyMjU3",
+    "url": "https://api.github.com/repos/getsentry/sentry-dotnet/labels/high-priority",
+    "name": "high-priority",
+    "color": "b73422",
+    "default": false,
+    "description": ""
+  },
+  {
+    "id": 932672215,
+    "node_id": "MDU6TGFiZWw5MzI2NzIyMTU=",
+    "url": "https://api.github.com/repos/getsentry/sentry-dotnet/labels/invalid",
+    "name": "invalid",
+    "color": "e4e669",
+    "default": true,
+    "description": "This doesn't seem right"
+  },
+  {
+    "id": 1533142747,
+    "node_id": "MDU6TGFiZWwxNTMzMTQyNzQ3",
+    "url": "https://api.github.com/repos/getsentry/sentry-dotnet/labels/log4net",
+    "name": "log4net",
+    "color": "0ba32c",
+    "default": false,
+    "description": ""
+  },
+  {
+    "id": 2676384872,
+    "node_id": "MDU6TGFiZWwyNjc2Mzg0ODcy",
+    "url": "https://api.github.com/repos/getsentry/sentry-dotnet/labels/mobile",
+    "name": "mobile",
+    "color": "263095",
+    "default": false,
+    "description": ""
+  },
+  {
+    "id": 932672217,
+    "node_id": "MDU6TGFiZWw5MzI2NzIyMTc=",
+    "url": "https://api.github.com/repos/getsentry/sentry-dotnet/labels/question",
+    "name": "question",
+    "color": "d876e3",
+    "default": true,
+    "description": "Further information is requested"
+  },
+  {
+    "id": 1414868304,
+    "node_id": "MDU6TGFiZWwxNDE0ODY4MzA0",
+    "url": "https://api.github.com/repos/getsentry/sentry-dotnet/labels/samples",
+    "name": "samples",
+    "color": "d1177a",
+    "default": false,
+    "description": ""
+  },
+  {
+    "id": 2464845387,
+    "node_id": "MDU6TGFiZWwyNDY0ODQ1Mzg3",
+    "url": "https://api.github.com/repos/getsentry/sentry-dotnet/labels/up-for-grabs",
+    "name": "up-for-grabs",
+    "color": "d64d56",
+    "default": false,
+    "description": ""
+  },
+  {
+    "id": 2676853429,
+    "node_id": "MDU6TGFiZWwyNjc2ODUzNDI5",
+    "url": "https://api.github.com/repos/getsentry/sentry-dotnet/labels/windows",
+    "name": "windows",
+    "color": "309FEA",
+    "default": false,
+    "description": ""
+  },
+  {
+    "id": 932672218,
+    "node_id": "MDU6TGFiZWw5MzI2NzIyMTg=",
+    "url": "https://api.github.com/repos/getsentry/sentry-dotnet/labels/wontfix",
+    "name": "wontfix",
+    "color": "ffffff",
+    "default": true,
+    "description": "This will not be worked on"
+  }
+]

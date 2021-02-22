@@ -1,0 +1,74 @@
+[
+  {
+    "id": 406540620,
+    "node_id": "MDU6TGFiZWw0MDY1NDA2MjA=",
+    "url": "https://api.github.com/repos/getsentry/react-lazy-load/labels/bug",
+    "name": "bug",
+    "color": "ee0701",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 2203930128,
+    "node_id": "MDU6TGFiZWwyMjAzOTMwMTI4",
+    "url": "https://api.github.com/repos/getsentry/react-lazy-load/labels/dependencies",
+    "name": "dependencies",
+    "color": "0366d6",
+    "default": false,
+    "description": "Pull requests that update a dependency file"
+  },
+  {
+    "id": 406540621,
+    "node_id": "MDU6TGFiZWw0MDY1NDA2MjE=",
+    "url": "https://api.github.com/repos/getsentry/react-lazy-load/labels/duplicate",
+    "name": "duplicate",
+    "color": "cccccc",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 406540622,
+    "node_id": "MDU6TGFiZWw0MDY1NDA2MjI=",
+    "url": "https://api.github.com/repos/getsentry/react-lazy-load/labels/enhancement",
+    "name": "enhancement",
+    "color": "84b6eb",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 406540623,
+    "node_id": "MDU6TGFiZWw0MDY1NDA2MjM=",
+    "url": "https://api.github.com/repos/getsentry/react-lazy-load/labels/help%20wanted",
+    "name": "help wanted",
+    "color": "128A0C",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 406540624,
+    "node_id": "MDU6TGFiZWw0MDY1NDA2MjQ=",
+    "url": "https://api.github.com/repos/getsentry/react-lazy-load/labels/invalid",
+    "name": "invalid",
+    "color": "e6e6e6",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 406540625,
+    "node_id": "MDU6TGFiZWw0MDY1NDA2MjU=",
+    "url": "https://api.github.com/repos/getsentry/react-lazy-load/labels/question",
+    "name": "question",
+    "color": "cc317c",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 406540626,
+    "node_id": "MDU6TGFiZWw0MDY1NDA2MjY=",
+    "url": "https://api.github.com/repos/getsentry/react-lazy-load/labels/wontfix",
+    "name": "wontfix",
+    "color": "ffffff",
+    "default": true,
+    "description": null
+  }
+]

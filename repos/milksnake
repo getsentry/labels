@@ -1,0 +1,74 @@
+[
+  {
+    "id": 709554553,
+    "node_id": "MDU6TGFiZWw3MDk1NTQ1NTM=",
+    "url": "https://api.github.com/repos/getsentry/milksnake/labels/bug",
+    "name": "bug",
+    "color": "ee0701",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 709554554,
+    "node_id": "MDU6TGFiZWw3MDk1NTQ1NTQ=",
+    "url": "https://api.github.com/repos/getsentry/milksnake/labels/duplicate",
+    "name": "duplicate",
+    "color": "cccccc",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 709554555,
+    "node_id": "MDU6TGFiZWw3MDk1NTQ1NTU=",
+    "url": "https://api.github.com/repos/getsentry/milksnake/labels/enhancement",
+    "name": "enhancement",
+    "color": "84b6eb",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 709554557,
+    "node_id": "MDU6TGFiZWw3MDk1NTQ1NTc=",
+    "url": "https://api.github.com/repos/getsentry/milksnake/labels/good%20first%20issue",
+    "name": "good first issue",
+    "color": "7057ff",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 709554556,
+    "node_id": "MDU6TGFiZWw3MDk1NTQ1NTY=",
+    "url": "https://api.github.com/repos/getsentry/milksnake/labels/help%20wanted",
+    "name": "help wanted",
+    "color": "33aa3f",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 709554558,
+    "node_id": "MDU6TGFiZWw3MDk1NTQ1NTg=",
+    "url": "https://api.github.com/repos/getsentry/milksnake/labels/invalid",
+    "name": "invalid",
+    "color": "e6e6e6",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 709554559,
+    "node_id": "MDU6TGFiZWw3MDk1NTQ1NTk=",
+    "url": "https://api.github.com/repos/getsentry/milksnake/labels/question",
+    "name": "question",
+    "color": "cc317c",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 709554560,
+    "node_id": "MDU6TGFiZWw3MDk1NTQ1NjA=",
+    "url": "https://api.github.com/repos/getsentry/milksnake/labels/wontfix",
+    "name": "wontfix",
+    "color": "ffffff",
+    "default": true,
+    "description": null
+  }
+]

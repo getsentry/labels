@@ -1,0 +1,65 @@
+[
+  {
+    "id": 808117749,
+    "node_id": "MDU6TGFiZWw4MDgxMTc3NDk=",
+    "url": "https://api.github.com/repos/getsentry/sentry-elixir/labels/WIP",
+    "name": "WIP",
+    "color": "f404e8",
+    "default": false,
+    "description": null
+  },
+  {
+    "id": 121711329,
+    "node_id": "MDU6TGFiZWwxMjE3MTEzMjk=",
+    "url": "https://api.github.com/repos/getsentry/sentry-elixir/labels/bug",
+    "name": "bug",
+    "color": "fc2929",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 418870967,
+    "node_id": "MDU6TGFiZWw0MTg4NzA5Njc=",
+    "url": "https://api.github.com/repos/getsentry/sentry-elixir/labels/documentation",
+    "name": "documentation",
+    "color": "d93f0b",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 121711331,
+    "node_id": "MDU6TGFiZWwxMjE3MTEzMzE=",
+    "url": "https://api.github.com/repos/getsentry/sentry-elixir/labels/enhancement",
+    "name": "enhancement",
+    "color": "84b6eb",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 121711332,
+    "node_id": "MDU6TGFiZWwxMjE3MTEzMzI=",
+    "url": "https://api.github.com/repos/getsentry/sentry-elixir/labels/help%20wanted",
+    "name": "help wanted",
+    "color": "159818",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 121711334,
+    "node_id": "MDU6TGFiZWwxMjE3MTEzMzQ=",
+    "url": "https://api.github.com/repos/getsentry/sentry-elixir/labels/question",
+    "name": "question",
+    "color": "cc317c",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 418849927,
+    "node_id": "MDU6TGFiZWw0MTg4NDk5Mjc=",
+    "url": "https://api.github.com/repos/getsentry/sentry-elixir/labels/ready%20for%20review",
+    "name": "ready for review",
+    "color": "fbca04",
+    "default": false,
+    "description": null
+  }
+]

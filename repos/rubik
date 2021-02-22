@@ -1,0 +1,65 @@
+[
+  {
+    "id": 675053615,
+    "node_id": "MDU6TGFiZWw2NzUwNTM2MTU=",
+    "url": "https://api.github.com/repos/getsentry/rubik/labels/bug",
+    "name": "bug",
+    "color": "ee0701",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 675053616,
+    "node_id": "MDU6TGFiZWw2NzUwNTM2MTY=",
+    "url": "https://api.github.com/repos/getsentry/rubik/labels/duplicate",
+    "name": "duplicate",
+    "color": "cccccc",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 675053617,
+    "node_id": "MDU6TGFiZWw2NzUwNTM2MTc=",
+    "url": "https://api.github.com/repos/getsentry/rubik/labels/enhancement",
+    "name": "enhancement",
+    "color": "84b6eb",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 675053618,
+    "node_id": "MDU6TGFiZWw2NzUwNTM2MTg=",
+    "url": "https://api.github.com/repos/getsentry/rubik/labels/help%20wanted",
+    "name": "help wanted",
+    "color": "128A0C",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 675053619,
+    "node_id": "MDU6TGFiZWw2NzUwNTM2MTk=",
+    "url": "https://api.github.com/repos/getsentry/rubik/labels/invalid",
+    "name": "invalid",
+    "color": "e6e6e6",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 675053620,
+    "node_id": "MDU6TGFiZWw2NzUwNTM2MjA=",
+    "url": "https://api.github.com/repos/getsentry/rubik/labels/question",
+    "name": "question",
+    "color": "cc317c",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 675053621,
+    "node_id": "MDU6TGFiZWw2NzUwNTM2MjE=",
+    "url": "https://api.github.com/repos/getsentry/rubik/labels/wontfix",
+    "name": "wontfix",
+    "color": "ffffff",
+    "default": true,
+    "description": null
+  }
+]

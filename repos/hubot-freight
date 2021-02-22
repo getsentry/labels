@@ -1,0 +1,65 @@
+[
+  {
+    "id": 178925742,
+    "node_id": "MDU6TGFiZWwxNzg5MjU3NDI=",
+    "url": "https://api.github.com/repos/getsentry/hubot-freight/labels/bug",
+    "name": "bug",
+    "color": "fc2929",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 178925743,
+    "node_id": "MDU6TGFiZWwxNzg5MjU3NDM=",
+    "url": "https://api.github.com/repos/getsentry/hubot-freight/labels/duplicate",
+    "name": "duplicate",
+    "color": "cccccc",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 178925744,
+    "node_id": "MDU6TGFiZWwxNzg5MjU3NDQ=",
+    "url": "https://api.github.com/repos/getsentry/hubot-freight/labels/enhancement",
+    "name": "enhancement",
+    "color": "84b6eb",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 178925745,
+    "node_id": "MDU6TGFiZWwxNzg5MjU3NDU=",
+    "url": "https://api.github.com/repos/getsentry/hubot-freight/labels/help%20wanted",
+    "name": "help wanted",
+    "color": "159818",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 178925746,
+    "node_id": "MDU6TGFiZWwxNzg5MjU3NDY=",
+    "url": "https://api.github.com/repos/getsentry/hubot-freight/labels/invalid",
+    "name": "invalid",
+    "color": "e6e6e6",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 178925747,
+    "node_id": "MDU6TGFiZWwxNzg5MjU3NDc=",
+    "url": "https://api.github.com/repos/getsentry/hubot-freight/labels/question",
+    "name": "question",
+    "color": "cc317c",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 178925748,
+    "node_id": "MDU6TGFiZWwxNzg5MjU3NDg=",
+    "url": "https://api.github.com/repos/getsentry/hubot-freight/labels/wontfix",
+    "name": "wontfix",
+    "color": "ffffff",
+    "default": true,
+    "description": null
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "id": 2163414645,
+    "node_id": "MDU6TGFiZWwyMTYzNDE0NjQ1",
+    "url": "https://api.github.com/repos/getsentry/action-visual-snapshot/labels/bug",
+    "name": "bug",
+    "color": "d73a4a",
+    "default": true,
+    "description": "Something isn't working"
+  },
+  {
+    "id": 2218649594,
+    "node_id": "MDU6TGFiZWwyMjE4NjQ5NTk0",
+    "url": "https://api.github.com/repos/getsentry/action-visual-snapshot/labels/dependencies",
+    "name": "dependencies",
+    "color": "0366d6",
+    "default": false,
+    "description": "Pull requests that update a dependency file"
+  },
+  {
+    "id": 2163414646,
+    "node_id": "MDU6TGFiZWwyMTYzNDE0NjQ2",
+    "url": "https://api.github.com/repos/getsentry/action-visual-snapshot/labels/documentation",
+    "name": "documentation",
+    "color": "0075ca",
+    "default": true,
+    "description": "Improvements or additions to documentation"
+  },
+  {
+    "id": 2163414647,
+    "node_id": "MDU6TGFiZWwyMTYzNDE0NjQ3",
+    "url": "https://api.github.com/repos/getsentry/action-visual-snapshot/labels/duplicate",
+    "name": "duplicate",
+    "color": "cfd3d7",
+    "default": true,
+    "description": "This issue or pull request already exists"
+  },
+  {
+    "id": 2163414648,
+    "node_id": "MDU6TGFiZWwyMTYzNDE0NjQ4",
+    "url": "https://api.github.com/repos/getsentry/action-visual-snapshot/labels/enhancement",
+    "name": "enhancement",
+    "color": "a2eeef",
+    "default": true,
+    "description": "New feature or request"
+  },
+  {
+    "id": 2163414649,
+    "node_id": "MDU6TGFiZWwyMTYzNDE0NjQ5",
+    "url": "https://api.github.com/repos/getsentry/action-visual-snapshot/labels/good%20first%20issue",
+    "name": "good first issue",
+    "color": "7057ff",
+    "default": true,
+    "description": "Good for newcomers"
+  },
+  {
+    "id": 2163414650,
+    "node_id": "MDU6TGFiZWwyMTYzNDE0NjUw",
+    "url": "https://api.github.com/repos/getsentry/action-visual-snapshot/labels/help%20wanted",
+    "name": "help wanted",
+    "color": "008672",
+    "default": true,
+    "description": "Extra attention is needed"
+  },
+  {
+    "id": 2163414652,
+    "node_id": "MDU6TGFiZWwyMTYzNDE0NjUy",
+    "url": "https://api.github.com/repos/getsentry/action-visual-snapshot/labels/invalid",
+    "name": "invalid",
+    "color": "e4e669",
+    "default": true,
+    "description": "This doesn't seem right"
+  },
+  {
+    "id": 2163414653,
+    "node_id": "MDU6TGFiZWwyMTYzNDE0NjUz",
+    "url": "https://api.github.com/repos/getsentry/action-visual-snapshot/labels/question",
+    "name": "question",
+    "color": "d876e3",
+    "default": true,
+    "description": "Further information is requested"
+  },
+  {
+    "id": 2163414656,
+    "node_id": "MDU6TGFiZWwyMTYzNDE0NjU2",
+    "url": "https://api.github.com/repos/getsentry/action-visual-snapshot/labels/wontfix",
+    "name": "wontfix",
+    "color": "ffffff",
+    "default": true,
+    "description": "This will not be worked on"
+  }
+]

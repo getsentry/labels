@@ -1,0 +1,155 @@
+[
+  {
+    "id": 1302128485,
+    "node_id": "MDU6TGFiZWwxMzAyMTI4NDg1",
+    "url": "https://api.github.com/repos/getsentry/sentry-go/labels/Misc:%20Help%20Wanted",
+    "name": "Misc: Help Wanted",
+    "color": "8ceaa5",
+    "default": false,
+    "description": null
+  },
+  {
+    "id": 1302128489,
+    "node_id": "MDU6TGFiZWwxMzAyMTI4NDg5",
+    "url": "https://api.github.com/repos/getsentry/sentry-go/labels/Misc:%20Report%20Dialog",
+    "name": "Misc: Report Dialog",
+    "color": "ffcced",
+    "default": false,
+    "description": null
+  },
+  {
+    "id": 1302128484,
+    "node_id": "MDU6TGFiZWwxMzAyMTI4NDg0",
+    "url": "https://api.github.com/repos/getsentry/sentry-go/labels/Status:%20Blocked",
+    "name": "Status: Blocked",
+    "color": "b60205",
+    "default": false,
+    "description": null
+  },
+  {
+    "id": 1302128494,
+    "node_id": "MDU6TGFiZWwxMzAyMTI4NDk0",
+    "url": "https://api.github.com/repos/getsentry/sentry-go/labels/Status:%20Confirmed",
+    "name": "Status: Confirmed",
+    "color": "0e8a16",
+    "default": false,
+    "description": null
+  },
+  {
+    "id": 1302128486,
+    "node_id": "MDU6TGFiZWwxMzAyMTI4NDg2",
+    "url": "https://api.github.com/repos/getsentry/sentry-go/labels/Status:%20In%20Progress",
+    "name": "Status: In Progress",
+    "color": "c8b0f4",
+    "default": false,
+    "description": null
+  },
+  {
+    "id": 1302128483,
+    "node_id": "MDU6TGFiZWwxMzAyMTI4NDgz",
+    "url": "https://api.github.com/repos/getsentry/sentry-go/labels/Status:%20Needs%20Information",
+    "name": "Status: Needs Information",
+    "color": "81d2e2",
+    "default": false,
+    "description": null
+  },
+  {
+    "id": 1302128488,
+    "node_id": "MDU6TGFiZWwxMzAyMTI4NDg4",
+    "url": "https://api.github.com/repos/getsentry/sentry-go/labels/Status:%20Needs%20Reproduction",
+    "name": "Status: Needs Reproduction",
+    "color": "fc918f",
+    "default": false,
+    "description": null
+  },
+  {
+    "id": 1302128495,
+    "node_id": "MDU6TGFiZWwxMzAyMTI4NDk1",
+    "url": "https://api.github.com/repos/getsentry/sentry-go/labels/Status:%20Needs%20Triage",
+    "name": "Status: Needs Triage",
+    "color": "000000",
+    "default": false,
+    "description": null
+  },
+  {
+    "id": 1302128491,
+    "node_id": "MDU6TGFiZWwxMzAyMTI4NDkx",
+    "url": "https://api.github.com/repos/getsentry/sentry-go/labels/Type:%20Breaking",
+    "name": "Type: Breaking",
+    "color": "fbca04",
+    "default": false,
+    "description": null
+  },
+  {
+    "id": 1302128496,
+    "node_id": "MDU6TGFiZWwxMzAyMTI4NDk2",
+    "url": "https://api.github.com/repos/getsentry/sentry-go/labels/Type:%20Bug",
+    "name": "Type: Bug",
+    "color": "ee0701",
+    "default": false,
+    "description": null
+  },
+  {
+    "id": 1302128501,
+    "node_id": "MDU6TGFiZWwxMzAyMTI4NTAx",
+    "url": "https://api.github.com/repos/getsentry/sentry-go/labels/Type:%20Discussion",
+    "name": "Type: Discussion",
+    "color": "c9e0ff",
+    "default": false,
+    "description": null
+  },
+  {
+    "id": 1302128493,
+    "node_id": "MDU6TGFiZWwxMzAyMTI4NDkz",
+    "url": "https://api.github.com/repos/getsentry/sentry-go/labels/Type:%20Documentation",
+    "name": "Type: Documentation",
+    "color": "84b6eb",
+    "default": false,
+    "description": null
+  },
+  {
+    "id": 1302128490,
+    "node_id": "MDU6TGFiZWwxMzAyMTI4NDkw",
+    "url": "https://api.github.com/repos/getsentry/sentry-go/labels/Type:%20Feature",
+    "name": "Type: Feature",
+    "color": "dbf477",
+    "default": false,
+    "description": null
+  },
+  {
+    "id": 1302128492,
+    "node_id": "MDU6TGFiZWwxMzAyMTI4NDky",
+    "url": "https://api.github.com/repos/getsentry/sentry-go/labels/Type:%20Improvement",
+    "name": "Type: Improvement",
+    "color": "65f2be",
+    "default": false,
+    "description": null
+  },
+  {
+    "id": 1302128487,
+    "node_id": "MDU6TGFiZWwxMzAyMTI4NDg3",
+    "url": "https://api.github.com/repos/getsentry/sentry-go/labels/Type:%20Question",
+    "name": "Type: Question",
+    "color": "074168",
+    "default": false,
+    "description": null
+  },
+  {
+    "id": 1470004519,
+    "node_id": "MDU6TGFiZWwxNDcwMDA0NTE5",
+    "url": "https://api.github.com/repos/getsentry/sentry-go/labels/Type:%20Refactoring",
+    "name": "Type: Refactoring",
+    "color": "c5def5",
+    "default": false,
+    "description": ""
+  },
+  {
+    "id": 1470000180,
+    "node_id": "MDU6TGFiZWwxNDcwMDAwMTgw",
+    "url": "https://api.github.com/repos/getsentry/sentry-go/labels/Version:%20v1",
+    "name": "Version: v1",
+    "color": "f9d0c4",
+    "default": false,
+    "description": ""
+  }
+]

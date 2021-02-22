@@ -1,0 +1,83 @@
+[
+  {
+    "id": 1015832130,
+    "node_id": "MDU6TGFiZWwxMDE1ODMyMTMw",
+    "url": "https://api.github.com/repos/getsentry/vscode-sentry/labels/bug",
+    "name": "bug",
+    "color": "d73a4a",
+    "default": true,
+    "description": "Something isn't working"
+  },
+  {
+    "id": 2203925433,
+    "node_id": "MDU6TGFiZWwyMjAzOTI1NDMz",
+    "url": "https://api.github.com/repos/getsentry/vscode-sentry/labels/dependencies",
+    "name": "dependencies",
+    "color": "0366d6",
+    "default": false,
+    "description": "Pull requests that update a dependency file"
+  },
+  {
+    "id": 1015832131,
+    "node_id": "MDU6TGFiZWwxMDE1ODMyMTMx",
+    "url": "https://api.github.com/repos/getsentry/vscode-sentry/labels/duplicate",
+    "name": "duplicate",
+    "color": "cfd3d7",
+    "default": true,
+    "description": "This issue or pull request already exists"
+  },
+  {
+    "id": 1015832132,
+    "node_id": "MDU6TGFiZWwxMDE1ODMyMTMy",
+    "url": "https://api.github.com/repos/getsentry/vscode-sentry/labels/enhancement",
+    "name": "enhancement",
+    "color": "a2eeef",
+    "default": true,
+    "description": "New feature or request"
+  },
+  {
+    "id": 1015832135,
+    "node_id": "MDU6TGFiZWwxMDE1ODMyMTM1",
+    "url": "https://api.github.com/repos/getsentry/vscode-sentry/labels/good%20first%20issue",
+    "name": "good first issue",
+    "color": "7057ff",
+    "default": true,
+    "description": "Good for newcomers"
+  },
+  {
+    "id": 1015832133,
+    "node_id": "MDU6TGFiZWwxMDE1ODMyMTMz",
+    "url": "https://api.github.com/repos/getsentry/vscode-sentry/labels/help%20wanted",
+    "name": "help wanted",
+    "color": "008672",
+    "default": true,
+    "description": "Extra attention is needed"
+  },
+  {
+    "id": 1015832137,
+    "node_id": "MDU6TGFiZWwxMDE1ODMyMTM3",
+    "url": "https://api.github.com/repos/getsentry/vscode-sentry/labels/invalid",
+    "name": "invalid",
+    "color": "e4e669",
+    "default": true,
+    "description": "This doesn't seem right"
+  },
+  {
+    "id": 1015832138,
+    "node_id": "MDU6TGFiZWwxMDE1ODMyMTM4",
+    "url": "https://api.github.com/repos/getsentry/vscode-sentry/labels/question",
+    "name": "question",
+    "color": "d876e3",
+    "default": true,
+    "description": "Further information is requested"
+  },
+  {
+    "id": 1015832140,
+    "node_id": "MDU6TGFiZWwxMDE1ODMyMTQw",
+    "url": "https://api.github.com/repos/getsentry/vscode-sentry/labels/wontfix",
+    "name": "wontfix",
+    "color": "ffffff",
+    "default": true,
+    "description": "This will not be worked on"
+  }
+]

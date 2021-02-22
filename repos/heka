@@ -1,0 +1,65 @@
+[
+  {
+    "id": 365289558,
+    "node_id": "MDU6TGFiZWwzNjUyODk1NTg=",
+    "url": "https://api.github.com/repos/getsentry/heka/labels/bug",
+    "name": "bug",
+    "color": "ee0701",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 365289559,
+    "node_id": "MDU6TGFiZWwzNjUyODk1NTk=",
+    "url": "https://api.github.com/repos/getsentry/heka/labels/duplicate",
+    "name": "duplicate",
+    "color": "cccccc",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 365289560,
+    "node_id": "MDU6TGFiZWwzNjUyODk1NjA=",
+    "url": "https://api.github.com/repos/getsentry/heka/labels/enhancement",
+    "name": "enhancement",
+    "color": "84b6eb",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 365289561,
+    "node_id": "MDU6TGFiZWwzNjUyODk1NjE=",
+    "url": "https://api.github.com/repos/getsentry/heka/labels/help%20wanted",
+    "name": "help wanted",
+    "color": "128A0C",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 365289562,
+    "node_id": "MDU6TGFiZWwzNjUyODk1NjI=",
+    "url": "https://api.github.com/repos/getsentry/heka/labels/invalid",
+    "name": "invalid",
+    "color": "e6e6e6",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 365289563,
+    "node_id": "MDU6TGFiZWwzNjUyODk1NjM=",
+    "url": "https://api.github.com/repos/getsentry/heka/labels/question",
+    "name": "question",
+    "color": "cc317c",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 365289564,
+    "node_id": "MDU6TGFiZWwzNjUyODk1NjQ=",
+    "url": "https://api.github.com/repos/getsentry/heka/labels/wontfix",
+    "name": "wontfix",
+    "color": "ffffff",
+    "default": true,
+    "description": null
+  }
+]

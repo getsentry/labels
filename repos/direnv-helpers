@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1158332944,
+    "node_id": "MDU6TGFiZWwxMTU4MzMyOTQ0",
+    "url": "https://api.github.com/repos/getsentry/direnv-helpers/labels/bug",
+    "name": "bug",
+    "color": "d73a4a",
+    "default": true,
+    "description": "Something isn't working"
+  },
+  {
+    "id": 1158332946,
+    "node_id": "MDU6TGFiZWwxMTU4MzMyOTQ2",
+    "url": "https://api.github.com/repos/getsentry/direnv-helpers/labels/duplicate",
+    "name": "duplicate",
+    "color": "cfd3d7",
+    "default": true,
+    "description": "This issue or pull request already exists"
+  },
+  {
+    "id": 1158332947,
+    "node_id": "MDU6TGFiZWwxMTU4MzMyOTQ3",
+    "url": "https://api.github.com/repos/getsentry/direnv-helpers/labels/enhancement",
+    "name": "enhancement",
+    "color": "a2eeef",
+    "default": true,
+    "description": "New feature or request"
+  },
+  {
+    "id": 1158332951,
+    "node_id": "MDU6TGFiZWwxMTU4MzMyOTUx",
+    "url": "https://api.github.com/repos/getsentry/direnv-helpers/labels/good%20first%20issue",
+    "name": "good first issue",
+    "color": "7057ff",
+    "default": true,
+    "description": "Good for newcomers"
+  },
+  {
+    "id": 1158332948,
+    "node_id": "MDU6TGFiZWwxMTU4MzMyOTQ4",
+    "url": "https://api.github.com/repos/getsentry/direnv-helpers/labels/help%20wanted",
+    "name": "help wanted",
+    "color": "008672",
+    "default": true,
+    "description": "Extra attention is needed"
+  },
+  {
+    "id": 1158332954,
+    "node_id": "MDU6TGFiZWwxMTU4MzMyOTU0",
+    "url": "https://api.github.com/repos/getsentry/direnv-helpers/labels/invalid",
+    "name": "invalid",
+    "color": "e4e669",
+    "default": true,
+    "description": "This doesn't seem right"
+  },
+  {
+    "id": 1158332955,
+    "node_id": "MDU6TGFiZWwxMTU4MzMyOTU1",
+    "url": "https://api.github.com/repos/getsentry/direnv-helpers/labels/question",
+    "name": "question",
+    "color": "d876e3",
+    "default": true,
+    "description": "Further information is requested"
+  },
+  {
+    "id": 1158332958,
+    "node_id": "MDU6TGFiZWwxMTU4MzMyOTU4",
+    "url": "https://api.github.com/repos/getsentry/direnv-helpers/labels/wontfix",
+    "name": "wontfix",
+    "color": "ffffff",
+    "default": true,
+    "description": "This will not be worked on"
+  }
+]

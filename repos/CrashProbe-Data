@@ -1,0 +1,65 @@
+[
+  {
+    "id": 562226778,
+    "node_id": "MDU6TGFiZWw1NjIyMjY3Nzg=",
+    "url": "https://api.github.com/repos/getsentry/CrashProbe-Data/labels/bug",
+    "name": "bug",
+    "color": "ee0701",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 562226779,
+    "node_id": "MDU6TGFiZWw1NjIyMjY3Nzk=",
+    "url": "https://api.github.com/repos/getsentry/CrashProbe-Data/labels/duplicate",
+    "name": "duplicate",
+    "color": "cccccc",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 562226780,
+    "node_id": "MDU6TGFiZWw1NjIyMjY3ODA=",
+    "url": "https://api.github.com/repos/getsentry/CrashProbe-Data/labels/enhancement",
+    "name": "enhancement",
+    "color": "84b6eb",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 562226781,
+    "node_id": "MDU6TGFiZWw1NjIyMjY3ODE=",
+    "url": "https://api.github.com/repos/getsentry/CrashProbe-Data/labels/help%20wanted",
+    "name": "help wanted",
+    "color": "128A0C",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 562226782,
+    "node_id": "MDU6TGFiZWw1NjIyMjY3ODI=",
+    "url": "https://api.github.com/repos/getsentry/CrashProbe-Data/labels/invalid",
+    "name": "invalid",
+    "color": "e6e6e6",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 562226783,
+    "node_id": "MDU6TGFiZWw1NjIyMjY3ODM=",
+    "url": "https://api.github.com/repos/getsentry/CrashProbe-Data/labels/question",
+    "name": "question",
+    "color": "cc317c",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 562226784,
+    "node_id": "MDU6TGFiZWw1NjIyMjY3ODQ=",
+    "url": "https://api.github.com/repos/getsentry/CrashProbe-Data/labels/wontfix",
+    "name": "wontfix",
+    "color": "ffffff",
+    "default": true,
+    "description": null
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "id": 364262110,
+    "node_id": "MDU6TGFiZWwzNjQyNjIxMTA=",
+    "url": "https://api.github.com/repos/getsentry/sentry-laravel/labels/bug",
+    "name": "bug",
+    "color": "ee0701",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 1651733054,
+    "node_id": "MDU6TGFiZWwxNjUxNzMzMDU0",
+    "url": "https://api.github.com/repos/getsentry/sentry-laravel/labels/dependencies",
+    "name": "dependencies",
+    "color": "0366d6",
+    "default": false,
+    "description": "Pull requests that update a dependency file"
+  },
+  {
+    "id": 364262111,
+    "node_id": "MDU6TGFiZWwzNjQyNjIxMTE=",
+    "url": "https://api.github.com/repos/getsentry/sentry-laravel/labels/duplicate",
+    "name": "duplicate",
+    "color": "cccccc",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 364262112,
+    "node_id": "MDU6TGFiZWwzNjQyNjIxMTI=",
+    "url": "https://api.github.com/repos/getsentry/sentry-laravel/labels/enhancement",
+    "name": "enhancement",
+    "color": "84b6eb",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 922491347,
+    "node_id": "MDU6TGFiZWw5MjI0OTEzNDc=",
+    "url": "https://api.github.com/repos/getsentry/sentry-laravel/labels/feature%20request",
+    "name": "feature request",
+    "color": "1d76db",
+    "default": false,
+    "description": ""
+  },
+  {
+    "id": 364262113,
+    "node_id": "MDU6TGFiZWwzNjQyNjIxMTM=",
+    "url": "https://api.github.com/repos/getsentry/sentry-laravel/labels/help%20wanted",
+    "name": "help wanted",
+    "color": "128A0C",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 364262114,
+    "node_id": "MDU6TGFiZWwzNjQyNjIxMTQ=",
+    "url": "https://api.github.com/repos/getsentry/sentry-laravel/labels/invalid",
+    "name": "invalid",
+    "color": "e6e6e6",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 364262115,
+    "node_id": "MDU6TGFiZWwzNjQyNjIxMTU=",
+    "url": "https://api.github.com/repos/getsentry/sentry-laravel/labels/question",
+    "name": "question",
+    "color": "cc317c",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 922636664,
+    "node_id": "MDU6TGFiZWw5MjI2MzY2NjQ=",
+    "url": "https://api.github.com/repos/getsentry/sentry-laravel/labels/support",
+    "name": "support",
+    "color": "f9ec86",
+    "default": false,
+    "description": ""
+  },
+  {
+    "id": 364262116,
+    "node_id": "MDU6TGFiZWwzNjQyNjIxMTY=",
+    "url": "https://api.github.com/repos/getsentry/sentry-laravel/labels/wontfix",
+    "name": "wontfix",
+    "color": "ffffff",
+    "default": true,
+    "description": null
+  }
+]

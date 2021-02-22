@@ -1,0 +1,92 @@
+[
+  {
+    "id": 2066197787,
+    "node_id": "MDU6TGFiZWwyMDY2MTk3Nzg3",
+    "url": "https://api.github.com/repos/getsentry/sentry-netlify-build-plugin/labels/bug",
+    "name": "bug",
+    "color": "d73a4a",
+    "default": true,
+    "description": "Something isn't working"
+  },
+  {
+    "id": 2211589802,
+    "node_id": "MDU6TGFiZWwyMjExNTg5ODAy",
+    "url": "https://api.github.com/repos/getsentry/sentry-netlify-build-plugin/labels/dependencies",
+    "name": "dependencies",
+    "color": "0366d6",
+    "default": false,
+    "description": "Pull requests that update a dependency file"
+  },
+  {
+    "id": 2066197789,
+    "node_id": "MDU6TGFiZWwyMDY2MTk3Nzg5",
+    "url": "https://api.github.com/repos/getsentry/sentry-netlify-build-plugin/labels/documentation",
+    "name": "documentation",
+    "color": "0075ca",
+    "default": true,
+    "description": "Improvements or additions to documentation"
+  },
+  {
+    "id": 2066197791,
+    "node_id": "MDU6TGFiZWwyMDY2MTk3Nzkx",
+    "url": "https://api.github.com/repos/getsentry/sentry-netlify-build-plugin/labels/duplicate",
+    "name": "duplicate",
+    "color": "cfd3d7",
+    "default": true,
+    "description": "This issue or pull request already exists"
+  },
+  {
+    "id": 2066197792,
+    "node_id": "MDU6TGFiZWwyMDY2MTk3Nzky",
+    "url": "https://api.github.com/repos/getsentry/sentry-netlify-build-plugin/labels/enhancement",
+    "name": "enhancement",
+    "color": "a2eeef",
+    "default": true,
+    "description": "New feature or request"
+  },
+  {
+    "id": 2066197794,
+    "node_id": "MDU6TGFiZWwyMDY2MTk3Nzk0",
+    "url": "https://api.github.com/repos/getsentry/sentry-netlify-build-plugin/labels/good%20first%20issue",
+    "name": "good first issue",
+    "color": "7057ff",
+    "default": true,
+    "description": "Good for newcomers"
+  },
+  {
+    "id": 2066197796,
+    "node_id": "MDU6TGFiZWwyMDY2MTk3Nzk2",
+    "url": "https://api.github.com/repos/getsentry/sentry-netlify-build-plugin/labels/help%20wanted",
+    "name": "help wanted",
+    "color": "008672",
+    "default": true,
+    "description": "Extra attention is needed"
+  },
+  {
+    "id": 2066197798,
+    "node_id": "MDU6TGFiZWwyMDY2MTk3Nzk4",
+    "url": "https://api.github.com/repos/getsentry/sentry-netlify-build-plugin/labels/invalid",
+    "name": "invalid",
+    "color": "e4e669",
+    "default": true,
+    "description": "This doesn't seem right"
+  },
+  {
+    "id": 2066197799,
+    "node_id": "MDU6TGFiZWwyMDY2MTk3Nzk5",
+    "url": "https://api.github.com/repos/getsentry/sentry-netlify-build-plugin/labels/question",
+    "name": "question",
+    "color": "d876e3",
+    "default": true,
+    "description": "Further information is requested"
+  },
+  {
+    "id": 2066197800,
+    "node_id": "MDU6TGFiZWwyMDY2MTk3ODAw",
+    "url": "https://api.github.com/repos/getsentry/sentry-netlify-build-plugin/labels/wontfix",
+    "name": "wontfix",
+    "color": "ffffff",
+    "default": true,
+    "description": "This will not be worked on"
+  }
+]

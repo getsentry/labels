@@ -1,0 +1,137 @@
+[
+  {
+    "id": 1212882950,
+    "node_id": "MDU6TGFiZWwxMjEyODgyOTUw",
+    "url": "https://api.github.com/repos/getsentry/raven-go/labels/Misc:%20Help%20Wanted",
+    "name": "Misc: Help Wanted",
+    "color": "8ceaa5",
+    "default": false,
+    "description": null
+  },
+  {
+    "id": 1212882948,
+    "node_id": "MDU6TGFiZWwxMjEyODgyOTQ4",
+    "url": "https://api.github.com/repos/getsentry/raven-go/labels/Misc:%20Report%20Dialog",
+    "name": "Misc: Report Dialog",
+    "color": "ffcced",
+    "default": false,
+    "description": null
+  },
+  {
+    "id": 1212882956,
+    "node_id": "MDU6TGFiZWwxMjEyODgyOTU2",
+    "url": "https://api.github.com/repos/getsentry/raven-go/labels/Status:%20Blocked",
+    "name": "Status: Blocked",
+    "color": "b60205",
+    "default": false,
+    "description": null
+  },
+  {
+    "id": 1212882960,
+    "node_id": "MDU6TGFiZWwxMjEyODgyOTYw",
+    "url": "https://api.github.com/repos/getsentry/raven-go/labels/Status:%20Confirmed",
+    "name": "Status: Confirmed",
+    "color": "0e8a16",
+    "default": false,
+    "description": null
+  },
+  {
+    "id": 1212882952,
+    "node_id": "MDU6TGFiZWwxMjEyODgyOTUy",
+    "url": "https://api.github.com/repos/getsentry/raven-go/labels/Status:%20In%20Progress",
+    "name": "Status: In Progress",
+    "color": "c8b0f4",
+    "default": false,
+    "description": null
+  },
+  {
+    "id": 1212882967,
+    "node_id": "MDU6TGFiZWwxMjEyODgyOTY3",
+    "url": "https://api.github.com/repos/getsentry/raven-go/labels/Status:%20Needs%20Information",
+    "name": "Status: Needs Information",
+    "color": "81d2e2",
+    "default": false,
+    "description": null
+  },
+  {
+    "id": 1212882951,
+    "node_id": "MDU6TGFiZWwxMjEyODgyOTUx",
+    "url": "https://api.github.com/repos/getsentry/raven-go/labels/Status:%20Needs%20Reproduction",
+    "name": "Status: Needs Reproduction",
+    "color": "fc918f",
+    "default": false,
+    "description": null
+  },
+  {
+    "id": 1212882949,
+    "node_id": "MDU6TGFiZWwxMjEyODgyOTQ5",
+    "url": "https://api.github.com/repos/getsentry/raven-go/labels/Status:%20Needs%20Triage",
+    "name": "Status: Needs Triage",
+    "color": "000000",
+    "default": false,
+    "description": null
+  },
+  {
+    "id": 1212882955,
+    "node_id": "MDU6TGFiZWwxMjEyODgyOTU1",
+    "url": "https://api.github.com/repos/getsentry/raven-go/labels/Type:%20Breaking",
+    "name": "Type: Breaking",
+    "color": "fbca04",
+    "default": false,
+    "description": null
+  },
+  {
+    "id": 1212882957,
+    "node_id": "MDU6TGFiZWwxMjEyODgyOTU3",
+    "url": "https://api.github.com/repos/getsentry/raven-go/labels/Type:%20Bug",
+    "name": "Type: Bug",
+    "color": "ee0701",
+    "default": false,
+    "description": null
+  },
+  {
+    "id": 1212882954,
+    "node_id": "MDU6TGFiZWwxMjEyODgyOTU0",
+    "url": "https://api.github.com/repos/getsentry/raven-go/labels/Type:%20Discussion",
+    "name": "Type: Discussion",
+    "color": "c9e0ff",
+    "default": false,
+    "description": null
+  },
+  {
+    "id": 1212882958,
+    "node_id": "MDU6TGFiZWwxMjEyODgyOTU4",
+    "url": "https://api.github.com/repos/getsentry/raven-go/labels/Type:%20Documentation",
+    "name": "Type: Documentation",
+    "color": "84b6eb",
+    "default": false,
+    "description": null
+  },
+  {
+    "id": 1212882961,
+    "node_id": "MDU6TGFiZWwxMjEyODgyOTYx",
+    "url": "https://api.github.com/repos/getsentry/raven-go/labels/Type:%20Feature",
+    "name": "Type: Feature",
+    "color": "dbf477",
+    "default": false,
+    "description": null
+  },
+  {
+    "id": 1212882953,
+    "node_id": "MDU6TGFiZWwxMjEyODgyOTUz",
+    "url": "https://api.github.com/repos/getsentry/raven-go/labels/Type:%20Improvement",
+    "name": "Type: Improvement",
+    "color": "65f2be",
+    "default": false,
+    "description": null
+  },
+  {
+    "id": 1212882959,
+    "node_id": "MDU6TGFiZWwxMjEyODgyOTU5",
+    "url": "https://api.github.com/repos/getsentry/raven-go/labels/Type:%20Question",
+    "name": "Type: Question",
+    "color": "074168",
+    "default": false,
+    "description": null
+  }
+]

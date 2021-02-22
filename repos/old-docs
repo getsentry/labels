@@ -1,0 +1,74 @@
+[
+  {
+    "id": 843459399,
+    "node_id": "MDU6TGFiZWw4NDM0NTkzOTk=",
+    "url": "https://api.github.com/repos/getsentry/old-docs/labels/bug",
+    "name": "bug",
+    "color": "d73a4a",
+    "default": true,
+    "description": "Something isn't working"
+  },
+  {
+    "id": 843459400,
+    "node_id": "MDU6TGFiZWw4NDM0NTk0MDA=",
+    "url": "https://api.github.com/repos/getsentry/old-docs/labels/duplicate",
+    "name": "duplicate",
+    "color": "cfd3d7",
+    "default": true,
+    "description": "This issue or pull request already exists"
+  },
+  {
+    "id": 843459401,
+    "node_id": "MDU6TGFiZWw4NDM0NTk0MDE=",
+    "url": "https://api.github.com/repos/getsentry/old-docs/labels/enhancement",
+    "name": "enhancement",
+    "color": "a2eeef",
+    "default": true,
+    "description": "New feature or request"
+  },
+  {
+    "id": 843459403,
+    "node_id": "MDU6TGFiZWw4NDM0NTk0MDM=",
+    "url": "https://api.github.com/repos/getsentry/old-docs/labels/good%20first%20issue",
+    "name": "good first issue",
+    "color": "7057ff",
+    "default": true,
+    "description": "Good for newcomers"
+  },
+  {
+    "id": 843459402,
+    "node_id": "MDU6TGFiZWw4NDM0NTk0MDI=",
+    "url": "https://api.github.com/repos/getsentry/old-docs/labels/help%20wanted",
+    "name": "help wanted",
+    "color": "008672",
+    "default": true,
+    "description": "Extra attention is needed"
+  },
+  {
+    "id": 843459404,
+    "node_id": "MDU6TGFiZWw4NDM0NTk0MDQ=",
+    "url": "https://api.github.com/repos/getsentry/old-docs/labels/invalid",
+    "name": "invalid",
+    "color": "e4e669",
+    "default": true,
+    "description": "This doesn't seem right"
+  },
+  {
+    "id": 843459405,
+    "node_id": "MDU6TGFiZWw4NDM0NTk0MDU=",
+    "url": "https://api.github.com/repos/getsentry/old-docs/labels/question",
+    "name": "question",
+    "color": "d876e3",
+    "default": true,
+    "description": "Further information is requested"
+  },
+  {
+    "id": 843459406,
+    "node_id": "MDU6TGFiZWw4NDM0NTk0MDY=",
+    "url": "https://api.github.com/repos/getsentry/old-docs/labels/wontfix",
+    "name": "wontfix",
+    "color": "ffffff",
+    "default": true,
+    "description": "This will not be worked on"
+  }
+]

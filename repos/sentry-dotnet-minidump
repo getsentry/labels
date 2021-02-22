@@ -1,0 +1,92 @@
+[
+  {
+    "id": 2614734800,
+    "node_id": "MDU6TGFiZWwyNjE0NzM0ODAw",
+    "url": "https://api.github.com/repos/getsentry/sentry-dotnet-minidump/labels/bug",
+    "name": "bug",
+    "color": "d73a4a",
+    "default": true,
+    "description": "Something isn't working"
+  },
+  {
+    "id": 2614734803,
+    "node_id": "MDU6TGFiZWwyNjE0NzM0ODAz",
+    "url": "https://api.github.com/repos/getsentry/sentry-dotnet-minidump/labels/documentation",
+    "name": "documentation",
+    "color": "0075ca",
+    "default": true,
+    "description": "Improvements or additions to documentation"
+  },
+  {
+    "id": 2614734804,
+    "node_id": "MDU6TGFiZWwyNjE0NzM0ODA0",
+    "url": "https://api.github.com/repos/getsentry/sentry-dotnet-minidump/labels/duplicate",
+    "name": "duplicate",
+    "color": "cfd3d7",
+    "default": true,
+    "description": "This issue or pull request already exists"
+  },
+  {
+    "id": 2614734805,
+    "node_id": "MDU6TGFiZWwyNjE0NzM0ODA1",
+    "url": "https://api.github.com/repos/getsentry/sentry-dotnet-minidump/labels/enhancement",
+    "name": "enhancement",
+    "color": "a2eeef",
+    "default": true,
+    "description": "New feature or request"
+  },
+  {
+    "id": 2614734806,
+    "node_id": "MDU6TGFiZWwyNjE0NzM0ODA2",
+    "url": "https://api.github.com/repos/getsentry/sentry-dotnet-minidump/labels/good%20first%20issue",
+    "name": "good first issue",
+    "color": "7057ff",
+    "default": true,
+    "description": "Good for newcomers"
+  },
+  {
+    "id": 2614734807,
+    "node_id": "MDU6TGFiZWwyNjE0NzM0ODA3",
+    "url": "https://api.github.com/repos/getsentry/sentry-dotnet-minidump/labels/help%20wanted",
+    "name": "help wanted",
+    "color": "008672",
+    "default": true,
+    "description": "Extra attention is needed"
+  },
+  {
+    "id": 2614734808,
+    "node_id": "MDU6TGFiZWwyNjE0NzM0ODA4",
+    "url": "https://api.github.com/repos/getsentry/sentry-dotnet-minidump/labels/invalid",
+    "name": "invalid",
+    "color": "e4e669",
+    "default": true,
+    "description": "This doesn't seem right"
+  },
+  {
+    "id": 2614734809,
+    "node_id": "MDU6TGFiZWwyNjE0NzM0ODA5",
+    "url": "https://api.github.com/repos/getsentry/sentry-dotnet-minidump/labels/question",
+    "name": "question",
+    "color": "d876e3",
+    "default": true,
+    "description": "Further information is requested"
+  },
+  {
+    "id": 2614734810,
+    "node_id": "MDU6TGFiZWwyNjE0NzM0ODEw",
+    "url": "https://api.github.com/repos/getsentry/sentry-dotnet-minidump/labels/up-for-grabs",
+    "name": "up-for-grabs",
+    "color": "02B620",
+    "default": false,
+    "description": "A free for all!"
+  },
+  {
+    "id": 2614734811,
+    "node_id": "MDU6TGFiZWwyNjE0NzM0ODEx",
+    "url": "https://api.github.com/repos/getsentry/sentry-dotnet-minidump/labels/wontfix",
+    "name": "wontfix",
+    "color": "ffffff",
+    "default": true,
+    "description": "This will not be worked on"
+  }
+]

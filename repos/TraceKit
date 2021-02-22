@@ -1,0 +1,56 @@
+[
+  {
+    "id": 24478572,
+    "node_id": "MDU6TGFiZWwyNDQ3ODU3Mg==",
+    "url": "https://api.github.com/repos/getsentry/TraceKit/labels/bug",
+    "name": "bug",
+    "color": "fc2929",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 24478573,
+    "node_id": "MDU6TGFiZWwyNDQ3ODU3Mw==",
+    "url": "https://api.github.com/repos/getsentry/TraceKit/labels/duplicate",
+    "name": "duplicate",
+    "color": "cccccc",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 24478574,
+    "node_id": "MDU6TGFiZWwyNDQ3ODU3NA==",
+    "url": "https://api.github.com/repos/getsentry/TraceKit/labels/enhancement",
+    "name": "enhancement",
+    "color": "84b6eb",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 24478575,
+    "node_id": "MDU6TGFiZWwyNDQ3ODU3NQ==",
+    "url": "https://api.github.com/repos/getsentry/TraceKit/labels/invalid",
+    "name": "invalid",
+    "color": "e6e6e6",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 24478576,
+    "node_id": "MDU6TGFiZWwyNDQ3ODU3Ng==",
+    "url": "https://api.github.com/repos/getsentry/TraceKit/labels/question",
+    "name": "question",
+    "color": "cc317c",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 24478577,
+    "node_id": "MDU6TGFiZWwyNDQ3ODU3Nw==",
+    "url": "https://api.github.com/repos/getsentry/TraceKit/labels/wontfix",
+    "name": "wontfix",
+    "color": "ffffff",
+    "default": true,
+    "description": null
+  }
+]

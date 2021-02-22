@@ -1,0 +1,56 @@
+[
+  {
+    "id": 40007701,
+    "node_id": "MDU6TGFiZWw0MDAwNzcwMQ==",
+    "url": "https://api.github.com/repos/getsentry/disqus-postgres/labels/bug",
+    "name": "bug",
+    "color": "fc2929",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 40007702,
+    "node_id": "MDU6TGFiZWw0MDAwNzcwMg==",
+    "url": "https://api.github.com/repos/getsentry/disqus-postgres/labels/duplicate",
+    "name": "duplicate",
+    "color": "cccccc",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 40007703,
+    "node_id": "MDU6TGFiZWw0MDAwNzcwMw==",
+    "url": "https://api.github.com/repos/getsentry/disqus-postgres/labels/enhancement",
+    "name": "enhancement",
+    "color": "84b6eb",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 40007704,
+    "node_id": "MDU6TGFiZWw0MDAwNzcwNA==",
+    "url": "https://api.github.com/repos/getsentry/disqus-postgres/labels/invalid",
+    "name": "invalid",
+    "color": "e6e6e6",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 40007705,
+    "node_id": "MDU6TGFiZWw0MDAwNzcwNQ==",
+    "url": "https://api.github.com/repos/getsentry/disqus-postgres/labels/question",
+    "name": "question",
+    "color": "cc317c",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 40007706,
+    "node_id": "MDU6TGFiZWw0MDAwNzcwNg==",
+    "url": "https://api.github.com/repos/getsentry/disqus-postgres/labels/wontfix",
+    "name": "wontfix",
+    "color": "ffffff",
+    "default": true,
+    "description": null
+  }
+]

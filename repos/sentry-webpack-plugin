@@ -1,0 +1,128 @@
+[
+  {
+    "id": 1070228523,
+    "node_id": "MDU6TGFiZWwxMDcwMjI4NTIz",
+    "url": "https://api.github.com/repos/getsentry/sentry-webpack-plugin/labels/Misc:%20Help%20Wanted",
+    "name": "Misc: Help Wanted",
+    "color": "21efae",
+    "default": false,
+    "description": ""
+  },
+  {
+    "id": 1070228400,
+    "node_id": "MDU6TGFiZWwxMDcwMjI4NDAw",
+    "url": "https://api.github.com/repos/getsentry/sentry-webpack-plugin/labels/Status:%20Blocked",
+    "name": "Status: Blocked",
+    "color": "b7501d",
+    "default": false,
+    "description": ""
+  },
+  {
+    "id": 1070228311,
+    "node_id": "MDU6TGFiZWwxMDcwMjI4MzEx",
+    "url": "https://api.github.com/repos/getsentry/sentry-webpack-plugin/labels/Status:%20Confirmed",
+    "name": "Status: Confirmed",
+    "color": "798900",
+    "default": false,
+    "description": ""
+  },
+  {
+    "id": 1070228205,
+    "node_id": "MDU6TGFiZWwxMDcwMjI4MjA1",
+    "url": "https://api.github.com/repos/getsentry/sentry-webpack-plugin/labels/Status:%20In%20Progress",
+    "name": "Status: In Progress",
+    "color": "efa7c6",
+    "default": false,
+    "description": ""
+  },
+  {
+    "id": 1070228156,
+    "node_id": "MDU6TGFiZWwxMDcwMjI4MTU2",
+    "url": "https://api.github.com/repos/getsentry/sentry-webpack-plugin/labels/Status:%20Needs%20Information",
+    "name": "Status: Needs Information",
+    "color": "ffe049",
+    "default": false,
+    "description": ""
+  },
+  {
+    "id": 1070228066,
+    "node_id": "MDU6TGFiZWwxMDcwMjI4MDY2",
+    "url": "https://api.github.com/repos/getsentry/sentry-webpack-plugin/labels/Status:%20Needs%20Reproduction",
+    "name": "Status: Needs Reproduction",
+    "color": "96b530",
+    "default": false,
+    "description": ""
+  },
+  {
+    "id": 1070227908,
+    "node_id": "MDU6TGFiZWwxMDcwMjI3OTA4",
+    "url": "https://api.github.com/repos/getsentry/sentry-webpack-plugin/labels/Status:%20Needs%20Triage",
+    "name": "Status: Needs Triage",
+    "color": "a2d31b",
+    "default": false,
+    "description": ""
+  },
+  {
+    "id": 1070227868,
+    "node_id": "MDU6TGFiZWwxMDcwMjI3ODY4",
+    "url": "https://api.github.com/repos/getsentry/sentry-webpack-plugin/labels/Type:%20Breaking",
+    "name": "Type: Breaking",
+    "color": "8553ba",
+    "default": false,
+    "description": ""
+  },
+  {
+    "id": 1070227701,
+    "node_id": "MDU6TGFiZWwxMDcwMjI3NzAx",
+    "url": "https://api.github.com/repos/getsentry/sentry-webpack-plugin/labels/Type:%20Bug",
+    "name": "Type: Bug",
+    "color": "baffb2",
+    "default": false,
+    "description": ""
+  },
+  {
+    "id": 1070227635,
+    "node_id": "MDU6TGFiZWwxMDcwMjI3NjM1",
+    "url": "https://api.github.com/repos/getsentry/sentry-webpack-plugin/labels/Type:%20Discussion",
+    "name": "Type: Discussion",
+    "color": "e68af2",
+    "default": false,
+    "description": ""
+  },
+  {
+    "id": 1070227505,
+    "node_id": "MDU6TGFiZWwxMDcwMjI3NTA1",
+    "url": "https://api.github.com/repos/getsentry/sentry-webpack-plugin/labels/Type:%20Documentation",
+    "name": "Type: Documentation",
+    "color": "dec9ff",
+    "default": false,
+    "description": ""
+  },
+  {
+    "id": 710387978,
+    "node_id": "MDU6TGFiZWw3MTAzODc5Nzg=",
+    "url": "https://api.github.com/repos/getsentry/sentry-webpack-plugin/labels/Type:%20Feature",
+    "name": "Type: Feature",
+    "color": "84b6eb",
+    "default": false,
+    "description": ""
+  },
+  {
+    "id": 1070227434,
+    "node_id": "MDU6TGFiZWwxMDcwMjI3NDM0",
+    "url": "https://api.github.com/repos/getsentry/sentry-webpack-plugin/labels/Type:%20Improvement",
+    "name": "Type: Improvement",
+    "color": "0052cc",
+    "default": false,
+    "description": ""
+  },
+  {
+    "id": 1858145876,
+    "node_id": "MDU6TGFiZWwxODU4MTQ1ODc2",
+    "url": "https://api.github.com/repos/getsentry/sentry-webpack-plugin/labels/dependencies",
+    "name": "dependencies",
+    "color": "0366d6",
+    "default": false,
+    "description": "Pull requests that update a dependency file"
+  }
+]

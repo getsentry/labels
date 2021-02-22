@@ -1,0 +1,236 @@
+[
+  {
+    "id": 1036529431,
+    "node_id": "MDU6TGFiZWwxMDM2NTI5NDMx",
+    "url": "https://api.github.com/repos/getsentry/sentry-react-native/labels/:star2:%20@sentry/react-native",
+    "name": ":star2: @sentry/react-native",
+    "color": "58e1fc",
+    "default": false,
+    "description": ""
+  },
+  {
+    "id": 925174882,
+    "node_id": "MDU6TGFiZWw5MjUxNzQ4ODI=",
+    "url": "https://api.github.com/repos/getsentry/sentry-react-native/labels/CocoaPods",
+    "name": "CocoaPods",
+    "color": "d4c5f9",
+    "default": false,
+    "description": ""
+  },
+  {
+    "id": 621478206,
+    "node_id": "MDU6TGFiZWw2MjE0NzgyMDY=",
+    "url": "https://api.github.com/repos/getsentry/sentry-react-native/labels/Platform:%20Android",
+    "name": "Platform: Android",
+    "color": "a4c639",
+    "default": false,
+    "description": ""
+  },
+  {
+    "id": 622284758,
+    "node_id": "MDU6TGFiZWw2MjIyODQ3NTg=",
+    "url": "https://api.github.com/repos/getsentry/sentry-react-native/labels/Platform:%20CLI",
+    "name": "Platform: CLI",
+    "color": "006b75",
+    "default": false,
+    "description": ""
+  },
+  {
+    "id": 2631818048,
+    "node_id": "MDU6TGFiZWwyNjMxODE4MDQ4",
+    "url": "https://api.github.com/repos/getsentry/sentry-react-native/labels/Platform:%20Docs",
+    "name": "Platform: Docs",
+    "color": "3D61F7",
+    "default": false,
+    "description": "Regarding the documentation"
+  },
+  {
+    "id": 621478107,
+    "node_id": "MDU6TGFiZWw2MjE0NzgxMDc=",
+    "url": "https://api.github.com/repos/getsentry/sentry-react-native/labels/Platform:%20iOS/Mac",
+    "name": "Platform: iOS/Mac",
+    "color": "bfd4f2",
+    "default": false,
+    "description": ""
+  },
+  {
+    "id": 2436951831,
+    "node_id": "MDU6TGFiZWwyNDM2OTUxODMx",
+    "url": "https://api.github.com/repos/getsentry/sentry-react-native/labels/Status:%20Awaiting%20Fix",
+    "name": "Status: Awaiting Fix",
+    "color": "ea8c97",
+    "default": false,
+    "description": ""
+  },
+  {
+    "id": 2436956578,
+    "node_id": "MDU6TGFiZWwyNDM2OTU2NTc4",
+    "url": "https://api.github.com/repos/getsentry/sentry-react-native/labels/Status:%20Awaiting%20Response",
+    "name": "Status: Awaiting Response",
+    "color": "f7eca5",
+    "default": false,
+    "description": "Someone from our team has replied, waiting for user response"
+  },
+  {
+    "id": 2435056266,
+    "node_id": "MDU6TGFiZWwyNDM1MDU2MjY2",
+    "url": "https://api.github.com/repos/getsentry/sentry-react-native/labels/Status:%20Investigating",
+    "name": "Status: Investigating",
+    "color": "2e41a0",
+    "default": false,
+    "description": ""
+  },
+  {
+    "id": 2436959949,
+    "node_id": "MDU6TGFiZWwyNDM2OTU5OTQ5",
+    "url": "https://api.github.com/repos/getsentry/sentry-react-native/labels/Status:%20Needs%20Triage",
+    "name": "Status: Needs Triage",
+    "color": "000000",
+    "default": false,
+    "description": ""
+  },
+  {
+    "id": 491764501,
+    "node_id": "MDU6TGFiZWw0OTE3NjQ1MDE=",
+    "url": "https://api.github.com/repos/getsentry/sentry-react-native/labels/Type:%20:beetle:%20Bug",
+    "name": "Type: :beetle: Bug",
+    "color": "ed9d5c",
+    "default": false,
+    "description": ""
+  },
+  {
+    "id": 491764506,
+    "node_id": "MDU6TGFiZWw0OTE3NjQ1MDY=",
+    "url": "https://api.github.com/repos/getsentry/sentry-react-native/labels/Type:%20Feature%20Request",
+    "name": "Type: Feature Request",
+    "color": "3850c4",
+    "default": false,
+    "description": ""
+  },
+  {
+    "id": 2436953800,
+    "node_id": "MDU6TGFiZWwyNDM2OTUzODAw",
+    "url": "https://api.github.com/repos/getsentry/sentry-react-native/labels/Type:%20Support%20Issue",
+    "name": "Type: Support Issue",
+    "color": "bfffb2",
+    "default": false,
+    "description": ""
+  },
+  {
+    "id": 2135727692,
+    "node_id": "MDU6TGFiZWwyMTM1NzI3Njky",
+    "url": "https://api.github.com/repos/getsentry/sentry-react-native/labels/code-push",
+    "name": "code-push",
+    "color": "006b75",
+    "default": false,
+    "description": "uses microsoft code-push"
+  },
+  {
+    "id": 1909687864,
+    "node_id": "MDU6TGFiZWwxOTA5Njg3ODY0",
+    "url": "https://api.github.com/repos/getsentry/sentry-react-native/labels/dependencies",
+    "name": "dependencies",
+    "color": "0366d6",
+    "default": false,
+    "description": "Pull requests that update a dependency file"
+  },
+  {
+    "id": 491764504,
+    "node_id": "MDU6TGFiZWw0OTE3NjQ1MDQ=",
+    "url": "https://api.github.com/repos/getsentry/sentry-react-native/labels/duplicate",
+    "name": "duplicate",
+    "color": "cccccc",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 621479290,
+    "node_id": "MDU6TGFiZWw2MjE0NzkyOTA=",
+    "url": "https://api.github.com/repos/getsentry/sentry-react-native/labels/general",
+    "name": "general",
+    "color": "d4c5f9",
+    "default": false,
+    "description": null
+  },
+  {
+    "id": 622284673,
+    "node_id": "MDU6TGFiZWw2MjIyODQ2NzM=",
+    "url": "https://api.github.com/repos/getsentry/sentry-react-native/labels/gradle",
+    "name": "gradle",
+    "color": "bfdadc",
+    "default": false,
+    "description": null
+  },
+  {
+    "id": 2456442879,
+    "node_id": "MDU6TGFiZWwyNDU2NDQyODc5",
+    "url": "https://api.github.com/repos/getsentry/sentry-react-native/labels/hacktoberfest-accepted",
+    "name": "hacktoberfest-accepted",
+    "color": "f26093",
+    "default": false,
+    "description": ""
+  },
+  {
+    "id": 2101919736,
+    "node_id": "MDU6TGFiZWwyMTAxOTE5NzM2",
+    "url": "https://api.github.com/repos/getsentry/sentry-react-native/labels/java",
+    "name": "java",
+    "color": "ffa221",
+    "default": false,
+    "description": "Pull requests that update Java code"
+  },
+  {
+    "id": 1909687865,
+    "node_id": "MDU6TGFiZWwxOTA5Njg3ODY1",
+    "url": "https://api.github.com/repos/getsentry/sentry-react-native/labels/javascript",
+    "name": "javascript",
+    "color": "168700",
+    "default": false,
+    "description": "Pull requests that update Javascript code"
+  },
+  {
+    "id": 621478285,
+    "node_id": "MDU6TGFiZWw2MjE0NzgyODU=",
+    "url": "https://api.github.com/repos/getsentry/sentry-react-native/labels/js",
+    "name": "js",
+    "color": "fef2c0",
+    "default": false,
+    "description": null
+  },
+  {
+    "id": 2698302042,
+    "node_id": "MDU6TGFiZWwyNjk4MzAyMDQy",
+    "url": "https://api.github.com/repos/getsentry/sentry-react-native/labels/performance",
+    "name": "performance",
+    "color": "1702C2",
+    "default": false,
+    "description": ""
+  },
+  {
+    "id": 2080019149,
+    "node_id": "MDU6TGFiZWwyMDgwMDE5MTQ5",
+    "url": "https://api.github.com/repos/getsentry/sentry-react-native/labels/security",
+    "name": "security",
+    "color": "ee0701",
+    "default": false,
+    "description": "Pull requests that address a security vulnerability"
+  },
+  {
+    "id": 2631820403,
+    "node_id": "MDU6TGFiZWwyNjMxODIwNDAz",
+    "url": "https://api.github.com/repos/getsentry/sentry-react-native/labels/up-for-grabs",
+    "name": "up-for-grabs",
+    "color": "FBCA04",
+    "default": false,
+    "description": "✋  We would really appreciate anyone interested in working on this to submit a PR!"
+  },
+  {
+    "id": 1434051328,
+    "node_id": "MDU6TGFiZWwxNDM0MDUxMzI4",
+    "url": "https://api.github.com/repos/getsentry/sentry-react-native/labels/%F0%9F%A6%94react-native-sentry",
+    "name": "🦔react-native-sentry",
+    "color": "d6c01d",
+    "default": false,
+    "description": ""
+  }
+]

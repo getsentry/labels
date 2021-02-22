@@ -1,0 +1,65 @@
+[
+  {
+    "id": 383705394,
+    "node_id": "MDU6TGFiZWwzODM3MDUzOTQ=",
+    "url": "https://api.github.com/repos/getsentry/sentry-fastlane-plugin/labels/bug",
+    "name": "bug",
+    "color": "ee0701",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 383705395,
+    "node_id": "MDU6TGFiZWwzODM3MDUzOTU=",
+    "url": "https://api.github.com/repos/getsentry/sentry-fastlane-plugin/labels/duplicate",
+    "name": "duplicate",
+    "color": "cccccc",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 383705396,
+    "node_id": "MDU6TGFiZWwzODM3MDUzOTY=",
+    "url": "https://api.github.com/repos/getsentry/sentry-fastlane-plugin/labels/enhancement",
+    "name": "enhancement",
+    "color": "84b6eb",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 383705397,
+    "node_id": "MDU6TGFiZWwzODM3MDUzOTc=",
+    "url": "https://api.github.com/repos/getsentry/sentry-fastlane-plugin/labels/help%20wanted",
+    "name": "help wanted",
+    "color": "128A0C",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 383705398,
+    "node_id": "MDU6TGFiZWwzODM3MDUzOTg=",
+    "url": "https://api.github.com/repos/getsentry/sentry-fastlane-plugin/labels/invalid",
+    "name": "invalid",
+    "color": "e6e6e6",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 383705399,
+    "node_id": "MDU6TGFiZWwzODM3MDUzOTk=",
+    "url": "https://api.github.com/repos/getsentry/sentry-fastlane-plugin/labels/question",
+    "name": "question",
+    "color": "cc317c",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 383705400,
+    "node_id": "MDU6TGFiZWwzODM3MDU0MDA=",
+    "url": "https://api.github.com/repos/getsentry/sentry-fastlane-plugin/labels/wontfix",
+    "name": "wontfix",
+    "color": "ffffff",
+    "default": true,
+    "description": null
+  }
+]

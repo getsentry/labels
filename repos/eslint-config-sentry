@@ -1,0 +1,83 @@
+[
+  {
+    "id": 684415922,
+    "node_id": "MDU6TGFiZWw2ODQ0MTU5MjI=",
+    "url": "https://api.github.com/repos/getsentry/eslint-config-sentry/labels/bug",
+    "name": "bug",
+    "color": "ee0701",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 1629848369,
+    "node_id": "MDU6TGFiZWwxNjI5ODQ4MzY5",
+    "url": "https://api.github.com/repos/getsentry/eslint-config-sentry/labels/dependencies",
+    "name": "dependencies",
+    "color": "0366d6",
+    "default": false,
+    "description": "Pull requests that update a dependency file"
+  },
+  {
+    "id": 684415923,
+    "node_id": "MDU6TGFiZWw2ODQ0MTU5MjM=",
+    "url": "https://api.github.com/repos/getsentry/eslint-config-sentry/labels/duplicate",
+    "name": "duplicate",
+    "color": "cccccc",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 684415924,
+    "node_id": "MDU6TGFiZWw2ODQ0MTU5MjQ=",
+    "url": "https://api.github.com/repos/getsentry/eslint-config-sentry/labels/enhancement",
+    "name": "enhancement",
+    "color": "84b6eb",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 684415925,
+    "node_id": "MDU6TGFiZWw2ODQ0MTU5MjU=",
+    "url": "https://api.github.com/repos/getsentry/eslint-config-sentry/labels/help%20wanted",
+    "name": "help wanted",
+    "color": "128A0C",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 684415926,
+    "node_id": "MDU6TGFiZWw2ODQ0MTU5MjY=",
+    "url": "https://api.github.com/repos/getsentry/eslint-config-sentry/labels/invalid",
+    "name": "invalid",
+    "color": "e6e6e6",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 684415927,
+    "node_id": "MDU6TGFiZWw2ODQ0MTU5Mjc=",
+    "url": "https://api.github.com/repos/getsentry/eslint-config-sentry/labels/question",
+    "name": "question",
+    "color": "cc317c",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 2076594174,
+    "node_id": "MDU6TGFiZWwyMDc2NTk0MTc0",
+    "url": "https://api.github.com/repos/getsentry/eslint-config-sentry/labels/wip",
+    "name": "wip",
+    "color": "db6d74",
+    "default": false,
+    "description": ""
+  },
+  {
+    "id": 684415928,
+    "node_id": "MDU6TGFiZWw2ODQ0MTU5Mjg=",
+    "url": "https://api.github.com/repos/getsentry/eslint-config-sentry/labels/wontfix",
+    "name": "wontfix",
+    "color": "ffffff",
+    "default": true,
+    "description": null
+  }
+]

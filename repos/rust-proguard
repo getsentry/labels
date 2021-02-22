@@ -1,0 +1,65 @@
+[
+  {
+    "id": 618390532,
+    "node_id": "MDU6TGFiZWw2MTgzOTA1MzI=",
+    "url": "https://api.github.com/repos/getsentry/rust-proguard/labels/bug",
+    "name": "bug",
+    "color": "ee0701",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 618390533,
+    "node_id": "MDU6TGFiZWw2MTgzOTA1MzM=",
+    "url": "https://api.github.com/repos/getsentry/rust-proguard/labels/duplicate",
+    "name": "duplicate",
+    "color": "cccccc",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 618390534,
+    "node_id": "MDU6TGFiZWw2MTgzOTA1MzQ=",
+    "url": "https://api.github.com/repos/getsentry/rust-proguard/labels/enhancement",
+    "name": "enhancement",
+    "color": "84b6eb",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 618390535,
+    "node_id": "MDU6TGFiZWw2MTgzOTA1MzU=",
+    "url": "https://api.github.com/repos/getsentry/rust-proguard/labels/help%20wanted",
+    "name": "help wanted",
+    "color": "128A0C",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 618390536,
+    "node_id": "MDU6TGFiZWw2MTgzOTA1MzY=",
+    "url": "https://api.github.com/repos/getsentry/rust-proguard/labels/invalid",
+    "name": "invalid",
+    "color": "e6e6e6",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 618390537,
+    "node_id": "MDU6TGFiZWw2MTgzOTA1Mzc=",
+    "url": "https://api.github.com/repos/getsentry/rust-proguard/labels/question",
+    "name": "question",
+    "color": "cc317c",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 618390538,
+    "node_id": "MDU6TGFiZWw2MTgzOTA1Mzg=",
+    "url": "https://api.github.com/repos/getsentry/rust-proguard/labels/wontfix",
+    "name": "wontfix",
+    "color": "ffffff",
+    "default": true,
+    "description": null
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1129179832,
+    "node_id": "MDU6TGFiZWwxMTI5MTc5ODMy",
+    "url": "https://api.github.com/repos/getsentry/sentry-hipchat/labels/bug",
+    "name": "bug",
+    "color": "d73a4a",
+    "default": true,
+    "description": "Something isn't working"
+  },
+  {
+    "id": 1129179833,
+    "node_id": "MDU6TGFiZWwxMTI5MTc5ODMz",
+    "url": "https://api.github.com/repos/getsentry/sentry-hipchat/labels/duplicate",
+    "name": "duplicate",
+    "color": "cfd3d7",
+    "default": true,
+    "description": "This issue or pull request already exists"
+  },
+  {
+    "id": 1129179835,
+    "node_id": "MDU6TGFiZWwxMTI5MTc5ODM1",
+    "url": "https://api.github.com/repos/getsentry/sentry-hipchat/labels/enhancement",
+    "name": "enhancement",
+    "color": "a2eeef",
+    "default": true,
+    "description": "New feature or request"
+  },
+  {
+    "id": 1129179839,
+    "node_id": "MDU6TGFiZWwxMTI5MTc5ODM5",
+    "url": "https://api.github.com/repos/getsentry/sentry-hipchat/labels/good%20first%20issue",
+    "name": "good first issue",
+    "color": "7057ff",
+    "default": true,
+    "description": "Good for newcomers"
+  },
+  {
+    "id": 1129179837,
+    "node_id": "MDU6TGFiZWwxMTI5MTc5ODM3",
+    "url": "https://api.github.com/repos/getsentry/sentry-hipchat/labels/help%20wanted",
+    "name": "help wanted",
+    "color": "008672",
+    "default": true,
+    "description": "Extra attention is needed"
+  },
+  {
+    "id": 1129179840,
+    "node_id": "MDU6TGFiZWwxMTI5MTc5ODQw",
+    "url": "https://api.github.com/repos/getsentry/sentry-hipchat/labels/invalid",
+    "name": "invalid",
+    "color": "e4e669",
+    "default": true,
+    "description": "This doesn't seem right"
+  },
+  {
+    "id": 1129179843,
+    "node_id": "MDU6TGFiZWwxMTI5MTc5ODQz",
+    "url": "https://api.github.com/repos/getsentry/sentry-hipchat/labels/question",
+    "name": "question",
+    "color": "d876e3",
+    "default": true,
+    "description": "Further information is requested"
+  },
+  {
+    "id": 1129179845,
+    "node_id": "MDU6TGFiZWwxMTI5MTc5ODQ1",
+    "url": "https://api.github.com/repos/getsentry/sentry-hipchat/labels/wontfix",
+    "name": "wontfix",
+    "color": "ffffff",
+    "default": true,
+    "description": "This will not be worked on"
+  }
+]

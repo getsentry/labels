@@ -1,0 +1,65 @@
+[
+  {
+    "id": 475296807,
+    "node_id": "MDU6TGFiZWw0NzUyOTY4MDc=",
+    "url": "https://api.github.com/repos/getsentry/sentry-libhealth/labels/bug",
+    "name": "bug",
+    "color": "ee0701",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 475296808,
+    "node_id": "MDU6TGFiZWw0NzUyOTY4MDg=",
+    "url": "https://api.github.com/repos/getsentry/sentry-libhealth/labels/duplicate",
+    "name": "duplicate",
+    "color": "cccccc",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 475296809,
+    "node_id": "MDU6TGFiZWw0NzUyOTY4MDk=",
+    "url": "https://api.github.com/repos/getsentry/sentry-libhealth/labels/enhancement",
+    "name": "enhancement",
+    "color": "84b6eb",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 475296810,
+    "node_id": "MDU6TGFiZWw0NzUyOTY4MTA=",
+    "url": "https://api.github.com/repos/getsentry/sentry-libhealth/labels/help%20wanted",
+    "name": "help wanted",
+    "color": "128A0C",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 475296811,
+    "node_id": "MDU6TGFiZWw0NzUyOTY4MTE=",
+    "url": "https://api.github.com/repos/getsentry/sentry-libhealth/labels/invalid",
+    "name": "invalid",
+    "color": "e6e6e6",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 475296812,
+    "node_id": "MDU6TGFiZWw0NzUyOTY4MTI=",
+    "url": "https://api.github.com/repos/getsentry/sentry-libhealth/labels/question",
+    "name": "question",
+    "color": "cc317c",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 475296813,
+    "node_id": "MDU6TGFiZWw0NzUyOTY4MTM=",
+    "url": "https://api.github.com/repos/getsentry/sentry-libhealth/labels/wontfix",
+    "name": "wontfix",
+    "color": "ffffff",
+    "default": true,
+    "description": null
+  }
+]

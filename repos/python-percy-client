@@ -1,0 +1,74 @@
+[
+  {
+    "id": 646633508,
+    "node_id": "MDU6TGFiZWw2NDY2MzM1MDg=",
+    "url": "https://api.github.com/repos/getsentry/python-percy-client/labels/bug",
+    "name": "bug",
+    "color": "ee0701",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 2203924691,
+    "node_id": "MDU6TGFiZWwyMjAzOTI0Njkx",
+    "url": "https://api.github.com/repos/getsentry/python-percy-client/labels/dependencies",
+    "name": "dependencies",
+    "color": "0366d6",
+    "default": false,
+    "description": "Pull requests that update a dependency file"
+  },
+  {
+    "id": 646633509,
+    "node_id": "MDU6TGFiZWw2NDY2MzM1MDk=",
+    "url": "https://api.github.com/repos/getsentry/python-percy-client/labels/duplicate",
+    "name": "duplicate",
+    "color": "cccccc",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 646633510,
+    "node_id": "MDU6TGFiZWw2NDY2MzM1MTA=",
+    "url": "https://api.github.com/repos/getsentry/python-percy-client/labels/enhancement",
+    "name": "enhancement",
+    "color": "84b6eb",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 646633511,
+    "node_id": "MDU6TGFiZWw2NDY2MzM1MTE=",
+    "url": "https://api.github.com/repos/getsentry/python-percy-client/labels/help%20wanted",
+    "name": "help wanted",
+    "color": "128A0C",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 646633512,
+    "node_id": "MDU6TGFiZWw2NDY2MzM1MTI=",
+    "url": "https://api.github.com/repos/getsentry/python-percy-client/labels/invalid",
+    "name": "invalid",
+    "color": "e6e6e6",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 646633513,
+    "node_id": "MDU6TGFiZWw2NDY2MzM1MTM=",
+    "url": "https://api.github.com/repos/getsentry/python-percy-client/labels/question",
+    "name": "question",
+    "color": "cc317c",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 646633514,
+    "node_id": "MDU6TGFiZWw2NDY2MzM1MTQ=",
+    "url": "https://api.github.com/repos/getsentry/python-percy-client/labels/wontfix",
+    "name": "wontfix",
+    "color": "ffffff",
+    "default": true,
+    "description": null
+  }
+]

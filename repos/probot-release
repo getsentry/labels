@@ -1,0 +1,83 @@
+[
+  {
+    "id": 709620307,
+    "node_id": "MDU6TGFiZWw3MDk2MjAzMDc=",
+    "url": "https://api.github.com/repos/getsentry/probot-release/labels/bug",
+    "name": "bug",
+    "color": "ee0701",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 1651731918,
+    "node_id": "MDU6TGFiZWwxNjUxNzMxOTE4",
+    "url": "https://api.github.com/repos/getsentry/probot-release/labels/dependencies",
+    "name": "dependencies",
+    "color": "0366d6",
+    "default": false,
+    "description": "Pull requests that update a dependency file"
+  },
+  {
+    "id": 709620308,
+    "node_id": "MDU6TGFiZWw3MDk2MjAzMDg=",
+    "url": "https://api.github.com/repos/getsentry/probot-release/labels/duplicate",
+    "name": "duplicate",
+    "color": "cccccc",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 709620309,
+    "node_id": "MDU6TGFiZWw3MDk2MjAzMDk=",
+    "url": "https://api.github.com/repos/getsentry/probot-release/labels/enhancement",
+    "name": "enhancement",
+    "color": "84b6eb",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 709620311,
+    "node_id": "MDU6TGFiZWw3MDk2MjAzMTE=",
+    "url": "https://api.github.com/repos/getsentry/probot-release/labels/good%20first%20issue",
+    "name": "good first issue",
+    "color": "7057ff",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 709620310,
+    "node_id": "MDU6TGFiZWw3MDk2MjAzMTA=",
+    "url": "https://api.github.com/repos/getsentry/probot-release/labels/help%20wanted",
+    "name": "help wanted",
+    "color": "33aa3f",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 709620312,
+    "node_id": "MDU6TGFiZWw3MDk2MjAzMTI=",
+    "url": "https://api.github.com/repos/getsentry/probot-release/labels/invalid",
+    "name": "invalid",
+    "color": "e6e6e6",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 709620313,
+    "node_id": "MDU6TGFiZWw3MDk2MjAzMTM=",
+    "url": "https://api.github.com/repos/getsentry/probot-release/labels/question",
+    "name": "question",
+    "color": "cc317c",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 709620314,
+    "node_id": "MDU6TGFiZWw3MDk2MjAzMTQ=",
+    "url": "https://api.github.com/repos/getsentry/probot-release/labels/wontfix",
+    "name": "wontfix",
+    "color": "ffffff",
+    "default": true,
+    "description": null
+  }
+]

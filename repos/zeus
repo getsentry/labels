@@ -1,0 +1,119 @@
+[
+  {
+    "id": 752140336,
+    "node_id": "MDU6TGFiZWw3NTIxNDAzMzY=",
+    "url": "https://api.github.com/repos/getsentry/zeus/labels/api",
+    "name": "api",
+    "color": "3e9bd1",
+    "default": false,
+    "description": null
+  },
+  {
+    "id": 639272911,
+    "node_id": "MDU6TGFiZWw2MzkyNzI5MTE=",
+    "url": "https://api.github.com/repos/getsentry/zeus/labels/bug",
+    "name": "bug",
+    "color": "ee0701",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 752143814,
+    "node_id": "MDU6TGFiZWw3NTIxNDM4MTQ=",
+    "url": "https://api.github.com/repos/getsentry/zeus/labels/cli",
+    "name": "cli",
+    "color": "333333",
+    "default": false,
+    "description": null
+  },
+  {
+    "id": 1651732114,
+    "node_id": "MDU6TGFiZWwxNjUxNzMyMTE0",
+    "url": "https://api.github.com/repos/getsentry/zeus/labels/dependencies",
+    "name": "dependencies",
+    "color": "0366d6",
+    "default": false,
+    "description": "Pull requests that update a dependency file"
+  },
+  {
+    "id": 639272912,
+    "node_id": "MDU6TGFiZWw2MzkyNzI5MTI=",
+    "url": "https://api.github.com/repos/getsentry/zeus/labels/duplicate",
+    "name": "duplicate",
+    "color": "cccccc",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 639272913,
+    "node_id": "MDU6TGFiZWw2MzkyNzI5MTM=",
+    "url": "https://api.github.com/repos/getsentry/zeus/labels/enhancement",
+    "name": "enhancement",
+    "color": "84b6eb",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 639272914,
+    "node_id": "MDU6TGFiZWw2MzkyNzI5MTQ=",
+    "url": "https://api.github.com/repos/getsentry/zeus/labels/help%20wanted",
+    "name": "help wanted",
+    "color": "128A0C",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 752141894,
+    "node_id": "MDU6TGFiZWw3NTIxNDE4OTQ=",
+    "url": "https://api.github.com/repos/getsentry/zeus/labels/integration",
+    "name": "integration",
+    "color": "333333",
+    "default": false,
+    "description": null
+  },
+  {
+    "id": 639272915,
+    "node_id": "MDU6TGFiZWw2MzkyNzI5MTU=",
+    "url": "https://api.github.com/repos/getsentry/zeus/labels/invalid",
+    "name": "invalid",
+    "color": "e6e6e6",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 639272916,
+    "node_id": "MDU6TGFiZWw2MzkyNzI5MTY=",
+    "url": "https://api.github.com/repos/getsentry/zeus/labels/question",
+    "name": "question",
+    "color": "cc317c",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 752141107,
+    "node_id": "MDU6TGFiZWw3NTIxNDExMDc=",
+    "url": "https://api.github.com/repos/getsentry/zeus/labels/server",
+    "name": "server",
+    "color": "3e9bd1",
+    "default": false,
+    "description": null
+  },
+  {
+    "id": 752140761,
+    "node_id": "MDU6TGFiZWw3NTIxNDA3NjE=",
+    "url": "https://api.github.com/repos/getsentry/zeus/labels/ui",
+    "name": "ui",
+    "color": "3e9bd1",
+    "default": false,
+    "description": null
+  },
+  {
+    "id": 639272917,
+    "node_id": "MDU6TGFiZWw2MzkyNzI5MTc=",
+    "url": "https://api.github.com/repos/getsentry/zeus/labels/wontfix",
+    "name": "wontfix",
+    "color": "ffffff",
+    "default": true,
+    "description": null
+  }
+]

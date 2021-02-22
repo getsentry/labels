@@ -1,0 +1,74 @@
+[
+  {
+    "id": 680715017,
+    "node_id": "MDU6TGFiZWw2ODA3MTUwMTc=",
+    "url": "https://api.github.com/repos/getsentry/symbolic/labels/bug",
+    "name": "bug",
+    "color": "ee0701",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 1817739907,
+    "node_id": "MDU6TGFiZWwxODE3NzM5OTA3",
+    "url": "https://api.github.com/repos/getsentry/symbolic/labels/dependencies",
+    "name": "dependencies",
+    "color": "0366d6",
+    "default": false,
+    "description": "Pull requests that update a dependency file"
+  },
+  {
+    "id": 680715018,
+    "node_id": "MDU6TGFiZWw2ODA3MTUwMTg=",
+    "url": "https://api.github.com/repos/getsentry/symbolic/labels/duplicate",
+    "name": "duplicate",
+    "color": "cccccc",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 680715019,
+    "node_id": "MDU6TGFiZWw2ODA3MTUwMTk=",
+    "url": "https://api.github.com/repos/getsentry/symbolic/labels/enhancement",
+    "name": "enhancement",
+    "color": "84b6eb",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 680715020,
+    "node_id": "MDU6TGFiZWw2ODA3MTUwMjA=",
+    "url": "https://api.github.com/repos/getsentry/symbolic/labels/help%20wanted",
+    "name": "help wanted",
+    "color": "128A0C",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 680715021,
+    "node_id": "MDU6TGFiZWw2ODA3MTUwMjE=",
+    "url": "https://api.github.com/repos/getsentry/symbolic/labels/invalid",
+    "name": "invalid",
+    "color": "e6e6e6",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 680715022,
+    "node_id": "MDU6TGFiZWw2ODA3MTUwMjI=",
+    "url": "https://api.github.com/repos/getsentry/symbolic/labels/question",
+    "name": "question",
+    "color": "cc317c",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 680715023,
+    "node_id": "MDU6TGFiZWw2ODA3MTUwMjM=",
+    "url": "https://api.github.com/repos/getsentry/symbolic/labels/wontfix",
+    "name": "wontfix",
+    "color": "ffffff",
+    "default": true,
+    "description": null
+  }
+]

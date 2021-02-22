@@ -1,0 +1,74 @@
+[
+  {
+    "id": 652053601,
+    "node_id": "MDU6TGFiZWw2NTIwNTM2MDE=",
+    "url": "https://api.github.com/repos/getsentry/schnitzel/labels/bug",
+    "name": "bug",
+    "color": "ee0701",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 2203924992,
+    "node_id": "MDU6TGFiZWwyMjAzOTI0OTky",
+    "url": "https://api.github.com/repos/getsentry/schnitzel/labels/dependencies",
+    "name": "dependencies",
+    "color": "0366d6",
+    "default": false,
+    "description": "Pull requests that update a dependency file"
+  },
+  {
+    "id": 652053603,
+    "node_id": "MDU6TGFiZWw2NTIwNTM2MDM=",
+    "url": "https://api.github.com/repos/getsentry/schnitzel/labels/duplicate",
+    "name": "duplicate",
+    "color": "cccccc",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 652053605,
+    "node_id": "MDU6TGFiZWw2NTIwNTM2MDU=",
+    "url": "https://api.github.com/repos/getsentry/schnitzel/labels/enhancement",
+    "name": "enhancement",
+    "color": "84b6eb",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 652053607,
+    "node_id": "MDU6TGFiZWw2NTIwNTM2MDc=",
+    "url": "https://api.github.com/repos/getsentry/schnitzel/labels/help%20wanted",
+    "name": "help wanted",
+    "color": "128A0C",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 652053608,
+    "node_id": "MDU6TGFiZWw2NTIwNTM2MDg=",
+    "url": "https://api.github.com/repos/getsentry/schnitzel/labels/invalid",
+    "name": "invalid",
+    "color": "e6e6e6",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 652053610,
+    "node_id": "MDU6TGFiZWw2NTIwNTM2MTA=",
+    "url": "https://api.github.com/repos/getsentry/schnitzel/labels/question",
+    "name": "question",
+    "color": "cc317c",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 652053611,
+    "node_id": "MDU6TGFiZWw2NTIwNTM2MTE=",
+    "url": "https://api.github.com/repos/getsentry/schnitzel/labels/wontfix",
+    "name": "wontfix",
+    "color": "ffffff",
+    "default": true,
+    "description": null
+  }
+]

@@ -1,4 +1,15 @@
 #!/usr/bin/env zsh
 set -euo pipefail
-repo="$1"
-gh api --paginate "/repos/getsentry/$repo/labels" | jq . > $repo
+
+gh api --paginate "/users/getsentry/repos" | jq -r '.[].name' > repo-index
+
+echo > .all
+for repo in $(cat repo-index); do
+  echo $repo
+  gh api --paginate "/repos/getsentry/$repo/labels" | jq -r . > "repos/$repo"
+  jq -r '.[].name' "repos/$repo" >> .all
+  gh api --paginate "/repos/getsentry/$repo/labels" | jq -r . > "repos/$repo"
+done
+
+cat .all | sort | uniq -c | sort -nr > all
+rm .all

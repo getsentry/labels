@@ -1,0 +1,65 @@
+[
+  {
+    "id": 640552840,
+    "node_id": "MDU6TGFiZWw2NDA1NTI4NDA=",
+    "url": "https://api.github.com/repos/getsentry/calm-tools/labels/bug",
+    "name": "bug",
+    "color": "ee0701",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 640552841,
+    "node_id": "MDU6TGFiZWw2NDA1NTI4NDE=",
+    "url": "https://api.github.com/repos/getsentry/calm-tools/labels/duplicate",
+    "name": "duplicate",
+    "color": "cccccc",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 640552842,
+    "node_id": "MDU6TGFiZWw2NDA1NTI4NDI=",
+    "url": "https://api.github.com/repos/getsentry/calm-tools/labels/enhancement",
+    "name": "enhancement",
+    "color": "84b6eb",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 640552843,
+    "node_id": "MDU6TGFiZWw2NDA1NTI4NDM=",
+    "url": "https://api.github.com/repos/getsentry/calm-tools/labels/help%20wanted",
+    "name": "help wanted",
+    "color": "128A0C",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 640552844,
+    "node_id": "MDU6TGFiZWw2NDA1NTI4NDQ=",
+    "url": "https://api.github.com/repos/getsentry/calm-tools/labels/invalid",
+    "name": "invalid",
+    "color": "e6e6e6",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 640552845,
+    "node_id": "MDU6TGFiZWw2NDA1NTI4NDU=",
+    "url": "https://api.github.com/repos/getsentry/calm-tools/labels/question",
+    "name": "question",
+    "color": "cc317c",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 640552846,
+    "node_id": "MDU6TGFiZWw2NDA1NTI4NDY=",
+    "url": "https://api.github.com/repos/getsentry/calm-tools/labels/wontfix",
+    "name": "wontfix",
+    "color": "ffffff",
+    "default": true,
+    "description": null
+  }
+]

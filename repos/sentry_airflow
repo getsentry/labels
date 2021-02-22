@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1374488047,
+    "node_id": "MDU6TGFiZWwxMzc0NDg4MDQ3",
+    "url": "https://api.github.com/repos/getsentry/sentry_airflow/labels/bug",
+    "name": "bug",
+    "color": "d73a4a",
+    "default": true,
+    "description": "Something isn't working"
+  },
+  {
+    "id": 1374488048,
+    "node_id": "MDU6TGFiZWwxMzc0NDg4MDQ4",
+    "url": "https://api.github.com/repos/getsentry/sentry_airflow/labels/duplicate",
+    "name": "duplicate",
+    "color": "cfd3d7",
+    "default": true,
+    "description": "This issue or pull request already exists"
+  },
+  {
+    "id": 1374488049,
+    "node_id": "MDU6TGFiZWwxMzc0NDg4MDQ5",
+    "url": "https://api.github.com/repos/getsentry/sentry_airflow/labels/enhancement",
+    "name": "enhancement",
+    "color": "a2eeef",
+    "default": true,
+    "description": "New feature or request"
+  },
+  {
+    "id": 1374488051,
+    "node_id": "MDU6TGFiZWwxMzc0NDg4MDUx",
+    "url": "https://api.github.com/repos/getsentry/sentry_airflow/labels/good%20first%20issue",
+    "name": "good first issue",
+    "color": "7057ff",
+    "default": true,
+    "description": "Good for newcomers"
+  },
+  {
+    "id": 1374488050,
+    "node_id": "MDU6TGFiZWwxMzc0NDg4MDUw",
+    "url": "https://api.github.com/repos/getsentry/sentry_airflow/labels/help%20wanted",
+    "name": "help wanted",
+    "color": "008672",
+    "default": true,
+    "description": "Extra attention is needed"
+  },
+  {
+    "id": 1374488052,
+    "node_id": "MDU6TGFiZWwxMzc0NDg4MDUy",
+    "url": "https://api.github.com/repos/getsentry/sentry_airflow/labels/invalid",
+    "name": "invalid",
+    "color": "e4e669",
+    "default": true,
+    "description": "This doesn't seem right"
+  },
+  {
+    "id": 1374488053,
+    "node_id": "MDU6TGFiZWwxMzc0NDg4MDUz",
+    "url": "https://api.github.com/repos/getsentry/sentry_airflow/labels/question",
+    "name": "question",
+    "color": "d876e3",
+    "default": true,
+    "description": "Further information is requested"
+  },
+  {
+    "id": 1374488054,
+    "node_id": "MDU6TGFiZWwxMzc0NDg4MDU0",
+    "url": "https://api.github.com/repos/getsentry/sentry_airflow/labels/wontfix",
+    "name": "wontfix",
+    "color": "ffffff",
+    "default": true,
+    "description": "This will not be worked on"
+  }
+]

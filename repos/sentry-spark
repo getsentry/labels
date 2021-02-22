@@ -1,0 +1,83 @@
+[
+  {
+    "id": 1679347264,
+    "node_id": "MDU6TGFiZWwxNjc5MzQ3MjY0",
+    "url": "https://api.github.com/repos/getsentry/sentry-spark/labels/bug",
+    "name": "bug",
+    "color": "d73a4a",
+    "default": true,
+    "description": "Something isn't working"
+  },
+  {
+    "id": 1679347265,
+    "node_id": "MDU6TGFiZWwxNjc5MzQ3MjY1",
+    "url": "https://api.github.com/repos/getsentry/sentry-spark/labels/documentation",
+    "name": "documentation",
+    "color": "0075ca",
+    "default": true,
+    "description": "Improvements or additions to documentation"
+  },
+  {
+    "id": 1679347266,
+    "node_id": "MDU6TGFiZWwxNjc5MzQ3MjY2",
+    "url": "https://api.github.com/repos/getsentry/sentry-spark/labels/duplicate",
+    "name": "duplicate",
+    "color": "cfd3d7",
+    "default": true,
+    "description": "This issue or pull request already exists"
+  },
+  {
+    "id": 1679347267,
+    "node_id": "MDU6TGFiZWwxNjc5MzQ3MjY3",
+    "url": "https://api.github.com/repos/getsentry/sentry-spark/labels/enhancement",
+    "name": "enhancement",
+    "color": "a2eeef",
+    "default": true,
+    "description": "New feature or request"
+  },
+  {
+    "id": 1679347268,
+    "node_id": "MDU6TGFiZWwxNjc5MzQ3MjY4",
+    "url": "https://api.github.com/repos/getsentry/sentry-spark/labels/good%20first%20issue",
+    "name": "good first issue",
+    "color": "7057ff",
+    "default": true,
+    "description": "Good for newcomers"
+  },
+  {
+    "id": 1679347269,
+    "node_id": "MDU6TGFiZWwxNjc5MzQ3MjY5",
+    "url": "https://api.github.com/repos/getsentry/sentry-spark/labels/help%20wanted",
+    "name": "help wanted",
+    "color": "008672",
+    "default": true,
+    "description": "Extra attention is needed"
+  },
+  {
+    "id": 1679347270,
+    "node_id": "MDU6TGFiZWwxNjc5MzQ3Mjcw",
+    "url": "https://api.github.com/repos/getsentry/sentry-spark/labels/invalid",
+    "name": "invalid",
+    "color": "e4e669",
+    "default": true,
+    "description": "This doesn't seem right"
+  },
+  {
+    "id": 1679347271,
+    "node_id": "MDU6TGFiZWwxNjc5MzQ3Mjcx",
+    "url": "https://api.github.com/repos/getsentry/sentry-spark/labels/question",
+    "name": "question",
+    "color": "d876e3",
+    "default": true,
+    "description": "Further information is requested"
+  },
+  {
+    "id": 1679347272,
+    "node_id": "MDU6TGFiZWwxNjc5MzQ3Mjcy",
+    "url": "https://api.github.com/repos/getsentry/sentry-spark/labels/wontfix",
+    "name": "wontfix",
+    "color": "ffffff",
+    "default": true,
+    "description": "This will not be worked on"
+  }
+]

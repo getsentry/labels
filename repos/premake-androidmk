@@ -1,0 +1,83 @@
+[
+  {
+    "id": 1579353651,
+    "node_id": "MDU6TGFiZWwxNTc5MzUzNjUx",
+    "url": "https://api.github.com/repos/getsentry/premake-androidmk/labels/bug",
+    "name": "bug",
+    "color": "d73a4a",
+    "default": true,
+    "description": "Something isn't working"
+  },
+  {
+    "id": 1579353652,
+    "node_id": "MDU6TGFiZWwxNTc5MzUzNjUy",
+    "url": "https://api.github.com/repos/getsentry/premake-androidmk/labels/documentation",
+    "name": "documentation",
+    "color": "0075ca",
+    "default": true,
+    "description": "Improvements or additions to documentation"
+  },
+  {
+    "id": 1579353653,
+    "node_id": "MDU6TGFiZWwxNTc5MzUzNjUz",
+    "url": "https://api.github.com/repos/getsentry/premake-androidmk/labels/duplicate",
+    "name": "duplicate",
+    "color": "cfd3d7",
+    "default": true,
+    "description": "This issue or pull request already exists"
+  },
+  {
+    "id": 1579353654,
+    "node_id": "MDU6TGFiZWwxNTc5MzUzNjU0",
+    "url": "https://api.github.com/repos/getsentry/premake-androidmk/labels/enhancement",
+    "name": "enhancement",
+    "color": "a2eeef",
+    "default": true,
+    "description": "New feature or request"
+  },
+  {
+    "id": 1579353656,
+    "node_id": "MDU6TGFiZWwxNTc5MzUzNjU2",
+    "url": "https://api.github.com/repos/getsentry/premake-androidmk/labels/good%20first%20issue",
+    "name": "good first issue",
+    "color": "7057ff",
+    "default": true,
+    "description": "Good for newcomers"
+  },
+  {
+    "id": 1579353655,
+    "node_id": "MDU6TGFiZWwxNTc5MzUzNjU1",
+    "url": "https://api.github.com/repos/getsentry/premake-androidmk/labels/help%20wanted",
+    "name": "help wanted",
+    "color": "008672",
+    "default": true,
+    "description": "Extra attention is needed"
+  },
+  {
+    "id": 1579353657,
+    "node_id": "MDU6TGFiZWwxNTc5MzUzNjU3",
+    "url": "https://api.github.com/repos/getsentry/premake-androidmk/labels/invalid",
+    "name": "invalid",
+    "color": "e4e669",
+    "default": true,
+    "description": "This doesn't seem right"
+  },
+  {
+    "id": 1579353658,
+    "node_id": "MDU6TGFiZWwxNTc5MzUzNjU4",
+    "url": "https://api.github.com/repos/getsentry/premake-androidmk/labels/question",
+    "name": "question",
+    "color": "d876e3",
+    "default": true,
+    "description": "Further information is requested"
+  },
+  {
+    "id": 1579353659,
+    "node_id": "MDU6TGFiZWwxNTc5MzUzNjU5",
+    "url": "https://api.github.com/repos/getsentry/premake-androidmk/labels/wontfix",
+    "name": "wontfix",
+    "color": "ffffff",
+    "default": true,
+    "description": "This will not be worked on"
+  }
+]

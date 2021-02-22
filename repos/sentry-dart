@@ -1,0 +1,128 @@
+[
+  {
+    "id": 2648391606,
+    "node_id": "MDU6TGFiZWwyNjQ4MzkxNjA2",
+    "url": "https://api.github.com/repos/getsentry/sentry-dart/labels/Android%20NDK",
+    "name": "Android NDK",
+    "color": "fef2c0",
+    "default": false,
+    "description": ""
+  },
+  {
+    "id": 658875903,
+    "node_id": "MDU6TGFiZWw2NTg4NzU5MDM=",
+    "url": "https://api.github.com/repos/getsentry/sentry-dart/labels/bug",
+    "name": "bug",
+    "color": "ee0701",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 2402600761,
+    "node_id": "MDU6TGFiZWwyNDAyNjAwNzYx",
+    "url": "https://api.github.com/repos/getsentry/sentry-dart/labels/docs",
+    "name": "docs",
+    "color": "48d648",
+    "default": false,
+    "description": ""
+  },
+  {
+    "id": 658875904,
+    "node_id": "MDU6TGFiZWw2NTg4NzU5MDQ=",
+    "url": "https://api.github.com/repos/getsentry/sentry-dart/labels/duplicate",
+    "name": "duplicate",
+    "color": "cccccc",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 658875905,
+    "node_id": "MDU6TGFiZWw2NTg4NzU5MDU=",
+    "url": "https://api.github.com/repos/getsentry/sentry-dart/labels/enhancement",
+    "name": "enhancement",
+    "color": "84b6eb",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 2642026351,
+    "node_id": "MDU6TGFiZWwyNjQyMDI2MzUx",
+    "url": "https://api.github.com/repos/getsentry/sentry-dart/labels/flutter",
+    "name": "flutter",
+    "color": "006b75",
+    "default": false,
+    "description": "flutter"
+  },
+  {
+    "id": 2376141429,
+    "node_id": "MDU6TGFiZWwyMzc2MTQxNDI5",
+    "url": "https://api.github.com/repos/getsentry/sentry-dart/labels/flutter-web",
+    "name": "flutter-web",
+    "color": "be10ea",
+    "default": false,
+    "description": ""
+  },
+  {
+    "id": 658875906,
+    "node_id": "MDU6TGFiZWw2NTg4NzU5MDY=",
+    "url": "https://api.github.com/repos/getsentry/sentry-dart/labels/help%20wanted",
+    "name": "help wanted",
+    "color": "128A0C",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 658875907,
+    "node_id": "MDU6TGFiZWw2NTg4NzU5MDc=",
+    "url": "https://api.github.com/repos/getsentry/sentry-dart/labels/invalid",
+    "name": "invalid",
+    "color": "e6e6e6",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 2376141602,
+    "node_id": "MDU6TGFiZWwyMzc2MTQxNjAy",
+    "url": "https://api.github.com/repos/getsentry/sentry-dart/labels/performance",
+    "name": "performance",
+    "color": "c13c52",
+    "default": false,
+    "description": ""
+  },
+  {
+    "id": 658875908,
+    "node_id": "MDU6TGFiZWw2NTg4NzU5MDg=",
+    "url": "https://api.github.com/repos/getsentry/sentry-dart/labels/question",
+    "name": "question",
+    "color": "cc317c",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 2376146262,
+    "node_id": "MDU6TGFiZWwyMzc2MTQ2MjYy",
+    "url": "https://api.github.com/repos/getsentry/sentry-dart/labels/release-health",
+    "name": "release-health",
+    "color": "b2650e",
+    "default": false,
+    "description": ""
+  },
+  {
+    "id": 2589354233,
+    "node_id": "MDU6TGFiZWwyNTg5MzU0MjMz",
+    "url": "https://api.github.com/repos/getsentry/sentry-dart/labels/up-for-grabs",
+    "name": "up-for-grabs",
+    "color": "138100",
+    "default": false,
+    "description": ""
+  },
+  {
+    "id": 658875909,
+    "node_id": "MDU6TGFiZWw2NTg4NzU5MDk=",
+    "url": "https://api.github.com/repos/getsentry/sentry-dart/labels/wontfix",
+    "name": "wontfix",
+    "color": "ffffff",
+    "default": true,
+    "description": null
+  }
+]

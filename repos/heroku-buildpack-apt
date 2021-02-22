@@ -1,0 +1,65 @@
+[
+  {
+    "id": 255702908,
+    "node_id": "MDU6TGFiZWwyNTU3MDI5MDg=",
+    "url": "https://api.github.com/repos/getsentry/heroku-buildpack-apt/labels/bug",
+    "name": "bug",
+    "color": "fc2929",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 255702909,
+    "node_id": "MDU6TGFiZWwyNTU3MDI5MDk=",
+    "url": "https://api.github.com/repos/getsentry/heroku-buildpack-apt/labels/duplicate",
+    "name": "duplicate",
+    "color": "cccccc",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 255702910,
+    "node_id": "MDU6TGFiZWwyNTU3MDI5MTA=",
+    "url": "https://api.github.com/repos/getsentry/heroku-buildpack-apt/labels/enhancement",
+    "name": "enhancement",
+    "color": "84b6eb",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 255702911,
+    "node_id": "MDU6TGFiZWwyNTU3MDI5MTE=",
+    "url": "https://api.github.com/repos/getsentry/heroku-buildpack-apt/labels/help%20wanted",
+    "name": "help wanted",
+    "color": "159818",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 255702912,
+    "node_id": "MDU6TGFiZWwyNTU3MDI5MTI=",
+    "url": "https://api.github.com/repos/getsentry/heroku-buildpack-apt/labels/invalid",
+    "name": "invalid",
+    "color": "e6e6e6",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 255702913,
+    "node_id": "MDU6TGFiZWwyNTU3MDI5MTM=",
+    "url": "https://api.github.com/repos/getsentry/heroku-buildpack-apt/labels/question",
+    "name": "question",
+    "color": "cc317c",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 255702914,
+    "node_id": "MDU6TGFiZWwyNTU3MDI5MTQ=",
+    "url": "https://api.github.com/repos/getsentry/heroku-buildpack-apt/labels/wontfix",
+    "name": "wontfix",
+    "color": "ffffff",
+    "default": true,
+    "description": null
+  }
+]

@@ -1,0 +1,101 @@
+[
+  {
+    "id": 1385678431,
+    "node_id": "MDU6TGFiZWwxMzg1Njc4NDMx",
+    "url": "https://api.github.com/repos/getsentry/snuba/labels/WIP",
+    "name": "WIP",
+    "color": "24b2f4",
+    "default": false,
+    "description": "Work in progress"
+  },
+  {
+    "id": 853173845,
+    "node_id": "MDU6TGFiZWw4NTMxNzM4NDU=",
+    "url": "https://api.github.com/repos/getsentry/snuba/labels/bug",
+    "name": "bug",
+    "color": "d73a4a",
+    "default": true,
+    "description": "Something isn't working"
+  },
+  {
+    "id": 1643371218,
+    "node_id": "MDU6TGFiZWwxNjQzMzcxMjE4",
+    "url": "https://api.github.com/repos/getsentry/snuba/labels/dependencies",
+    "name": "dependencies",
+    "color": "0366d6",
+    "default": false,
+    "description": "Pull requests that update a dependency file"
+  },
+  {
+    "id": 1436559450,
+    "node_id": "MDU6TGFiZWwxNDM2NTU5NDUw",
+    "url": "https://api.github.com/repos/getsentry/snuba/labels/do%20not%20merge",
+    "name": "do not merge",
+    "color": "99153f",
+    "default": false,
+    "description": ""
+  },
+  {
+    "id": 853173850,
+    "node_id": "MDU6TGFiZWw4NTMxNzM4NTA=",
+    "url": "https://api.github.com/repos/getsentry/snuba/labels/duplicate",
+    "name": "duplicate",
+    "color": "cfd3d7",
+    "default": true,
+    "description": "This issue or pull request already exists"
+  },
+  {
+    "id": 853173851,
+    "node_id": "MDU6TGFiZWw4NTMxNzM4NTE=",
+    "url": "https://api.github.com/repos/getsentry/snuba/labels/enhancement",
+    "name": "enhancement",
+    "color": "a2eeef",
+    "default": true,
+    "description": "New feature or request"
+  },
+  {
+    "id": 853173853,
+    "node_id": "MDU6TGFiZWw4NTMxNzM4NTM=",
+    "url": "https://api.github.com/repos/getsentry/snuba/labels/good%20first%20issue",
+    "name": "good first issue",
+    "color": "7057ff",
+    "default": true,
+    "description": "Good for newcomers"
+  },
+  {
+    "id": 853173852,
+    "node_id": "MDU6TGFiZWw4NTMxNzM4NTI=",
+    "url": "https://api.github.com/repos/getsentry/snuba/labels/help%20wanted",
+    "name": "help wanted",
+    "color": "008672",
+    "default": true,
+    "description": "Extra attention is needed"
+  },
+  {
+    "id": 853173854,
+    "node_id": "MDU6TGFiZWw4NTMxNzM4NTQ=",
+    "url": "https://api.github.com/repos/getsentry/snuba/labels/invalid",
+    "name": "invalid",
+    "color": "e4e669",
+    "default": true,
+    "description": "This doesn't seem right"
+  },
+  {
+    "id": 853173855,
+    "node_id": "MDU6TGFiZWw4NTMxNzM4NTU=",
+    "url": "https://api.github.com/repos/getsentry/snuba/labels/question",
+    "name": "question",
+    "color": "d876e3",
+    "default": true,
+    "description": "Further information is requested"
+  },
+  {
+    "id": 853173856,
+    "node_id": "MDU6TGFiZWw4NTMxNzM4NTY=",
+    "url": "https://api.github.com/repos/getsentry/snuba/labels/wontfix",
+    "name": "wontfix",
+    "color": "ffffff",
+    "default": true,
+    "description": "This will not be worked on"
+  }
+]

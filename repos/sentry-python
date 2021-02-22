@@ -1,0 +1,173 @@
+[
+  {
+    "id": 1143181806,
+    "node_id": "MDU6TGFiZWwxMTQzMTgxODA2",
+    "url": "https://api.github.com/repos/getsentry/sentry-python/labels/SDK-SP",
+    "name": "SDK-SP",
+    "color": "d3fc88",
+    "default": false,
+    "description": "Stuff to consider for the next sprint"
+  },
+  {
+    "id": 968428651,
+    "node_id": "MDU6TGFiZWw5Njg0Mjg2NTE=",
+    "url": "https://api.github.com/repos/getsentry/sentry-python/labels/bug",
+    "name": "bug",
+    "color": "d73a4a",
+    "default": true,
+    "description": "Something isn't working"
+  },
+  {
+    "id": 1150441145,
+    "node_id": "MDU6TGFiZWwxMTUwNDQxMTQ1",
+    "url": "https://api.github.com/repos/getsentry/sentry-python/labels/client-option",
+    "name": "client-option",
+    "color": "96ff96",
+    "default": false,
+    "description": ""
+  },
+  {
+    "id": 1512483589,
+    "node_id": "MDU6TGFiZWwxNTEyNDgzNTg5",
+    "url": "https://api.github.com/repos/getsentry/sentry-python/labels/dependencies",
+    "name": "dependencies",
+    "color": "0366d6",
+    "default": false,
+    "description": "Pull requests that update a dependency file"
+  },
+  {
+    "id": 1103938501,
+    "node_id": "MDU6TGFiZWwxMTAzOTM4NTAx",
+    "url": "https://api.github.com/repos/getsentry/sentry-python/labels/doc",
+    "name": "doc",
+    "color": "5319e7",
+    "default": false,
+    "description": "updates on getsentry/docs or docstrings"
+  },
+  {
+    "id": 968428652,
+    "node_id": "MDU6TGFiZWw5Njg0Mjg2NTI=",
+    "url": "https://api.github.com/repos/getsentry/sentry-python/labels/duplicate",
+    "name": "duplicate",
+    "color": "cfd3d7",
+    "default": true,
+    "description": "This issue or pull request already exists"
+  },
+  {
+    "id": 968428653,
+    "node_id": "MDU6TGFiZWw5Njg0Mjg2NTM=",
+    "url": "https://api.github.com/repos/getsentry/sentry-python/labels/enhancement",
+    "name": "enhancement",
+    "color": "a2eeef",
+    "default": true,
+    "description": "New feature or request"
+  },
+  {
+    "id": 968428655,
+    "node_id": "MDU6TGFiZWw5Njg0Mjg2NTU=",
+    "url": "https://api.github.com/repos/getsentry/sentry-python/labels/good%20first%20issue",
+    "name": "good first issue",
+    "color": "7057ff",
+    "default": true,
+    "description": "Good for newcomers"
+  },
+  {
+    "id": 968428654,
+    "node_id": "MDU6TGFiZWw5Njg0Mjg2NTQ=",
+    "url": "https://api.github.com/repos/getsentry/sentry-python/labels/help%20wanted",
+    "name": "help wanted",
+    "color": "008672",
+    "default": true,
+    "description": "Extra attention is needed"
+  },
+  {
+    "id": 968428656,
+    "node_id": "MDU6TGFiZWw5Njg0Mjg2NTY=",
+    "url": "https://api.github.com/repos/getsentry/sentry-python/labels/invalid",
+    "name": "invalid",
+    "color": "e4e669",
+    "default": true,
+    "description": "off-topic, spam, non-issues"
+  },
+  {
+    "id": 1167050501,
+    "node_id": "MDU6TGFiZWwxMTY3MDUwNTAx",
+    "url": "https://api.github.com/repos/getsentry/sentry-python/labels/needs-information",
+    "name": "needs-information",
+    "color": "e4e669",
+    "default": false,
+    "description": ""
+  },
+  {
+    "id": 1089711264,
+    "node_id": "MDU6TGFiZWwxMDg5NzExMjY0",
+    "url": "https://api.github.com/repos/getsentry/sentry-python/labels/new-integration",
+    "name": "new-integration",
+    "color": "28ed12",
+    "default": false,
+    "description": "Integrating with a new framework or library"
+  },
+  {
+    "id": 2400904476,
+    "node_id": "MDU6TGFiZWwyNDAwOTA0NDc2",
+    "url": "https://api.github.com/repos/getsentry/sentry-python/labels/python",
+    "name": "python",
+    "color": "2b67c6",
+    "default": false,
+    "description": "Pull requests that update Python code"
+  },
+  {
+    "id": 968428657,
+    "node_id": "MDU6TGFiZWw5Njg0Mjg2NTc=",
+    "url": "https://api.github.com/repos/getsentry/sentry-python/labels/question",
+    "name": "question",
+    "color": "d876e3",
+    "default": true,
+    "description": "Further information is requested"
+  },
+  {
+    "id": 1608718039,
+    "node_id": "MDU6TGFiZWwxNjA4NzE4MDM5",
+    "url": "https://api.github.com/repos/getsentry/sentry-python/labels/server-fix",
+    "name": "server-fix",
+    "color": "d93f0b",
+    "default": false,
+    "description": "Things that need fixing on sentry.io"
+  },
+  {
+    "id": 1108857545,
+    "node_id": "MDU6TGFiZWwxMTA4ODU3NTQ1",
+    "url": "https://api.github.com/repos/getsentry/sentry-python/labels/stabilization",
+    "name": "stabilization",
+    "color": "bfdadc",
+    "default": false,
+    "description": "Stabilizing functionality that is already there but \"private\""
+  },
+  {
+    "id": 2400951565,
+    "node_id": "MDU6TGFiZWwyNDAwOTUxNTY1",
+    "url": "https://api.github.com/repos/getsentry/sentry-python/labels/submodules",
+    "name": "submodules",
+    "color": "000000",
+    "default": false,
+    "description": "Pull requests that update Submodules code"
+  },
+  {
+    "id": 1298928954,
+    "node_id": "MDU6TGFiZWwxMjk4OTI4OTU0",
+    "url": "https://api.github.com/repos/getsentry/sentry-python/labels/typehints",
+    "name": "typehints",
+    "color": "0052cc",
+    "default": false,
+    "description": ""
+  },
+  {
+    "id": 968428658,
+    "node_id": "MDU6TGFiZWw5Njg0Mjg2NTg=",
+    "url": "https://api.github.com/repos/getsentry/sentry-python/labels/wontfix",
+    "name": "wontfix",
+    "color": "ffffff",
+    "default": true,
+    "description": "This will not be worked on"
+  }
+]

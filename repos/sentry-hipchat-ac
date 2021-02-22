@@ -1,0 +1,92 @@
+[
+  {
+    "id": 264219582,
+    "node_id": "MDU6TGFiZWwyNjQyMTk1ODI=",
+    "url": "https://api.github.com/repos/getsentry/sentry-hipchat-ac/labels/blocker",
+    "name": "blocker",
+    "color": "e11d21",
+    "default": false,
+    "description": null
+  },
+  {
+    "id": 260411142,
+    "node_id": "MDU6TGFiZWwyNjA0MTExNDI=",
+    "url": "https://api.github.com/repos/getsentry/sentry-hipchat-ac/labels/bug",
+    "name": "bug",
+    "color": "fc2929",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 260411143,
+    "node_id": "MDU6TGFiZWwyNjA0MTExNDM=",
+    "url": "https://api.github.com/repos/getsentry/sentry-hipchat-ac/labels/duplicate",
+    "name": "duplicate",
+    "color": "cccccc",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 260411144,
+    "node_id": "MDU6TGFiZWwyNjA0MTExNDQ=",
+    "url": "https://api.github.com/repos/getsentry/sentry-hipchat-ac/labels/enhancement",
+    "name": "enhancement",
+    "color": "84b6eb",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 260411145,
+    "node_id": "MDU6TGFiZWwyNjA0MTExNDU=",
+    "url": "https://api.github.com/repos/getsentry/sentry-hipchat-ac/labels/help%20wanted",
+    "name": "help wanted",
+    "color": "159818",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 260411146,
+    "node_id": "MDU6TGFiZWwyNjA0MTExNDY=",
+    "url": "https://api.github.com/repos/getsentry/sentry-hipchat-ac/labels/invalid",
+    "name": "invalid",
+    "color": "e6e6e6",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 264220505,
+    "node_id": "MDU6TGFiZWwyNjQyMjA1MDU=",
+    "url": "https://api.github.com/repos/getsentry/sentry-hipchat-ac/labels/needs%20atlassian",
+    "name": "needs atlassian",
+    "color": "207de5",
+    "default": false,
+    "description": null
+  },
+  {
+    "id": 264219560,
+    "node_id": "MDU6TGFiZWwyNjQyMTk1NjA=",
+    "url": "https://api.github.com/repos/getsentry/sentry-hipchat-ac/labels/nice%20to%20have",
+    "name": "nice to have",
+    "color": "5319e7",
+    "default": false,
+    "description": null
+  },
+  {
+    "id": 260411147,
+    "node_id": "MDU6TGFiZWwyNjA0MTExNDc=",
+    "url": "https://api.github.com/repos/getsentry/sentry-hipchat-ac/labels/question",
+    "name": "question",
+    "color": "cc317c",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 260411148,
+    "node_id": "MDU6TGFiZWwyNjA0MTExNDg=",
+    "url": "https://api.github.com/repos/getsentry/sentry-hipchat-ac/labels/wontfix",
+    "name": "wontfix",
+    "color": "ffffff",
+    "default": true,
+    "description": null
+  }
+]

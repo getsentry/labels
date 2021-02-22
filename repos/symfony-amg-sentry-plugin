@@ -1,0 +1,56 @@
+[
+  {
+    "id": 13788425,
+    "node_id": "MDU6TGFiZWwxMzc4ODQyNQ==",
+    "url": "https://api.github.com/repos/getsentry/symfony-amg-sentry-plugin/labels/bug",
+    "name": "bug",
+    "color": "fc2929",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 13788426,
+    "node_id": "MDU6TGFiZWwxMzc4ODQyNg==",
+    "url": "https://api.github.com/repos/getsentry/symfony-amg-sentry-plugin/labels/duplicate",
+    "name": "duplicate",
+    "color": "cccccc",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 13788427,
+    "node_id": "MDU6TGFiZWwxMzc4ODQyNw==",
+    "url": "https://api.github.com/repos/getsentry/symfony-amg-sentry-plugin/labels/enhancement",
+    "name": "enhancement",
+    "color": "84b6eb",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 13788428,
+    "node_id": "MDU6TGFiZWwxMzc4ODQyOA==",
+    "url": "https://api.github.com/repos/getsentry/symfony-amg-sentry-plugin/labels/invalid",
+    "name": "invalid",
+    "color": "e6e6e6",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 13788429,
+    "node_id": "MDU6TGFiZWwxMzc4ODQyOQ==",
+    "url": "https://api.github.com/repos/getsentry/symfony-amg-sentry-plugin/labels/question",
+    "name": "question",
+    "color": "cc317c",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 13788430,
+    "node_id": "MDU6TGFiZWwxMzc4ODQzMA==",
+    "url": "https://api.github.com/repos/getsentry/symfony-amg-sentry-plugin/labels/wontfix",
+    "name": "wontfix",
+    "color": "ffffff",
+    "default": true,
+    "description": null
+  }
+]

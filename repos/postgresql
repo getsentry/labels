@@ -1,0 +1,56 @@
+[
+  {
+    "id": 13865379,
+    "node_id": "MDU6TGFiZWwxMzg2NTM3OQ==",
+    "url": "https://api.github.com/repos/getsentry/postgresql/labels/bug",
+    "name": "bug",
+    "color": "fc2929",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 13865380,
+    "node_id": "MDU6TGFiZWwxMzg2NTM4MA==",
+    "url": "https://api.github.com/repos/getsentry/postgresql/labels/duplicate",
+    "name": "duplicate",
+    "color": "cccccc",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 13865381,
+    "node_id": "MDU6TGFiZWwxMzg2NTM4MQ==",
+    "url": "https://api.github.com/repos/getsentry/postgresql/labels/enhancement",
+    "name": "enhancement",
+    "color": "84b6eb",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 13865382,
+    "node_id": "MDU6TGFiZWwxMzg2NTM4Mg==",
+    "url": "https://api.github.com/repos/getsentry/postgresql/labels/invalid",
+    "name": "invalid",
+    "color": "e6e6e6",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 13865383,
+    "node_id": "MDU6TGFiZWwxMzg2NTM4Mw==",
+    "url": "https://api.github.com/repos/getsentry/postgresql/labels/question",
+    "name": "question",
+    "color": "cc317c",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 13865384,
+    "node_id": "MDU6TGFiZWwxMzg2NTM4NA==",
+    "url": "https://api.github.com/repos/getsentry/postgresql/labels/wontfix",
+    "name": "wontfix",
+    "color": "ffffff",
+    "default": true,
+    "description": null
+  }
+]

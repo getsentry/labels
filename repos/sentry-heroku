@@ -1,0 +1,65 @@
+[
+  {
+    "id": 210357488,
+    "node_id": "MDU6TGFiZWwyMTAzNTc0ODg=",
+    "url": "https://api.github.com/repos/getsentry/sentry-heroku/labels/bug",
+    "name": "bug",
+    "color": "fc2929",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 210357489,
+    "node_id": "MDU6TGFiZWwyMTAzNTc0ODk=",
+    "url": "https://api.github.com/repos/getsentry/sentry-heroku/labels/duplicate",
+    "name": "duplicate",
+    "color": "cccccc",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 210357490,
+    "node_id": "MDU6TGFiZWwyMTAzNTc0OTA=",
+    "url": "https://api.github.com/repos/getsentry/sentry-heroku/labels/enhancement",
+    "name": "enhancement",
+    "color": "84b6eb",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 210357491,
+    "node_id": "MDU6TGFiZWwyMTAzNTc0OTE=",
+    "url": "https://api.github.com/repos/getsentry/sentry-heroku/labels/help%20wanted",
+    "name": "help wanted",
+    "color": "159818",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 210357492,
+    "node_id": "MDU6TGFiZWwyMTAzNTc0OTI=",
+    "url": "https://api.github.com/repos/getsentry/sentry-heroku/labels/invalid",
+    "name": "invalid",
+    "color": "e6e6e6",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 210357493,
+    "node_id": "MDU6TGFiZWwyMTAzNTc0OTM=",
+    "url": "https://api.github.com/repos/getsentry/sentry-heroku/labels/question",
+    "name": "question",
+    "color": "cc317c",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 210357494,
+    "node_id": "MDU6TGFiZWwyMTAzNTc0OTQ=",
+    "url": "https://api.github.com/repos/getsentry/sentry-heroku/labels/wontfix",
+    "name": "wontfix",
+    "color": "ffffff",
+    "default": true,
+    "description": null
+  }
+]

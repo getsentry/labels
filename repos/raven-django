@@ -1,0 +1,65 @@
+[
+  {
+    "id": 116653690,
+    "node_id": "MDU6TGFiZWwxMTY2NTM2OTA=",
+    "url": "https://api.github.com/repos/getsentry/raven-django/labels/bug",
+    "name": "bug",
+    "color": "fc2929",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 116653691,
+    "node_id": "MDU6TGFiZWwxMTY2NTM2OTE=",
+    "url": "https://api.github.com/repos/getsentry/raven-django/labels/duplicate",
+    "name": "duplicate",
+    "color": "cccccc",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 116653692,
+    "node_id": "MDU6TGFiZWwxMTY2NTM2OTI=",
+    "url": "https://api.github.com/repos/getsentry/raven-django/labels/enhancement",
+    "name": "enhancement",
+    "color": "84b6eb",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 116653693,
+    "node_id": "MDU6TGFiZWwxMTY2NTM2OTM=",
+    "url": "https://api.github.com/repos/getsentry/raven-django/labels/help%20wanted",
+    "name": "help wanted",
+    "color": "159818",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 116653694,
+    "node_id": "MDU6TGFiZWwxMTY2NTM2OTQ=",
+    "url": "https://api.github.com/repos/getsentry/raven-django/labels/invalid",
+    "name": "invalid",
+    "color": "e6e6e6",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 116653695,
+    "node_id": "MDU6TGFiZWwxMTY2NTM2OTU=",
+    "url": "https://api.github.com/repos/getsentry/raven-django/labels/question",
+    "name": "question",
+    "color": "cc317c",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 116653696,
+    "node_id": "MDU6TGFiZWwxMTY2NTM2OTY=",
+    "url": "https://api.github.com/repos/getsentry/raven-django/labels/wontfix",
+    "name": "wontfix",
+    "color": "ffffff",
+    "default": true,
+    "description": null
+  }
+]

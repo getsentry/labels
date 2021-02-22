@@ -1,0 +1,74 @@
+[
+  {
+    "id": 502306154,
+    "node_id": "MDU6TGFiZWw1MDIzMDYxNTQ=",
+    "url": "https://api.github.com/repos/getsentry/demo-django/labels/bug",
+    "name": "bug",
+    "color": "ee0701",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 2203924062,
+    "node_id": "MDU6TGFiZWwyMjAzOTI0MDYy",
+    "url": "https://api.github.com/repos/getsentry/demo-django/labels/dependencies",
+    "name": "dependencies",
+    "color": "0366d6",
+    "default": false,
+    "description": "Pull requests that update a dependency file"
+  },
+  {
+    "id": 502306155,
+    "node_id": "MDU6TGFiZWw1MDIzMDYxNTU=",
+    "url": "https://api.github.com/repos/getsentry/demo-django/labels/duplicate",
+    "name": "duplicate",
+    "color": "cccccc",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 502306156,
+    "node_id": "MDU6TGFiZWw1MDIzMDYxNTY=",
+    "url": "https://api.github.com/repos/getsentry/demo-django/labels/enhancement",
+    "name": "enhancement",
+    "color": "84b6eb",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 502306157,
+    "node_id": "MDU6TGFiZWw1MDIzMDYxNTc=",
+    "url": "https://api.github.com/repos/getsentry/demo-django/labels/help%20wanted",
+    "name": "help wanted",
+    "color": "128A0C",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 502306158,
+    "node_id": "MDU6TGFiZWw1MDIzMDYxNTg=",
+    "url": "https://api.github.com/repos/getsentry/demo-django/labels/invalid",
+    "name": "invalid",
+    "color": "e6e6e6",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 502306159,
+    "node_id": "MDU6TGFiZWw1MDIzMDYxNTk=",
+    "url": "https://api.github.com/repos/getsentry/demo-django/labels/question",
+    "name": "question",
+    "color": "cc317c",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 502306160,
+    "node_id": "MDU6TGFiZWw1MDIzMDYxNjA=",
+    "url": "https://api.github.com/repos/getsentry/demo-django/labels/wontfix",
+    "name": "wontfix",
+    "color": "ffffff",
+    "default": true,
+    "description": null
+  }
+]

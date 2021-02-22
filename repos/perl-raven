@@ -1,0 +1,65 @@
+[
+  {
+    "id": 98146548,
+    "node_id": "MDU6TGFiZWw5ODE0NjU0OA==",
+    "url": "https://api.github.com/repos/getsentry/perl-raven/labels/bug",
+    "name": "bug",
+    "color": "fc2929",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 98146549,
+    "node_id": "MDU6TGFiZWw5ODE0NjU0OQ==",
+    "url": "https://api.github.com/repos/getsentry/perl-raven/labels/duplicate",
+    "name": "duplicate",
+    "color": "cccccc",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 98146550,
+    "node_id": "MDU6TGFiZWw5ODE0NjU1MA==",
+    "url": "https://api.github.com/repos/getsentry/perl-raven/labels/enhancement",
+    "name": "enhancement",
+    "color": "84b6eb",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 98146551,
+    "node_id": "MDU6TGFiZWw5ODE0NjU1MQ==",
+    "url": "https://api.github.com/repos/getsentry/perl-raven/labels/help%20wanted",
+    "name": "help wanted",
+    "color": "159818",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 98146552,
+    "node_id": "MDU6TGFiZWw5ODE0NjU1Mg==",
+    "url": "https://api.github.com/repos/getsentry/perl-raven/labels/invalid",
+    "name": "invalid",
+    "color": "e6e6e6",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 98146553,
+    "node_id": "MDU6TGFiZWw5ODE0NjU1Mw==",
+    "url": "https://api.github.com/repos/getsentry/perl-raven/labels/question",
+    "name": "question",
+    "color": "cc317c",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 98146554,
+    "node_id": "MDU6TGFiZWw5ODE0NjU1NA==",
+    "url": "https://api.github.com/repos/getsentry/perl-raven/labels/wontfix",
+    "name": "wontfix",
+    "color": "ffffff",
+    "default": true,
+    "description": null
+  }
+]

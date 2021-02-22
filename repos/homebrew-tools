@@ -1,0 +1,65 @@
+[
+  {
+    "id": 538601670,
+    "node_id": "MDU6TGFiZWw1Mzg2MDE2NzA=",
+    "url": "https://api.github.com/repos/getsentry/homebrew-tools/labels/bug",
+    "name": "bug",
+    "color": "ee0701",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 538601671,
+    "node_id": "MDU6TGFiZWw1Mzg2MDE2NzE=",
+    "url": "https://api.github.com/repos/getsentry/homebrew-tools/labels/duplicate",
+    "name": "duplicate",
+    "color": "cccccc",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 538601672,
+    "node_id": "MDU6TGFiZWw1Mzg2MDE2NzI=",
+    "url": "https://api.github.com/repos/getsentry/homebrew-tools/labels/enhancement",
+    "name": "enhancement",
+    "color": "84b6eb",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 538601673,
+    "node_id": "MDU6TGFiZWw1Mzg2MDE2NzM=",
+    "url": "https://api.github.com/repos/getsentry/homebrew-tools/labels/help%20wanted",
+    "name": "help wanted",
+    "color": "128A0C",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 538601674,
+    "node_id": "MDU6TGFiZWw1Mzg2MDE2NzQ=",
+    "url": "https://api.github.com/repos/getsentry/homebrew-tools/labels/invalid",
+    "name": "invalid",
+    "color": "e6e6e6",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 538601675,
+    "node_id": "MDU6TGFiZWw1Mzg2MDE2NzU=",
+    "url": "https://api.github.com/repos/getsentry/homebrew-tools/labels/question",
+    "name": "question",
+    "color": "cc317c",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 538601676,
+    "node_id": "MDU6TGFiZWw1Mzg2MDE2NzY=",
+    "url": "https://api.github.com/repos/getsentry/homebrew-tools/labels/wontfix",
+    "name": "wontfix",
+    "color": "ffffff",
+    "default": true,
+    "description": null
+  }
+]

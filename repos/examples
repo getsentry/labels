@@ -1,0 +1,137 @@
+[
+  {
+    "id": 650280282,
+    "node_id": "MDU6TGFiZWw2NTAyODAyODI=",
+    "url": "https://api.github.com/repos/getsentry/examples/labels/bug",
+    "name": "bug",
+    "color": "ee0701",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 1651731996,
+    "node_id": "MDU6TGFiZWwxNjUxNzMxOTk2",
+    "url": "https://api.github.com/repos/getsentry/examples/labels/dependencies",
+    "name": "dependencies",
+    "color": "0366d6",
+    "default": false,
+    "description": "Pull requests that update a dependency file"
+  },
+  {
+    "id": 650280283,
+    "node_id": "MDU6TGFiZWw2NTAyODAyODM=",
+    "url": "https://api.github.com/repos/getsentry/examples/labels/duplicate",
+    "name": "duplicate",
+    "color": "cccccc",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 650280284,
+    "node_id": "MDU6TGFiZWw2NTAyODAyODQ=",
+    "url": "https://api.github.com/repos/getsentry/examples/labels/enhancement",
+    "name": "enhancement",
+    "color": "84b6eb",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 650280285,
+    "node_id": "MDU6TGFiZWw2NTAyODAyODU=",
+    "url": "https://api.github.com/repos/getsentry/examples/labels/help%20wanted",
+    "name": "help wanted",
+    "color": "128A0C",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 650280286,
+    "node_id": "MDU6TGFiZWw2NTAyODAyODY=",
+    "url": "https://api.github.com/repos/getsentry/examples/labels/invalid",
+    "name": "invalid",
+    "color": "e6e6e6",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 2602250260,
+    "node_id": "MDU6TGFiZWwyNjAyMjUwMjYw",
+    "url": "https://api.github.com/repos/getsentry/examples/labels/java",
+    "name": "java",
+    "color": "176BCC",
+    "default": false,
+    "description": ""
+  },
+  {
+    "id": 1713148553,
+    "node_id": "MDU6TGFiZWwxNzEzMTQ4NTUz",
+    "url": "https://api.github.com/repos/getsentry/examples/labels/javascript",
+    "name": "javascript",
+    "color": "168700",
+    "default": false,
+    "description": "Pull requests that update Javascript code"
+  },
+  {
+    "id": 1710723033,
+    "node_id": "MDU6TGFiZWwxNzEwNzIzMDMz",
+    "url": "https://api.github.com/repos/getsentry/examples/labels/php",
+    "name": "php",
+    "color": "45229e",
+    "default": false,
+    "description": "Pull requests that update Php code"
+  },
+  {
+    "id": 1841778085,
+    "node_id": "MDU6TGFiZWwxODQxNzc4MDg1",
+    "url": "https://api.github.com/repos/getsentry/examples/labels/python",
+    "name": "python",
+    "color": "2b67c6",
+    "default": false,
+    "description": "Pull requests that update Python code"
+  },
+  {
+    "id": 650280287,
+    "node_id": "MDU6TGFiZWw2NTAyODAyODc=",
+    "url": "https://api.github.com/repos/getsentry/examples/labels/question",
+    "name": "question",
+    "color": "cc317c",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 2602249325,
+    "node_id": "MDU6TGFiZWwyNjAyMjQ5MzI1",
+    "url": "https://api.github.com/repos/getsentry/examples/labels/react-native",
+    "name": "react-native",
+    "color": "FD7A92",
+    "default": false,
+    "description": ""
+  },
+  {
+    "id": 2602250542,
+    "node_id": "MDU6TGFiZWwyNjAyMjUwNTQy",
+    "url": "https://api.github.com/repos/getsentry/examples/labels/rust",
+    "name": "rust",
+    "color": "DA440D",
+    "default": false,
+    "description": ""
+  },
+  {
+    "id": 2639725378,
+    "node_id": "MDU6TGFiZWwyNjM5NzI1Mzc4",
+    "url": "https://api.github.com/repos/getsentry/examples/labels/up-for-grabs",
+    "name": "up-for-grabs",
+    "color": "87E461",
+    "default": false,
+    "description": ""
+  },
+  {
+    "id": 650280289,
+    "node_id": "MDU6TGFiZWw2NTAyODAyODk=",
+    "url": "https://api.github.com/repos/getsentry/examples/labels/wontfix",
+    "name": "wontfix",
+    "color": "ffffff",
+    "default": true,
+    "description": null
+  }
+]
