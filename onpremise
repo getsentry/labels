@@ -1,0 +1,128 @@
+[
+  {
+    "id": 2640243530,
+    "node_id": "MDU6TGFiZWwyNjQwMjQzNTMw",
+    "url": "https://api.github.com/repos/getsentry/onpremise/labels/Status:%20Backlog",
+    "name": "Status: Backlog",
+    "color": "fef2c0",
+    "default": false,
+    "description": "stalebot will ignore"
+  },
+  {
+    "id": 2632013617,
+    "node_id": "MDU6TGFiZWwyNjMyMDEzNjE3",
+    "url": "https://api.github.com/repos/getsentry/onpremise/labels/Status:%20In%20Progress",
+    "name": "Status: In Progress",
+    "color": "c5def5",
+    "default": false,
+    "description": "stalebot will ignore"
+  },
+  {
+    "id": 1399846767,
+    "node_id": "MDU6TGFiZWwxMzk5ODQ2NzY3",
+    "url": "https://api.github.com/repos/getsentry/onpremise/labels/Status:%20Needs%20More%20Information",
+    "name": "Status: Needs More Information",
+    "color": "5c1ebf",
+    "default": false,
+    "description": "stalebot will close after four weeks of inactivity"
+  },
+  {
+    "id": 2632002011,
+    "node_id": "MDU6TGFiZWwyNjMyMDAyMDEx",
+    "url": "https://api.github.com/repos/getsentry/onpremise/labels/Status:%20Stale",
+    "name": "Status: Stale",
+    "color": "ededed",
+    "default": false,
+    "description": "stalebot will close after another week of inactivity"
+  },
+  {
+    "id": 2755628449,
+    "node_id": "MDU6TGFiZWwyNzU1NjI4NDQ5",
+    "url": "https://api.github.com/repos/getsentry/onpremise/labels/Status:%20Unrouted",
+    "name": "Status: Unrouted",
+    "color": "ededed",
+    "default": false,
+    "description": null
+  },
+  {
+    "id": 324879387,
+    "node_id": "MDU6TGFiZWwzMjQ4NzkzODc=",
+    "url": "https://api.github.com/repos/getsentry/onpremise/labels/Type:%20Bug",
+    "name": "Type: Bug",
+    "color": "fc2929",
+    "default": false,
+    "description": ""
+  },
+  {
+    "id": 324879389,
+    "node_id": "MDU6TGFiZWwzMjQ4NzkzODk=",
+    "url": "https://api.github.com/repos/getsentry/onpremise/labels/Type:%20Enhancement",
+    "name": "Type: Enhancement",
+    "color": "84b6eb",
+    "default": false,
+    "description": ""
+  },
+  {
+    "id": 324879391,
+    "node_id": "MDU6TGFiZWwzMjQ4NzkzOTE=",
+    "url": "https://api.github.com/repos/getsentry/onpremise/labels/Type:%20Invalid",
+    "name": "Type: Invalid",
+    "color": "e6e6e6",
+    "default": false,
+    "description": ""
+  },
+  {
+    "id": 324879392,
+    "node_id": "MDU6TGFiZWwzMjQ4NzkzOTI=",
+    "url": "https://api.github.com/repos/getsentry/onpremise/labels/Type:%20Question",
+    "name": "Type: Question",
+    "color": "cc317c",
+    "default": false,
+    "description": ""
+  },
+  {
+    "id": 1405227919,
+    "node_id": "MDU6TGFiZWwxNDA1MjI3OTE5",
+    "url": "https://api.github.com/repos/getsentry/onpremise/labels/category:%20docs",
+    "name": "category: docs",
+    "color": "734ab5",
+    "default": false,
+    "description": ""
+  },
+  {
+    "id": 324879388,
+    "node_id": "MDU6TGFiZWwzMjQ4NzkzODg=",
+    "url": "https://api.github.com/repos/getsentry/onpremise/labels/duplicate",
+    "name": "duplicate",
+    "color": "cccccc",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 324879390,
+    "node_id": "MDU6TGFiZWwzMjQ4NzkzOTA=",
+    "url": "https://api.github.com/repos/getsentry/onpremise/labels/help%20wanted",
+    "name": "help wanted",
+    "color": "159818",
+    "default": true,
+    "description": null
+  },
+  {
+    "id": 2205475784,
+    "node_id": "MDU6TGFiZWwyMjA1NDc1Nzg0",
+    "url": "https://api.github.com/repos/getsentry/onpremise/labels/release-blocker",
+    "name": "release-blocker",
+    "color": "ff8800",
+    "default": false,
+    "description": "Any issue open with this tag will stop CalVer releases from happening"
+  },
+  {
+    "id": 324879393,
+    "node_id": "MDU6TGFiZWwzMjQ4NzkzOTM=",
+    "url": "https://api.github.com/repos/getsentry/onpremise/labels/wontfix",
+    "name": "wontfix",
+    "color": "ffffff",
+    "default": true,
+    "description": null
+  }
+]

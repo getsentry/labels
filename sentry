@@ -1,0 +1,272 @@
+[
+  {
+    "id": 261315139,
+    "node_id": "MDU6TGFiZWwyNjEzMTUxMzk=",
+    "url": "https://api.github.com/repos/getsentry/sentry/labels/Component:%20API",
+    "name": "Component: API",
+    "color": "e11d21",
+    "default": false,
+    "description": null
+  },
+  {
+    "id": 366634264,
+    "node_id": "MDU6TGFiZWwzNjY2MzQyNjQ=",
+    "url": "https://api.github.com/repos/getsentry/sentry/labels/Component:%20Analytics",
+    "name": "Component: Analytics",
+    "color": "0e8a16",
+    "default": false,
+    "description": null
+  },
+  {
+    "id": 288143652,
+    "node_id": "MDU6TGFiZWwyODgxNDM2NTI=",
+    "url": "https://api.github.com/repos/getsentry/sentry/labels/Component:%20Auth",
+    "name": "Component: Auth",
+    "color": "c7def8",
+    "default": false,
+    "description": null
+  },
+  {
+    "id": 286525677,
+    "node_id": "MDU6TGFiZWwyODY1MjU2Nzc=",
+    "url": "https://api.github.com/repos/getsentry/sentry/labels/Component:%20Beacon",
+    "name": "Component: Beacon",
+    "color": "5319e7",
+    "default": false,
+    "description": null
+  },
+  {
+    "id": 2555157342,
+    "node_id": "MDU6TGFiZWwyNTU1MTU3MzQy",
+    "url": "https://api.github.com/repos/getsentry/sentry/labels/Component:%20CI",
+    "name": "Component: CI",
+    "color": "fef2c0",
+    "default": false,
+    "description": "Continuous Integration pipeline (GitHub Actions)"
+  },
+  {
+    "id": 261315263,
+    "node_id": "MDU6TGFiZWwyNjEzMTUyNjM=",
+    "url": "https://api.github.com/repos/getsentry/sentry/labels/Component:%20Core%20Frontend%20(React)",
+    "name": "Component: Core Frontend (React)",
+    "color": "d4c5f9",
+    "default": false,
+    "description": null
+  },
+  {
+    "id": 246004544,
+    "node_id": "MDU6TGFiZWwyNDYwMDQ1NDQ=",
+    "url": "https://api.github.com/repos/getsentry/sentry/labels/Component:%20Debugger",
+    "name": "Component: Debugger",
+    "color": "d4c5f9",
+    "default": false,
+    "description": null
+  },
+  {
+    "id": 2565158314,
+    "node_id": "MDU6TGFiZWwyNTY1MTU4MzE0",
+    "url": "https://api.github.com/repos/getsentry/sentry/labels/Component:%20Developer%20Environment",
+    "name": "Component: Developer Environment",
+    "color": "fbca04",
+    "default": false,
+    "description": "This covers issues related to setting up a developer's environment to be able to contribute to Sentr"
+  },
+  {
+    "id": 347093335,
+    "node_id": "MDU6TGFiZWwzNDcwOTMzMzU=",
+    "url": "https://api.github.com/repos/getsentry/sentry/labels/Component:%20Documentation",
+    "name": "Component: Documentation",
+    "color": "009800",
+    "default": false,
+    "description": null
+  },
+  {
+    "id": 423440874,
+    "node_id": "MDU6TGFiZWw0MjM0NDA4NzQ=",
+    "url": "https://api.github.com/repos/getsentry/sentry/labels/Component:%20Event%20Pipeline",
+    "name": "Component: Event Pipeline",
+    "color": "5319e7",
+    "default": false,
+    "description": null
+  },
+  {
+    "id": 423442315,
+    "node_id": "MDU6TGFiZWw0MjM0NDIzMTU=",
+    "url": "https://api.github.com/repos/getsentry/sentry/labels/Component:%20Feedback",
+    "name": "Component: Feedback",
+    "color": "b60205",
+    "default": false,
+    "description": null
+  },
+  {
+    "id": 2710504603,
+    "node_id": "MDU6TGFiZWwyNzEwNTA0NjAz",
+    "url": "https://api.github.com/repos/getsentry/sentry/labels/Component:%20Grouping",
+    "name": "Component: Grouping",
+    "color": "D30895",
+    "default": false,
+    "description": ""
+  },
+  {
+    "id": 545586902,
+    "node_id": "MDU6TGFiZWw1NDU1ODY5MDI=",
+    "url": "https://api.github.com/repos/getsentry/sentry/labels/Component:%20Inbound%20Filters",
+    "name": "Component: Inbound Filters",
+    "color": "006b75",
+    "default": false,
+    "description": null
+  },
+  {
+    "id": 675115108,
+    "node_id": "MDU6TGFiZWw2NzUxMTUxMDg=",
+    "url": "https://api.github.com/repos/getsentry/sentry/labels/Component:%20Integrations",
+    "name": "Component: Integrations",
+    "color": "c2e0c6",
+    "default": false,
+    "description": null
+  },
+  {
+    "id": 246313559,
+    "node_id": "MDU6TGFiZWwyNDYzMTM1NTk=",
+    "url": "https://api.github.com/repos/getsentry/sentry/labels/Component:%20Issues",
+    "name": "Component: Issues",
+    "color": "bfdadc",
+    "default": false,
+    "description": null
+  },
+  {
+    "id": 396291440,
+    "node_id": "MDU6TGFiZWwzOTYyOTE0NDA=",
+    "url": "https://api.github.com/repos/getsentry/sentry/labels/Component:%20Logging",
+    "name": "Component: Logging",
+    "color": "d4c5f9",
+    "default": false,
+    "description": null
+  },
+  {
+    "id": 261315081,
+    "node_id": "MDU6TGFiZWwyNjEzMTUwODE=",
+    "url": "https://api.github.com/repos/getsentry/sentry/labels/Component:%20Monitoring",
+    "name": "Component: Monitoring",
+    "color": "c7def8",
+    "default": false,
+    "description": null
+  },
+  {
+    "id": 303552372,
+    "node_id": "MDU6TGFiZWwzMDM1NTIzNzI=",
+    "url": "https://api.github.com/repos/getsentry/sentry/labels/Component:%20Notifications",
+    "name": "Component: Notifications",
+    "color": "eb6420",
+    "default": false,
+    "description": null
+  },
+  {
+    "id": 330962001,
+    "node_id": "MDU6TGFiZWwzMzA5NjIwMDE=",
+    "url": "https://api.github.com/repos/getsentry/sentry/labels/Component:%20Onboarding",
+    "name": "Component: Onboarding",
+    "color": "006b75",
+    "default": false,
+    "description": null
+  },
+  {
+    "id": 290412984,
+    "node_id": "MDU6TGFiZWwyOTA0MTI5ODQ=",
+    "url": "https://api.github.com/repos/getsentry/sentry/labels/Component:%20Package",
+    "name": "Component: Package",
+    "color": "009800",
+    "default": false,
+    "description": null
+  },
+  {
+    "id": 964899326,
+    "node_id": "MDU6TGFiZWw5NjQ4OTkzMjY=",
+    "url": "https://api.github.com/repos/getsentry/sentry/labels/Component:%20Relay",
+    "name": "Component: Relay",
+    "color": "45a4b7",
+    "default": false,
+    "description": ""
+  },
+  {
+    "id": 648859681,
+    "node_id": "MDU6TGFiZWw2NDg4NTk2ODE=",
+    "url": "https://api.github.com/repos/getsentry/sentry/labels/Component:%20Releases",
+    "name": "Component: Releases",
+    "color": "b60205",
+    "default": false,
+    "description": null
+  },
+  {
+    "id": 250723865,
+    "node_id": "MDU6TGFiZWwyNTA3MjM4NjU=",
+    "url": "https://api.github.com/repos/getsentry/sentry/labels/Component:%20Rules",
+    "name": "Component: Rules",
+    "color": "207de5",
+    "default": false,
+    "description": null
+  },
+  {
+    "id": 297586086,
+    "node_id": "MDU6TGFiZWwyOTc1ODYwODY=",
+    "url": "https://api.github.com/repos/getsentry/sentry/labels/Component:%20SDK",
+    "name": "Component: SDK",
+    "color": "fbca04",
+    "default": false,
+    "description": null
+  },
+  {
+    "id": 264679034,
+    "node_id": "MDU6TGFiZWwyNjQ2NzkwMzQ=",
+    "url": "https://api.github.com/repos/getsentry/sentry/labels/Component:%20Search",
+    "name": "Component: Search",
+    "color": "c7def8",
+    "default": false,
+    "description": null
+  },
+  {
+    "id": 968164332,
+    "node_id": "MDU6TGFiZWw5NjgxNjQzMzI=",
+    "url": "https://api.github.com/repos/getsentry/sentry/labels/Component:%20UI",
+    "name": "Component: UI",
+    "color": "aced8e",
+    "default": false,
+    "description": ""
+  },
+  {
+    "id": 261850540,
+    "node_id": "MDU6TGFiZWwyNjE4NTA1NDA=",
+    "url": "https://api.github.com/repos/getsentry/sentry/labels/Component:%20User%20Crash%20Report",
+    "name": "Component: User Crash Report",
+    "color": "eb6420",
+    "default": false,
+    "description": null
+  },
+  {
+    "id": 614995266,
+    "node_id": "MDU6TGFiZWw2MTQ5OTUyNjY=",
+    "url": "https://api.github.com/repos/getsentry/sentry/labels/Component:%20Workflow",
+    "name": "Component: Workflow",
+    "color": "0e8a16",
+    "default": false,
+    "description": null
+  },
+  {
+    "id": 288534252,
+    "node_id": "MDU6TGFiZWwyODg1MzQyNTI=",
+    "url": "https://api.github.com/repos/getsentry/sentry/labels/Component:%20i18n",
+    "name": "Component: i18n",
+    "color": "bfe5bf",
+    "default": false,
+    "description": null
+  },
+  {
+    "id": 1133283600,
+    "node_id": "MDU6TGFiZWwxMTMzMjgzNjAw",
+    "url": "https://api.github.com/repos/getsentry/sentry/labels/Deploy:%20Monitored",
+    "name": "Deploy: Monitored",
+    "color": "8416b7",
+    "default": false,
+    "description": "This PR requires a monitored deploy"
+  }
+]
