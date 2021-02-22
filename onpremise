@@ -4,7 +4,7 @@
     "node_id": "MDU6TGFiZWwyNjQwMjQzNTMw",
     "url": "https://api.github.com/repos/getsentry/onpremise/labels/Status:%20Backlog",
     "name": "Status: Backlog",
-    "color": "fef2c0",
+    "color": "584774",
     "default": false,
     "description": "stalebot will ignore"
   },
@@ -13,7 +13,7 @@
     "node_id": "MDU6TGFiZWwyNjMyMDEzNjE3",
     "url": "https://api.github.com/repos/getsentry/onpremise/labels/Status:%20In%20Progress",
     "name": "Status: In Progress",
-    "color": "c5def5",
+    "color": "584774",
     "default": false,
     "description": "stalebot will ignore"
   },
@@ -22,7 +22,7 @@
     "node_id": "MDU6TGFiZWwxMzk5ODQ2NzY3",
     "url": "https://api.github.com/repos/getsentry/onpremise/labels/Status:%20Needs%20More%20Information",
     "name": "Status: Needs More Information",
-    "color": "5c1ebf",
+    "color": "584774",
     "default": false,
     "description": "stalebot will close after four weeks of inactivity"
   },
@@ -31,7 +31,7 @@
     "node_id": "MDU6TGFiZWwyNjMyMDAyMDEx",
     "url": "https://api.github.com/repos/getsentry/onpremise/labels/Status:%20Stale",
     "name": "Status: Stale",
-    "color": "ededed",
+    "color": "584774",
     "default": false,
     "description": "stalebot will close after another week of inactivity"
   },
@@ -40,9 +40,18 @@
     "node_id": "MDU6TGFiZWwyNzU1NjI4NDQ5",
     "url": "https://api.github.com/repos/getsentry/onpremise/labels/Status:%20Unrouted",
     "name": "Status: Unrouted",
-    "color": "ededed",
+    "color": "584774",
     "default": false,
-    "description": null
+    "description": "stalebot will close after four weeks of inactivity"
+  },
+  {
+    "id": 2763301405,
+    "node_id": "MDU6TGFiZWwyNzYzMzAxNDA1",
+    "url": "https://api.github.com/repos/getsentry/onpremise/labels/Status:%20Untriaged",
+    "name": "Status: Untriaged",
+    "color": "584774",
+    "default": false,
+    "description": "stalebot will close after four weeks of inactivity"
   },
   {
     "id": 324879387,
