@@ -1,4 +1,4 @@
 #!/usr/bin/env zsh
 set -euo pipefail
 repo="$1"
-gh api "/repos/getsentry/$repo/labels" | jq . > $repo
+gh api --paginate "/repos/getsentry/$repo/labels" | jq . > $repo
