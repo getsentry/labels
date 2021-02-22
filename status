@@ -1,0 +1,7 @@
+#!/usr/bin/env zsh
+for status_ in Stale Unrouted Untriaged 'Needs More Information' Backlog 'In Progress'; do
+  gh api \
+    "/repos/getsentry/sentry/labels/Status: ${status_}" \
+    --method PATCH \
+    --input <(echo '{"color":"584774"}') > /dev/null
+done
