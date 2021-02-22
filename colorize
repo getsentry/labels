@@ -1,18 +1,19 @@
 #!/usr/bin/env zsh
 set -euo pipefail
-repo="$1"
-color="584774"
+prefix="$1"
+color="$2"
+repo="$3"
 
 function process() {
   label="$1"
-  if [[ "$label" != "Component: "* ]]; then
+  if [[ "$label" != "$prefix: "* ]]; then
     return
   fi
   echo -n $label '... '
   gh api \
     "/repos/getsentry/$repo/labels/$label" \
     --method PATCH \
-    --input <(echo '{"color":"584774"}') | jq .color -r
+    --input <(echo "{\"color\":\"$color\"}") | jq .color -r
 }
 
 _IFS=$IFS
