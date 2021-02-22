@@ -85,7 +85,7 @@
     "node_id": "MDU6TGFiZWwyNjQwMjQzMDc3",
     "url": "https://api.github.com/repos/getsentry/sentry-docs/labels/Status:%20Backlog",
     "name": "Status: Backlog",
-    "color": "f9d0c4",
+    "color": "8D5494",
     "default": false,
     "description": "stalebot will ignore"
   },
@@ -94,7 +94,7 @@
     "node_id": "MDU6TGFiZWwyNjMyMDM1OTI3",
     "url": "https://api.github.com/repos/getsentry/sentry-docs/labels/Status:%20In%20Progress",
     "name": "Status: In Progress",
-    "color": "006b75",
+    "color": "8D5494",
     "default": false,
     "description": "stalebot will ignore"
   },
@@ -103,7 +103,7 @@
     "node_id": "MDU6TGFiZWwyNjMyMDM2OTY4",
     "url": "https://api.github.com/repos/getsentry/sentry-docs/labels/Status:%20Needs%20More%20Information",
     "name": "Status: Needs More Information",
-    "color": "E0E19A",
+    "color": "8D5494",
     "default": false,
     "description": "stalebot will close after four weeks of inactivity"
   },
@@ -112,7 +112,7 @@
     "node_id": "MDU6TGFiZWwyNjMyMDM2MzAx",
     "url": "https://api.github.com/repos/getsentry/sentry-docs/labels/Status:%20Stale",
     "name": "Status: Stale",
-    "color": "C198D9",
+    "color": "8D5494",
     "default": false,
     "description": "stalebot will close after another week of inactivity"
   },
@@ -121,9 +121,18 @@
     "node_id": "MDU6TGFiZWwyNzYzMTE4NjM2",
     "url": "https://api.github.com/repos/getsentry/sentry-docs/labels/Status:%20Unrouted",
     "name": "Status: Unrouted",
-    "color": "c5def5",
+    "color": "8D5494",
     "default": false,
-    "description": ""
+    "description": "stalebot will close after four weeks of inactivity"
+  },
+  {
+    "id": 2763305991,
+    "node_id": "MDU6TGFiZWwyNzYzMzA1OTkx",
+    "url": "https://api.github.com/repos/getsentry/sentry-docs/labels/Status:%20Untriaged",
+    "name": "Status: Untriaged",
+    "color": "584774",
+    "default": false,
+    "description": "stalebot will close after four weeks of inactivity"
   },
   {
     "id": 2729047091,
@@ -259,14 +268,5 @@
     "color": "00E954",
     "default": false,
     "description": ""
-  },
-  {
-    "id": 198827711,
-    "node_id": "MDU6TGFiZWwxOTg4Mjc3MTE=",
-    "url": "https://api.github.com/repos/getsentry/sentry-docs/labels/question",
-    "name": "question",
-    "color": "cc317c",
-    "default": true,
-    "description": null
   }
 ]
