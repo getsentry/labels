@@ -6,8 +6,10 @@ repo="$3"
 
 function process() {
   label="$1"
-  if [[ "$label" != "$prefix: "* ]]; then
-    return
+  if [ "$prefix" ]; then
+    if [[ "$label" != "$prefix: "* ]]; then
+      return
+    fi
   fi
   echo -n $label '... '
   gh api \
@@ -18,7 +20,7 @@ function process() {
 
 _IFS=$IFS
 IFS=$'\n'
-for name in $(jq -r '.[].name' $repo); do
+for name in $(jq -r '.[].name' "repos/$repo"); do
   process $name
 done
 IFS=$_IFS
