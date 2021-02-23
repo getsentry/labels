@@ -283,7 +283,7 @@
     "node_id": "MDU6TGFiZWwxMjE0ODYwMDI=",
     "url": "https://api.github.com/repos/getsentry/sentry/labels/Design%20Review",
     "name": "Design Review",
-    "color": "ffffff",
+    "color": "F6F6F8",
     "default": false,
     "description": ""
   },
@@ -301,7 +301,7 @@
     "node_id": "MDU6TGFiZWw1NDA0ODI0MTI=",
     "url": "https://api.github.com/repos/getsentry/sentry/labels/Easy%20Task",
     "name": "Easy Task",
-    "color": "ffffff",
+    "color": "F6F6F8",
     "default": false,
     "description": ""
   },
@@ -310,7 +310,7 @@
     "node_id": "MDU6TGFiZWwxNTc4NDgxNTQ5",
     "url": "https://api.github.com/repos/getsentry/sentry/labels/Hacktoberfest",
     "name": "Hacktoberfest",
-    "color": "ffffff",
+    "color": "F6F6F8",
     "default": false,
     "description": ""
   },
@@ -319,7 +319,7 @@
     "node_id": "MDU6TGFiZWwzNTEyODIwMjI=",
     "url": "https://api.github.com/repos/getsentry/sentry/labels/Hosting:%20Self-hosted",
     "name": "Hosting: Self-hosted",
-    "color": "79628C",
+    "color": "584774",
     "default": false,
     "description": ""
   },
@@ -328,7 +328,7 @@
     "node_id": "MDU6TGFiZWw0NzQwOTgyOA==",
     "url": "https://api.github.com/repos/getsentry/sentry/labels/Hosting:%20sentry.io",
     "name": "Hosting: sentry.io",
-    "color": "79628C",
+    "color": "584774",
     "default": false,
     "description": ""
   },
@@ -373,7 +373,7 @@
     "node_id": "MDU6TGFiZWw0MjM0NDEyODA=",
     "url": "https://api.github.com/repos/getsentry/sentry/labels/Platform:%20Cocoa",
     "name": "Platform: Cocoa",
-    "color": "F4834F",
+    "color": "584774",
     "default": false,
     "description": null
   },
@@ -382,7 +382,7 @@
     "node_id": "MDU6TGFiZWw0MjM0NDE3NjI=",
     "url": "https://api.github.com/repos/getsentry/sentry/labels/Platform:%20Java",
     "name": "Platform: Java",
-    "color": "F4834F",
+    "color": "584774",
     "default": false,
     "description": null
   },
@@ -391,7 +391,7 @@
     "node_id": "MDU6TGFiZWw0MjM0NDA4ODk=",
     "url": "https://api.github.com/repos/getsentry/sentry/labels/Platform:%20JavaScript",
     "name": "Platform: JavaScript",
-    "color": "F4834F",
+    "color": "584774",
     "default": false,
     "description": null
   },
@@ -400,7 +400,7 @@
     "node_id": "MDU6TGFiZWw0MjM0NDEzNTM=",
     "url": "https://api.github.com/repos/getsentry/sentry/labels/Platform:%20PHP",
     "name": "Platform: PHP",
-    "color": "F4834F",
+    "color": "584774",
     "default": false,
     "description": null
   },
@@ -409,7 +409,7 @@
     "node_id": "MDU6TGFiZWw0MjM0NDEzMzA=",
     "url": "https://api.github.com/repos/getsentry/sentry/labels/Platform:%20Python",
     "name": "Platform: Python",
-    "color": "F4834F",
+    "color": "584774",
     "default": false,
     "description": null
   },
@@ -418,7 +418,7 @@
     "node_id": "MDU6TGFiZWw0MjM0NDE0ODg=",
     "url": "https://api.github.com/repos/getsentry/sentry/labels/Platform:%20Ruby",
     "name": "Platform: Ruby",
-    "color": "F4834F",
+    "color": "584774",
     "default": false,
     "description": ""
   },
@@ -486,20 +486,119 @@
     "description": "stalebot will close after four weeks of inactivity"
   },
   {
+    "id": 2763928532,
+    "node_id": "MDU6TGFiZWwyNzYzOTI4NTMy",
+    "url": "https://api.github.com/repos/getsentry/sentry/labels/Team:%20App",
+    "name": "Team: App",
+    "color": "8D5494",
+    "default": false,
+    "description": ""
+  },
+  {
+    "id": 2763928860,
+    "node_id": "MDU6TGFiZWwyNzYzOTI4ODYw",
+    "url": "https://api.github.com/repos/getsentry/sentry/labels/Team:%20Ecosystem",
+    "name": "Team: Ecosystem",
+    "color": "8D5494",
+    "default": false,
+    "description": ""
+  },
+  {
+    "id": 2763929170,
+    "node_id": "MDU6TGFiZWwyNzYzOTI5MTcw",
+    "url": "https://api.github.com/repos/getsentry/sentry/labels/Team:%20Enterprise",
+    "name": "Team: Enterprise",
+    "color": "8D5494",
+    "default": false,
+    "description": ""
+  },
+  {
+    "id": 2763929459,
+    "node_id": "MDU6TGFiZWwyNzYzOTI5NDU5",
+    "url": "https://api.github.com/repos/getsentry/sentry/labels/Team:%20Infrastructure",
+    "name": "Team: Infrastructure",
+    "color": "8D5494",
+    "default": false,
+    "description": ""
+  },
+  {
+    "id": 2763929875,
+    "node_id": "MDU6TGFiZWwyNzYzOTI5ODc1",
+    "url": "https://api.github.com/repos/getsentry/sentry/labels/Team:%20Ingest",
+    "name": "Team: Ingest",
+    "color": "8D5494",
+    "default": false,
+    "description": ""
+  },
+  {
+    "id": 2763930151,
+    "node_id": "MDU6TGFiZWwyNzYzOTMwMTUx",
+    "url": "https://api.github.com/repos/getsentry/sentry/labels/Team:%20Mobile%20Platform",
+    "name": "Team: Mobile Platform",
+    "color": "8D5494",
+    "default": false,
+    "description": ""
+  },
+  {
+    "id": 2763930465,
+    "node_id": "MDU6TGFiZWwyNzYzOTMwNDY1",
+    "url": "https://api.github.com/repos/getsentry/sentry/labels/Team:%20Native%20Platform",
+    "name": "Team: Native Platform",
+    "color": "8D5494",
+    "default": false,
+    "description": ""
+  },
+  {
+    "id": 2763930661,
+    "node_id": "MDU6TGFiZWwyNzYzOTMwNjYx",
+    "url": "https://api.github.com/repos/getsentry/sentry/labels/Team:%20Open%20Source",
+    "name": "Team: Open Source",
+    "color": "8D5494",
+    "default": false,
+    "description": ""
+  },
+  {
+    "id": 2763930881,
+    "node_id": "MDU6TGFiZWwyNzYzOTMwODgx",
+    "url": "https://api.github.com/repos/getsentry/sentry/labels/Team:%20Ops",
+    "name": "Team: Ops",
+    "color": "8D5494",
+    "default": false,
+    "description": ""
+  },
+  {
+    "id": 2763931224,
+    "node_id": "MDU6TGFiZWwyNzYzOTMxMjI0",
+    "url": "https://api.github.com/repos/getsentry/sentry/labels/Team:%20Search%20&%20Storage",
+    "name": "Team: Search & Storage",
+    "color": "8D5494",
+    "default": false,
+    "description": ""
+  },
+  {
+    "id": 2763931416,
+    "node_id": "MDU6TGFiZWwyNzYzOTMxNDE2",
+    "url": "https://api.github.com/repos/getsentry/sentry/labels/Team:%20Visibility",
+    "name": "Team: Visibility",
+    "color": "8D5494",
+    "default": false,
+    "description": ""
+  },
+  {
     "id": 669533238,
     "node_id": "MDU6TGFiZWw2Njk1MzMyMzg=",
-    "url": "https://api.github.com/repos/getsentry/sentry/labels/Team:%20Platform",
-    "name": "Team: Platform",
-    "color": "F1B71C",
+    "url": "https://api.github.com/repos/getsentry/sentry/labels/Team:%20Web%20Platform",
+    "name": "Team: Web Platform",
+    "color": "8D5494",
     "default": false,
-    "description": null
+    "description": ""
   },
   {
     "id": 669533223,
     "node_id": "MDU6TGFiZWw2Njk1MzMyMjM=",
     "url": "https://api.github.com/repos/getsentry/sentry/labels/Team:%20Workflow",
     "name": "Team: Workflow",
-    "color": "F1B71C",
+    "color": "8D5494",
     "default": false,
     "description": null
   },
@@ -508,7 +607,7 @@
     "node_id": "MDU6TGFiZWw4MTY4MA==",
     "url": "https://api.github.com/repos/getsentry/sentry/labels/Type:%20Bug",
     "name": "Type: Bug",
-    "color": "E1567C",
+    "color": "584774",
     "default": false,
     "description": null
   },
@@ -517,7 +616,7 @@
     "node_id": "MDU6TGFiZWwyMjU4NjIwNDI=",
     "url": "https://api.github.com/repos/getsentry/sentry/labels/Type:%20Design",
     "name": "Type: Design",
-    "color": "E1567C",
+    "color": "584774",
     "default": false,
     "description": null
   },
@@ -526,7 +625,7 @@
     "node_id": "MDU6TGFiZWwzMjU3NTk1MTU=",
     "url": "https://api.github.com/repos/getsentry/sentry/labels/Type:%20Discussion",
     "name": "Type: Discussion",
-    "color": "E1567C",
+    "color": "584774",
     "default": false,
     "description": null
   },
@@ -535,7 +634,7 @@
     "node_id": "MDU6TGFiZWwyNDc3MTcwMjI=",
     "url": "https://api.github.com/repos/getsentry/sentry/labels/Type:%20User%20Feedback",
     "name": "Type: User Feedback",
-    "color": "E1567C",
+    "color": "584774",
     "default": false,
     "description": null
   },
@@ -544,7 +643,7 @@
     "node_id": "MDU6TGFiZWw2MTYyMTgwMTM=",
     "url": "https://api.github.com/repos/getsentry/sentry/labels/WIP",
     "name": "WIP",
-    "color": "ffffff",
+    "color": "F6F6F8",
     "default": false,
     "description": ""
   },
@@ -562,7 +661,7 @@
     "node_id": "MDU6TGFiZWwxNTkxNjEyMDE0",
     "url": "https://api.github.com/repos/getsentry/sentry/labels/invalid",
     "name": "invalid",
-    "color": "ffffff",
+    "color": "F6F6F8",
     "default": true,
     "description": ""
   },
@@ -571,7 +670,7 @@
     "node_id": "MDU6TGFiZWwyMjQ0Nzg3MjU3",
     "url": "https://api.github.com/repos/getsentry/sentry/labels/javascript",
     "name": "javascript",
-    "color": "ffffff",
+    "color": "F6F6F8",
     "default": false,
     "description": "Pull requests that update Javascript code"
   },
@@ -580,7 +679,7 @@
     "node_id": "MDU6TGFiZWw3ODMzOTQ3MTA=",
     "url": "https://api.github.com/repos/getsentry/sentry/labels/wcgw",
     "name": "wcgw",
-    "color": "ffffff",
+    "color": "F6F6F8",
     "default": false,
     "description": ""
   }

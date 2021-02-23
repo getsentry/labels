@@ -4,7 +4,7 @@
     "node_id": "MDU6TGFiZWwyNzMwNTIwNDY1",
     "url": "https://api.github.com/repos/getsentry/sentry-docs/labels/Android",
     "name": "Android",
-    "color": "8B4A93",
+    "color": "584774",
     "default": false,
     "description": ""
   },
@@ -13,7 +13,7 @@
     "node_id": "MDU6TGFiZWwyNjcwODg1NDg1",
     "url": "https://api.github.com/repos/getsentry/sentry-docs/labels/Capacitor",
     "name": "Capacitor",
-    "color": "1A56EF",
+    "color": "584774",
     "default": false,
     "description": ""
   },
@@ -22,7 +22,7 @@
     "node_id": "MDU6TGFiZWwxMjM2OTgwOTkx",
     "url": "https://api.github.com/repos/getsentry/sentry-docs/labels/Cocoa",
     "name": "Cocoa",
-    "color": "77e5bb",
+    "color": "584774",
     "default": false,
     "description": ""
   },
@@ -31,7 +31,7 @@
     "node_id": "MDU6TGFiZWwyNzI3NTIxODQ0",
     "url": "https://api.github.com/repos/getsentry/sentry-docs/labels/Cordova",
     "name": "Cordova",
-    "color": "5319e7",
+    "color": "584774",
     "default": false,
     "description": ""
   },
@@ -40,7 +40,7 @@
     "node_id": "MDU6TGFiZWwyMzY4ODg5MDAx",
     "url": "https://api.github.com/repos/getsentry/sentry-docs/labels/Dart",
     "name": "Dart",
-    "color": "c7fcab",
+    "color": "584774",
     "default": false,
     "description": ""
   },
@@ -49,7 +49,7 @@
     "node_id": "MDU6TGFiZWwyMzc0MjY3MDI5",
     "url": "https://api.github.com/repos/getsentry/sentry-docs/labels/Java",
     "name": "Java",
-    "color": "c208db",
+    "color": "584774",
     "default": false,
     "description": ""
   },
@@ -58,7 +58,7 @@
     "node_id": "MDU6TGFiZWwyNzI4NTIxMjgz",
     "url": "https://api.github.com/repos/getsentry/sentry-docs/labels/Mobile",
     "name": "Mobile",
-    "color": "FD2821",
+    "color": "584774",
     "default": false,
     "description": ""
   },
@@ -67,7 +67,7 @@
     "node_id": "MDU6TGFiZWwyNzI2NDM4NDc0",
     "url": "https://api.github.com/repos/getsentry/sentry-docs/labels/PHP",
     "name": "PHP",
-    "color": "5506E0",
+    "color": "584774",
     "default": false,
     "description": ""
   },
@@ -76,7 +76,7 @@
     "node_id": "MDU6TGFiZWwyNjczMjMyODYz",
     "url": "https://api.github.com/repos/getsentry/sentry-docs/labels/React-Native",
     "name": "React-Native",
-    "color": "A5016B",
+    "color": "584774",
     "default": false,
     "description": ""
   },
@@ -139,7 +139,7 @@
     "node_id": "MDU6TGFiZWwyNzI5MDQ3MDkx",
     "url": "https://api.github.com/repos/getsentry/sentry-docs/labels/Symfony",
     "name": "Symfony",
-    "color": "B1D7A6",
+    "color": "584774",
     "default": false,
     "description": ""
   },
@@ -148,16 +148,16 @@
     "node_id": "MDU6TGFiZWwxOTg4Mjc3MDY=",
     "url": "https://api.github.com/repos/getsentry/sentry-docs/labels/bug",
     "name": "bug",
-    "color": "fc2929",
+    "color": "F6F6F8",
     "default": true,
-    "description": null
+    "description": ""
   },
   {
     "id": 1651732253,
     "node_id": "MDU6TGFiZWwxNjUxNzMyMjUz",
     "url": "https://api.github.com/repos/getsentry/sentry-docs/labels/dependencies",
     "name": "dependencies",
-    "color": "0366d6",
+    "color": "F6F6F8",
     "default": false,
     "description": "Pull requests that update a dependency file"
   },
@@ -166,7 +166,7 @@
     "node_id": "MDU6TGFiZWwxMjM2OTgxMDQ3",
     "url": "https://api.github.com/repos/getsentry/sentry-docs/labels/dotnet",
     "name": "dotnet",
-    "color": "89c94a",
+    "color": "584774",
     "default": false,
     "description": ""
   },
@@ -175,25 +175,25 @@
     "node_id": "MDU6TGFiZWwxOTg4Mjc3MDc=",
     "url": "https://api.github.com/repos/getsentry/sentry-docs/labels/duplicate",
     "name": "duplicate",
-    "color": "cccccc",
+    "color": "F6F6F8",
     "default": true,
-    "description": null
+    "description": ""
   },
   {
     "id": 198827708,
     "node_id": "MDU6TGFiZWwxOTg4Mjc3MDg=",
     "url": "https://api.github.com/repos/getsentry/sentry-docs/labels/enhancement",
     "name": "enhancement",
-    "color": "84b6eb",
+    "color": "F6F6F8",
     "default": true,
-    "description": null
+    "description": ""
   },
   {
     "id": 2652617979,
     "node_id": "MDU6TGFiZWwyNjUyNjE3OTc5",
     "url": "https://api.github.com/repos/getsentry/sentry-docs/labels/filtering%20and%20sampling",
     "name": "filtering and sampling",
-    "color": "1D4310",
+    "color": "584774",
     "default": false,
     "description": ""
   },
@@ -202,16 +202,16 @@
     "node_id": "MDU6TGFiZWwxOTg4Mjc3MDk=",
     "url": "https://api.github.com/repos/getsentry/sentry-docs/labels/help%20wanted",
     "name": "help wanted",
-    "color": "159818",
+    "color": "F6F6F8",
     "default": true,
-    "description": null
+    "description": ""
   },
   {
     "id": 2658887068,
     "node_id": "MDU6TGFiZWwyNjU4ODg3MDY4",
     "url": "https://api.github.com/repos/getsentry/sentry-docs/labels/iOS",
     "name": "iOS",
-    "color": "A87F35",
+    "color": "584774",
     "default": false,
     "description": ""
   },
@@ -220,16 +220,16 @@
     "node_id": "MDU6TGFiZWwxOTg4Mjc3MTA=",
     "url": "https://api.github.com/repos/getsentry/sentry-docs/labels/invalid",
     "name": "invalid",
-    "color": "e6e6e6",
+    "color": "F6F6F8",
     "default": true,
-    "description": null
+    "description": ""
   },
   {
     "id": 1661913781,
     "node_id": "MDU6TGFiZWwxNjYxOTEzNzgx",
     "url": "https://api.github.com/repos/getsentry/sentry-docs/labels/javascript",
     "name": "javascript",
-    "color": "168700",
+    "color": "F6F6F8",
     "default": false,
     "description": "Pull requests that update Javascript code"
   },
@@ -238,7 +238,7 @@
     "node_id": "MDU6TGFiZWwxMjM2OTgxMTIw",
     "url": "https://api.github.com/repos/getsentry/sentry-docs/labels/lang:%20javascript",
     "name": "lang: javascript",
-    "color": "ce37b0",
+    "color": "584774",
     "default": false,
     "description": ""
   },
@@ -247,7 +247,7 @@
     "node_id": "MDU6TGFiZWwxMjM2OTgwNzkw",
     "url": "https://api.github.com/repos/getsentry/sentry-docs/labels/lang:%20python",
     "name": "lang: python",
-    "color": "1d76db",
+    "color": "584774",
     "default": false,
     "description": ""
   },
@@ -256,7 +256,7 @@
     "node_id": "MDU6TGFiZWwyNjY4MTY2NjI5",
     "url": "https://api.github.com/repos/getsentry/sentry-docs/labels/performance",
     "name": "performance",
-    "color": "0e8a16",
+    "color": "584774",
     "default": false,
     "description": ""
   },
@@ -265,7 +265,7 @@
     "node_id": "MDU6TGFiZWwyNjUyNjI2MDgw",
     "url": "https://api.github.com/repos/getsentry/sentry-docs/labels/projects",
     "name": "projects",
-    "color": "00E954",
+    "color": "F6F6F8",
     "default": false,
     "description": ""
   },
@@ -274,16 +274,16 @@
     "node_id": "MDU6TGFiZWwxOTg4Mjc3MTE=",
     "url": "https://api.github.com/repos/getsentry/sentry-docs/labels/question",
     "name": "question",
-    "color": "cc317c",
+    "color": "F6F6F8",
     "default": true,
-    "description": null
+    "description": ""
   },
   {
     "id": 2652607626,
     "node_id": "MDU6TGFiZWwyNjUyNjA3NjI2",
     "url": "https://api.github.com/repos/getsentry/sentry-docs/labels/release%20health",
     "name": "release health",
-    "color": "3B6CA4",
+    "color": "F6F6F8",
     "default": false,
     "description": ""
   },
@@ -292,7 +292,7 @@
     "node_id": "MDU6TGFiZWwxNzQyOTg1NzU3",
     "url": "https://api.github.com/repos/getsentry/sentry-docs/labels/ruby",
     "name": "ruby",
-    "color": "ce2d2d",
+    "color": "584774",
     "default": false,
     "description": "Pull requests that update Ruby code"
   },
@@ -301,7 +301,7 @@
     "node_id": "MDU6TGFiZWwyNzA4Mzg3MjQy",
     "url": "https://api.github.com/repos/getsentry/sentry-docs/labels/unreal",
     "name": "unreal",
-    "color": "23A5D4",
+    "color": "584774",
     "default": false,
     "description": ""
   },
@@ -310,7 +310,7 @@
     "node_id": "MDU6TGFiZWwyNTg0MDcwMTE0",
     "url": "https://api.github.com/repos/getsentry/sentry-docs/labels/up-for-grabs",
     "name": "up-for-grabs",
-    "color": "dd66b1",
+    "color": "F6F6F8",
     "default": false,
     "description": ""
   },
@@ -319,7 +319,7 @@
     "node_id": "MDU6TGFiZWwxMDAwMDI4MjQ2",
     "url": "https://api.github.com/repos/getsentry/sentry-docs/labels/wip",
     "name": "wip",
-    "color": "39cec4",
+    "color": "F6F6F8",
     "default": false,
     "description": ""
   },
@@ -328,8 +328,8 @@
     "node_id": "MDU6TGFiZWwxOTg4Mjc3MTI=",
     "url": "https://api.github.com/repos/getsentry/sentry-docs/labels/wontfix",
     "name": "wontfix",
-    "color": "ffffff",
+    "color": "F6F6F8",
     "default": true,
-    "description": null
+    "description": ""
   }
 ]

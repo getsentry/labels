@@ -18,6 +18,15 @@
     "description": null
   },
   {
+    "id": 2766587045,
+    "node_id": "MDU6TGFiZWwyNzY2NTg3MDQ1",
+    "url": "https://api.github.com/repos/getsentry/sentry-dart/labels/dart2js",
+    "name": "dart2js",
+    "color": "78D880",
+    "default": false,
+    "description": ""
+  },
+  {
     "id": 2402600761,
     "node_id": "MDU6TGFiZWwyNDAyNjAwNzYx",
     "url": "https://api.github.com/repos/getsentry/sentry-dart/labels/docs",

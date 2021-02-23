@@ -1,5 +1,14 @@
 [
   {
+    "id": 1405227919,
+    "node_id": "MDU6TGFiZWwxNDA1MjI3OTE5",
+    "url": "https://api.github.com/repos/getsentry/onpremise/labels/Category:%20Docs",
+    "name": "Category: Docs",
+    "color": "584774",
+    "default": false,
+    "description": ""
+  },
+  {
     "id": 2632013617,
     "node_id": "MDU6TGFiZWwyNjMyMDEzNjE3",
     "url": "https://api.github.com/repos/getsentry/onpremise/labels/Status:%20Accepted",
@@ -58,7 +67,7 @@
     "node_id": "MDU6TGFiZWwzMjQ4NzkzODc=",
     "url": "https://api.github.com/repos/getsentry/onpremise/labels/Type:%20Bug",
     "name": "Type: Bug",
-    "color": "fc2929",
+    "color": "584774",
     "default": false,
     "description": ""
   },
@@ -67,7 +76,7 @@
     "node_id": "MDU6TGFiZWwzMjQ4NzkzODk=",
     "url": "https://api.github.com/repos/getsentry/onpremise/labels/Type:%20Enhancement",
     "name": "Type: Enhancement",
-    "color": "84b6eb",
+    "color": "584774",
     "default": false,
     "description": ""
   },
@@ -76,7 +85,7 @@
     "node_id": "MDU6TGFiZWwzMjQ4NzkzOTE=",
     "url": "https://api.github.com/repos/getsentry/onpremise/labels/Type:%20Invalid",
     "name": "Type: Invalid",
-    "color": "e6e6e6",
+    "color": "584774",
     "default": false,
     "description": ""
   },
@@ -85,16 +94,7 @@
     "node_id": "MDU6TGFiZWwzMjQ4NzkzOTI=",
     "url": "https://api.github.com/repos/getsentry/onpremise/labels/Type:%20Question",
     "name": "Type: Question",
-    "color": "cc317c",
-    "default": false,
-    "description": ""
-  },
-  {
-    "id": 1405227919,
-    "node_id": "MDU6TGFiZWwxNDA1MjI3OTE5",
-    "url": "https://api.github.com/repos/getsentry/onpremise/labels/category:%20docs",
-    "name": "category: docs",
-    "color": "734ab5",
+    "color": "584774",
     "default": false,
     "description": ""
   },
@@ -103,7 +103,7 @@
     "node_id": "MDU6TGFiZWwzMjQ4NzkzODg=",
     "url": "https://api.github.com/repos/getsentry/onpremise/labels/duplicate",
     "name": "duplicate",
-    "color": "cccccc",
+    "color": "F6F6F8",
     "default": true,
     "description": null
   },
@@ -112,7 +112,7 @@
     "node_id": "MDU6TGFiZWwzMjQ4NzkzOTA=",
     "url": "https://api.github.com/repos/getsentry/onpremise/labels/help%20wanted",
     "name": "help wanted",
-    "color": "159818",
+    "color": "F6F6F8",
     "default": true,
     "description": null
   },
@@ -121,7 +121,7 @@
     "node_id": "MDU6TGFiZWwyMjA1NDc1Nzg0",
     "url": "https://api.github.com/repos/getsentry/onpremise/labels/release-blocker",
     "name": "release-blocker",
-    "color": "ff8800",
+    "color": "C83852",
     "default": false,
     "description": "Any issue open with this tag will stop CalVer releases from happening"
   },
@@ -130,7 +130,7 @@
     "node_id": "MDU6TGFiZWwzMjQ4NzkzOTM=",
     "url": "https://api.github.com/repos/getsentry/onpremise/labels/wontfix",
     "name": "wontfix",
-    "color": "ffffff",
+    "color": "F6F6F8",
     "default": true,
     "description": null
   }

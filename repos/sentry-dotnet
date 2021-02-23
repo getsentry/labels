@@ -405,6 +405,15 @@
     "description": ""
   },
   {
+    "id": 2766186565,
+    "node_id": "MDU6TGFiZWwyNzY2MTg2NTY1",
+    "url": "https://api.github.com/repos/getsentry/sentry-dotnet/labels/tvOS",
+    "name": "tvOS",
+    "color": "015CB8",
+    "default": false,
+    "description": ""
+  },
+  {
     "id": 2464845387,
     "node_id": "MDU6TGFiZWwyNDY0ODQ1Mzg3",
     "url": "https://api.github.com/repos/getsentry/sentry-dotnet/labels/up-for-grabs",

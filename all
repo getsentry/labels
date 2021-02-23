@@ -61,6 +61,7 @@
    1 unreal
    1 ui
    1 typehints
+   1 tvOS
    1 tracing
    1 timber
    1 testing
@@ -141,6 +142,7 @@
    1 desktop
    1 delayed_job
    1 data-sanitization
+   1 dart2js
    1 component: xcode
    1 component: symbols
    1 component: releases
@@ -153,7 +155,6 @@
    1 clubhouse
    1 client-option
    1 cli
-   1 category: docs
    1 bug fix
    1 breaking
    1 blocker
@@ -178,7 +179,18 @@
    1 Type: :beetle: Bug
    1 Testing
    1 Team: Workflow
-   1 Team: Platform
+   1 Team: Web Platform
+   1 Team: Visibility
+   1 Team: Search & Storage
+   1 Team: Ops
+   1 Team: Open Source
+   1 Team: Native Platform
+   1 Team: Mobile Platform
+   1 Team: Ingest
+   1 Team: Infrastructure
+   1 Team: Enterprise
+   1 Team: Ecosystem
+   1 Team: App
    1 Symfony
    1 Support
    1 Status: Ready to Merge
@@ -306,6 +318,7 @@
    1 Component: API
    1 CocoaPods
    1 Cocoa
+   1 Category: Docs
    1 Capacitor
    1 Bug
    1 Breadcrumbs
