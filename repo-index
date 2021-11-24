@@ -109,7 +109,6 @@ node-dryrun
 node-pixelpusher
 obs
 old-docs
-onpremise
 open.sentry.io
 openapi-core
 opencompany.github.io
@@ -170,6 +169,7 @@ rust-proguard
 rust-sentry-types
 rust-sourcemap
 schnitzel
+self-hosted
 sentlog
 sentry
 sentry-android

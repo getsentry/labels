@@ -2,7 +2,7 @@
   {
     "id": 1405227919,
     "node_id": "MDU6TGFiZWwxNDA1MjI3OTE5",
-    "url": "https://api.github.com/repos/getsentry/onpremise/labels/Category:%20Docs",
+    "url": "https://api.github.com/repos/getsentry/self-hosted/labels/Category:%20Docs",
     "name": "Category: Docs",
     "color": "584774",
     "default": false,
@@ -11,7 +11,7 @@
   {
     "id": 2632013617,
     "node_id": "MDU6TGFiZWwyNjMyMDEzNjE3",
-    "url": "https://api.github.com/repos/getsentry/onpremise/labels/Status:%20Accepted",
+    "url": "https://api.github.com/repos/getsentry/self-hosted/labels/Status:%20Accepted",
     "name": "Status: Accepted",
     "color": "8D5494",
     "default": false,
@@ -20,7 +20,7 @@
   {
     "id": 1399846767,
     "node_id": "MDU6TGFiZWwxMzk5ODQ2NzY3",
-    "url": "https://api.github.com/repos/getsentry/onpremise/labels/Status:%20Needs%20More%20Information",
+    "url": "https://api.github.com/repos/getsentry/self-hosted/labels/Status:%20Needs%20More%20Information",
     "name": "Status: Needs More Information",
     "color": "8D5494",
     "default": false,
@@ -29,7 +29,7 @@
   {
     "id": 2640243530,
     "node_id": "MDU6TGFiZWwyNjQwMjQzNTMw",
-    "url": "https://api.github.com/repos/getsentry/onpremise/labels/Status:%20On%20Hold",
+    "url": "https://api.github.com/repos/getsentry/self-hosted/labels/Status:%20On%20Hold",
     "name": "Status: On Hold",
     "color": "8D5494",
     "default": false,
@@ -38,7 +38,7 @@
   {
     "id": 2632002011,
     "node_id": "MDU6TGFiZWwyNjMyMDAyMDEx",
-    "url": "https://api.github.com/repos/getsentry/onpremise/labels/Status:%20Stale",
+    "url": "https://api.github.com/repos/getsentry/self-hosted/labels/Status:%20Stale",
     "name": "Status: Stale",
     "color": "8D5494",
     "default": false,
@@ -47,7 +47,7 @@
   {
     "id": 2755628449,
     "node_id": "MDU6TGFiZWwyNzU1NjI4NDQ5",
-    "url": "https://api.github.com/repos/getsentry/onpremise/labels/Status:%20Unrouted",
+    "url": "https://api.github.com/repos/getsentry/self-hosted/labels/Status:%20Unrouted",
     "name": "Status: Unrouted",
     "color": "8D5494",
     "default": false,
@@ -56,7 +56,7 @@
   {
     "id": 2763301405,
     "node_id": "MDU6TGFiZWwyNzYzMzAxNDA1",
-    "url": "https://api.github.com/repos/getsentry/onpremise/labels/Status:%20Untriaged",
+    "url": "https://api.github.com/repos/getsentry/self-hosted/labels/Status:%20Untriaged",
     "name": "Status: Untriaged",
     "color": "8D5494",
     "default": false,
@@ -65,7 +65,7 @@
   {
     "id": 324879387,
     "node_id": "MDU6TGFiZWwzMjQ4NzkzODc=",
-    "url": "https://api.github.com/repos/getsentry/onpremise/labels/Type:%20Bug",
+    "url": "https://api.github.com/repos/getsentry/self-hosted/labels/Type:%20Bug",
     "name": "Type: Bug",
     "color": "584774",
     "default": false,
@@ -74,7 +74,7 @@
   {
     "id": 324879389,
     "node_id": "MDU6TGFiZWwzMjQ4NzkzODk=",
-    "url": "https://api.github.com/repos/getsentry/onpremise/labels/Type:%20Enhancement",
+    "url": "https://api.github.com/repos/getsentry/self-hosted/labels/Type:%20Enhancement",
     "name": "Type: Enhancement",
     "color": "584774",
     "default": false,
@@ -83,7 +83,7 @@
   {
     "id": 324879391,
     "node_id": "MDU6TGFiZWwzMjQ4NzkzOTE=",
-    "url": "https://api.github.com/repos/getsentry/onpremise/labels/Type:%20Invalid",
+    "url": "https://api.github.com/repos/getsentry/self-hosted/labels/Type:%20Invalid",
     "name": "Type: Invalid",
     "color": "584774",
     "default": false,
@@ -92,7 +92,7 @@
   {
     "id": 324879392,
     "node_id": "MDU6TGFiZWwzMjQ4NzkzOTI=",
-    "url": "https://api.github.com/repos/getsentry/onpremise/labels/Type:%20Question",
+    "url": "https://api.github.com/repos/getsentry/self-hosted/labels/Type:%20Question",
     "name": "Type: Question",
     "color": "584774",
     "default": false,
@@ -101,7 +101,7 @@
   {
     "id": 324879388,
     "node_id": "MDU6TGFiZWwzMjQ4NzkzODg=",
-    "url": "https://api.github.com/repos/getsentry/onpremise/labels/duplicate",
+    "url": "https://api.github.com/repos/getsentry/self-hosted/labels/duplicate",
     "name": "duplicate",
     "color": "F6F6F8",
     "default": true,
@@ -110,7 +110,7 @@
   {
     "id": 324879390,
     "node_id": "MDU6TGFiZWwzMjQ4NzkzOTA=",
-    "url": "https://api.github.com/repos/getsentry/onpremise/labels/help%20wanted",
+    "url": "https://api.github.com/repos/getsentry/self-hosted/labels/help%20wanted",
     "name": "help wanted",
     "color": "F6F6F8",
     "default": true,
@@ -119,7 +119,7 @@
   {
     "id": 2205475784,
     "node_id": "MDU6TGFiZWwyMjA1NDc1Nzg0",
-    "url": "https://api.github.com/repos/getsentry/onpremise/labels/release-blocker",
+    "url": "https://api.github.com/repos/getsentry/self-hosted/labels/release-blocker",
     "name": "release-blocker",
     "color": "C83852",
     "default": false,
@@ -128,7 +128,7 @@
   {
     "id": 324879393,
     "node_id": "MDU6TGFiZWwzMjQ4NzkzOTM=",
-    "url": "https://api.github.com/repos/getsentry/onpremise/labels/wontfix",
+    "url": "https://api.github.com/repos/getsentry/self-hosted/labels/wontfix",
     "name": "wontfix",
     "color": "F6F6F8",
     "default": true,
